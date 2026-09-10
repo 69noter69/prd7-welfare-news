@@ -52,50 +52,31 @@ exclude_sources:
 #  ถ้าอันไหนเสีย ให้ลบทั้ง 2 บรรทัด (name กับ url) ออกไปเลย
 # ============================================================
 feeds:
-  # --- สื่อหลัก ---
-  - name: สำนักข่าว กรมประชาสัมพันธ์
-    url: https://thainews.prd.go.th/rss
-  - name: Thai PBS
-    url: https://www.thaipbs.or.th/rss/news.xml
-  - name: ไทยรัฐ
-    url: https://www.thairath.co.th/rss/news
+  # ผ่านการทดสอบจริงเมื่อ 10 ก.ย. 2569 — ใช้งานได้ทั้ง 7 แห่ง
   - name: มติชน
     url: https://www.matichon.co.th/feed
   - name: ข่าวสด
     url: https://www.khaosod.co.th/feed
   - name: ประชาชาติธุรกิจ
     url: https://www.prachachat.net/feed
-  - name: กรุงเทพธุรกิจ
-    url: https://www.bangkokbiznews.com/rss
-  - name: สำนักข่าวอิศรา
-    url: https://www.isranews.org/feed
+  - name: ไทยรัฐ
+    url: https://www.thairath.co.th/rss/news
   - name: ThaiPublica
     url: https://thaipublica.org/feed/
-
-  # --- กลุ่ม A: ตรงกับข่าวสวัสดิการโดยตรง ---
-  - name: เดลินิวส์
-    url: https://www.dailynews.co.th/feed/
-  - name: ฐานเศรษฐกิจ
-    url: https://www.thansettakij.com/feed
   - name: Hfocus
     url: https://www.hfocus.org/rss.xml
   - name: ประชาไท
     url: https://prachatai.com/rss
-  - name: TNN Thailand
-    url: https://www.tnnthailand.com/rss/news
-  - name: PPTV HD36
-    url: https://www.pptvhd36.com/rss/news
+
+  # --- ที่ถูกตัดออกเพราะบล็อกเซิร์ฟเวอร์ต่างประเทศ (ทดสอบ 10 ก.ย. 2569) ---
+  # สำนักข่าว กรมประชาสัมพันธ์ / Thai PBS / กรุงเทพธุรกิจ / สำนักข่าวอิศรา
+  # เดลินิวส์ / ฐานเศรษฐกิจ / TNN Thailand / PPTV HD36
+  # ข่าวจากสำนักเหล่านี้ยังเข้าระบบได้ทางคำค้น Google News ด้านล่าง
 
 # แหล่งข่าวภูมิภาค — ข่าวจากตรงนี้จะได้คะแนนบวกเพิ่ม 2
-regional_feeds:
-  - name: 77ข่าวเด็ด
-    url: https://www.77kaoded.com/feed
-  - name: MGR Online ภูมิภาค
-    url: https://mgronline.com/rss/detail/local.xml
-  - name: แนวหน้า
-    url: https://www.naewna.com/rss.xml
-  - name: สยามรัฐ
-    url: https://siamrath.co.th/rss/all
+regional_feeds: []
+# ทดสอบ 10 ก.ย. 2569 แล้วเสียทั้งหมด (77ข่าวเด็ด / MGR ภูมิภาค / แนวหน้า / สยามรัฐ)
+# ข่าวภูมิภาคตอนนี้พึ่งคำค้นรายจังหวัดใน regional_query_templates เป็นหลัก
 
 # ============================================================
 #  คำค้นหาผ่าน Google News (ฟรี ไม่ต้องใช้กุญแจ)
