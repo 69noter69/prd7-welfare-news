@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#0f2f6b" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0b1220" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="ข่าวสวัสดิการ">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-180.png">
+  <title>ข่าวสวัสดิการประชาชน · สปข.7</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Sarabun:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/style.css">
+  <script>/* Apply saved theme before first paint to avoid a flash */
+    try { var t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-grid">
+      <div class="brand">
+        <a class="logo" href="./" aria-label="PRD Region 7">
+          <svg class="logo__mark" width="44" height="44" viewBox="0 0 64 64" aria-hidden="true">
+            <rect width="64" height="64" rx="12" fill="var(--accent)"/>
+            <path d="M40 16a14 14 0 0 1 9 12" fill="none" stroke="var(--accent-ink)" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+            <path d="M42 8a22 22 0 0 1 15 19" fill="none" stroke="var(--accent-ink)" stroke-opacity=".3" stroke-width="3" stroke-linecap="round"/>
+            <path d="M15 18h26L25 52h-9l15-27H15z" fill="var(--accent-ink)"/>
+          </svg>
+          <span class="logo__text">
+            <span class="logo__name">PRD Region 7</span>
+            <span class="logo__dept">Public Relations Department</span>
+          </span>
+        </a>
+        <div class="brand__text">
+          <h1 class="brand__title">ข่าวสวัสดิการประชาชน</h1>
+          <p class="brand__sub">สำนักประชาสัมพันธ์เขต 7 · รวบรวมอัตโนมัติทุกวัน 08:00 น.</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button type="button" class="btn btn--primary" id="btn-run-now">
+          <svg class="icon-run" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.6 5.9"/><path d="M20 4v7h-7"/></svg>
+          <span id="btn-run-now-label">ค้นหาข่าวเดี๋ยวนี้</span>
+        </button>
+        <button type="button" class="btn" id="btn-copy-digest">คัดลอกสรุปวันนี้</button>
+        <button type="button" class="btn btn--ghost" id="btn-download-digest">ดาวน์โหลด .txt</button>
+        <button type="button" class="btn btn--ghost" id="btn-archive">ค้นย้อนหลัง</button>
+        <button type="button" class="btn btn--icon-only" id="btn-theme" aria-label="สลับโหมดสว่าง/มืด" title="สลับโหมดสว่าง/มืด">
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+          <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>
+        </button>
+      </div>
+    </div>
+    <div class="wrap" id="run-strip" hidden>
+      <div class="runbar" role="status" aria-live="polite"><span class="runbar__spin" aria-hidden="true"></span><span id="run-msg">กำลังค้นหาข่าว…</span></div>
+    </div>
+    <div class="wrap" id="stale-strip" hidden>
+      <div class="warn" role="status">ข้อมูลยังไม่ได้อัปเดตวันนี้ — ระบบอาจยังไม่รัน หรือเกิดข้อผิดพลาด</div>
+    </div>
+  </header>
+
+  <main class="wrap" id="view-empty" hidden>
+    <section class="firstrun">
+      <h2 class="firstrun__title">ยังไม่มีข่าวในระบบ</h2>
+      <p class="firstrun__text">ระบบจะเก็บข่าวอัตโนมัติทุกวัน 08:00 น. (เวลาไทย) หรือกดปุ่มด้านล่างเพื่อให้เริ่มเก็บข่าวเดี๋ยวนี้ — ใช้เวลาประมาณ 2–4 นาที เมื่อเสร็จหน้านี้จะแสดงข่าวให้เอง</p>
+      <div class="firstrun__actions">
+        <button type="button" class="btn btn--primary" id="btn-first-run">ค้นหาข่าวเดี๋ยวนี้</button>
+        <button type="button" class="btn btn--ghost" id="btn-first-reload">รีเฟรชหน้า</button>
+      </div>
+    </section>
+  </main>
+
+  <main class="wrap" id="view-digest">
+    <section class="datebar" aria-label="เลือกวันที่">
+      <div class="datebar__current">
+        <h2 class="datebar__date" id="current-date">&nbsp;</h2>
+        <p class="datebar__updated" id="updated-at">&nbsp;</p>
+      </div>
+      <div class="datebar__nav">
+        <button type="button" class="btn btn--icon" id="btn-prev" aria-label="วันก่อนหน้า">‹ วันก่อนหน้า</button>
+        <select class="select" id="date-select" aria-label="เลือกวันที่"></select>
+        <button type="button" class="btn btn--icon" id="btn-next" aria-label="วันถัดไป">วันถัดไป ›</button>
+      </div>
+    </section>
+
+    <section class="summary" id="summary" aria-label="สรุปภาพรวม"></section>
+
+    <div class="tabs" role="tablist" id="tabs">
+      <button type="button" class="tab" role="tab" id="tab-region" data-tab="region" aria-selected="true">ข่าวในภูมิภาค</button>
+      <button type="button" class="tab" role="tab" id="tab-national" data-tab="national" aria-selected="false">ข่าวทั่วประเทศ</button>
+    </div>
+
+    <section class="filters" id="filters" aria-label="ตัวกรอง">
+      <button type="button" class="filters__toggle" id="filters-toggle" aria-expanded="false">ตัวกรอง <span class="filters__badge" id="filters-badge" hidden></span></button>
+      <div class="filters__body" id="filters-body">
+        <div class="filters__row">
+          <input type="search" class="input filters__search" id="f-search" placeholder="ค้นหาหัวข้อ / สรุป / จังหวัด…" autocomplete="off" enterkeyhint="search" inputmode="search" aria-label="ค้นหา">
+          <select class="select" id="f-province" aria-label="จังหวัด"></select>
+          <select class="select" id="f-source" aria-label="แหล่งข่าว"></select>
+          <select class="select" id="f-sort" aria-label="เรียงตาม">
+            <option value="score">เรียง: ความน่าสนใจ</option>
+            <option value="latest">เรียง: ล่าสุด</option>
+          </select>
+        </div>
+        <label class="checkline" id="f-hide-seen-wrap" hidden>
+          <input type="checkbox" id="f-hide-seen">
+          <span>ซ่อนข่าวที่เคยขึ้นในวันก่อน</span>
+        </label>
+        <div class="chips" id="f-cats"></div>
+        <div class="filters__meta">
+          <span id="result-count"></span>
+          <button type="button" class="link" id="btn-clear-filters">ล้างตัวกรอง</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-region" role="tabpanel" aria-labelledby="tab-region">
+      <div class="panel__head">
+        <h2 class="panel__title">ข่าวในภูมิภาค <span class="panel__sub">(พื้นที่ สปข.7)</span> <span class="count" id="count-region">0</span></h2>
+        <div class="chips chips--prov" id="region-provinces"></div>
+      </div>
+      <div class="list" id="list-region"></div>
+    </section>
+
+    <section class="panel" id="panel-national" role="tabpanel" aria-labelledby="tab-national" hidden>
+      <div class="panel__head">
+        <h2 class="panel__title">ข่าวทั่วประเทศ <span class="count" id="count-national">0</span></h2>
+      </div>
+      <div class="list" id="list-national"></div>
+    </section>
+  </main>
+
+  <main class="wrap" id="view-archive" hidden>
+    <section class="archive">
+      <div class="archive__head">
+        <button type="button" class="btn btn--ghost" id="btn-archive-back">‹ กลับหน้าหลัก</button>
+        <h2 class="archive__title">ค้นย้อนหลัง <span class="panel__sub" id="archive-range"></span></h2>
+      </div>
+      <input type="search" class="input archive__search" id="archive-search" placeholder="พิมพ์คำค้น เช่น เบี้ยยังชีพ, จันทบุรี, หนี้นอกระบบ…" autocomplete="off" enterkeyhint="search" inputmode="search" aria-label="ค้นหาย้อนหลัง">
+      <p class="archive__progress" id="archive-progress"></p>
+      <div id="archive-results"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">แหล่งข่าวเป็นของสำนักข่าวต้นทาง ระบบแสดงเฉพาะหัวข้อและสรุปย่อ · สร้างโดย JoeSolution</div>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <dialog id="run-dialog" class="dialog">
+    <form method="dialog" class="dialog__body" id="run-form">
+      <h2 class="dialog__title">ค้นหาข่าวเดี๋ยวนี้</h2>
+      <p class="dialog__text">ปุ่มนี้จะสั่งให้ระบบบน GitHub วิ่งหาข่าวทันที (ไม่ต้องรอ 08:00 น.) ใช้เวลาประมาณ 2–4 นาที ข่าวใหม่จะถูกรวมเข้ากับข่าวของวันนี้</p>
+      <p class="dialog__text">ครั้งแรกต้องใส่ <strong>GitHub token</strong> ของคุณ 1 ครั้ง — token จะถูกเก็บไว้ในเบราว์เซอร์เครื่องนี้เท่านั้น และส่งไปที่ GitHub เท่านั้น</p>
+      <label class="dialog__label" for="run-token">GitHub token (fine-grained, สิทธิ์ Actions: Read and write ของ repo นี้)</label>
+      <input class="input" id="run-token" type="password" autocomplete="off" placeholder="github_pat_…" />
+      <p class="dialog__hint">สร้างได้ที่ github.com → Settings → Developer settings → Fine-grained tokens → เลือก repo นี้ → Repository permissions → Actions: Read and write</p>
+      <div class="dialog__actions">
+        <button type="button" class="btn btn--ghost" id="run-cancel">ยกเลิก</button>
+        <a class="btn btn--ghost" id="run-open-actions" href="#" target="_blank" rel="noopener">เปิดหน้า Actions แทน ↗</a>
+        <button type="submit" class="btn btn--primary" id="run-submit">เริ่มค้นหา</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "name": "ข่าวสวัสดิการประชาชน — สปข.7",
+  "short_name": "ข่าวสวัสดิการ",
+  "description": "สรุปข่าวผู้มีรายได้น้อยและสวัสดิการรัฐ รวบรวมอัตโนมัติทุกวัน 08:00 น.",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#0f2f6b",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
