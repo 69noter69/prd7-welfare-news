@@ -1,0 +1,73 @@
+name: collect-daily-news
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "วันที่ต้องการเก็บย้อนหลัง (YYYY-MM-DD) เว้นว่างได้"
+        required: false
+      no_ai:
+        description: "ไม่ใช้ AI (ทดสอบฟรี ไม่เสียเงิน)"
+        type: boolean
+        default: false
+      check_feeds:
+        description: "ทดสอบแหล่งข่าวอย่างเดียว ไม่เก็บข่าว"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: ติดตั้งไลบรารี
+        run: pip install -r requirements.txt
+
+      - name: ทดสอบแหล่งข่าว
+        if: inputs.check_feeds == true
+        run: python -m collector.main check-feeds
+
+      - name: เก็บข่าว
+        if: inputs.check_feeds != true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: Asia/Bangkok
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
+          if [ "${{ inputs.no_ai }}" = "true" ]; then ARGS="$ARGS --no-ai"; fi
+          python -m collector.main run $ARGS
+
+      - name: บันทึกผลขึ้น repo
+        if: inputs.check_feeds != true
+        run: |
+          git config user.name  "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+          git pull --rebase --autostash || true
+          git push
+
+      - name: เก็บบันทึกการรันไว้ดูย้อนหลัง
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: last-run
+          path: data/last_run.json
+          if-no-files-found: ignore
