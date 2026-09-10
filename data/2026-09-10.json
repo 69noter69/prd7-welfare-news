@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:31:07Z",
+  "window": {
+    "from": "2026-09-09T10:31:02Z",
+    "to": "2026-09-10T12:31:02Z"
+  },
+  "stats": {
+    "fetched": 228,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 9,
+    "eastern": 0,
+    "national": 9,
+    "new": 9,
+    "followups": 0,
+    "sources": 7
+  },
+  "items": [
+    {
+      "id": "dd7f5225",
+      "title": "เงินอุดหนุนบุตร -เบี้ยผู้สูงอายุ กลุ่มเปราะบางรับเงินเยียวยาวันนี้ 10 ก.ย.69",
+      "summary": "เงินอุดหนุนบุตร -เบี้ยผู้สูงอายุ กลุ่มเปราะบางรับเงินเยียวยาวันนี้ 10 ก.ย.69 Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3N0Jyb2lNZVRWVVd3bGNoelJFeTBhRk9uUHBMM0lBd3FrT056R1lrd2U0NW1ES1UxNHBVajBKSnBFa2tqX2lIOVlFZkdJQi1zTlhMelVyM18xT3JR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-09T18:00:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 100,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "7b61c58f",
+      "title": "แจกเงิน 10,000 บาท ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ 'คลัง' แจงข่าวลวงนี้แล้ว",
+      "summary": "แจกเงิน 10,000 บาท ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ 'คลัง' แจงข่าวลวงนี้แล้ว bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DRDFzaEtBZEpqYlcwZkthTVhnQnU3RFU4aGJQVXY5YWtWdjlwNHBWZWsxRW9yQ1JidE5JNjAtcW05a3ctR0hTQ1VHUDRZMVdDSHVuRjJNV1B5ek9HQlUwQWVadnpoUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-10T05:03:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "5cdb9f30",
+      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 ต้องขึ้นกี่ผ่าน ถึงจะสำเร็จ",
+      "summary": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 ต้องขึ้นกี่ผ่าน ถึงจะสำเร็จ Sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sbnhpdFQ2TllkN0toMy1ReHNnbk4zS0lvbk9tNmZaN05aQUM0X1JNWWtsRXpJLUtqb3oyYTAyMFp2ZHNsdnVEMHRpdnU?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-10T05:20:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "cae1b480",
+      "title": "10 ก.ย. 69 เงินเข้าแล้ว เช็กเลย! สถานะยอดเงินช่วยเหลือ ‘3 กลุ่มเปราะบาง’ ประจำเดือน บนแอปทางรัฐ . แชร์ให้พ่อแม่ ปู่ย่า ตายาย หรือคนรู้จักที่ได้รับสิทธิ มาเช็กรายละเอียดสิทธิของตนเองบนแอปฯ ทางรัฐกัน! . สำหรับผู้ที่ได้รับสิทธิสวัสดิการจากภาครัฐ ทั้งเงินอุดหนุนเด็กแรกเกิด เบี้ยความพิกา",
+      "summary": "10 ก.ย. 69 เงินเข้าแล้ว เช็กเลย! สถานะยอดเงินช่วยเหลือ ‘3 กลุ่มเปราะบาง’ ประจำเดือน บนแอปทางรัฐ . แชร์ให้พ่อแม่ ปู่ย่า ตายาย หรือคนรู้จักที่ได้รับสิทธิ มาเช็กรายละเอียดสิทธิของตนเองบนแอปฯ ทางรัฐกัน! . สำหรับผู้ที่ได้รับสิทธิสวัสดิการจากภาครัฐ ทั้งเงินอุดหนุนเด็กแรกเกิด เบี้ยความพิกา facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxOUXdiOE1uaFFtczBlVkxxdHRrNzVRU21TTW9aUjhQeUlpZmI2X2JNX1R1ZGZlN2x0UEkwWVVTSjl1NC1GaG1EOWhjZ0xiQ05uVGZvVU5VTkNUTlhpbE1tMkV2UDZxNFgtQnBtNjlPM3p5aHNGRVRCcDFZQzRLSGFpbEJoZ1BHVkcxZGRGUW9fd0pnUWxqbmxMNi12bG9EMUtLeDFDelBHQjRjU3lJSHdpUWwzc1VsdEp2bm9uWnNkbUZPMVM2MzRBRDl2Y0M5TnVTWE9ka2U4bjV5YndfVDRjTmxoa3FRRlBpS1ZraW9DWHdmemtWb0NnSFM1b1NrUE9WS0dmWm9leXhhNkQwNENUa0ZMTlpfUkZNT000T2NzZ1Z1SmpyZGV2dVE4bno3ZVp6WkFZay1naWJpMU9oQy1ndk5FX0prNXhndnZSSlZ4Nk9wVS11WTV6bG1hTHBTa0lCQWVSeTdsVXRpZmszTUVJeVVFeHVKSTlLQV9PQlNsUS1QTE5Tb2prZW9IeVUxZGtFLXN1dkxXc2RfdGxxaDlXeHdaZWg2Rml1bllQckNQSzVVQlE2NDR1dEpHa0ZIOXNSNnZjUEt4eldlYVMyUGNIMVUwZlBLZXJVMDJTX3BSbmlrOTVmZm1tbVBhYno2OE93bUZOZnQtRDF3ZS16MFdwR2VZUDVidDQ2Z21faHlTOU5JMzlhNXJ6UDh5YXZVY0t4a2oxQzExQ3Nqa2EteFE3dzRCN0ZORlRHM09BN1NVT0thZEtqTXBVUUJ0SXpuUENHR1lHNENDbTI1VmdyVjVTc3YzMzZiZjZVbHJ6Vi1OOHNQT0FkUWluV1pRd2RGWG5ybExNb3lEdVBFeDZVM2RSUFBMVmNPU1NiUlJVRVVGRGZ3SXZlTHdRdmNib1dUY1lKRXdJTlNveWxPVW9BcFB6dzF4V0NJdDhvek9LdXpJUU5oM0lsc016dm5PdjBxakZyUkpVMUdOVzhBbmlLMF9VbzQtM041WjNBNWVvaTlGYUl4SEtFUXo4VmZ3eUcxZGpPX2x6TktfcUpLNnEyR1ZjZ0ZoWWF2M3RSWnRxc3lUY3c0U2d2MlZGX0l2OUZuRGZqdi1DZkZxeDg0R1pKWkZ5TW83bmVtamZYdFVSSE5LNVRSMmdtY1ZqSUxuVmF3Z3UwYkZZRHl1Y1lFODN5bHNsWWo0V0VqRUwyd05FQXRmcmE1Rkh0aFVvSQ?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-10T03:00:23Z",
+      "category": "children",
+      "provinces": [
+        "เลย"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "f580baa7",
+      "title": "สิทธิประโยชน์บัตรทอง ใช้เครื่อง CGM คุมน้ำตาลผู้ป่วยเบาหวานชนิดที่ 1",
+      "summary": "สิทธิประโยชน์บัตรทอง ใช้เครื่อง CGM คุมน้ำตาลผู้ป่วยเบาหวานชนิดที่ 1 สปสช.มอบสิทธิประโยชน์บัตรทอง ใช้เครื่อง CGM ดูแลผู้ป่วยเบาหวานชนิดที่ 1 ติดตามระดับน้ำตาลอย่างต่อเนื่อง โดยเฉพาะหญิงเป็นเบาหวานก่อนการตั้งครรภ์ ลดเจาะเลือดปลายนิ้ว หนุนรักษาด้วยอินซูลินให้เหมาะสม เมื่อวันที่ 10 ก.ย. 2569 นพ.กฤช ลี่",
+      "url": "http://www.hfocus.org/content/2026/09/39450",
+      "source": "Hfocus",
+      "published_at": "2026-09-10T07:31:08Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "9c38feed",
+      "title": "สธ.ปรับอัตราค่าจ้าง ลูกจ้างชั่วคราวเงินบำรุง 2569 บังคับใช้ 1 ต.ค.นี้",
+      "summary": "สธ.ปรับอัตราค่าจ้าง ลูกจ้างชั่วคราวเงินบำรุง 2569 บังคับใช้ 1 ต.ค.นี้ สำนักงานปลัดกระทรวงสาธารณสุข ปรับบัญชีอัตราค่าจ้างลูกจ้างชั่วคราวเงินนอกงบประมาณ (เงินบำรุง) 2569 มีผล 1 ต.ค.นี้ เพื่อสร้างขวัญกำลังใจ ธำรงรักษาบุคลากรไว้ในระบบ เมื่อวันที่ 10 ก.ย. 2569 กองบริหารทรัพยากรบุคคล กระทรวงสาธารณสุข เผยแ",
+      "url": "http://www.hfocus.org/content/2026/09/39452",
+      "source": "Hfocus",
+      "published_at": "2026-09-10T08:27:53Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "แพร่"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "86d20fff",
+      "title": "ศธ.-พม. จับมือแก้ปัญหาเด็กหลุดระบบการศึกษา บูรณาการ 7 มาตรการคุ้มครองเด็กและกลุ่มเปราะบาง",
+      "summary": "ศธ.-พม. จับมือแก้ปัญหาเด็กหลุดระบบการศึกษา บูรณาการ 7 มาตรการคุ้มครองเด็กและกลุ่มเปราะบาง เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56QmxORzMwTmQ1RHc3LTVHS1I2QXFuV1lGYjIxdUZwUGt2c0xqeURFRjFuNDU4TUlERUozT2VIaFNDR2NidDIzcjk1ZE5xTkhLSUYw?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-10T08:10:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "e87ed73c",
+      "title": "เช็กเบี้ยยังชีพผู้พิการ เงินคนพิการ เดือนกันยายน 2569 เข้าบัญชี 10 ก.ย. 69",
+      "summary": "เช็กเบี้ยยังชีพผู้พิการ เงินคนพิการ เดือนกันยายน 2569 เข้าบัญชี 10 ก.ย. 69 Sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SNFg3cGlBTGI1ekNQUlR4Smx1TDR3U0U3V0hMWDJOWWtTQnFvY0RZU2dzUnoyZ0JfVmRrakJCVUhhemJiRXNoZVk3eUc?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-10T01:00:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "โหมดไม่ใช้ AI"
+    },
+    {
+      "id": "5c028251",
+      "title": "นโยบายสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย: ข้อกำหนดที่ชาวฮานอยควรรู้",
+      "summary": "นโยบายสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย: ข้อกำหนดที่ชาวฮานอยควรรู้ Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3JwdlZRdW1OSkZNVnZOaE5GNnd0SF9UV0tPeUhDTTY0bnJERUlDeGlWWWI5Ync0cVJkTVdTRTVlcnhLdkJxcmJSVHJpdjNFcHhKR0VuZXpwT3gtbktRNjV1M0RpVVV5azNtUU1VOGhJZnFKUGIwWGNIS0V6bGV0N3p4U2ViMGxtdUJpUnBhTEcwajdaY3NIZm53?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-09T13:29:03Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "โหมดไม่ใช้ AI"
+    }
+  ]
+}
