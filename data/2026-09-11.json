@@ -1,0 +1,558 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T01:11:24Z",
+  "window": {
+    "from": "2026-09-09T23:09:41Z",
+    "to": "2026-09-11T01:09:41Z"
+  },
+  "stats": {
+    "fetched": 237,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 14065,
+    "ai_output_tokens": 10312,
+    "cost_thb": 2.4,
+    "runs": 1,
+    "kept": 34,
+    "eastern": 1,
+    "national": 33,
+    "new": 10,
+    "followups": 24,
+    "sources": 20
+  },
+  "items": [
+    {
+      "id": "dd481ca3",
+      "title": "เงินผู้สูงอายุ 1,000 บาท เดือนกันยายน 2569 เข้าบัญชีแล้ว เช็กเลย!",
+      "summary": "เงินสงเคราะห์ผู้สูงอายุ 1,000 บาทประจำเดือนกันยายน 2569 เข้าบัญชีแล้ว ประชาชนสามารถตรวจสอบการเข้าบัญชีได้",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE45YWdienpLb243THROcVMtT3NOMS1tTjJZdEtnWlhRTnlGN1Z4Ri1HbDNIcmo4aUNGRzBycldoNl81MVpFNWZoTzlUNmM?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-10T00:30:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสดสงเคราะห์ผู้สูงอายุเข้าบัญชีจริง มีจำนวนเงินและเดือนที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "90d5aed5",
+      "title": "มีเงินเข้าพรุ่งนี้ เงินอุดหนุนบุตร ก.ย.69 โอนให้พ่อแม่เด็ก 600 บาท",
+      "summary": "เงินอุดหนุนบุตรประจำเดือนกันยายน 2569 จำนวน 600 บาทต่อเด็กโอนให้พ่อแม่เด็กแล้ว ประชาชนสามารถตรวจสอบการเข้าบัญชีได้",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDOWhfd01ubWdPRGZjT0F0ekU3azVVSVJ4OXBpUEF6ZFBqZGs0VnpyeGI1cF9jRFNsWTh4ZzRtREN6dVRTbjRyQkhsU1NxR2g2U1NucW5xRDRfNUx4UXRHNGVZX0FVQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-10T10:26:48Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินสดช่วยเหลือเด็กเข้าบัญชีจริง มีจำนวนเงินและเวลาที่ชัดเจน"
+    },
+    {
+      "id": "e87ed73c",
+      "title": "เช็กเบี้ยยังชีพผู้พิการ เงินคนพิการ เดือนกันยายน 2569 เข้าบัญชี 10 ก.ย. 69",
+      "summary": "เบี้ยยังชีพผู้พิการเดือนกันยายน 2569 เข้าบัญชีแล้วเมื่อ 10 กันยายน 2569 ประชาชนสามารถตรวจสอบสถานะการรับเงินได้",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SNFg3cGlBTGI1ekNQUlR4Smx1TDR3U0U3V0hMWDJOWWtTQnFvY0RZU2dzUnoyZ0JfVmRrakJCVUhhemJiRXNoZVk3eUc?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-10T01:00:00Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินสวัสดิการเข้าบัญชีจริง มีวันที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "a7db9911",
+      "title": "เงินเข้าแล้ว 1,000 บาท โอนรวด 3 กลุ่มเปราะบาง ส่งท้ายปีงบประมาณ 69",
+      "summary": "เงินสดจำนวน 1,000 บาทโอนให้กลุ่มเปราะบาง 3 กลุ่มเข้าบัญชีแล้ว เป็นการส่งท้ายปีงบประมาณ 2569",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUHBIcWdPck5pV2pxUzdzS2FielFuTDBPU1hUS0gxV2d0cHpvaGl6dkI3N1E2SXNQclU2WW50NmFxM1JjcWtsX1BzU3BuWENIN00xN1VmenJGZkxwMF8zalRTdFdXdw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-10T05:10:22Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินสดช่วยเหลือกลุ่มเปราะบาง 3 กลุ่มเข้าบัญชีจริง มีจำนวนเงินชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "fe93b4a9",
+      "title": "ชาวนา สะเทือน ม.28 ชนเพดาน หนี้ 1.1 ล้านล้าน ส่อปิดฉากเงินช่วยเหลือ “ไร่ละ 1,000”",
+      "summary": "ชาวนาเผชิญหนี้สูง 1.1 ล้านล้านบาท ภายใต้พระราชกฤษฎีกา ม.28 ส่อให้เห็นว่าโครงการช่วยเหลือเงินไร่ละ 1,000 บาทอาจสิ้นสุด",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTU1PWThnSnBYSDlSWHdOVXIxSm1RYXVWeTF1aFRUYUV2anJ3d0VZRl92NDZKalBsdUxYUFc0N3NhRGhKM21iY1hUM3UxLUpVem1rdnJTenpIS3I1Q2ZJWVRIM2ttQUxZbDBKYzZn?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-10T12:17:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายช่วยเหลือเกษตรกรที่มีผลต่อรายได้ต่ำ มีจำนวนเงินและปัญหาชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "869b448b",
+      "title": "ลงทะเบียน พม. CARE ยื่นขอรับเงินช่วยเหลือสูงสุด 3,000 บาท เช็กเลย ทำยังไง กลุ่มไหนมีสิทธิบ้าง",
+      "summary": "พม. CARE เปิดลงทะเบียนเพื่อขอรับเงินช่วยเหลือสูงสุด 3,000 บาท โดยมีกลุ่มเป้าหมายและเงื่อนไขสิทธิที่แตกต่างกัน ประชาชนสามารถตรวจสอบสิทธิและวิธีการลงทะเบียนได้",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5M0ZqczVTOENtTzIzVlJvaHFCY3FaVjNZOU9lR2NGSnpvYXJlZFloZjFLZ3dIVl8zU1lIclE2SzdQOW5xSHN4UmxvdU9VUUh3S1E?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-09-10T09:14:49Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการช่วยเหลือเงินสดโดยตรงกับประชาชนกลุ่มเปราะบาง",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "f0737439",
+      "title": "ตรวจสอบเงินอุดหนุนบุตร เดือนกันยายน 2569 เงิน 600 บาท เข้าบัญชีวันนี้",
+      "summary": "เงินอุดหนุนบุตรเดือนกันยายน 2569 จำนวน 600 บาท เข้าบัญชีผู้รับสิทธิในวันนี้ เป็นการจ่ายเงินสนับสนุนครอบครัวที่มีบุตร",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMUhmVk9ZOWtqakI1TXllZ0l0Wl90QlkzSkVFNVpCaHVCS3dta19RYWtMLU9yTm5TSy1uVG94c191aWN2TDZ4aVh1UXI?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-10T06:39:00Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีการจ่ายเงินสนับสนุนบุตรจริงจังในเดือนนี้ โดยระบุจำนวนเงินและวันจ่าย เป็นมาตรการสวัสดิการที่เป็นรูปธรรม",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "cae1b480",
+      "title": "10 ก.ย. 69 เงินเข้าแล้ว เช็กเลย! สถานะยอดเงินช่วยเหลือ ‘3 กลุ่มเปราะบาง’ ประจำเดือน บนแอปทางรัฐ . แชร์ให้พ่อแม่ ปู่ย่า ตายาย หรือคนรู้จักที่ได้รับสิทธิ มาเช็กรายละเอียดสิทธิของตนเองบนแอปฯ ทางรัฐกัน! . สำหรับผู้ที่ได้รับสิทธิสวัสดิการจากภาครัฐ ทั้งเงินอุดหนุนเด็กแรกเกิด เบี้ยความพิกา",
+      "summary": "เงินสวัสดิการ 3 กลุ่มเปราะบาง ได้แก่ เงินอุดหนุนเด็กแรกเกิด เบี้ยความพิการ เข้าบัญชีแล้วเมื่อ 10 กันยายน 2569 สามารถตรวจสอบผ่านแอปพลิเคชันทางรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMimAdBVV95cUxOUXdiOE1uaFFtczBlVkxxdHRrNzVRU21TTW9aUjhQeUlpZmI2X2JNX1R1ZGZlN2x0UEkwWVVTSjl1NC1GaG1EOWhjZ0xiQ05uVGZvVU5VTkNUTlhpbE1tMkV2UDZxNFgtQnBtNjlPM3p5aHNGRVRCcDFZQzRLSGFpbEJoZ1BHVkcxZGRGUW9fd0pnUWxqbmxMNi12bG9EMUtLeDFDelBHQjRjU3lJSHdpUWwzc1VsdEp2bm9uWnNkbUZPMVM2MzRBRDl2Y0M5TnVTWE9ka2U4bjV5YndfVDRjTmxoa3FRRlBpS1ZraW9DWHdmemtWb0NnSFM1b1NrUE9WS0dmWm9leXhhNkQwNENUa0ZMTlpfUkZNT000T2NzZ1Z1SmpyZGV2dVE4bno3ZVp6WkFZay1naWJpMU9oQy1ndk5FX0prNXhndnZSSlZ4Nk9wVS11WTV6bG1hTHBTa0lCQWVSeTdsVXRpZmszTUVJeVVFeHVKSTlLQV9PQlNsUS1QTE5Tb2prZW9IeVUxZGtFLXN1dkxXc2RfdGxxaDlXeHdaZWg2Rml1bllQckNQSzVVQlE2NDR1dEpHa0ZIOXNSNnZjUEt4eldlYVMyUGNIMVUwZlBLZXJVMDJTX3BSbmlrOTVmZm1tbVBhYno2OE93bUZOZnQtRDF3ZS16MFdwR2VZUDVidDQ2Z21faHlTOU5JMzlhNXJ6UDh5YXZVY0t4a2oxQzExQ3Nqa2EteFE3dzRCN0ZORlRHM09BN1NVT0thZEtqTXBVUUJ0SXpuUENHR1lHNENDbTI1VmdyVjVTc3YzMzZiZjZVbHJ6Vi1OOHNQT0FkUWluV1pRd2RGWG5ybExNb3lEdVBFeDZVM2RSUFBMVmNPU1NiUlJVRVVGRGZ3SXZlTHdRdmNib1dUY1lKRXdJTlNveWxPVW9BcFB6dzF4V0NJdDhvek9LdXpJUU5oM0lsc016dm5PdjBxakZyUkpVMUdOVzhBbmlLMF9VbzQtM041WjNBNWVvaTlGYUl4SEtFUXo4VmZ3eUcxZGpPX2x6TktfcUpLNnEyR1ZjZ0ZoWWF2M3RSWnRxc3lUY3c0U2d2MlZGX0l2OUZuRGZqdi1DZkZxeDg0R1pKWkZ5TW83bmVtamZYdFVSSE5LNVRSMmdtY1ZqSUxuVmF3Z3UwYkZZRHl1Y1lFODN5bHNsWWo0V0VqRUwyd05FQXRmcmE1Rkh0aFVvSQ?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-10T03:00:23Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเข้าบัญชีจริง มีวันที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "e4b2e76b",
+      "title": "อนามัยโพลชี้ ค่าครองชีพสูง ทำคนไทย 32.83% ต้องลดมื้ออาหาร",
+      "summary": "สำรวจอนามัยโพลพบค่าครองชีพสูงทำให้คนไทย 32.83% ต้องลดมื้ออาหาร สะท้อนความเดือดร้อนของประชาชนโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pZ1VxMlB6MUVxMEdSMnk1czZxdnNRdTRYcUYta0V2YUVZU19sRVNzcHhRUHlrb1BHTlpjNmhrekhZRmpQOUk2UlFVVHZrMkQ3ZHl3?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-10T08:38:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มีตัวเลขเฉพาะร้อยละประชาชนที่ได้รับผลกระทบจากค่าครองชีพ"
+    },
+    {
+      "id": "01cf3a07",
+      "title": "สตูลเปิดตัว “ทีมสร้างสุข” ลงพื้นที่เยี่ยมกลุ่มเปราะบาง มอบเงิน-ถุงยังชีพ",
+      "summary": "จังหวัดสตูลเปิดตัว 'ทีมสร้างสุข' ลงพื้นที่เยี่ยมกลุ่มเปราะบาง มอบเงินและถุงยังชีพ เป็นมาตรการช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naFVNWURmbHpkdEhJZDFTblVLWFRMWUt1aTlHX2szUU5VTEZONy1tZU9vaEF3WDA1U042YzZ1WEtWMTRrVjJEWnRram5lZ0xSMFU4SjVta05pODMxYnVFN0V3MW5YS3ppWE0w?oc=5",
+      "source": "77 ข่าวเด็ด",
+      "published_at": "2026-09-10T09:34:33Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "สตูล"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีการมอบเงินและสิ่งของช่วยเหลือโดยตรงแก่กลุ่มเปราะบาง แต่ไม่ระบุจำนวนเงินหรือจำนวนผู้ได้รับ",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "2b62af9d",
+      "title": "‘ค่าครองชีพสูง’ กระทบคนไทยเข้าถึง ‘อาหารมีประโยชน์’ ยากขึ้น",
+      "summary": "ค่าครองชีพสูงทำให้คนไทยเข้าถึงอาหารมีประโยชน์ยากขึ้น สะท้อนผลกระทบต่อคุณภาพชีวิตประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYU02c29yY2ZPVWtoM29fV0VtRWpxODJGMUtQSWc3eHhjbnBPcmZuSmVtWHY0YmRRQnpEX2ZUUURDdDZUV0w2RjRCZW5STHhZU2d0dHl4cnpmb203NF9CaEFPWXUxOERqcFZn?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-10T08:38:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "รายงานผลกระทบค่าครองชีพต่อการเข้าถึงอาหารของประชาชน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "9ef4ba02",
+      "title": "พม. Kick Off เปิดตัว \"ทีมสร้างสุข\" ผนึกพลัง อพม.ทั่วประเทศปฏิบัติการเชิงรุก เข้าหาประชาชน",
+      "summary": "พม. เปิดตัว \"ทีมสร้างสุข\" ผนึกกำลังสำนักงานพม.ทั่วประเทศเพื่อปฏิบัติการเชิงรุกเข้าหาประชาชนและให้บริการสวัสดิการ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfcTA3VGhBN00yV0c2WGtvbWNTYTY3ZFI1ZmJFWjY2LVJIX1lNYjFZNXBqTEFzcGVCT3c0WUlXX0xpSDloWldoMXYxZUphb3Nyb0lR?oc=5",
+      "source": "thainewsonline.co",
+      "published_at": "2026-09-10T12:24:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายการขยายการให้บริการสวัสดิการแต่ยังไม่มีรายละเอียดเงินสดหรือผลกระทบชัดเจน"
+    },
+    {
+      "id": "f1b39720",
+      "title": "อนามัยโพล เรื่อง “ใช้ชีวิตยังไง ในยามยากลำบาก” ชี้ ค่าครองชีพสูง กระทบเลือกซื้ออาหาร",
+      "summary": "สำรวจอนามัยโพลเรื่องการใช้ชีวิตในยามยากลำบาก พบค่าครองชีพสูงกระทบการเลือกซื้ออาหารของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LTDlOQXpJWTA2dmxQdVg5LW9aMlphb2N4YXk2MmtIVHk5eHhvQVc4OVJVcWVWdWlBM2dQclVZVVZsZVZFQzhfeEVqRER3Q2Nza0t4Y2U2YTNmRXVNU2RPdG15cG42dw?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-10T07:40:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "สำรวจเชิงลึกเกี่ยวข้องค่าครองชีพและอาหารของประชาชนโดยตรง",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "f580baa7",
+      "title": "สิทธิประโยชน์บัตรทอง ใช้เครื่อง CGM คุมน้ำตาลผู้ป่วยเบาหวานชนิดที่ 1",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติมอบสิทธิบัตรทองให้ใช้เครื่อง CGM สำหรับผู้ป่วยเบาหวานชนิดที่ 1 ติดตามระดับน้ำตาลอย่างต่อเนื่อง ประกาศเมื่อ 10 กันยายน 2569",
+      "url": "http://www.hfocus.org/content/2026/09/39450",
+      "source": "Hfocus",
+      "published_at": "2026-09-10T07:31:08Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "สิทธิประโยชน์สุขภาพใหม่ มีวันที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "c92c9878",
+      "title": "จันทบุรีเร่งแก้น้ำกัดเซาะตลิ่ง บ้านหวิดจมน้ำ 2 หลัง ทุ่มงบฉุกเฉิน 2.6 ล้าน วางบิ๊กแบ็กเบี่ยงทางน้ำ",
+      "summary": "จังหวัดจันทบุรีจัดสรรงบประมาณฉุกเฉิน 2.6 ล้านบาท แก้ไขปัญหาน้ำกัดเซาะตลิ่ง บ้านหวิดจมน้ำ 2 หลัง",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0TUtRRnZqcFBRWHdfT0p5STlBWlBxTzI2SDJTWXdOMVZWdWppU0hNYmRiSlduTnNET2VXR183djhPeXZmbDFoSDA0NWs3d1U?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-10T12:27:42Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 72,
+      "why": "การช่วยเหลือฉุกเฉินสำหรับประชาชนประสบภัยน้ำ มีงบประมาณและสถานที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "e193809c",
+      "title": "พาณิชย์อ่างทองลงพื้นที่ป่าโมก ขายไข่ไก่ราคาถูก ช่วย 110 คน ลดค่าครองชีพประชาชน",
+      "summary": "กระทรวงพาณิชย์อ่างทองลงพื้นที่ป่าโมกขายไข่ไก่ราคาถูกให้ประชาชน 110 คน เพื่อลดค่าครองชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kck5GcVY4YnotR2ttYS14blczR2N6anNlLS1Zb3MzTGIwT2I5VWpkRDJoVlk5SDhONlJiYW1TZEVfbnluUEJkRENYQzExaXM?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-10T07:19:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "อ่างทอง"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีการลงพื้นที่ช่วยเหลือประชาชนลดค่าครองชีพโดยตรง",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "ca1eb590",
+      "title": "ลุ้นค่าแรงขั้นต่ำใหม่ ชง 3 จังหวัดปริมณฑลเท่ากรุงเทพฯ ชี้ควรชดเชยเพิ่ม เหตุปี 69 ไร้มติดันเพดาน",
+      "summary": "มีการเสนอให้ค่าแรงขั้นต่ำใหม่สำหรับ 3 จังหวัดปริมณฑลเท่ากับกรุงเทพฯ และชี้ว่าควรมีการชดเชยเพิ่มเติม เนื่องจากปี 2569 ไม่มีมติกำหนดเพดาน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ESmZtM2lLSWo4bjRDUnphazJoeWM3MmJiVGduTk9UU0tNTmhrT2tIbjZSMUFwdmQ3dWF4WUpIU0x6VjcwcEYzTlZlQTI3anBub3IwNDRUMzd5NUg4TTRnNFAxQUJ3czJJZkE?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-10T01:30:40Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องกับค่าแรงขั้นต่ำและสิทธิแรงงาน แต่ยังอยู่ในขั้นเสนอ ไม่ใช่นโยบายที่ยืนยันแล้ว",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "4cd252ac",
+      "title": "“กุลวลี” จี้สำนักงบฯ ทบทวนงบช้างป่า มลพิษแม่น้ำกก หวั่นผลกระทบตกกับชาวบ้าน",
+      "summary": "อภิปรายงบประมาณปี 2570 เปิดเลขเงินเยียวยาชาวบ้านหายไป 40 ล้านบาท งบตรวจโลหะหนักแม่น้ำกก 11 จุดถูกตัดหมด ส่งผลกระทบต่อชาวบ้าน",
+      "url": "https://www.thairath.co.th/news/politic/2958855",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-09-10T13:52:23Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องกับเงินเยียวยาชาวบ้านแต่เป็นข้อวิจารณ์งบประมาณ ไม่ใช่การจ่ายเงินจริง"
+    },
+    {
+      "id": "0517502e",
+      "title": "คาดว่าจะมีการเปิดขายที่อยู่อาศัยเพื่อสังคมกว่า 400 ยูนิตในโครงการพัฒนาเมืองอควาซิตี้ ในไตรมาสที่ 4 ของปี 2026",
+      "summary": "โครงการพัฒนาเมืองอควาซิตี้เปิดขายที่อยู่อาศัยเพื่อสังคมกว่า 400 ยูนิตในไตรมาส 4 ปี 2026 เพื่อแก้ปัญหาที่อยู่อาศัยประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREdIQWxPVW1tZEVaR25YRFdLQW5Pel9YaVhKcFdQbGlCVzhRRWtDb3JaUndNZ1NQZnZCcUlCVVdIYW1yUWgzUE1oUmUweWxSaWJLcXpLUVhlalZuS29IUmhFX25vVHVmRFdMN0tXeW9IYTNSbXkzVlNGSXZESzA4eGs4YjNLcXZpTUdIc3pyN1NuSkZlZF8wSlVuWVQ4dW05RGc?oc=5",
+      "source": "vietnam.vn",
+      "published_at": "2026-09-10T09:47:06Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "โครงการที่อยู่อาศัยเพื่อสังคมแต่ข้อมูลมาจากเวียดนาม"
+    },
+    {
+      "id": "86d20fff",
+      "title": "ศธ.-พม. จับมือแก้ปัญหาเด็กหลุดระบบการศึกษา บูรณาการ 7 มาตรการคุ้มครองเด็กและกลุ่มเปราะบาง",
+      "summary": "กระทรวงศึกษาธิการและพัฒนาสังคมบูรณาการ 7 มาตรการคุ้มครองเด็กและกลุ่มเปราะบาง เพื่อแก้ปัญหาเด็กหลุดระบบการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56QmxORzMwTmQ1RHc3LTVHS1I2QXFuV1lGYjIxdUZwUGt2c0xqeURFRjFuNDU4TUlERUozT2VIaFNDR2NidDIzcjk1ZE5xTkhLSUYw?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-10T08:10:00Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "นโยบายคุ้มครองเด็ก มีมาตรการชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "5ee1f284",
+      "title": "ผนึกกำลังหนุน HHA จนท.ให้คำปรึกษาสุขภาพแบบองค์รวม ฟื้นสภาพจิตคนทำงาน",
+      "summary": "กรมสุขภาพจิตผนึกกำลัง สสส. ขับเคลื่อน Holistic Health Advisor ดูแลสุขภาพจิตแรงงาน คัดกรอง 3.5 แสนคน พบกลุ่มเสี่ยง 3.2 หมื่นคน",
+      "url": "http://www.hfocus.org/content/2026/09/39449",
+      "source": "Hfocus",
+      "published_at": "2026-09-10T07:24:20Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "โครงการสุขภาพจิตแรงงานแต่ไม่ใช่สวัสดิการเงินสดโดยตรง",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "a6f80d17",
+      "title": "ประกันสังคม สานพลัง นายจ้าง ลูกจ้าง สถานพยาบาล เจ้าหน้าที่ พัฒนาทักษะจัดการข้อร้องเรียนด้านการแพทย์ มุ่งบริการผู้ประกันตนรวดเร็ว เป็นธรรม สร้างความเชื่อมั่นการรักษาระบบประกันสังคม",
+      "summary": "ประกันสังคมพัฒนาทักษะจัดการข้อร้องเรียนด้านการแพทย์ร่วมกับนายจ้าง ลูกจ้าง และสถานพยาบาล เพื่อบริการผู้ประกันตนอย่างรวดเร็วและเป็นธรรม",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WX1JndTVQVDVxeFlESWNpSHNjN0RHQTJsNjNONGhVaUV4X0ZDWE5HRktHUUI0cjV6VHZUa21hTzZScEpOM3ZDS1hJT2pZak5mbU9RTUR2RQ?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-09-10T18:24:36Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "การปรับปรุงระบบประกันสังคมด้านสุขภาพ แต่เป็นการพัฒนาทักษะ ไม่ใช่เงินช่วยเหลือโดยตรง"
+    },
+    {
+      "id": "dd7463b6",
+      "title": "สปส. เตือนเช็กสิทธิเลือกตั้งบอร์ดประกันสังคม ก่อนลงคะแนน 27 ก.ย. 69",
+      "summary": "สำนักประกันสังคมเตือนประชาชนให้ตรวจสอบสิทธิการลงคะแนนเลือกตั้งบอร์ดประกันสังคมก่อนวันลงคะแนน 27 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvM1dLWTZmelpQMzZlNjh4VktZZ1ppZU92S2hiT2QyVVlQdXh6bk80NEJnbVdqNG4tNTBYX1M5dlk0RTdzaW5DeVlNUC1seW5Z?oc=5",
+      "source": "one31.net",
+      "published_at": "2026-09-10T11:10:26Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับประกันสังคมแต่เป็นเรื่องการเลือกตั้งบอร์ด ไม่ใช่สวัสดิการโดยตรง",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "e94af71e",
+      "title": "บัตรทอง เช็กสิทธิประโยชน์ CGM ช่วยผู้ป่วยเบาหวานชนิดที่ 1 คุมน้ำตาลแม่นยำ",
+      "summary": "บัตรทองสามารถเช็กสิทธิประโยชน์ CGM เพื่อช่วยผู้ป่วยเบาหวานชนิดที่ 1 ในการคุมน้ำตาลอย่างแม่นยำ เป็นการขยายสิทธิสุขภาพสำหรับผู้ป่วยโรคเรื้อรัง",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qUVd1SG94WmdPaC13LXJfam1WTVZqRmN3MU9QN0RYekhCVldwN0FBdk9EeGpCNHVIcUZ0VVBid0NiS05XQmRRc3kwcUkzaks2V1pOU3dCZ25pMGVJWlgwTmdhd1oxWk1naVE?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-10T08:35:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "สิทธิสุขภาพบัตรทองที่เกี่ยวข้องกับผู้ป่วยเบาหวาน แต่ไม่มีรายละเอียดการใช้จ่ายหรือจำนวนผู้ได้รับประโยชน์",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "2619509b",
+      "title": "ผู้สูงอายุเสียชีวิตเหตุพลัดตกหกล้ม กว่า 1,500 รายต่อปี แนะฝึกทรงตัว",
+      "summary": "กรมควบคุมโรครายงานผู้สูงอายุ 1 ใน 3 ประสบการณ์หกล้ม เสียชีวิตกว่า 1,500 รายต่อปี แนะปรับบ้าน ออกกำลังกาย 150 นาทีต่อสัปดาห์ เพื่อลดความเสี่ยง",
+      "url": "http://www.hfocus.org/content/2026/09/39448",
+      "source": "Hfocus",
+      "published_at": "2026-09-10T05:37:45Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องผู้สูงอายุแต่เป็นข้อมูลสาธารณสุขมากกว่าสวัสดิการ",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "7b61c58f",
+      "title": "แจกเงิน 10,000 บาท ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ 'คลัง' แจงข่าวลวงนี้แล้ว",
+      "summary": "กระทรวงการคลังชี้แจงข่าวลวงเกี่ยวกับการแจกเงิน 10,000 บาทให้ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ว่าเป็นข้อมูลที่ไม่ถูกต้อง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DRDFzaEtBZEpqYlcwZkthTVhnQnU3RFU4aGJQVXY5YWtWdjlwNHBWZWsxRW9yQ1JidE5JNjAtcW05a3ctR0hTQ1VHUDRZMVdDSHVuRjJNV1B5ek9HQlUwQWVadnpoUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-10T05:03:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข่าวปฏิเสธการแจกเงิน ไม่ใช่นโยบายใหม่",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "b4a45b84",
+      "title": "อีสเทิร์น เอเนอร์จี้ พลัส จับมือ พมจ.สมุทรปราการ เดินหน้าช่วยเหลือกลุ่มเปราะบาง สานต่อแนวคิด “From Waste to Welfare” ส่งต่อคุณค่าสู่ชุมชนอย่างยั่งยืน",
+      "summary": "บริษัท อีสเทิร์น เอเนอร์จี้ พลัส ร่วมกับสำนักปลัดจังหวัดสมุทรปราการ ดำเนินโครงการช่วยเหลือกลุ่มเปราะบาง ตามแนวคิด From Waste to Welfare",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JdkxfYmRBbHJqRlZHWERzR2p5SU92aXprNDY0MWpLZDZFOVlMVmFHUDVQQjFnQzNva2stcC1GNkxhWkY1bEZNT0I1amZwRTQ?oc=5",
+      "source": "thaipr.net",
+      "published_at": "2026-09-10T06:30:47Z",
+      "category": "other",
+      "provinces": [
+        "สมุทรปราการ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "โครงการช่วยเหลือ แต่เป็นความร่วมมือเอกชน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "3e60e908",
+      "title": "News1. . เผลอปุ๊บ ขึ้นปั๊บ! จังหวะคนไทยจับตาการเมือง ราคาน้ำมันขยับรวดเดียว 70–80 สตางค์ ซ้ำเติมค่าครองชีพใครรับผิดชอบ? #News1 #ราคาน้ำมัน #น้ำมัน #ค่าครองชีพ #เศรษฐกิจไทย",
+      "summary": "ราคาน้ำมันขึ้นอย่างรวดเร็ว 70-80 สตางค์ ส่งผลกระทบต่อค่าครองชีพของประชาชน เกิดความกังวลเรื่องความรับผิดชอบในการแก้ไขปัญหา",
+      "url": "https://news.google.com/rss/articles/CBMiwAdBVV95cUxNQXdGMUZkdHhlQUFZT2NxUHpPTk01MlZGQUVmZEJ3dkhtZHBOYTJYVUhJTUZfNUlPMkZMMzJxRWNhWUdzQnJlYkpydGRTeDd5SnZocC1vWGlXUUxLUVVZc3U5LVdMRkhQejhnNklIVmdkSUVWZF9uWVV6VjBOYk1qaXI3bDJsVVlBSERSN0RQN1RnWnZzSnR6US1OQVpxQVJRMWVHdlFlWjFPWVd3YkpLYnA1TzRkUUpPQV85bGxLRWd0cFVzYnc3a3dfWHpFSTdQMlN4T0pYeVVYaGZrTFFnTDhHLVRiWTNLLXpMTFdMSFFjeGlyYzNaVHN1RDJBWEM0TmtBc19EQllzbWxmRVNnUlFEOWdlUWR4bG83TkhhTTdpNDJ0ZjFQOUFpUlVSTUw5N3NwRHIzSTJnYXNtOFVoQXBpekpfUFdtNHhUa2JaNkw4Nl91cFIyQy1mOE5XY3NaNmYxNmdya0tnY1pSNzFQYzV6cFRGaHZyaUx6TjdJQmVwVW9tMHAzcTBucV9yUFVlem1aS3g1OGUyYlh4SHVTRVJWWnBvVjJBV1RrcVE2QklyUEFfLTJpdTNfWi1BQi1Nd2hpMGxRWTBuaGw4UVNjeEFBT0M2QkJkZENSMFcyOWRhdlN2eGcxWENrV1M1bkROVklPY0F3OVJGc1o4RFRmZ3p3ZTdfQ3U4b2pzRHZwbDh0dmFFQTlmRjg3cmRlekNpUDktNko4OEhBTkNOUEJzSGFiMW9UUVE2YldDMTBrQXV3UmR5OFpQS0YzTm9ONGd0czZQLThucElDV2RKWWV2VjZ2SzhPNFNSVWVmSG14V3dNRU1LMHdjSERxaTZaV2dpZkpWa0NJNDZWTHNVOGNHQVYxOFNmWXpUSG1saWZoY1JLdUdsdDFTQXJzdVp2X1F3b3N2SzRCWjNKNlpjT0NQc19tdm55RzJxMHBkYXdUbWVEaFBqTWJaUVZvWEVESVZxdGVsQ2tkUm1WSW1TcGtHYUtUbENtWTIyaUt0X2ExT2FESm1pVmF6RUJ6Q29YczZJM2pVZHZGaDFTazhJUUFfVkhTTDFmX2tkOTJGYzRzc2g5aHNzQkpsWjQxVndfV3VhbTlDcXB6QW1PNXZMU1N5SDdvSER5bzhyR3VSUmlqMVFfdVNkY2hWTUM5bk00SFE4d2lpYlhlNUprRHR4aDZSa2I1YWNoaHFWbTRoYW83N2tuRU9LQktGcTBqNU96VWo3eDREQWtnZlNaOTY4dkpOOWNvSV9zd2JPc0xEYXluYnk?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-10T09:35:33Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับค่าครองชีพแต่เป็นข้อเสนอแนะและคำถาม ไม่มีนโยบายหรือมาตรการที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "0198acaa",
+      "title": "ตกงานแล้ว! คนว่างงาน ต้องส่งเงินสมทบประกันสังคมไหม",
+      "summary": "บทความถามเกี่ยวกับการส่งเงินสมทบประกันสังคมของคนว่างงาน เกี่ยวข้องกับสิทธิประกันสังคมและการจ้างงาน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04R25jTVJ3bHp1NjhfNWJGdkoyVUU5aUdkVFdUNkRMRm00VU9nVWx0d1pjem5xMWhqdVhYbHlUeEZVSWN2N0xXYjliN0I?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-10T07:35:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นคำถามเกี่ยวข้องประกันสังคมแต่ไม่มีข้อมูลนโยบายใหม่"
+    },
+    {
+      "id": "5cdb9f30",
+      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 ต้องขึ้นกี่ผ่าน ถึงจะสำเร็จ",
+      "summary": "ข้อมูลเกี่ยวกับขั้นตอนการยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 เพื่อให้สำเร็จการลงทะเบียน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sbnhpdFQ2TllkN0toMy1ReHNnbk4zS0lvbk9tNmZaN05aQUM0X1JNWWtsRXpJLUtqb3oyYTAyMFp2ZHNsdnVEMHRpdnU?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-10T05:20:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อมูลขั้นตอนเท่านั้น ไม่มีรายละเอียดเนื้อหา",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "854e8c11",
+      "title": "‘ใบตองแห้ง’ ถอดรหัสข้อถกเถียงบัตรทอง มีอารมณ์ปะปนมากขึ้น–ข้อเท็จจริงลด แนะสร้างความเข้าใจทั้ง ‘ปชช.-บุคลากร’",
+      "summary": "บทวิเคราะห์เกี่ยวกับข้อถกเถียงของบัตรทอง ชี้ว่ามีอารมณ์ปะปนมากขึ้นและข้อเท็จจริงลดลง แนะนำสร้างความเข้าใจระหว่างประชาชนและบุคลากร",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1TGdzVmllMjlMeFFRa3NhVk1weU5uRHcyQ0FMVVJkOVJNUlFSVVo2TTU1dkxScXVOWXFqMUpLcUN5bGt3aDljelJmaDM5a2pGUEtmMTYtRDRDV1k?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-10T03:10:48Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 52,
+      "why": "เป็นการวิเคราะห์และมุมมองเกี่ยวกับบัตรทอง ไม่ใช่ข้อมูลนโยบายหรือการดำเนินการที่ชัดเจน",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "0915e677",
+      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 ผ่าน - ไม่ผ่าน เช็กอย่างไรพร้อมวิธีแก้ไข",
+      "summary": "คำแนะนำการตรวจสอบผลการยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 และวิธีแก้ไขเมื่อไม่ผ่านการยืนยัน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBINU1sYTdsMmRTdVpBWFYwQVVsQ1U1V01kTFpUd1d3eWVjWDExWDNlNXdQTFJ5b01xLVdjM2VvMnhTb2E1ZUdxYzFSQkF4dW8xRVlxd3VsQVQwQklq?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-11T00:44:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นข้อมูลช่วยเหลือ แต่ไม่มีรายละเอียดเนื้อหา"
+    },
+    {
+      "id": "0026c5b5",
+      "title": "ข่าวแก๊งทวงหนี้นอกระบบ บุกข่มขู่ร้านราดหน้า",
+      "summary": "ข่าวเกี่ยวกับแก๊งทวงหนี้นอกระบบบุกข่มขู่ร้านราดหน้า สะท้อนปัญหาหนี้สินของประชาชนและการกระทำที่ผิดกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1sSnMxTFlYX2hMU3lJVE92WHY3REs1cUEyMjhLeDR1T2JXX1NmM0VnNEZRUTBZQlhTVkJnSFdaQnNxX1hweGktQlZn?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-10T00:11:51Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 48,
+      "why": "เกี่ยวข้องกับปัญหาหนี้นอกระบบของประชาชน แต่เป็นข่าวอาชญากรรม ไม่ใช่นโยบายสวัสดิการ"
+    },
+    {
+      "id": "e17650bd",
+      "title": "สมัยพ่อนะ… ประโยคที่หลายคนน่าจะเคยได้ยิน? #ทันหุ้น #ค่าครองชีพ #สมัยก่อนVSสมัยนี้ #มนุษย์เงินเดือน #ข้อคิดชีวิต",
+      "summary": "โพสต์สื่อสารเปรียบเทียบค่าครองชีพในอดีตกับปัจจุบัน สะท้อนความเป็นจริงของคนเงินเดือนในการรับมือต้นทุนชีวิต",
+      "url": "https://news.google.com/rss/articles/CBMi-wdBVV95cUxNOTlhZDdtczU0cFd3b09nbV9Ua2tVNEZYSjdLZXZFR1lVdlI4WmdHYzEtZEFSMmNIV29FVklOZUVVNzBLTVhMQXNhWmxTMGZQM1BCTzQ1SUdUNnZIVFpSdHVrOVpXMm9Wb2tfWUZsSUt6RnZNOEwyRGZUQ0o5TkM1TE02YXNOZ1o1Z2RJSGVnd3RsWlBqemVXWmVZT1ZKZVV4ZkQ5TFg1eFAzWTd0dlVVakdBTERrZEwtSnJFLTk3Y3pkRzExR002SV92TlV5TkY2eGNFMmdiN21FSGg2VVgxYzNHdmxRR1RWbzNQOVNNUF9QZ0RHS1ZEZ2g5Smd2eURvZkpaLTVyUGdoQ01uYmdiYWNsTDlHUHRqdFBXcnFvNVR6Z3JwTDJ4cTFqRDBSXzFjRlFpczB5NkIyaVRrQmpWOXYxLTA0NFpleWVVYWhXdTJMS2RlV0VMNEs5bUQtM1BDZzQxM3ZMTVZwdmpadjUxbVJVeDBybE15QW1qSnZIeUNtQUN2NVJqSldrdzdJYlJoeDFGV21OalJ0OExJcnJDeVNfTDB5QXNnVy1vZWlXSjB3WHUtMjFySDVPN0hDdnpCS3ZkREJ4NEZzcWlXVHFfbGFONzlLMVk5eTZ0U2E2cXlyQXNiUWlqcThvWnlOUEZxWUZ0eGgySC1iN21Obzc4T1ducm5FSFF5Z1ptSzBGbFpMOWQ4dzdmb1VRdmpkS2E1czV3LVRWNHZjRXV1VlU1NmNLVVVVa1pYOGtnaVJpejZkTEFJaHRwbk1Pa3g0RVZ1SFp1cHlxXy0tckhINmI2bXZaWjZKeFhqem1KOERJVTR6TWJDdFItalE0RXpRUmg5bU1WRy1fdTZwclNkck5lZ0E0NFNxYXBWQkVhUXZqa1luZl8tTmFSM05wb2pWbURueGhueFNtZlcxQW4tWmNIVDE2WHAzQmplNmViQ0tsSmZLazlQa3VFaU1EZGZFWHU3b2VKbXBXWkxxdHlCUGhidHhwc2FTZFpRUF9XTFk1TU80dW9mNjFuSDdURmtxTEc1d0l1NnVweng2NzNuUmozeXpYNVZCVnAyb0JRUmR0YTUxVEVieW9LYS1aMERsLWQ4QndyNTdSQ2ZEWDlEZFFITWFScFEzS24tZGJraEFJQ3BBX2FqZEt0ZmxHRFBtNm9EOWMwakFyekdCZjRkQ24tTWZZNzdZTnRHQ2xaRlJhWHhGbkJDQ0RrQVItUm1URVZidmVjUXFHVnNUMGtPMkZ3Zmw1cFdMWUlyR2YwRjhKejhyNWZCSC1oVldjNjV2dmVZUzF3a1FoNEFoTlREc20wcy1qQXRZczhfd1hYMTktWGJFc3RBU2VOS3ctbw?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-10T06:31:08Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เนื้อหาเกี่ยวข้องค่าครองชีพแต่เป็นความเห็นไม่มีข้อมูลเฉพาะ"
+    }
+  ]
+}
