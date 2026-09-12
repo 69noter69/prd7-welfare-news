@@ -1,0 +1,521 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T01:10:39Z",
+  "window": {
+    "from": "2026-09-10T23:08:48Z",
+    "to": "2026-09-12T01:08:48Z"
+  },
+  "stats": {
+    "fetched": 214,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 17034,
+    "ai_output_tokens": 10820,
+    "cost_thb": 2.6,
+    "runs": 1,
+    "kept": 33,
+    "eastern": 2,
+    "national": 31,
+    "new": 31,
+    "followups": 2,
+    "sources": 22
+  },
+  "items": [
+    {
+      "id": "35be9886",
+      "title": "‘จุลพันธ์’ วิ่งชูสูตรบำนาญใหม่ คาด 2 เดือนได้กฎหมาย ย้ำเลือกตั้งบอร์ดประกันสังคม 27 ก.ย. แน่นอน",
+      "summary": "รมว.แรงงานจุลพันธ์ประกาศสูตรบำนาญใหม่ \"CARE\" คาดได้กฎหมายภายใน 2 เดือน และยืนยันการเลือกตั้งบอร์ดประกันสังคมวันที่ 27 กันยายน",
+      "url": "https://www.matichon.co.th/local/quality-life/news_5885870",
+      "source": "มติชน",
+      "published_at": "2026-09-11T12:50:28Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายบำนาญชราภาพใหม่ระดับชาติ มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "ba8cec5d",
+      "title": "พม. Kick Off เปิดตัว “ทีมสร้างสุข” ผนึกพลัง อพม.ทั่วประเทศปฏิบัติการเชิงรุก เดินเท้าเข้าหาประชาชน เร่งแก้ปัญหาตรงจุด ช่วยเข้าถึงสิทธิสวัสดิการ มุ่งสร้างสังคมอยู่ดี มีโอกาส เพื่อคนไทยทุกคน พร้อมเดินหน้านำร่อง 8 จ.ทั่วภูมิภาค",
+      "summary": "สำนักงานปลัดกระทรวงการพัฒนาสังคมเปิดตัว 'ทีมสร้างสุข' เพื่อปฏิบัติการเชิงรุกเข้าหาประชาชน แก้ปัญหาตรงจุด และช่วยเข้าถึงสิทธิสวัสดิการ นำร่องใน 8 จังหวัดทั่วภูมิภาค",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3T0VUa3dVWjZwWGFXdmNiUFlBMW9oSGJCd3lTUDE3Q2w2V09IdjlvVWZEcG8zQ3BtRFEyQmJ0TWg5VzZ5X3pXYnJfTm52cHVYUm1HTlhIN2JYVFU4SWtKV2p4eVNOMzFpMDVYc1NpQUx0NnM?oc=5",
+      "source": "กรมประชาสัมพันธ์",
+      "published_at": "2026-09-11T03:57:50Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายใหม่เพื่อเพิ่มการเข้าถึงสวัสดิการและแก้ปัญหาประชาชน"
+    },
+    {
+      "id": "e9b46e2d",
+      "title": "กบน.ตรึงราคาน้ำมันทุกชนิด รับมือราคาตลาดโลกผันผวน บรรเทาภาระค่าครองชีพ",
+      "summary": "กบน.ตรึงราคาน้ำมันทุกชนิดเพื่อรับมือราคาตลาดโลกที่ผันผวน บรรเทาภาระค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xMi1aRW9BMmVYcGN6bVVNVFdSY29MaHU5V2cxS05HNDV5b3hKSF8wYlE3SjZfMk12YVN4QUk5UnBjWnJCaW9wMU54bHhoZmd3ZjVsV0lkUk8?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-11T13:23:02Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "นโยบายรัฐเพื่อลดภาระค่าครองชีพของประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "13089ce1",
+      "title": "น้ำมันโลก พุ่ง 191.91 เหรียญสหรัฐต่อบาร์เรล กบน.ต้านวิกฤติโลก คงราคาน้ำมันทุกชนิด",
+      "summary": "กบน.มีมติตรึงราคาขายปลีกน้ำมันทุกชนิด เพื่อบรรเทาผลกระทบต่อค่าครองชีพของประชาชนท่ามกลางความผันผวนของราคาน้ำมันในตลาดโลก",
+      "url": "https://www.khaosod.co.th/economics/news_10396038",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-11T13:16:50Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "นโยบายรัฐเพื่อลดภาระค่าครองชีพของประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "ab90fd4d",
+      "title": "‘โสภณ’ เติมรอยยิ้มให้คนตัวเล็ก มอบบ้านผู้พิการ–ผู้ยากไร้ อ.พุทไธสง ถวายเป็นพระราชกุศล เฉลิมพระเกียรติในหลวง",
+      "summary": "ประธานรัฐสภามอบบ้านให้ผู้พิการและผู้ยากไร้ ที่อำเภอพุทไธสง จังหวัดบุรีรัมย์ ภายใต้โครงการเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว ถวายเป็นพระราชกุศล",
+      "url": "https://www.khaosod.co.th/politics/news_10395993",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-11T11:43:05Z",
+      "category": "housing",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มีการมอบบ้านจริงให้ผู้พิการและผู้ยากไร้ ในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "8a90655c",
+      "title": "'จุลพันธ์' ยันเลือกตั้งบอร์ดประกันสังคม 27ก.ย. ลุยสูตรบำนาญใหม่",
+      "summary": "รมว.แรงงานยืนยันเลือกตั้งบอร์ดประกันสังคมวันที่ 27 กันยายน และดำเนินการสูตรบำนาญชราภาพใหม่",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pMjVQV3A2cmlncWNUWkg2WHJvM1hvOWJJWlVsWk05UFBRZkNidWRvZDBkdC1RNHJaZFN1Z1lDTnlYZ3ZOX2NEbFZFVkh2Nl9TcmZOblRWdi0?oc=5",
+      "source": "nationtv.tv",
+      "published_at": "2026-09-11T13:05:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "นโยบายบำนาญระดับชาติ มีกำหนดการชัดเจน"
+    },
+    {
+      "id": "49840d1a",
+      "title": "รมว.นิกร เปิด “โรงรับจำนำ สาขา 52” ที่โคราช หวัง \"ลดพึ่งหนี้นอกระบบ–เติมสภาพคล่องประชาชน",
+      "summary": "รัฐมนตรีเปิด 'โรงรับจำนำ สาขา 52' ที่นครราชสีมา เพื่อลดการพึ่งพาหนี้นอกระบบและเพิ่มสภาพคล่องของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SM2huaFRmdVctQ2tZQ1FPNnl0bUhrSl9KQ1lxRzRQRWRJbXdLM0pKbGJVQkNiUVJMQ3RlallyMGktMWxKcWJ6eVZiQW03OU0?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-12T00:19:14Z",
+      "category": "debt",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการสวัสดิการที่เป็นรูปธรรม มีการขยายสาขาใหม่ เพื่อช่วยเหลือประชาชนที่มีปัญหาหนี้"
+    },
+    {
+      "id": "9e069cf1",
+      "title": "วิกฤตกำลังซื้อ-ธุรกิจดิ้นสู้ รายได้ 3 หมื่น ‘เปราะบางยุคใหม่’",
+      "summary": "ผู้ว่าการธนาคารแห่งประเทศไทยและสถาบันวิจัยเศรษฐกิจเตือนว่ากลุ่มรายได้ต่ำ 30,000 บาทกลายเป็น 'กลุ่มเปราะบาง' เนื่องจากค่าครองชีพพุ่งและหนี้ครัวเรือนเพิ่มขึ้น",
+      "url": "https://www.prachachat.net/economic/news-2065613",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-12T00:05:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "วิเคราะห์สถานการณ์ความเปราะบางของกลุ่มรายได้ต่ำ ส่งผลต่อนโยบายสวัสดิการ"
+    },
+    {
+      "id": "92d4197b",
+      "title": "“นิกร” เปิดโรงจำนำ สาขา 52 โคราช ดันแหล่งเงินทุนรัฐแก้หนี้นอกระบบ เสริมสภาพคล่องเศรษฐกิจฐานราก พร้อมอัดโปร \"ฟรีดอกเบี้ย 1 เดือน\" ช่วยชาวอีสาน",
+      "summary": "ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทยเปิดสาขาจำนำที่ 52 ในนครราชสีมา เพื่อแก้หนี้นอกระบบและเสริมสภาพคล่องเศรษฐกิจฐานราก พร้อมโปรแกรมฟรีดอกเบี้ย 1 เดือน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EbTNEeHprN1pTb1RKNVBhVzJwTlFkRW5JcTRLMmE1UzN4X0hRd1VjRUJRXzRTUmJ0UFg5eG42OEtnM2xmTEx6WHVWZXFlNkFM?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-09-11T09:17:01Z",
+      "category": "debt",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการรัฐเพื่อช่วยเหลือประชาชนรายได้น้อยแก้หนี้นอกระบบในภูมิภาค"
+    },
+    {
+      "id": "a03fdbd1",
+      "title": "“อบต.นรสิงห์ - รพ.สต.” ผนึกกำลังขับเคลื่อน “CG” ดูแลผู้สูงอายุพึ่งพิงถึงบ้าน พร้อมสร้างงานในชุมชน",
+      "summary": "อบต.นรสิงห์ จ.อ่างทอง ร่วมกับรพ.สต. ขับเคลื่อนโครงการจ้าง Caregiver ดูแลผู้สูงอายุและผู้พึ่งพิงในชุมชน ตามแผนดูแลต่อเนื่อง เพื่อแบ่งเบาภาระครอบครัวและสร้างงานรายได้ให้ชุมชน",
+      "url": "http://www.hfocus.org/content/2026/09/39470",
+      "source": "Hfocus",
+      "published_at": "2026-09-11T07:46:42Z",
+      "category": "elderly",
+      "provinces": [
+        "อ่างทอง"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีการดำเนินการเฉพาะพื้นที่ เกี่ยวข้องผู้สูงอายุและการสร้างงาน"
+    },
+    {
+      "id": "7d2d008d",
+      "title": "อบจ.ชลบุรี มอบทุนช่วยเหลือนักเรียน 1,940 คน เปิดโอกาสทางการศึกษา ลดภาระผู้ปกครอง",
+      "summary": "อบจ.ชลบุรี มอบทุนช่วยเหลือนักเรียน 1,940 คน เพื่อเปิดโอกาสทางการศึกษาและลดภาระค่าใช้จ่ายของผู้ปกครอง ช่วยเหลือเด็กนักเรียนที่มีความเดือดร้อนทางเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kbms4MFgyamdIVVpBejJIRHFKTTlScVc4Uk5JRjRKd2prUVFtTkNXN1pmOE9jbjVDQUJzM2RXLUJCNi1CczNxT0g1R1FSUjdnUDRn?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-11T09:30:00Z",
+      "category": "education",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือนักเรียนที่มีรายได้น้อยในระดับท้องถิ่น"
+    },
+    {
+      "id": "d0d32e99",
+      "title": "พาณิชย์ชวนชาวราชบุรีช้อป “ไทยช่วยไทย ลดค่าครองชีพ” ขนสินค้าราคาประหยัดกว่า 2,000 รายการ ลดสูงสุด 60% 11-13 กันยายน นี้",
+      "summary": "กระทรวงพาณิชย์จัดโครงการ 'ไทยช่วยไทย ลดค่าครองชีพ' ที่ราชบุรี 11-13 กันยายน 2569 นำสินค้ากว่า 2,000 รายการ ลดราคาสูงสุด 60%",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPY3VjVHZEWDdzSTRRc0xpMFgyakdlSU5VSm1HZUhCZkFoVlRqd3RzVncyeDJfcGpTWHJ3YUFTTURKd1RRbXZnNlQ3RzZDSkJQZG5KWjkzcFNaLUFfbFRZR1VXV3lyaDlEcl9aMlpxYUNwS0NlUUxlNl9Ra1ZfSnpKZmV6SWo4UTE5Y0c2VUgtLUsxMnZVdVBqeEFReWZqWGR4cmJVQmVHOVlDaG84ejVCWENSRzI1S21QV1BCSHBkeHhzZERoYUI5RW9GUzBxcEllZFd2YjBvOHhqWlloWFNBTkpwT0h3MWp6Z3Y5bWJfdzJ0Y3pOZExGMUpieEhaQzlsSTZWaDVnVTNNUWZoc1B6YU9xZmdqMW9zdFg3TXU0bHNPc2ZGNnNHa1pWckROdUlWX1J6ZUNBMkZKUVZiWTVRNDZnX2F2VFE5LVh0MU9tNzg3UQ?oc=5",
+      "source": "smartsme.co.th",
+      "published_at": "2026-09-11T09:23:04Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีกำหนดเวลาและสถานที่ชัดเจน ลดค่าครองชีพโดยตรง"
+    },
+    {
+      "id": "06dd4a18",
+      "title": "หมด “ไทยช่วยไทยพลัส” กำลังซื้อแผ่ว “ค่าครองชีพ–หนี้ครัวเรือน” สูง",
+      "summary": "รายงานว่าโครงการ 'ไทยช่วยไทยพลัส' สิ้นสุดลง ขณะที่กำลังซื้อยังอ่อนแอและค่าครองชีพพร้อมหนี้ครัวเรือนยังสูง",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3NHNiUXZXRDBRd3RIM2dKZ3R1bU9CSk1SYU5ELU0xcVpYWjV2TGd5WjhEaFA4N0VRVXRtaGxvXzk1T2pNMUpQSHRvU2NqaTJnU3RvRjJMSEJhU3o0ckVqRXFiRQ?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-09-11T03:42:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การสิ้นสุดโครงการเงินสดช่วยเหลือ ส่งผลต่อกลุ่มรายได้ต่ำ"
+    },
+    {
+      "id": "71b8d7c5",
+      "title": "สุรศักดิ์ เอาแน่ ไทยเที่ยวไทย1ล้านสิทธิ ดีเดย์ พ.ย.งบ 4 พันล.ช่วยค่าที่พัก-ช้อป ชงครม.ก.ย.ลงทะเบียนตุลา",
+      "summary": "รัฐบาลเตรียมโครงการ 'ไทยเที่ยวไทย' มอบสิทธิ 1 ล้านรายการ งบประมาณ 4 พันล้านบาท ช่วยค่าที่พักและการช้อปปิ้ง เดือนพฤศจิกายน",
+      "url": "https://www.matichon.co.th/economy/news_5885937",
+      "source": "มติชน",
+      "published_at": "2026-09-11T23:20:53Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการช่วยเหลือทางการเงินที่ชัดเจน มีงบประมาณและกำหนดเวลา แต่เป็นโครงการส่งเสริมท่องเที่ยว"
+    },
+    {
+      "id": "480e4a0a",
+      "title": "'พาณิชย์' ลุยลดค่าครองชีพประชาชน-ช่วยผู้ประกอบการ ยกทัพสินค้าราคาประหยัดจำหน่ายสินค้าราคาประหยัดให้พี่น้องชาวยะลา ในงาน 'ไทยช่วยไทย ธงฟ้าลดค่าครองชีพ' จังหวัดยะลา",
+      "summary": "กระทรวงพาณิชย์จัดงาน 'ไทยช่วยไทย ธงฟ้าลดค่าครองชีพ' ที่จังหวัดยะลา เพื่อจำหน่ายสินค้าราคาประหยัดให้ประชาชนและช่วยผู้ประกอบการ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSjQ2RmZ3TEhJR3V5Y2p0bUpLa0QwOExWMHdwZUVjaHlPYk8tMHI1LXZ1VEhwSE54ZDYyZzhzNzlkWTZ5RmE2Ymh0SDBveHRhZVBEdnJJS0tiRFBoOHZ5bTN6Tlk5dw?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-09-11T08:00:17Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ยะลา"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีการดำเนินการลดค่าครองชีพในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "975415fa",
+      "title": "เจาะลึกความเปราะบาง สวัสดิการ ทางรอดผู้สูงอายุไทยในวิกฤต Climate Change",
+      "summary": "วิเคราะห์ความเปราะบางของผู้สูงอายุไทยและสวัสดิการที่มีให้ในบริบทของวิกฤตการเปลี่ยนแปลงสภาพอากาศ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44SHFId1lZV0d3ZmlJWmprMnBzYWJMYUxGek85NUZWMnFka3c5a0hOSnRJMjRoRFpLeXlLNG9QVEZnb21XMVk3a3VDeVZUTWg3enNFZlNQbGJid1VKQnBSc0htX1lucTdjY19acXhaREFXVjg?oc=5",
+      "source": "isranews.org",
+      "published_at": "2026-09-11T01:20:42Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ศึกษาเชิงลึกเกี่ยวกับสวัสดิการผู้สูงอายุและความเสี่ยง"
+    },
+    {
+      "id": "0915e677",
+      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 ผ่าน - ไม่ผ่าน เช็กอย่างไรพร้อมวิธีแก้ไข",
+      "summary": "คำแนะนำวิธีการยืนยันตัวตนบัตรสวัสดิการแห่งรัฐปี 2569 และวิธีแก้ไขเมื่อการยืนยันไม่ผ่าน เพื่อให้ผู้ถือบัตรสามารถใช้สิทธิได้อย่างต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBINU1sYTdsMmRTdVpBWFYwQVVsQ1U1V01kTFpUd1d3eWVjWDExWDNlNXdQTFJ5b01xLVdjM2VvMnhTb2E1ZUdxYzFSQkF4dW8xRVlxd3VsQVQwQklq?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-11T00:44:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อมูลปฏิบัติการสำคัญสำหรับผู้ถือบัตรสวัสดิการ",
+      "first_seen": "2026-09-11"
+    },
+    {
+      "id": "92429b58",
+      "title": "“จุลพันธ์” รมว.แรงงาน เปิดกิจกรรม RUN FOR CARE ชวนออกกำลังกายวันนี้ เพื่อบำนาญที่มั่นคงในวันหน้า สร้างการรับรู้ “บำนาญชราภาพสูตร CARE”",
+      "summary": "รมว.แรงงานเปิดกิจกรรม RUN FOR CARE เพื่อสร้างการรับรู้เกี่ยวกับสูตรบำนาญชราภาพ CARE ที่มั่นคงในอนาคต",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByVW1HV3FhcUpVcUxQWUh0WGFreEppLTFzTXktWnhvY0kwakdRT2VxSzNvX2RGNGZ0Z29nRWlkYVd2SVd3ZThQMGxOTWRsQ2Q4MTRvdGg4OA?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-09-11T17:06:04Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "กิจกรรมสร้างการรับรู้บำนาญชราภาพ แต่เป็นการประชาสัมพันธ์มากกว่านโยบายที่เป็นรูปธรรม"
+    },
+    {
+      "id": "7a49c8c6",
+      "title": "ไขข้อสงสัย บัตรสวัสดิการฯ กลุ่มทบทวนสิทธิ์ ทันใช้ 1 ต.ค. ไหม",
+      "summary": "ชี้แจงข้อสงสัยเกี่ยวกับการใช้บัตรสวัสดิการแห่งรัฐสำหรับกลุ่มทบทวนสิทธิ์ว่าจะทันใช้ได้ตั้งแต่วันที่ 1 ตุลาคมหรือไม่",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NOUloNGlqcmtjb3l4LUtPVzd4QWQ2UXFHZ25fb1FwTHR3ZTlDdXJucGN4SmhVcWYxTnI3UmgtbDJ3aW9CSFJTajVR?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-11T10:05:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อมูลปฏิบัติการเกี่ยวกับการใช้บัตรสวัสดิการและกำหนดเวลา"
+    },
+    {
+      "id": "96f9ad98",
+      "title": "\"หมอรัชริน\" ชี้ รพ.เงินบำรุงติดลบ ไม่ใช่แค่บริหารพลาด สะท้อนต้นทุนระบบสุขภาพ จี้สปสช.ทบทวนค่าชดเชย",
+      "summary": "ผู้บริหารสาธารณสุขชี้ว่าโรงพยาบาลสธ.จำนวน 491 แห่งมีเงินบำรุงติดลบ สะท้อนต้นทุนระบบสุขภาพ และเรียกร้องให้สปสช.ทบทวนกลไกค่าชดเชยให้เพียงพอและทันเวลา",
+      "url": "http://www.hfocus.org/content/2026/09/39471",
+      "source": "Hfocus",
+      "published_at": "2026-09-11T09:41:31Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวข้องกับระบบสุขภาพสาธารณะแต่เป็นการวิจารณ์ปัญหาการบริหารจัดการ"
+    },
+    {
+      "id": "49ffe7fe",
+      "title": "เมืองพัทยาดึง พม. ลุยให้ความรู้สิทธิและการเข้าถึงสวัสดิการคนพิการ",
+      "summary": "เมืองพัทยาร่วมกับสำนักงานสวัสดิการและคุ้มครองแรงงานจัดกิจกรรมให้ความรู้เกี่ยวกับสิทธิและการเข้าถึงสวัสดิการสำหรับคนพิการ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tR3JoT3Q5RjFSd1otREg4QnpCLWZGcUIycFBlSFp5OHA0UkZGbnNXT1ZIZVYyZ3NmMk1vd25kNnYwN0ZqekxmNFdmSy1ZTU5TWXQzV1ZFUHk?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-11T05:48:00Z",
+      "category": "disability",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "โครงการให้ความรู้สิทธิสวัสดิการคนพิการในระดับท้องถิ่น"
+    },
+    {
+      "id": "69021cfb",
+      "title": "รัฐบาล ยัน เลือกตั้งบอร์ดประกันสังคม ตามกำหนดเดิม 27 กันยายนนี้ ไม่เลื่อน ไม่ชะลอ! พร้อมเพิ่มหน่วยเลือกตั้งกว่า 5,000 หน่วย . วันนี้ 11 กันยายน 2569 ร้อยเอกหญิงภัทร์ดารัสมิ์ ทองสลวยกร รองโฆษกประจำสำนักนายกรัฐมนตรี เปิดเผยถึงความกังวลของผู้ประกันตนเกี่ยวกับการเลือกตั้งคณะกรร",
+      "summary": "รัฐบาลยืนยันเลือกตั้งบอร์ดประกันสังคม 27 กันยายน 2569 ตามกำหนด พร้อมเพิ่มหน่วยเลือกตั้งกว่า 5,000 หน่วย",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxPSDZMRkNXUmdBVU55bGZaRThneWRzSERfRURmbVNTNjA0SlFPeXJkSGtqVW02YWdPcHJpLXJnTC1McGVLUVktcWhoLTNjMFp1SEk4RWFvNlp0V1Znb3RhZVVzOXZPQ3MxQVFtR3hhbzRKZ1JGTGVkaFhoMWpJTUdNckpPeFJHWjdUYzZjS3luMnlYRkpMazh6SktMVmIwdUJ3VXM5Mk8xTlRtSW9HU0tUR2VxYzlIUndnVzJpeFgzbDRKQ3RSdTBHSFEzWUY3eU1jQ2ltU2ZVczU3d2pTOHdld2t4Z0VlaExsTkNLNTYwb0dweHEyajdITENWVGdHS1VNRjNCNXNHSlpjc0l0ZlFsbzBidlNURVhfUWxrWGdUTE1YUlc4WmFxX3lsd0NLQVZ3UDlDanlneWZzZDZOcGRkenk2X1FPWFVHcmRvQlUyd3YwRC1XdlpCdENQdURkSkFSVEZxbDBUeTNLd1BZQVViNzdVQzM4eVBuQWhHWE1xbHBucUhhTW5UdVRfNGRJUWt5d1ROZGtjWFBkR2JidURaRTRueHFaWW9OLW9OSThnbnVTRW94VFFocHlxYVZrQXh3Z1c1ZVE1dHB1Q080eFNuZnVqaXRfQlpPU3BnM1JqU0E1VmstdHM4ZHMza1UzOXFkR1BWTC1Nc0JSdUV4X2tqblJ5ZEhKVVA1UXM0Q205aHljeXdNajNIaDRsQ2NOSmtBVG9IUVRyek9faTgzN2ZjTk1hZlg4Z3JIb0sxVTk2MnprXzFJRXFHeVZDcXhKejZMMy1jQVFDRHU2bkE4cldKMmxNQ3JCeU5rRlpIaUg2YlVIVTJTSXFhYllqY1lhMW84LVl2UG8wMWhpdWtWWm03RGc0MGRQX0c1NVpZa181bnBGZnA1Yzg1M01tTjNZcEFmSEV5cmwxVEpRbHBzb2VZWHRaa2FuSFpJM3B0ZHBaRnRMbENIUjJONWVEekxxVUZ6a2RCU3hBQmU4bGJSS2pyRHFQRTJQbzc1ejZFVU9fam40a3FMd2haUTBVZl9jTlBjQ1pVUkVBa2hUeUdTTV96ajFwRDF2eGFqQTJZZ2h6WmtFNE9vSV9KcnFzdm84azVoTTZpd0prNFVwZk5hbjFaR1c4LTVTRlo4dF9MTVdpdmc4YXZaNG9EYXF0dmhYbkx0SUJJc3NWSG1OaU5MajE5Y05veDNKWm5kek5WTloxblVUQ01rbTF6cmZ5V29sLURTY1RhYVZEZXRmWGNJUTMxeFllR1ZtWU1WdE8xdHFNaGx6MXZOU01wNjJUTEw1bU1p?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-11T04:55:03Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข่าวการจัดการเลือกตั้งประกันสังคม เกี่ยวข้องกับสถาบันสวัสดิการแต่ไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "c58330d6",
+      "title": "ข่าวรัฐบาลยืนยัน เลือกตั้งบอร์ดประกันสังคม 27 ก.ย. นี้แน่นอน ไม่มีกระบวนการชะลอ เลื่อน หรือเตะถ่วงการเลือกตั้งแต่อย่างใด",
+      "summary": "รัฐบาลยืนยันการเลือกตั้งบอร์ดประกันสังคมตามกำหนด 27 กันยายน 2569 โดยไม่มีการชะลอหรือเลื่อน",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OVEtDXzdpX1liZmRYdW1BQ2FTclBKaW5aUDlxYTRTWDlqUjZNSk96UTN0T01GQnVTWXlPd2dHWEV5MkRVaU1XQklB?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-11T03:01:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวข้องกับการบริหารประกันสังคม แต่เป็นข่าวการจัดการเลือกตั้ง ไม่ใช่นโยบายสวัสดิการใหม่"
+    },
+    {
+      "id": "7b61c58f",
+      "title": "แจกเงิน 10,000 บาท ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ 'คลัง' แจงข่าวลวงนี้แล้ว",
+      "summary": "กระทรวงการคลังชี้แจงข่าวลวงเกี่ยวกับการแจกเงิน 10,000 บาทให้ผู้ถือบัตรสวัสดิการแห่งรัฐรายใหม่ว่าเป็นข้อมูลที่ไม่ถูกต้อง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DRDFzaEtBZEpqYlcwZkthTVhnQnU3RFU4aGJQVXY5YWtWdjlwNHBWZWsxRW9yQ1JidE5JNjAtcW05a3ctR0hTQ1VHUDRZMVdDSHVuRjJNV1B5ek9HQlUwQWVadnpoUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-11T13:28:16Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข่าวลวงเกี่ยวกับสวัสดิการ แต่เป็นการปฏิเสธ ไม่ใช่นโยบายใหม่",
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "54d00cd4",
+      "title": "11-13 ก.ย. นี้ พาณิชย์ชวนชาวราชบุรีช้อป “ไทยช่วยไทย ลดค่าครองชีพ”",
+      "summary": "กระทรวงพาณิชย์จัดกิจกรรม \"ไทยช่วยไทย ลดค่าครองชีพ\" ในราชบุรี วันที่ 11-13 กันยายน เพื่อให้ประชาชนช้อปสินค้าด้วยราคาที่ลดลง",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWjk1T2c0bXkzM2pONS14SzM5eWIyM0gyN05sOTFlNU0tdWZNb1hzdVhRdkpRUWduNGE1YlZfakg2eUhaaGY5R1d1RUZtVE44WVRZeVZmNkZudw?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-09-11T12:11:49Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการลดค่าครองชีพในระดับท้องถิ่น แต่ขาดรายละเอียดเงินหรือผลกระทบ"
+    },
+    {
+      "id": "7d1e6a35",
+      "title": "SCB EIC เผยคนชะลอซื้อบ้านพุ่ง 56% หั่นงบต่ำ 3 ล้าน-แห่เลือกมือสองแทน",
+      "summary": "ศูนย์วิจัยเศรษฐกิจ SCB เปิดผลสำรวจตลาดที่อยู่อาศัย พบคนชะลอซื้อบ้านพุ่ง 56% หั่นงบต่ำ 3 ล้านบาท แห่เลือกบ้านมือสอง เนื่องจากเศรษฐกิจฟื้นตัวช้า",
+      "url": "https://www.khaosod.co.th/economics/news_10395900",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-11T11:38:26Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกำลังซื้อที่อยู่อาศัยของประชาชนรายได้น้อย แต่เป็นข้อมูลสำรวจ"
+    },
+    {
+      "id": "2cbd891b",
+      "title": "สปส. ชวนเช็กให้ชัวร์ เตรียมให้พร้อม ก่อนใช้สิทธิเลือกตั้งคณะกรรมการประกันสังคม 27 ก.ย. 69",
+      "summary": "สปส.ชวนประชาชนเตรียมตัวและเช็กข้อมูลให้ชัวร์ก่อนใช้สิทธิเลือกตั้งคณะกรรมการประกันสังคมในวันที่ 27 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54UU80MEttbk9maWFhTFZTRnQwWGNZdTN5cjEydWkyN3dvZFY4OXhROWVGUWdidU94VDE4X0NtSlQxY0VzcC04MThpaWdvVDdlUE5GNkJvZw?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-09-11T02:56:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับการบริหารประกันสังคมแต่เป็นการประชาสัมพันธ์ขั้นตอนเลือกตั้ง"
+    },
+    {
+      "id": "9551a182",
+      "title": "สมาคมชาวนาฯ จี้เกษตรฯ เร่งถก นบข. เคาะมาตรการช่วยชาวนาปี 69",
+      "summary": "สมาคมชาวนาเร่งให้กระทรวงเกษตรและคณะบัญชาการหารือเพื่อเคาะมาตรการช่วยเหลือชาวนาปี 2569",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CdTcxaUFIYk1la0xrcVIwMkJfU0JMZlhtdVQ0SFdVajRRc3N5cXJIbmhPWTRQNUJQR3VSTHM2UGRfc1RzWm5zVmFLUW1ETUV0RjloV2FBdlo2bUhk?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-11T22:21:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความต้องการมาตรการช่วยเหลือชาวนา แต่ยังไม่มีรายละเอียดหรือการตัดสินใจ"
+    },
+    {
+      "id": "b78454ac",
+      "title": "\"ฮุนเซน\"หน้าแหก!\"แรงงานเขมร\"จี้เพิ่มค่าแรงโวย\"น้ำมันแพง-ของแพง\"เงินไม่พอยาไส้",
+      "summary": "แรงงานเขมรเรียกร้องให้เพิ่มค่าแรง โดยอ้างว่าค่าน้ำมันและสินค้าแพงขึ้น ทำให้เงินไม่พอใช้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92UmVyZzJNckdyN0V3eDlvaGdIQ1BZN2FGbkZsNUU5RENXNjlEUDlXT1lGcjgzSmo0NjFfV2RkM2Zpb0hJR25YbzNfUzRkUmhwekpCN3pB?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-11T06:20:08Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับปัญหาค่าแรงและต้นทุนการครองชีพของแรงงาน แต่เป็นข่าวการเรียกร้อง ไม่ใช่นโยบายรัฐบาล"
+    },
+    {
+      "id": "e7ba5cd4",
+      "title": "“หมอสุภัทร” ฉะ “สว.วีระพันธ์” ปม รพ.วิกฤตระดับ 7 ไม่เกี่ยวสปสช.ชี้ ปมสธ.จ่ายเบี้ยเลี้ยงไม่ครบ!",
+      "summary": "อภิปรายเกี่ยวกับปัญหาการจ่ายเบี้ยเลี้ยงเหมาจ่ายไม่ครบของสำนักงานสวัสดิการสังคม ส่งผลให้โรงพยาบาลต้องใช้งบประมาณอื่นเพื่อชดเชย",
+      "url": "http://www.hfocus.org/content/2026/09/39466",
+      "source": "Hfocus",
+      "published_at": "2026-09-11T05:44:01Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ปัญหาการจ่ายเบี้ยเลี้ยงสวัสดิการสุขภาพ แต่เป็นการโต้เถียงทางการเมือง"
+    },
+    {
+      "id": "9422b2f8",
+      "title": "‘วิโรจน์​’ ตั้งคำถามธรรมาภิบาล สว. ขับเคลื่อนแก้ กม.บัตรทอง ทั้งที่บทบาทคือผู้กลั่นกรองไม่ใช่ผู้เสนอ",
+      "summary": "สมาชิกสภาผู้แทนตั้งคำถามเกี่ยวกับธรรมาภิบาลในการขับเคลื่อนการแก้ไขกฎหมายบัตรทอง โดยชี้ว่าบทบาทของสภาคือผู้กลั่นกรองไม่ใช่ผู้เสนอ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vZ0J0dkdDa21hS2psdXpta2RXdk1BUHJkcmdhLWRQSmhOX1JOcTZwQ182YnVsUmdUak5LVXBxbW5FTTdhTko1MUUzcVg0RHBsMXR5a1ZsZjJFbGc?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-11T03:26:08Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบัตรทองแต่เป็นการวิจารณ์ขั้นตอนการบริหารจัดการ"
+    },
+    {
+      "id": "8e9b6ce9",
+      "title": "การเคหะฯ จัด 'NHA HOMES & ENABLERS DAY 2026' ขับเคลื่อนองค์กรสู่ความเป็นเลิศ ภายใต้แนวคิด 'Happiness for all'",
+      "summary": "การเคหะจัดงาน 'NHA HOMES & ENABLERS DAY 2026' เพื่อขับเคลื่อนองค์กรสู่ความเป็นเลิศ ภายใต้แนวคิด 'Happiness for all'",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVmlMLXJUNU9oSXlBNHdIbXV4UkxaS25JQ3BqRkFac25wSl9NbGNZUld2UW9jZll4anlRd24yWkVpRXk3dHhNbHpiSGlycHZrZkZlUEhqeVRGNzlmRGZfT2c2Z2tZZw?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-09-11T07:45:27Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 52,
+      "why": "เกี่ยวข้องกับการเคหะและที่อยู่อาศัย แต่เป็นข่าวการจัดงานองค์กร ไม่ใช่นโยบายหรือมาตรการใหม่"
+    },
+    {
+      "id": "1626265a",
+      "title": "‘สายฟ้า’ สารภาพชิงเงินล้าน ttb ตลาดไท อ้างหาเงินใช้หนี้นอกระบบ",
+      "summary": "ผู้ต้องสงสัยสารภาพชิงเงินล้านบาทจากธนาคารและตลาดไท อ้างว่าต้องการเงินเพื่อชำระหนี้นอกระบบ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XSFd3aTZreGxpM19HLWhhZHRoWk9jdDM4cDJMeS1XS3B1OWFuRmM5Yy1ZNk1tZTdSQU9NeERiR2YwTjRlWTdSVFkwM0s3RVFLbXJXNA?oc=5",
+      "source": "amarintv.com",
+      "published_at": "2026-09-11T12:48:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับปัญหาหนี้นอกระบบของประชาชน แต่เป็นข่าวอาชญากรรม ไม่ใช่นโยบายสวัสดิการ"
+    }
+  ]
+}
