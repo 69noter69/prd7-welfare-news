@@ -158,6 +158,37 @@ const hasActiveFilters = () => {
 const isFollowUp = (it) => Boolean(it.first_seen && it.first_seen !== state.date);
 const anyFollowUps = () => (state.day ? state.day.items.some(isFollowUp) : false);
 
+// ---------- "คุณกำลังดูข่าวย้อนหลัง" strip ----------
+/* A bookmarked URL keeps its #YYYY-MM-DD hash, so reopening it lands on an old
+   day even when newer data exists. We still honour the hash (shared links must
+   work) but say so plainly and offer one click back to the latest day. */
+function olderDayStrip() {
+  let el = $('older-strip');
+  if (!el) {
+    el = h('div', { class: 'wrap', id: 'older-strip', hidden: true },
+      h('div', { class: 'warn', role: 'status' },
+        h('span', { id: 'older-msg' }, ''), ' ',
+        h('button', {
+          type: 'button', class: 'link', id: 'btn-go-latest',
+          onClick: () => { const d = state.index.days[0]; if (d) loadDay(d.date, state.tab); },
+        }, 'ไปที่ข่าวล่าสุด')));
+    const stale = $('stale-strip');
+    stale.parentNode.insertBefore(el, stale);
+  }
+  return el;
+}
+function renderOlderStrip() {
+  const strip = olderDayStrip();
+  const days = state.index.days;
+  const newest = days[0] && days[0].date;
+  const isOlder = Boolean(newest && state.date && state.date !== newest);
+  strip.hidden = !isOlder;
+  if (isOlder) {
+    $('older-msg').textContent =
+      `คุณกำลังดูข่าวย้อนหลังของ ${fmt.shortDate(state.date)} — ข่าวล่าสุดคือ ${fmt.shortDate(newest)} (${days[0].total} ข่าว)`;
+  }
+}
+
 // ---------- Rendering: header / date bar ----------
 function renderDateBar() {
   const days = state.index.days;
@@ -179,6 +210,7 @@ function renderDateBar() {
   $('btn-next').disabled = i <= 0;
 
   // stale warning: newest run older than STALE_HOURS
+  renderOlderStrip();
   if (!days.length) { $('stale-strip').hidden = true; return; }
   const newest = state.index.generated_at || (days[0] && days[0].date && `${days[0].date}T01:00:00Z`);
   const stale = newest && (Date.now() - new Date(newest).getTime()) > STALE_HOURS * 3600000;
@@ -722,8 +754,13 @@ async function init() {
   if (!Array.isArray(state.index.days) || !state.index.days.length) { showFirstRun(); return; }
   hideFirstRun();
   const hs = parseHash();
+  const newest = state.index.days[0].date;
   const known = hs.date && state.index.days.some((d) => d.date === hs.date);
-  const date = known ? hs.date : state.index.days[0].date;
+  /* A known hash date is honoured so shared "link to this day" URLs keep working.
+     When it is not the newest day the banner from renderOlderStrip() says so and
+     offers one click to the latest — a stale bookmark must never look like an
+     outage. An unknown or missing hash opens the newest day. */
+  const date = known ? hs.date : newest;
   if (hs.view === 'archive') { state.date = date; openArchive(); await loadDay(date, null); }
   else await loadDay(date, hs.tab);
 }
