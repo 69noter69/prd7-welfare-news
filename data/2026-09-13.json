@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T01:11:47Z",
+  "window": {
+    "from": "2026-09-11T23:10:13Z",
+    "to": "2026-09-13T01:10:13Z"
+  },
+  "stats": {
+    "fetched": 197,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 13882,
+    "ai_output_tokens": 8753,
+    "cost_thb": 2.1,
+    "runs": 1,
+    "kept": 25,
+    "eastern": 0,
+    "national": 25,
+    "new": 24,
+    "followups": 1,
+    "sources": 18
+  },
+  "items": [
+    {
+      "id": "039a629d",
+      "title": "อนุทิน สั่ง เอกนิติ ต่อเวลา ไทยช่วยไทยพลัส หลังงบยังเหลือ 4-5 หมื่นล้าน",
+      "summary": "นายกรัฐมนตรีอนุทิน ชาญวีรกูล สั่งให้เอกนิติขยายระยะเวลาโครงการไทยช่วยไทยพลัส เนื่องจากยังมีงบประมาณเหลือ 4-5 หมื่นล้านบาท จากประชาชนที่ยังไม่ได้ลงทะเบียน",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10396715",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-12T11:59:20Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายเงินสดช่วยเหลือประชาชนระดับชาติ มีงบประมาณจำนวนมาก"
+    },
+    {
+      "id": "b9df8853",
+      "title": "“อนุทิน\" ยันต่ออายุ \"ไทยช่วยไทยพลัส\" ไตรมาส 4 เร่งใช้งบช่วยค่าครองชีพ-ลดภาระค่าน้ำมัน : อินโฟเควสท์",
+      "summary": "อนุทิน ยันต่ออายุโครงการ \"ไทยช่วยไทยพลัส\" ไตรมาส 4 เร่งใช้งบประมาณช่วยค่าครองชีพและลดภาระค่าน้ำมัน มาตรการสนับสนุนประชาชนในช่วงเศรษฐกิจยากลำบาก",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FU1cxTHM2cFllNmd6cndzdnA0S1hDX1lqeC1fMHlHbHN6TkNFOU9Ea0Nzd0dNTFZjUWx4MXdwVFdoU0dIU192c0ZBOWJDdkhk?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-09-12T14:25:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายเงินสดช่วยเหลือประชาชนระดับชาติ มีการต่ออายุและเร่งใช้งบ"
+    },
+    {
+      "id": "b0ab51b1",
+      "title": "“อนุทิน” สั่งคลังต่อ “ไทยช่วยไทยพลัส” เร่งใช้งบเหลือ 4-5 หมื่นล้าน พยุงค่าครองชีพปลายปี",
+      "summary": "นายกรัฐมนตรีสั่งกระทรวงการคลังเร่งใช้งบประมาณเหลือ 4-5 หมื่นล้านบาทจากโครงการไทยช่วยไทยพลัส เพื่อพยุงค่าครองชีพประชาชนในปลายปี",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpb28ya3FCdjdLbmZ5dHBMa2NCMF9NUW51S1RRcjJ6MUc1aWVCSExoOC1vVUo2ZThoaW1VbVR3d05vbUVfUGZ6NDh4NlhGRFUyMFlR?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-09-12T12:23:39Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการสำคัญเพื่อช่วยเหลือค่าครองชีพประชาชนด้วยงบประมาณจำนวนมาก"
+    },
+    {
+      "id": "f7b3c5b1",
+      "title": "‘อนุทิน’ สั่ง ‘เอกนิติ’ ขยายไทยช่วยไทยพลัส ลดค่าครองชีพประชาชน",
+      "summary": "นายกรัฐมนตรีสั่งให้เอกนิติขยายโครงการไทยช่วยไทยพลัส เพื่อลดค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByNDJkQi1LSXRlUXFHQ2NOY3BMWUdITkRJQzk5c3BEWlpjdVlTa21XRGhNRmRhc3VQbk5uR2FPZ091dHNHczg5MG5pUVg0b0tuTkowV2w5cHlOd2cx?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-12T12:03:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ขยายโครงการช่วยเหลือประชาชนลดค่าครองชีพ แต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "27031fbe",
+      "title": "ประกาศลดราคาน้ำมันดีเซล ณ โรงกลั่น 2.40 บาท/ลิตร มีผล 16 ก.ย.-31 ต.ค. 69",
+      "summary": "คณะกรรมการบริหารนโยบายพลังงานประกาศลดราคาน้ำมันดีเซลที่โรงกลั่น 2.40 บาทต่อลิตร มีผลตั้งแต่ 16 กันยายน ถึง 31 ตุลาคม 2569",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10396709",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-12T11:41:21Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการลดราคาน้ำมันเชื้อเพลิงที่ลดภาระค่าครองชีพ มีวันที่และจำนวนลดราคาชัดเจน"
+    },
+    {
+      "id": "d2565ade",
+      "title": "ประคับประคองเศรษฐกิจ",
+      "summary": "รัฐบาลดำเนินมาตรการไทยช่วยไทยพลัส แจกเงินช่วยค่าครองชีพเดือนละ 1,000 บาท เป็นระยะเวลา 4 เดือน สิ้นสุดในเดือนกันยายน 2569",
+      "url": "https://www.prachachat.net/columns/news-2065276",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-12T02:33:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเงินสดช่วยเหลือประชาชนที่มีจำนวนเงินและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "76eba2eb",
+      "title": "‘รมว.พม. นิกร โสมกลาง’ ปักธงโคราช เปิดโรงรับจำนำของรัฐ สธค. สาขา 52 ดันแหล่งเงินทุนรัฐแก้หนี้นอกระบบ เสริมสภาพคล่องเศรษฐกิจฐานราก พร้อมอัดโปรฯ \"ฟรีดอกเบี้ย 1 เดือน\" ช่วยชาวอีสาน . เมื่อวันที่ 11 กันยายน 2569 นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและควา",
+      "summary": "รมว.พม.นิกร โสมกลาง เปิดโรงรับจำนำของรัฐ สธค.สาขา 52 ที่โคราช เพื่อแก้หนี้นอกระบบ เสริมสภาพคล่องเศรษฐกิจฐานราก พร้อมโปรแกรมฟรีดอกเบี้ย 1 เดือน ช่วยชาวอีสาน",
+      "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxQV3ltb2tydFRFRS1ab1pNRnNaX2I1ZmcwZFlkZnllWXJHYU5zeEprTmtPMWxDWWV1VlVnZjhWZDFHTHc1d090SXJyWFZzMEtFRExUb0dSWUE1QWFzU0g4ZEVBaE54XzlmbjR4OF9PSjlJRnFjaE1FYnR0NWZzNy02cEVSX193V3Z4U25DYVRSZDM0ejU3c3ZtbDlkOHdyTVFJaERYMGtUdXo4cWtPWGs1cDVIQzFsd19MS2VGSlk5Y29sTVhLQnBjaGZUZkhfcXQ4TWp5emZBV2tIVk4zSXN1dzgtREpjdGd3c2d5dmhNSFB2eUJkOTQwQnR4WGZ4cVAtc3JwRjdaaWhxOF9zMGVvM1d0bWlLazBDWUp1cUktZDJMdkJCLUxERHRWVkwzZDc5Z2ozdkhHZ2JES1hfbkh1UmVGM3N0am4ya3NydmhKaTgxSWJaUGF2bzB4elFBRUQtVEJac3FJVnNJam5QWkIySnFIZFZQXzVxcDZqXzFZUXI0MzRwYTRrTU1SZ1pfemtPR09uQ1RVZm1tWG94akMyajVwWVc4Ui0xeU4wTlVaLXdKUFJTUFp5dXhaSHFxU0RqdnkzTHo0N1VGaENiaEF3VnBhMFRQWmhxWll5ai1mMHJYdXZHdFR3Xy1QZGZ5ZVdhMlh6czJfUXRINFpsYnZhUkhldGRVMDFXdjl2RWl0YXJ4UEMwSzJWVjdZaEtGMklodUtKYzI5dmVjRlQ3ZE5SREF5Nl85VW5PTkRSYkF3TzAwRktCcDNBSkxtczVudTVJVGhrSjFTRGFqLXdaeThUTFI4MVdZLWVVNlViQkh3T29pcVZ6MG01d2FyNnBGdERxeldmZW8wbTBWUWFuWGU4SzNSOE9ST20wWkJZRFV2Y0lTRG5WenlDQjVxS0VWeld5LWRCVTNUQXNKX3BaTkh1RTRCQl9JSmh6VXgtSGw4ejJpYUlLZE1SOHFBdy1PUGU1M3h4YnpEcWxmZEVlTXc1djcyYlFjSGRJNkhZck5ZSmV4QkxzWkpESG5JVzZkMllSM0tvZVhFSVdOM0JJUmtCNU1iamNybzdGSWtGVnI4bUF6T0hDWVIxdU9MczVNSWlMY3JfTjJncGxSMHp4MHY0VTlzWDkyZG1pYzJYRG90Q1FaU1ZuektLVFV2a050T2UySDkzOWx0THVyRms3Z0xRbjJEWC0waFlGOEZ4SUtHOTVhUWRSQ3JzQU5nRmlGYUl0R2lZalNlakU2VUEtS3UwcXQwV1dzRVhiS3pLUmJRZXpMWm1QblE?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-12T10:10:29Z",
+      "category": "debt",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการเงินทุนรัฐเพื่อลดหนี้นอกระบบ มีการเปิดตัวและโปรแกรมสนับสนุนชัดเจน"
+    },
+    {
+      "id": "f3231dc5",
+      "title": "ราชบุรี “พาณิชย์” ลุยลดค่าครองชีพ ไทยช่วยไทย ยกทัพสินค้ากว่า 2,000 รายการ ลดสูงสุด 60%",
+      "summary": "จังหวัดราชบุรี ดำเนินมาตรการไทยช่วยไทยลดค่าครองชีพ ยกทัพสินค้ากว่า 2,000 รายการ ลดราคาสูงสุด 60% เพื่อบรรเทาภาระประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02S1dlRWtHNnpseEZ2YXFnMklPdVJucHJ4MEhaMlYxTEpFaFNPTlcxMFVxcUFnM1pMOVJBRFZ0NURUR0ZRRHJfblV3ZEZWRnRrZ2xz?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-12T10:56:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการลดค่าครองชีพที่เฉพาะเจาะจง มีจำนวนสินค้าและอัตราลดราคาชัดเจน"
+    },
+    {
+      "id": "c2197273",
+      "title": "‘ยุติธรรม’ เผยช่วยเหยื่อออนไลน์ตามเงินคืน 130 ล้าน ไกล่เกลี่ยหนี้ลดภาระกว่า 5,000 ล้าน",
+      "summary": "รัฐมนตรีว่าการกระทรวงยุติธรรมเผยมาตรการช่วยเหยื่อการหลวงออนไลน์ โดยคืนเงินจำนวน 130 ล้านบาท และไกล่เกลี่ยหนี้ลดภาระกว่า 5,000 ล้านบาท",
+      "url": "https://www.prachachat.net/news/news-2065773",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-12T05:22:37Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการสำคัญช่วยเหลือประชาชนที่ประสบปัญหาหนี้จากการหลวงออนไลน์"
+    },
+    {
+      "id": "151aae59",
+      "title": "“พาณิชย์” ลุยลดค่าครองชีพประชาชน-ช่วยผู้ประกอบการ ยกทัพสินค้าราคาประหยัด จำหน่ายสินค้าราคาประหยัดให้พี่น้องชาวราชบุรีในงาน “ไทยช่วยไทยลดค่าครองชีพ จังหวัดราชบุรี”",
+      "summary": "กระทรวงพาณิชย์จัดงาน 'ไทยช่วยไทยลดค่าครองชีพ จังหวัดราชบุรี' เพื่อจำหน่ายสินค้าราคาประหยัดให้ประชาชนและช่วยผู้ประกอบการ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40WW0xRXQyQ214N0tnQzRfSGVpNlM3ZkNCQ1dza0ZfR19XUWVsN3ZXenplQTRycndIeHlJWFlBcXJSaGhkX3pnbkZySjNPd2lnZ1g5b1htNA?oc=5",
+      "source": "thailandplus.tv",
+      "published_at": "2026-09-12T15:13:15Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการลดค่าครองชีพในพื้นที่เฉพาะ มีการดำเนินการจริง"
+    },
+    {
+      "id": "29bcf6a9",
+      "title": "“หมอเพชร” ชวนร่วมพิจารณาแก้ พ.ร.บ.บัตรทอง ไม่แตะ ‘ร่วมจ่าย’ เปิดให้ปชช.ลงชื่อเสนอร่างกฎหมาย",
+      "summary": "นพ.เพชร อลิสานันท์ เชิญชวนแก้ไขพระราชบัญญัติสปสช. ปรับนิยามสิทธิประโยชน์พื้นฐาน อัปเดตทุก 2-3 ปี ปรับโครงสร้างบอร์ด เปิดให้ประชาชนเสนอร่างกฎหมาย โดยไม่แตะเรื่องร่วมจ่าย",
+      "url": "http://www.hfocus.org/content/2026/09/39477",
+      "source": "Hfocus",
+      "published_at": "2026-09-12T07:01:02Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การปรับปรุงกฎหมายสุขภาพหลักที่ส่งผลต่อสิทธิประชาชน"
+    },
+    {
+      "id": "1fb1f9e8",
+      "title": "ศบส. 69 คันนายาว ชูระบบ LTC ดูแลผู้สูงอายุภาวะพึ่งพิง เสริมสุขภาพปฐมภูมิเมือง",
+      "summary": "ศบส.69 คันนายาว กรุงเทพฯ ชูระบบ LTC ดูแลผู้สูงอายุภาวะพึ่งพิง ดูแลแล้ว 106 ราย เสนอเพิ่มค่าตอบแทน Care Giver และหนุนคลินิกชุมชนเสริมสุขภาพปฐมภูมิ",
+      "url": "http://www.hfocus.org/content/2026/09/39479",
+      "source": "Hfocus",
+      "published_at": "2026-09-12T08:06:21Z",
+      "category": "elderly",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "โครงการดูแลผู้สูงอายุที่มีผลต่อสวัสดิการ มีตัวเลขและการขยายแผน"
+    },
+    {
+      "id": "ff4126af",
+      "title": "นิกร เปิดมหกรรมสร้างงาน สร้างอาชีพคนพิการ ปี 2569 ภาคอีสาน เสริมทักษะ สร้างโอกาสไร้ขีดจำกัด",
+      "summary": "นิกรจัดมหกรรมสร้างงาน สร้างอาชีพคนพิการ ปี 2569 ที่ภาคอีสาน เพื่อเสริมทักษะและสร้างโอกาสการจ้างงานแก่คนพิการ",
+      "url": "https://www.matichon.co.th/local/news_5886700",
+      "source": "มติชน",
+      "published_at": "2026-09-12T09:12:14Z",
+      "category": "disability",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการสนับสนุนการจ้างงานคนพิการ มีการดำเนินการเฉพาะและชัดเจน"
+    },
+    {
+      "id": "1dfceeff",
+      "title": "กมธ.แรงงานถกเดือด ปมย้ายสิทธิรักษาพยาบาลประกันสังคมรวม “บัตรทอง” นักวิชาการชี้แยกระบบเหมาะกว่า",
+      "summary": "คณะกรรมการแรงงานถกเดือดเกี่ยวกับการย้ายสิทธิรักษาพยาบาลประกันสังคมรวมกับบัตรทอง นักวิชาการเสนอแยกระบบเหมาะกว่า เพื่อให้สิทธิประโยชน์ชัดเจนและเหมาะสมกับแต่ละกลุ่ม",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LVmRJaXVNRjRDU2ZzVnU2OEktR2VZckcxNC1jV1JQem5pYnQzNjY4UWdydEowM3psNVV1U3pfcXRjZ1FXUEZmcENSSUJuQnc?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-12T08:57:07Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายสุขภาพหลักสำหรับประชาชนทั่วไป แต่ยังในขั้นถกเถียง"
+    },
+    {
+      "id": "49840d1a",
+      "title": "รมว.นิกร เปิด “โรงรับจำนำ สาขา 52” ที่โคราช หวัง \"ลดพึ่งหนี้นอกระบบ–เติมสภาพคล่องประชาชน",
+      "summary": "รัฐมนตรีว่าการกระทรวงพาณิชย์เปิดโรงรับจำนำสาขาที่ 52 ที่นครราชสีมา เพื่อลดการพึ่งพาหนี้นอกระบบและเพิ่มสภาพคล่องของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SM2huaFRmdVctQ2tZQ1FPNnl0bUhrSl9KQ1lxRzRQRWRJbXdLM0pKbGJVQkNiUVJMQ3RlallyMGktMWxKcWJ6eVZiQW03OU0?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-12T00:19:14Z",
+      "category": "debt",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการเชิงรุกเพื่อลดหนี้และช่วยเหลือประชาชนรายได้น้อย",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "7391c83d",
+      "title": "สปสช.แจงปมรพ.สันทราย ยาขาด! ไม่ใช่งบ UC หมด ปี 69 โอนแล้วกว่า 241 ลบ.",
+      "summary": "สปสช.แจงกรณีรพ.สันทราย จ.เชียงใหม่ ยาขาด ไม่ใช่ปัญหางบบัตรทองหมด ปีงบประมาณ 2569 โอนเงินค่าบริการแล้วกว่า 241 ล้านบาท มีอีก 13.6 ล้านบาทระหว่างดำเนินการจ่าย",
+      "url": "http://www.hfocus.org/content/2026/09/39474",
+      "source": "Hfocus",
+      "published_at": "2026-09-12T02:50:55Z",
+      "category": "health",
+      "provinces": [
+        "เชียงใหม่"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ปัญหาการบริหารงบประมาณบัตรทองในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "1993def2",
+      "title": "‘นิกร รมว.พม.’ปักหมุดโคราช เปิดมหกรรมสร้างงาน สร้างอาชีพคนพิการ ปี 2569 ภาคอีสาน",
+      "summary": "รัฐมนตรีว่าการกระทรวงพาณิชย์เปิดมหกรรมสร้างงานและสร้างอาชีพสำหรับคนพิการปี 2569 ในภาคอีสาน ที่นครราชสีมา",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Gd2hHeWV5S19TalZERUVyN2I3cnZKVFRLWlVoT1duN1dzczRYemJpNG5EeUZfNDAwNk5YcmpxTXpEa0Rveml0Ti1OZXZqMTF1V2tHOWhuMmtiektnOWJMRkJfMGUteE9kcWVMb1JsWGRDazNF?oc=5",
+      "source": "naewna.com",
+      "published_at": "2026-09-12T08:41:12Z",
+      "category": "employment",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการสนับสนุนการจ้างงานและสร้างอาชีพสำหรับกลุ่มผู้พิการ"
+    },
+    {
+      "id": "0183b92f",
+      "title": "กบน.ตรึงราคาน้ำมันขายปลีกทุกชนิด ลดแรงกระแทกค่าครองชีพ | การเงินธนาคาร",
+      "summary": "กบน.ตรึงราคาน้ำมันขายปลีกทุกชนิด เพื่อลดแรงกระแทกต่อค่าครองชีพของประชาชน มาตรการควบคุมราคาเชื้อเพลิงเพื่อเสริมสภาพคล่องเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13WTU2X0RYQjlKcXZxd1RHYmpOUkcxMW1KTGZacWlLM29TUWtLUnlodDN5REU2VkhNOU50d3RKbkFaWldCMXBSb0dlLUJzWmROckREZzhn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-12T04:54:24Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการควบคุมราคาเพื่อลดค่าครองชีพ แต่เป็นมาตรการทั่วไป"
+    },
+    {
+      "id": "f24fd67d",
+      "title": "พาณิชย์ราชบุรีขนสินค้า 2,000 รายการ ลดสูงสุด 60% ช่วยลดค่าครองชีพ-เปิดทางเกษตรกรระบายผลผลิต",
+      "summary": "พาณิชย์ราชบุรีขนสินค้า 2,000 รายการ ลดราคาสูงสุด 60% เพื่อช่วยลดค่าครองชีพและเปิดทางเกษตรกรระบายผลผลิต มาตรการสนับสนุนเศรษฐกิจฐานราก",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uakFVeTkybHE5T01vNEU5bThIOC1wbl8xaTNIZzhOMlhfQTJKUjE5cWphQWs4QlB0aUdObkpTNmgxazJ3Ti0wVmZuOVJlOGd2QTlkam9keno3VWZD?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-12T10:26:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการลดค่าครองชีพในพื้นที่เฉพาะ แต่ขอบเขตจำกัด"
+    },
+    {
+      "id": "21919823",
+      "title": "สปสช.แจงปม รพ.สันทราย ยาขาด ยันมีงบจ่ายปี 69 โอนแล้ว 241 ล้าน",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติแจงเรื่องการขาดยาที่โรงพยาบาลสันทราย ยืนยันว่าได้โอนงบประมาณปีงบประมาณ 2569 จำนวน 241 ล้านบาทแล้ว",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lQVcxWl9WVlpsWWRTcU5MWFptQW1SWjZWVU03eVRjdzdzOWNZR2RBM2x0VktOelZDSWJWZlUwdW5vdGRJRktNOFhIenZTZGRNMHRIcTJmVEI?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-12T04:01:51Z",
+      "category": "health",
+      "provinces": [
+        "เชียงใหม่"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับการจัดสรรงบประมาณสุขภาพ แต่เป็นการแจงเพียงอย่างเดียว"
+    },
+    {
+      "id": "5dbbb445",
+      "title": "ผลสำรวจพบผู้คนในอาเซียน ส่วนใหญ่กังวลเรื่องค่าครองชีพ",
+      "summary": "สำรวจพบประชาชนในอาเซียนส่วนใหญ่กังวลเรื่องค่าครองชีพ สะท้อนความเป็นห่วงของประชากรต่อภาวะเศรษฐกิจและต้นทุนการดำเนินชีวิตที่เพิ่มขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5Z2ZWR09TVG5TUzVlbkZfU0VscjVBMjRJbUY4ZUltSWNPcS1zRy1jXzF0R3BudmwtUjN5aldnN3Q2dzZla1QzRk5uenVnOHRvN3FsaVhLNHU2WGRL?oc=5",
+      "source": "tcijthai",
+      "published_at": "2026-09-12T01:44:09Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องค่าครองชีพแต่เป็นสำรวจทั่วไป ไม่มีมาตรการเฉพาะ"
+    },
+    {
+      "id": "4bb19043",
+      "title": "กรมขนส่งทางบก ไฟเขียวขึ้นค่าโดยสารรถทัวร์ 3 สตางค์/กม.",
+      "summary": "กรมขนส่งทางบกอนุมัติขึ้นค่าโดยสารรถทัวร์ 3 สตางค์ต่อกิโลเมตร เนื่องจากราคาน้ำมันดีเซลผันผวน มีการปรับเพิ่มลดจำนวน 5 ครั้งตั้งแต่เมษายน 2569",
+      "url": "https://www.khaosod.co.th/economics/news_10396669",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-12T10:30:25Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องค่าครองชีพแต่เป็นการปรับขึ้นค่าโดยสาร ส่งผลเพิ่มภาระประชาชน"
+    },
+    {
+      "id": "95e54d54",
+      "title": "สปสช.ประสาน ‘รพ.สันทราย’ ติดตามสถานการณ์-สนับสนุน ดูแลประชาชนให้ได้รับบริการต่อเนื่อง",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติประสานงานกับโรงพยาบาลสันทรายเพื่อติดตามสถานการณ์และสนับสนุนให้ประชาชนได้รับบริการสุขภาพอย่างต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVnlGaUd2R21udy1PSGpGYlByRWRja0FaOTZJMjhGdHJJdHJMb3ZpMlMtOUhMd2pCNFF1M2RwWkZ0S0dGcjlUU1gtejM5d3VtcXNkUmNNdFZYWEU?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-12T04:14:57Z",
+      "category": "health",
+      "provinces": [
+        "เชียงใหม่"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นการประสานงานเพื่อดูแลบริการสาธารณะ แต่ไม่มีรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "f80d4973",
+      "title": "1 เสียงของคุณ ร่วมกำหนดอนาคตประกันสังคม",
+      "summary": "ประกาศเชิญชวนประชาชนให้ร่วมกำหนดอนาคตของระบบประกันสังคม เพื่อรับฟังความเห็นและข้อเสนอแนะจากประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yNEtGRnBzZUFFVXUwNF9rOGNNaXpEemZ5OWFBQ3lKMEZBVE14ZUJaWW55WHRUQ1VlalhSRF9PZzZOQUJVSXJ6ai1lRU1kaWUyYl9NRmRzajJrQ1FEdEhVYUdDZ25SM2VlQ3c?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-12T09:00:44Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นการเชิญชวนความเห็น ไม่มีมาตรการหรือการเปลี่ยนแปลงที่ชัดเจน"
+    },
+    {
+      "id": "624bf62a",
+      "title": "พลังศรัทธา “เล็ก มรดกไทย” ถวายข้าวสาร 6.5 ตัน วัดท่าผาแจกผู้มีรายได้น้อย 1,300 ครอบครัว",
+      "summary": "นักแสดงเล็ก มรดกไทยถวายข้าวสาร 6.5 ตันผ่านวัดท่าผาเพื่อแจกจ่ายให้ผู้มีรายได้น้อย 1,300 ครอบครัว",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yNjJXWndiZzVuYTMtMXhjdUtLbVRYUnFaR2N3SzlpT0d4WGRwVkdSVjhYWW53YnBkRUVRbDJrWGx0Z0xLdXB0OVdYTG5rNWZwQWdfZXJjdlA?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-12T07:46:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นการช่วยเหลือประชาชนรายได้น้อย แต่เป็นการบริจาคเอกชน ไม่ใช่นโยบายรัฐ"
+    }
+  ]
+}
