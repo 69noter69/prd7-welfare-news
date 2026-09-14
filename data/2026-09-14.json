@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T01:11:52Z",
+  "window": {
+    "from": "2026-09-12T23:10:41Z",
+    "to": "2026-09-14T01:10:41Z"
+  },
+  "stats": {
+    "fetched": 189,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 11193,
+    "ai_output_tokens": 6648,
+    "cost_thb": 1.62,
+    "runs": 1,
+    "kept": 24,
+    "eastern": 1,
+    "national": 23,
+    "new": 23,
+    "followups": 1,
+    "sources": 15
+  },
+  "items": [
+    {
+      "id": "c9a2351f",
+      "title": "“ไทยช่วยไทยพลัส” ได้ไปต่อรอบ 2 “อนุทิน” ประกาศเดินหน้าลดค่าครองชีพประชาชน",
+      "summary": "โครงการ \"ไทยช่วยไทยพลัส\" ได้รับอนุมัติเข้ารอบที่ 2 โดยอนุทิน ประกาศเดินหน้าลดค่าครองชีพให้ประชาชน เพื่อช่วยเหลือประชากรที่ได้รับผลกระทบจากเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13MERPNU5xaU13WExYSGpzdUdNc2plcFd0dEdoMUdXOGJuMUJXSmFYWlI1OHA5SE1YU0xlX3Z5QzVwTEUyRHNSaUlMNFFtdi14aWg3Ym5SRGhfb042?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-13T08:38:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายลดค่าครองชีพระดับชาติที่มีการประกาศอย่างเป็นทางการ"
+    },
+    {
+      "id": "edacdcc3",
+      "title": "“ส.ส.หนึ่ง” แจ้งข่าว! “อนุทิน” สั่งคลังพิจารณาขยาย “ไทยช่วยไทยพลัส” อีก 1-2 เดือน หวังช่วยลดภาระค่าครองชีพประชาชน",
+      "summary": "อนุทิน สั่งกระทรวงการคลังพิจารณาขยายโครงการไทยช่วยไทยพลัส อีก 1-2 เดือน เพื่อช่วยลดภาระค่าครองชีพประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NbmdqZ28tclI3X1R3cEFOR2hnT0hScGhGWG1NSkFfMmFmeFdyaS13R0RCblFONldJRUtIZk5UMG9oWWUxS0pneUJZdTE4Yms?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-13T09:36:01Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มีการสั่งการขยายโครงการเงินสดช่วยเหลือที่มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "62a83ddf",
+      "title": "กองทุนฟื้นฟูฯ นครศรีธรรมราช ขยาย “ศูนย์สุขใจใกล้บ้าน” ดูแลกลุ่มเปราะบาง–ปรับบ้าน 253 หลัง",
+      "summary": "กองทุนฟื้นฟูสมรรถภาพจังหวัดนครศรีธรรมราช ขยายศูนย์สุขใจใกล้บ้าน เพื่อดูแลคนพิการ ผู้สูงอายุ และผู้มีภาวะพึ่งพิง พร้อมปรับปรุงสภาพแวดล้อมที่อยู่อาศัย 253 หลัง",
+      "url": "http://www.hfocus.org/content/2026/09/39488",
+      "source": "Hfocus",
+      "published_at": "2026-09-13T08:19:37Z",
+      "category": "disability",
+      "provinces": [
+        "นครศรีธรรมราช"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการขยายบริการเฉพาะจังหวัดและปรับปรุงบ้าน 253 หลัง"
+    },
+    {
+      "id": "7c85077c",
+      "title": "“นิกร” เปิดมหกรรมสร้างงาน สร้างอาชีพคนพิการ ปี 2569 ภาคอีสาน สร้างโอกาสไร้ขีดจำกัด ช่วยขับเคลื่อนเศรษฐกิจ-สังคมไทยเข้มแข็ง",
+      "summary": "นิกรเปิดมหกรรมสร้างงานและอาชีพสำหรับคนพิการ ปี 2569 ในภาคอีสาน เพื่อสร้างโอกาสและขับเคลื่อนเศรษฐกิจสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByMlAwWWNIRmRtY1BkdTNuaVlKbWxRWFVLazc4VlNOZW1xSEF3WGZ2dFpXekFBbWdXV3pSMHNxSUlUVkJrRzNfY09MR2RTSFdr?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-09-13T04:15:06Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการสร้างงานสำหรับกลุ่มเปราะบางในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "d07c437b",
+      "title": "บอร์ด สปสช. หนุนนำร่อง ‘ตำรับยาแผนไทย’ มุ่งยกระดับการรักษา ‘โรคสะเก็ดเงิน’",
+      "summary": "บอร์ดสปสช.สนับสนุนโครงการพัฒนาตำรับยาแผนไทยปรุงเฉพาะรายสำหรับผู้ป่วยโรคสะเก็ดเงิน นำร่องดูแล 5,000 รายทั่วประเทศ",
+      "url": "http://www.hfocus.org/content/2026/09/39484",
+      "source": "Hfocus",
+      "published_at": "2026-09-13T03:46:51Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีการอนุมัติโครงการเฉพาะกับจำนวนผู้ป่วยที่ชัดเจน"
+    },
+    {
+      "id": "b64cd4ee",
+      "title": "พาณิชย์ ลุยลดค่าครองชีพ ยกสินค้าราคาประหยัดช่วยชาวราชบุรี",
+      "summary": "กระทรวงพาณิชย์ลุยลดค่าครองชีพโดยจัดหาสินค้าราคาประหยัดเพื่อช่วยเหลือประชาชนจังหวัดราชบุรี",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMm96UjFPei1UMUlXeThoM1FjVFlub3VycXIxYWJlbVJRZTZkVnR0d1FMbjJIOFNiQkpjazVISzhVOXR4SEctQWE5TWRiU0pNV3RqdVZfRGw1cjRKQXRsRFprNVkzRWZKbEE?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-13T12:36:30Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการลดค่าครองชีพที่มีการดำเนินการในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "31f7c95b",
+      "title": "เฮลั่น! นายกหนูต่ออายุไทยช่วยไทยอีกไตรมาสแม่ค้าแนะถ้าลดค่าครองชีพเศรษฐกิจฟื้นแน่",
+      "summary": "นายกฯ ต่ออายุโครงการไทยช่วยไทยอีกไตรมาส แม่ค้าแนะว่าการลดค่าครองชีพจะช่วยฟื้นเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tOExSNnI0ZnpfQ1NvVXROc2FjaTVDZ1laeXVId08xeW5TRGgwXzc4U1VMbjB6VGp2cXRoWmVkQjZ1dUR3VFBCNmd0VVFrRTMwX0cxbElaZjg?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-13T03:42:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีการต่ออายุโครงการสงเคราะห์ประชาชนแต่ไม่มีรายละเอียดจำนวนเงิน"
+    },
+    {
+      "id": "8f9c9362",
+      "title": "สภาผู้บริโภค ชวนปกป้องสิทธิ์สุขภาพคนไทย ร่วมลงชื่อคัดค้านแก้พ.ร.บ.บัตรทอง",
+      "summary": "สภาองค์กรผู้บริโภคชวนประชาชนลงชื่อคัดค้านการแก้ไขพ.ร.บ.บัตรทอง เพื่อปกป้องสิทธิสุขภาพและไม่ให้เงินเป็นตัวตัดสินการรักษา",
+      "url": "http://www.hfocus.org/content/2026/09/39483",
+      "source": "Hfocus",
+      "published_at": "2026-09-13T02:26:27Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เป็นการรณรงค์คัดค้านการเปลี่ยนแปลงสิทธิสุขภาพแต่ยังไม่มีผลสุดท้าย"
+    },
+    {
+      "id": "9551a182",
+      "title": "สมาคมชาวนาฯ จี้เกษตรฯ เร่งถก นบข. เคาะมาตรการช่วยชาวนาปี 69",
+      "summary": "สมาคมชาวนาเรียกร้องให้กระทรวงเกษตรและคณะบัญชาการเร่งประชุมเพื่อกำหนดมาตรการช่วยเหลือชาวนาในปี 2569 โดยยังไม่มีรายละเอียดมาตรการที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CdTcxaUFIYk1la0xrcVIwMkJfU0JMZlhtdVQ0SFdVajRRc3N5cXJIbmhPWTRQNUJQR3VSTHM2UGRfc1RzWm5zVmFLUW1ETUV0RjloV2FBdlo2bUhk?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-14T01:09:07Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับการช่วยเหลือชาวนา แต่ยังเป็นการเรียกร้องไม่ใช่มาตรการที่ยืนยันแล้ว",
+      "first_seen": "2026-09-12"
+    },
+    {
+      "id": "2eb05e17",
+      "title": "ลุ้นต่ออายุไทยช่วยไทยพลัส เงินโครงการยังเหลือ #ไทยช่วยไทย #ไทยช่วยไทยพลัส #ค่าครองชีพ #กระตุ้นเศรษฐกิจ #ทันหุ้น",
+      "summary": "ประชาชนลุ้นการต่ออายุโครงการ \"ไทยช่วยไทยพลัส\" โดยเงินโครงการยังเหลือ เพื่อช่วยลดค่าครองชีพและกระตุ้นเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxNSjc3MUlzckIzY2hwVVlrNzRHRElCOXI3RTFjT0F3VUxXM05sRWVEU1JXdHZBcWwwRVkwa2IxOW9xNmJjWlB1NXZQWFZuckdGLThEYUE2eFVBMXlqU1k2NDk5ZVRfTkVEUnVyTlVMaXhjMmtzN2NfZkZkMi1naWdzTUUzQWU1X1J1WHRkNmc0dHdTVGpwSVhEQTFza0thWDctam1HemZhTmhCQkxXZlhzMEJwNnZ4STJUbGZUQUFXQlo4bTNHZWZYa0ZtMEw4a3pTWTRVcXVPX3hkdE5mNXNYcTdxY0ptT3M4LTVxTi0wbkcwSjZPQ1p1MHZuY0ZhNjNPbTRGUkd1YlptRGI3TGlwel9EVzd0bUdMNDhiSU51ZW15dlBFTVNBT01pOUNPX1dZTzZpakpEY0JMb2dQb1JtT0N2TkRPNEk0SmNrRVZ5aVVNOEx5RC13dktpcmNqQmJqWnAwaTJXTGIxZXd4RTdMZHZzblN5dG5ENmQ4MEp0MWFFY2pPdElxckJlbVdfbWFrU210OXNOaHZBVUdtZVVCSjVvLW04RTBMa01VTUFQa0JRWnNkUmxjZ1VJbkNkM25KdFhaV1BjMW9qS1I0eFRFVHlDYTE2UDVGN3NmYy1GTUkxYUlQRFJPMGxweVU4MWJDME5oTUFDb1RxMDMyZGktZkxIRV82Zk1tRDlUbTBaUGh5NXFkR1dfRTBDWEF5VXdfMS14TWluYVZESWVtZHNLQnNqWF9ONXhGRENEMWR3WjRsOGZJdXhQQU4wc0lueG9Oa3lJWFVYVEVwLW5xaTFfUUd4TENMYU9xSWNaOWpMNTAyMDRjNzdQek5WX0lxZ3BaNkM2ZVNESXFvMlo1Vk5XRkUxYzVjUTJxc3NRREh3YWU5VnRSdWNIS3FyRG0tN3dQZWxkOG9aX1YtSWJTUDZkUVQ4azNIRTdmcEVoSXJuWU0wVTZOZGJZVkh3bnFEeEtvVHRQLUd5YXNtWHl4WWJFb29rVkJNR1dzSlk0ay16ZU1zQlBUeW1STWZPZlItVHBFOGVtOFY5QVJEdjExSUJNQzhuSHZrYzFOY3IxU2lHVWZBV204S3dKSWhoVWhDaUU3enJyZno1RkpLSW9nYVM4bHluS0kyTlB4eEJiQVZScHJSVURfcnVvSzBDSVBTUDVNWWJRZUtkU2FPQjd0TXVjXy13cVBZUjRkdkRwbllwNFJaWUc4OFNSbVVoQklQeWlXZjVYcVJnMUc0Q0xudFJySXdZSm93NUFoTXh5MzBDZHczWl9MZVAzT0QzWXpGVGFVWHVHMThLa0YzMktrWXllYS04NFY4MzdrX2N2azZCU3Jld2dkLTN6R0ZlYzVBczlXblFsenVQU05iWmpybE9tSFVwVTlaTTJuRGVN?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-13T11:27:41Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับการต่ออายุโครงการช่วยเหลือแต่เป็นข้อมูลจากสื่อสังคม"
+    },
+    {
+      "id": "08ad018b",
+      "title": "จับตาแก้ พ.ร.บ.บัตรทอง ทั้งฝ่ายสนับสนุนและคัดค้าน ร่วมล่ารายชื่อทั้งสองฝั่ง จุดไหนปชช.ได้ประโยชน์",
+      "summary": "กระแสแก้ไขพ.ร.บ.บัตรทองมีทั้งฝ่ายสนับสนุนและคัดค้าน ฝ่ายแพทย์หนุนการปฏิรูประบบสปสช. ขณะที่เครือข่ายคัดค้านเพื่อปกป้องสิทธิประชาชน",
+      "url": "http://www.hfocus.org/content/2026/09/39489",
+      "source": "Hfocus",
+      "published_at": "2026-09-13T10:19:01Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นการติดตามกระแสแก้ไขกฎหมายแต่ยังไม่มีการตัดสินใจสุดท้าย"
+    },
+    {
+      "id": "29aef357",
+      "title": "บอร์ด สปสช. ไฟเขียวนำร่องตำรับยาแผนไทย รักษาโรคสะเก็ดเงิน 5,000 ราย",
+      "summary": "สปสช. อนุมัตินำร่องตำรับยาแผนไทยรักษาโรคสะเก็ดเงินสำหรับ 5,000 ราย เพื่อให้ประชาชนเข้าถึงการรักษาทางเลือกที่ประหยัด",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80N3hPMl9BbGtydHZGUzFMUXVCV0kxei1jYmNvTk1ManBoWm9LdUdIYnNvU21ZOThvczVrdnJ3cmRxZE4wVmNMWHlUNmhsR2hseWF0SGdETGFQUXlsMkVma2FEWUJWNnNEQ1E?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-13T09:05:24Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มีการรักษาสำหรับประชาชนแต่เป็นนำร่องจำกัด"
+    },
+    {
+      "id": "d2a1b6bc",
+      "title": "‘ผู้บริโภค-แพทย์ชนบท’ ลุยปกป้องสิทธิสุขภาพ ชวนประชาชนลงชื่อ ค้านแก้ ‘พ.ร.บ.บัตรทอง’",
+      "summary": "ผู้บริโภคและแพทย์ชนบทร่วมกันชวนประชาชนลงชื่อคัดค้านการแก้ไขพ.ร.บ.บัตรทอง เพื่อปกป้องสิทธิสุขภาพ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82ZktuMlRFSUhpX2VWaHR5VHFBaXRNaTJZOThlX1duc1Jsa254RTVJTDhQQnk4Um5YWk5oclJpS1FzZUNnWmlCWE82RXpBWDZGUzJXUzV6V1NHVVU?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-13T09:01:29Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "เป็นการรณรงค์คัดค้านแต่ไม่มีข้อมูลเพิ่มเติมเกี่ยวกับผลลัพธ์"
+    },
+    {
+      "id": "fb94c963",
+      "title": "ไทยติดอันดับ 4 โลก จุดหมายเกษียณยอดเยี่ยมปี 2569 ชูจุดแข็งค่าครองชีพ-สุขภาพ",
+      "summary": "ไทยติดอันดับ 4 โลกในด้านจุดหมายเกษียณยอดเยี่ยมปี 2569 โดยชูจุดแข็งด้านค่าครองชีพและสุขภาพสำหรับผู้สูงอายุ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3d2dySmlXQ0NkMTNMb1VtUlM3Y0swNWlpSWp3Sk1PeGhSaXliRjRvb2FmdGQ3RFBLNTZhbExPUGJ1djlVeGpDWlVLYWFnU2JBcnpN?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-13T12:34:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับสวัสดิการผู้สูงอายุแต่เป็นการจัดอันดับระหว่างประเทศ"
+    },
+    {
+      "id": "f40b0bd8",
+      "title": "ปภ. โดยศูนย์ ปภ.เขต 17 จันทบุรี ร่วมมือพื้นที่เร่งช่วยเหลือน้ำกัดเซาะตลิ่งฝายน้ำล้นบ้านปึก ส่งรถขุดแขนยาว–วางบิ๊กแบ็ค เบี่ยงทางน้ำ คาดแล้วเสร็จใน 3 วัน",
+      "summary": "ปภ.เขต 17 จันทบุรี ช่วยเหลือน้ำกัดเซาะตลิ่งฝายน้ำล้นบ้านปึก ส่งรถขุดและวางบิ๊กแบ็คเบี่ยงทางน้ำ คาดแล้วเสร็จ 3 วัน",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrWVN3ZEpzQks2VkwwaWRTV3pLQWdPZExYRnBuY3JWOGVqRWpVbU5UWTktTVBVN0NIVE1IQUIzNEk1MFdSd3B4UDJWMWNraFlMaVR2c2JBc05mTHV3blhhalFNSzUtWGxNaS0wcW5xVXBYM2VEMmc?oc=5",
+      "source": "กรมประชาสัมพันธ์",
+      "published_at": "2026-09-12T23:25:53Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "เป็นการช่วยเหลือประชาชนจากภัยธรรมชาติในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "0e3a59af",
+      "title": "บอร์ดสปสช.เคาะตำรับยาแผนไทย 'ปรุงเฉพาะราย' รักษา'โรคสะเก็ดเงิน'",
+      "summary": "บอร์ดสปสช.เห็นชอบตำรับยาแผนไทยปรุงเฉพาะรายสำหรับรักษาโรคสะเก็ดเงิน เพื่อเพิ่มทางเลือกการรักษา",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jTFpwYTBqRXBuanBRTmV6UHdVa3VaMnk3MEpNdGFycC1qdEY1MzhmaHJIVUJCQjR1cHhiUm5ObktHOTM5TEVlU0lla0o5T0cya3NUWWkwYkdjbFo4cXdJNTd6VVNVUFl1eXBr?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-13T03:20:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "เป็นการอนุมัติโครงการแต่ข้อมูลจากหัวข้อเท่านั้น"
+    },
+    {
+      "id": "b95cb788",
+      "title": "บทบรรณาธิการ – เยียวยา‘คางดำ’",
+      "summary": "กระทรวงเกษตรฯ เร่งแก้ปัญหาปลาหมอคางดำที่ระบาดใน 21 จังหวัด เพื่อปกป้องประชาชนและระบบนิเวศ จัดตั้งคณะกรรมการพิเศษกำกับการแก้ไข",
+      "url": "https://www.khaosod.co.th/politics/hot-topics/news_10397350",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-13T10:59:21Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับอาชีพเกษตรกรแต่เป็นเรื่องสิ่งแวดล้อม"
+    },
+    {
+      "id": "a4ecdc43",
+      "title": "SCB EIC ชี้กำลังซื้อบ้านยังฟื้นช้า 56% ไม่มีแผนซื้อใน 5 ปี หันหามือสอง",
+      "summary": "สำรวจ SCB EIC พบกำลังซื้อบ้านฟื้นช้า 56% ไม่มีแผนซื้อใน 5 ปี เนื่องจากเศรษฐกิจชะลอตัว สินเชื่อเข้มงวด และราคาบ้านสูง ผู้บ้านหันไปซื้อบ้านมือสอง",
+      "url": "https://www.prachachat.net/real-estate/news-2065924",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-13T10:33:25Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับความเป็นอยู่ของประชาชนรายได้น้อยแต่เป็นข้อมูลสำรวจ"
+    },
+    {
+      "id": "21680e4d",
+      "title": "สวนดุสิตโพลชี้ 2 ปัจจัยนำสู่ชุมนุมทางการเมือง “ค่าครองชีพ-ฮั้ว สว.”",
+      "summary": "สวนดุสิตโพลชี้ว่าค่าครองชีพและปัญหาการเมืองเป็นปัจจัยสำคัญนำไปสู่ชุมนุมทางการเมือง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vUy1MLXprcThEejE1TFQtUmtSMDhSX0hPZHc5RldtTnNKdGprTHVEOGtUZ3cxM2NiOXhHLTRNUm5tSVpDQ1VxWTdwejFYZ1E1Nmc5LXctMA?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-13T02:54:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับค่าครองชีพแต่เป็นการวิเคราะห์สำรวจความคิดเห็น"
+    },
+    {
+      "id": "32109d7f",
+      "title": "สแกน ‘หน่วยรับงบบัตรทอง’ จำนวนมากที่สุด ‘ไม่ใช่ รพ.’ สั่งเช็กกม.",
+      "summary": "การสแกนหน่วยรับงบประมาณบัตรทองพบว่าหน่วยที่ได้รับงบมากที่สุดไม่ใช่โรงพยาบาล มีการสั่งเช็กกม.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xdUNrV0FQcF9RUmdlbzJYUDk2TFh6Y1JLc3pGNk1WZjhOdHpXenZYYlNVOUIzVkhmQ0UxUFgxM2dtVzlvbkZ0Ump5OHN6X0xFcFRmclBJNm9fSy04U25XYk1qc2tRSEs5TnQ0?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-13T09:04:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 52,
+      "why": "เป็นข้อมูลการตรวจสอบการใช้งบประมาณแต่ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "9a329496",
+      "title": "‘ทวี’ ร่วมงาน “เมาว์ลิด” ไรเดอร์ 3 จังหวัดฯ พร้อมเดินหน้าร่างกฎหมายคุ้มครองไรเดอร์",
+      "summary": "พ.ต.อ.ทวี ร่วมงานเมาว์ลิดไรเดอร์ 3 จังหวัด พร้อมเดินหน้าร่างกฎหมายคุ้มครองไรเดอร์เพื่อปกป้องสิทธิแรงงาน",
+      "url": "https://www.khaosod.co.th/politics/news_10397485",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-13T13:50:05Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกับการคุ้มครองแรงงานไรเดอร์แต่เป็นการประกาศเจตนาเท่านั้น"
+    },
+    {
+      "id": "5371596d",
+      "title": "‘สวนดุสิตโพล’ เผย ‘ปัญหาศก. ค่าครองชีพ-โกง สว. ปลุกม็อบได้",
+      "summary": "สวนดุสิตโพลเผยว่าปัญหาเศรษฐกิจและค่าครองชีพเป็นปัจจัยสำคัญปลุกการชุมนุมทางการเมือง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81SktaV1ByUE91NXdIaUFQME04V0lzaHU1a1dWckV5akVnaG9rU0NaT0Jka2ZZUjdkMTVTam5WbnE5dVJPNExuNGg3RHN6d2NTbTc2V0ZPU25vbG8?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-13T06:20:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นการวิเคราะห์สำรวจเกี่ยวกับค่าครองชีพแต่ไม่มีมาตรการเฉพาะ"
+    },
+    {
+      "id": "a22b4703",
+      "title": "สถานการณ์แรงงานประจำสัปดาห์ 7-13 ก.ย. 2569",
+      "summary": "รายงานสถานการณ์แรงงานประจำสัปดาห์ 7-13 กันยายน 2569 จากประชาไท",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOb1N2N0E1NkU5VXZlUVdDd2s0T2k0UGRqWVZnY0VPOXdjNzhQVjd4czZnSk4tNll4dXRJRFF5UW5kdVNMc0YzOFJyUm1pOXR1dHhld2pkWQ?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-09-13T01:57:44Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นรายงานสถานการณ์แรงงานแต่ไม่มีรายละเอียดเนื้อหา"
+    },
+    {
+      "id": "bd13dc77",
+      "title": "เคราะห์ซ้ำ ชาวนาถูกโจรขโมยขุดหัวมันสำปะหลัง หลังนาข้าวเพิ่งโดนภัยแล้งเล่นงาน",
+      "summary": "เกษตรกรจังหวัดอุทัยธานีประสบความเดือดร้อนจากภัยแล้งและการขโมยพืชผล หลังนาข้าว 10 ไร่ได้รับความเสียหาย",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10397307",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-13T10:28:29Z",
+      "category": "farmers",
+      "provinces": [
+        "อุทัยธานี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นเรื่องเกษตรกรประสบภัยแต่ไม่มีการช่วยเหลือหรือนโยบายที่ชัดเจน"
+    }
+  ]
+}
