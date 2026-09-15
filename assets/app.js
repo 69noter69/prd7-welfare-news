@@ -15,8 +15,8 @@ const STALE_HOURS = 26;              // show the yellow warning if newest data i
 const TIME_ZONE = 'Asia/Bangkok';
 const NATIONWIDE = 'ทั่วประเทศ';
 
-// สปข.7 coverage area — items mentioning any of these provinces go to the regional tab
-const EASTERN_PROVINCES = ['จันทบุรี', 'ตราด', 'ระยอง', 'ชลบุรี', 'ฉะเชิงเทรา', 'ปราจีนบุรี', 'สระแก้ว', 'นครนายก'];
+// สปท.7 coverage area (9 provinces) — items mentioning any of these provinces go to the regional tab
+const EASTERN_PROVINCES = ['จันทบุรี', 'ตราด', 'ระยอง', 'ชลบุรี', 'ฉะเชิงเทรา', 'ปราจีนบุรี', 'สระแก้ว', 'นครนายก', 'สมุทรปราการ'];
 
 // Category key -> Thai label. Colors are defined in style.css by the same key.
 const CATEGORIES = {
