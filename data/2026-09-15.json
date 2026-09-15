@@ -1,0 +1,564 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T01:12:22Z",
+  "window": {
+    "from": "2026-09-13T23:10:47Z",
+    "to": "2026-09-15T01:10:47Z"
+  },
+  "stats": {
+    "fetched": 210,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 15630,
+    "ai_output_tokens": 9986,
+    "cost_thb": 2.39,
+    "runs": 1,
+    "kept": 36,
+    "eastern": 0,
+    "national": 36,
+    "new": 36,
+    "followups": 0,
+    "sources": 26
+  },
+  "items": [
+    {
+      "id": "57d24d26",
+      "title": "รัฐบาลเดินหน้าบรรเทาค่าครองชีพประชาชน ขับเคลื่อนกิจกรรมจำหน่ายสินค้า “ไทยช่วยไทย ลดภาระ ลดค่าครองชีพ” อย่างต่อเนื่อง ผลการดำเนินการตลอด 6 ครั้ง สร้างเงินหมุนเวียนกว่า 86 ล้านบาท ช่วยลดค่าครองชีพกว่า 15 ล้านบาท",
+      "summary": "รัฐบาลดำเนินโครงการไทยช่วยไทยลดภาระค่าครองชีพ 6 ครั้ง สร้างเงินหมุนเวียนกว่า 86 ล้านบาท ลดค่าครองชีพกว่า 15 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2a0Vka1gyRURZXy10bm4zbFk4ampYZE13M1loWUZCaGtzSTFKWTZWQ05WWVBHYXBuUC1UdGZoTlpRanpwNU9TVnJjMXNmSUJsTHJYdVFTV0R5M0prRzYtYl9UQWNjRnAtLUs4Ry1Od1BzU2s?oc=5",
+      "source": "prd.go.th",
+      "published_at": "2026-09-14T01:18:45Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายรัฐบาลหลัก มีตัวเลขผลสำเร็จชัดเจน ส่งผลต่อประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "4d80ec6b",
+      "title": "บัตรสวัสดิการแห่งรัฐ รุ่นใหม่ แจก 10,000 บาท ก.ย.นี้",
+      "summary": "บัตรสวัสดิการแห่งรัฐ รุ่นใหม่ มีการแจกเงินจำนวน 10,000 บาท ในเดือนกันยายน ปีนี้",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdTlqeDFQbnJFcndxbzZBTDM0YWVhZkloVmJOcHNVaHZZekc2Rld1Z3AxUDRvaHNWUW9zQWpyajVGRllsTzZ3a3c3WDZXZ29ucEhlUDZZN2Z1Zw?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-14T12:28:18Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "การแจกเงินสวัสดิการโดยตรงแก่ประชาชน มีจำนวนเงินและเดือนที่ชัดเจน"
+    },
+    {
+      "id": "1b6fa8fc",
+      "title": "รัฐบาลโอ่ผลงานจำหน่ายสินค้า“ไทยช่วยไทยฯ” 6 ครั้ง เงินหมุนเวียน 86 ล้าน ลดค่าครองชีพกว่า 15 ล้านบาท",
+      "summary": "รัฐบาลรายงานผลโครงการ 'ไทยช่วยไทย' ที่จำหน่ายสินค้า 6 ครั้ง สร้างเงินหมุนเวียน 86 ล้านบาท และลดค่าครองชีพกว่า 15 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55V3plakF2M3NsT0VlcVpkdzQ4Z2NCbjRWWEgxQlZSVVF4ZDZTWlB0YzMxcF9pblJCTDdHUk9sZTJ6OVl3UjdzX19NMlBFZG9sSDlZWFVHaFhvV1B0TkE2YQ?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-14T02:26:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ผลสำเร็จของโครงการสนับสนุนค่าครองชีพระดับชาติพร้อมตัวเลขที่เป็นรูปธรรม"
+    },
+    {
+      "id": "6e173b8d",
+      "title": "รัฐบาลเผยโครงการไทยช่วยไทย 6 ครั้ง สร้างเงินหมุนเวียนกว่า 86 ล้านบาท ช่วยลดค่าครองชีพ 15 ล้านบาท",
+      "summary": "รัฐบาลเผยโครงการ 'ไทยช่วยไทย' ดำเนินการ 6 ครั้ง สร้างเงินหมุนเวียนกว่า 86 ล้านบาท และช่วยลดค่าครองชีพ 15 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jOXVrUG56Nk1PMUJxREhneWVuUnV4eTlSMFEtd3ZDem5UamhPSXVVMUdlSFJDb2V5UWREYk1WYnRuMUwwRzJHYUNScw?oc=5",
+      "source": "สำนักข่าวบริคอินโฟ",
+      "published_at": "2026-09-14T03:47:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "ผลสำเร็จของโครงการสนับสนุนค่าครองชีพระดับชาติพร้อมตัวเลขที่เป็นรูปธรรม"
+    },
+    {
+      "id": "c8f8d4b1",
+      "title": "'คลัง' จ่อชง 'ไทยช่วยไทยพลัส' เข้าที่ประชุมกลั่นกรองสัปดาห์นี้ อุดหนุนค่าครองชีพไร้รอยต่อ",
+      "summary": "กระทรวงการคลังเสนอโครงการ 'ไทยช่วยไทยพลัส' เข้าที่ประชุมกลั่นกรองในสัปดาห์นี้ เพื่ออุดหนุนค่าครองชีพของประชาชนอย่างต่อเนื่องและไม่มีช่องว่าง",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tYk5LRVRNS3Y5dXV4ZThoTkhXLW5DYnQzdVptd21oNXRQZ1lPeDVKOVVVMm5iNmRJRDVUcTJERlg4U01GalV3MWVHbWlMRXhWa0JrbXhKSjFKbDdY?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-14T09:20:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสนับสนุนค่าครองชีพระดับชาติที่อยู่ระหว่างการพิจารณา"
+    },
+    {
+      "id": "a490f717",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 ประกาศผลอุทธรณ์ เช็กสิทธิได้ผ่านเว็บไซต์",
+      "summary": "บัตรสวัสดิการแห่งรัฐ ปีงบประมาณ 2569 ประกาศผลการอุทธรณ์ สิทธิสามารถตรวจสอบได้ผ่านเว็บไซต์อย่างเป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vSTR4Z3NucWxBdjJ2T2w3MkZSS1ZqenBZVENGblUzLTlnX1d3MGU4SXQwWWZHeERBekFxbkZOVVpoRVIxVXQyRV9hYTJwSnU2T25oaA?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-09-14T03:41:11Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ประกาศผลสิทธิบัตรสวัสดิการ ส่งผลโดยตรงต่อประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "bf012b7c",
+      "title": "แจ้งปรับลดอัตราค่าไฟบ้านตามมติ กกพ. เริ่มรอบบิลกันยายน 2569",
+      "summary": "MEA ประกาศลดอัตราค่าไฟฟ้าบ้านอยู่อาศัยแบบก้าวหน้า ตามมติ กกพ. มีผลตั้งแต่บิลกันยายน 2569",
+      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2066262",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-14T09:52:23Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ลดค่าไฟฟ้าครัวเรือนมีผลจริงตั้งแต่เดือนกันยายน"
+    },
+    {
+      "id": "52a6121d",
+      "title": "ประกันสังคม ม.33-ม.39 พ่อแม่มือใหม่ รับเงินเหมาจ่ายหลักหมื่น",
+      "summary": "พ่อแม่มือใหม่ที่ลงทะเบียนประกันสังคมตามมาตรา 33-39 สามารถรับเงินเหมาจ่ายจำนวนหลักหมื่นบาท",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MUlk1T193anBPS1RmUlVxbkNOajRxWFFYTTVYdkFKTGNvOC1xX1M5bTh0TkprOVB6enN3TmxkWUxHWS0talFZd1hvRDY?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-14T01:00:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "สิทธิประกันสังคมสำหรับพ่อแม่มือใหม่ที่มีการจ่ายเงินจริง"
+    },
+    {
+      "id": "5d676f4b",
+      "title": "ออมสิน ขานรับ “ไทยช่วยไทย พลัส” ส่งสินเชื่อ ออมสิน QR มหาเฮง x นกกระซิบ เติมทุนพ่อค้าแม่ค้า",
+      "summary": "ออมสินเปิดสินเชื่อ \"ออมสิน QR มหาเฮง x นกกระซิบ\" วงเงินสูงสุด 5 หมื่นบาท ไม่ต้องหลักประกัน เพื่อเติมทุนพ่อค้าแม่ค้า เปิดลงทะเบียน 24 กันยายน",
+      "url": "https://thaipublica.org/2026/09/gsb-pr-14092026/",
+      "source": "ThaiPublica",
+      "published_at": "2026-09-14T06:53:34Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "สินเชื่อเพื่อเสริมทุนผู้ประกอบการรายย่อยมีวงเงินชัดเจน"
+    },
+    {
+      "id": "c0b9c252",
+      "title": "คลังจ่อโยกเงินกู้ 2 แสนล้าน ลุยไทยช่วยไทยพลัส เฟส 2 เร่งชงครม. ก่อน 30 ก.ย.",
+      "summary": "กระทรวงการคลังเตรียมโยกเงินกู้ 2 แสนล้านบาท เพื่อลุยโครงการไทยช่วยไทยพลัส เฟส 2 โดยเร่งเสนอครม. ก่อนวันที่ 30 กันยายน 2569",
+      "url": "https://www.matichon.co.th/economy/news_5888881",
+      "source": "มติชน",
+      "published_at": "2026-09-14T23:25:22Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือประชาชนขนาดใหญ่ แต่ข้อมูลไม่สมบูรณ์เกี่ยวกับรายละเอียด"
+    },
+    {
+      "id": "0d7474c7",
+      "title": "\"สกลธี\" เปิดเวทีหาทางออก \"โรคหายาก\" ชงตั้งกองทุนเฉพาะกิจ-เร่งทำฐานข้อมูล",
+      "summary": "ประธานคณะกรรมาธิการสาธารณสุขเปิดเวทีหาทางออกโรคหายาก เสนอตั้งกองทุนเฉพาะกิจและเร่งทำฐานข้อมูล เพื่อช่วยเข้าถึงยา",
+      "url": "http://www.hfocus.org/content/2026/09/39504",
+      "source": "Hfocus",
+      "published_at": "2026-09-14T13:25:25Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสนับสนุนสุขภาพสำหรับผู้ป่วยโรคหายากที่อยู่ระหว่างพัฒนา"
+    },
+    {
+      "id": "0cde9ba9",
+      "title": "ปลัดคลังเตรียมถกบอร์ดกลั่นกรองสัปดาห์นี้ เล็งใช้เงินกู้ต่ออายุ ไทยช่วยไทยพลัส เฟส 2",
+      "summary": "ปลัดคลังเตรียมนำเสนอบอร์ดกลั่นกรองการใช้เงินกู้ต่ออายุโครงการไทยช่วยไทยพลัส เฟส 2 เพื่อช่วยเหลือประชาชนในสถานการณ์ราคาน้ำมันสูง",
+      "url": "https://www.prachachat.net/finance/news-2066302",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-14T10:26:25Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือประชาชนที่มีกำหนดการชัดเจน"
+    },
+    {
+      "id": "757ba702",
+      "title": "พ่อค้าแม่ค้า-ประชาชน วอนรัฐบาลช่วยต่อโครงการ \"ไทยช่วยไทย พลัส 60/40\" หลังช่วยกระตุ้นยอดขายพุ่งเท่าตัวและลดค่าครองชีพ",
+      "summary": "พ่อค้าแม่ค้าและประชาชนขอให้รัฐบาลต่อโครงการ \"ไทยช่วยไทย พลัส 60/40\" ซึ่งช่วยกระตุ้นยอดขายเพิ่มขึ้นเท่าตัวและลดค่าครองชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSHVIVEIwZU1JUnY5ZjRwNjVuNUl3VElqdllIYkQ5ZU9HTExUOXp6c1hadVFlU01GdnlyaEg5MzNMdUNKMkF1dnBB?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-14T05:37:29Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการช่วยเหลือต้นทุนชีวิตที่มีผลจริง"
+    },
+    {
+      "id": "a07a96e8",
+      "title": "เร่งประสานเงินช่วยเหลือ ม.41 กรณีเด็ก 1 ขวบ นิ้วบาดเจ็บรุนแรงขณะตัดสายน้ำเกลือ",
+      "summary": "สำนักงานสาธารณสุขจังหวัดอุบลราชธานี เร่งประสานเงินช่วยเหลือตามมาตรา 41 สำหรับเด็กชายวัย 1 ขวบที่ได้รับบาดเจ็บนิ้ว เพื่อเสนอคณะอนุกรรมการระดับจังหวัดพิจารณา",
+      "url": "http://www.hfocus.org/content/2026/09/39499",
+      "source": "Hfocus",
+      "published_at": "2026-09-14T09:37:04Z",
+      "category": "children",
+      "provinces": [
+        "อุบลราชธานี"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การช่วยเหลือเด็กที่ได้รับบาดเจ็บตามกฎหมายสวัสดิการ"
+    },
+    {
+      "id": "4090fc59",
+      "title": "กบง. ยืดแทรกแซงดีเซล บรรเทาค่าครองชีพ กดดันกำไรกลุ่มโรงกลั่น",
+      "summary": "กบน.ยืดแทรกแซงราคาดีเซลเพื่อบรรเทาค่าครองชีพ โดยกดดันกำไรของกลุ่มโรงกลั่นน้ำมัน",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBT3dHOVBwLXdnVnNra3JNUzduZkNkdjRSQTRhY19KcTJ0MkQtU1dBbDkyeVFIUlBfMy1JNGFBSFZNRFByS2tqbW9yVE5xSjVjX0Z3YmRnWXpUamtuVmlad3JsZw?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-09-14T09:15:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการควบคุมราคาเชื้อเพลิงเพื่อลดค่าครองชีพ"
+    },
+    {
+      "id": "422936d6",
+      "title": "ชาวบ้านขอรัฐบาลต่อ “บัตรคนจน” 1,000 บาท ควบคู่ “ไทยช่วยไทยพลัส” ลดภาระค่าครองชีพ",
+      "summary": "ประชาชนขอให้รัฐบาลเพิ่มสิทธิบัตรคนจนเป็น 1,000 บาท พร้อมโครงการไทยช่วยไทยพลัส เพื่อลดภาระค่าครองชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPNHFTM0paZWpqY2NSWWdQUDNYRHltYjBEWnZNMVM2bjVnSjFaQzY5QnB0N01OeHFpc3hLeGdmZnlKbWhUZHdZNUlwVklmNDZnZS1zNGZFYXM?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-14T05:57:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อเรียกร้องเกี่ยวกับสวัสดิการและค่าครองชีพ แต่เป็นข้อเสนอยังไม่ได้ตัดสินใจ"
+    },
+    {
+      "id": "403cc45d",
+      "title": "News1. . สัญญาณดี เด็กตกกู้ กยศ. | News1 ถามตรงๆ “สภาเด็ก - กยศ.” หารือแนวทางช่วยเด็กไม่กู้ยืมเงินเรียน คาดว่าปลายตุลาคม 69 อนุมัติ #news1 #ถามตรงๆ ​#กองทุนเงินให้กู้ยืมเพื่อการศึกษา #กยศ. #งบกลาง",
+      "summary": "สภาเด็กและกยศ. หารือแนวทางช่วยเด็กที่ไม่สามารถกู้ยืมเงินเรียนจากกองทุน คาดอนุมัติปลายตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMitAdBVV95cUxPd1N4dVNsYjIyY2hDZk1zVFNZYVZPbGthRUpTSHk1emVLVEh6UEowdU9pdXNRZlhnZ3JNdURVUVVVUXhvVE1UaXlkR3ExbC1lMExWN20tWnBZbkJuUEVtN3c3TUZjQXBTRjJ4aHNGZTdCODVBOEktM1pRRFZKYjB2R0pTelREMjhhdHo1WS0yZVJMYUpqMnhPNGdnY3NoU0QyUWFUVS1BREdRR1E2R0NTRDJ0Q1FZQmoyTHJsY1prOFFyeS04UHQzbnNPWWRwSEp0MGREOWo0MHlJaDRuZ3B3T3pJZHgxNGhKaEFTaFpDUHhsU1VCbElNak9WMi1UeEM3SGtSdmp6REZHamhjVW51QlU1MVNOOUlKOU5IRGl4SnpNYUpRVml5Sm9KaVdPakQycWFqaWtPcnBMWlZxNVlVck9rQm95TlpKQ0g3dF9La2cwR2ZOLWJPeEcyaWpPaWtZODhPMFAwMm5yOE5jUFdZNXNZSlhDQWZYTEJmT2lZUTQwdUNnTERhV2tTMlNiOF9YTW5WU0tOZkFEaGlaWnhlNloxWjdNUzRHek5oZFVFZjlRN3FBM1l2czRBOWtXZUQ1RmQ3STdQU2Y3WU1VcWNpLURvUXFXNkV5ak5TaXNrTXdUZDI1YUR3UkJsOXNrY1ExS2V4c2R6QjBxTTVFR2J0YnJVOXRQTEtSTWRGNlVya1k4dVZDNFFHS1BKdTFISnpiWlJ2OWNobzZRZXBhRTRKQ1RpRl9BU2xfQUkxbkxOYThkX19XVkNua0UyZWdkc1RQMnR1Z2ZPSFJkODFJZ21sRUFZaG5KV21MQ01GSTBBa1RyLXlJMTg1VFZ3UkRhc0lwckVNQWhhRS02WVotemlhTFBwVDFkMUljRXZCelBEZDJzQWZ1dXRJM2s3cWxUbDhPc0dpNkdUdjU0Y1JFN3p3UzZNR2ZINTQ3UlNQS2x0elZsbENPTDlXdVlsMUJqTG9uNUY4OXF3cmhTM2tVQ28zOGdsLWp6VkkySnBtZ1JaTFllSVV2R1NpNnprc0pyZEdnX0JyeGNVZ0hoS1Y3a0F3UDkyR21nU21mT2FNM1ZWVVNwMUljX0wycTNnSEJwaC1uOTRBWm9wZTNiZGxIdjNnSEpCdmpjOXYwQm1rQ2dZUjJWLVhhTGVNY2ZXeUU1ZUVWdjZURlozamwzQjM1a25WTnUyQmZ5b2xUb0oxTUNzSXBuQmpZNk52LU5uZ09hVzBVUHhpZlVleWUtWGoyWEdiOUhQVzY?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-14T02:24:44Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการสนับสนุนการศึกษาสำหรับเด็กที่มีกำหนดการชัดเจน"
+    },
+    {
+      "id": "4a832ac2",
+      "title": "กคช. จับมือ มรภ.เพชรบุรี พัฒนาที่อยู่อาศัย พร้อมยกระดับคุณภาพชีวิต สร้างชุมชนเข้มแข็ง",
+      "summary": "กคช.จับมือมหาวิทยาลัยราชภัฏเพชรบุรีพัฒนาที่อยู่อาศัยและยกระดับคุณภาพชีวิตสร้างชุมชนเข้มแข็ง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53SkxHb0xzZlBqYzBtc3hEMjF6VE5wYVM5bUNuV190SEI5V2EzYjZuNnZNTWdFTG9WWTdLblFScHh3TGkzazJZU3dCZ1dEZXJ5ajdWRm04QXNrOW8?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-14T13:32:00Z",
+      "category": "housing",
+      "provinces": [
+        "เพชรบุรี"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "โครงการพัฒนาที่อยู่อาศัยแต่ขาดรายละเอียดเงินอุดหนุน"
+    },
+    {
+      "id": "775080ec",
+      "title": "“จุลพันธ์” รมว.แรงงาน เปิดกิจกรรม RUN FOR CARE ส่งเสริมสุขภาพของแรงงานและผู้ประกันตน ย้ำ 3 นโยบายสำคัญยกระดับคุณภาพชีวิตและสิทธิประโยชน์ของภาคแรงงานทั่วประเทศ",
+      "summary": "รมว.แรงงานเปิดกิจกรรม RUN FOR CARE เพื่อส่งเสริมสุขภาพแรงงานและผู้ประกันตน พร้อมยกระดับคุณภาพชีวิตและสิทธิประโยชน์",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nRTkwX3BYUl9GUmUwZElTY1M1S08zY1c1SGVmVHBPMjh0MUV0MlBCdzdvcnNHUlZPZTVwXzRvTXpGZldlSEdwMWlFZ3Z5cVRBR041cEpB?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-09-14T07:29:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "นโยบายยกระดับสิทธิประโยชน์แรงงานแต่เป็นกิจกรรมส่งเสริมสุขภาพ"
+    },
+    {
+      "id": "6942b69e",
+      "title": "“สว.เทวฤทธิ์” จี้ รมว.แรงงาน แจงความพร้อมเลือกบอร์ดประกันสังคม 27 ก.ย.นี้ หวั่นกระทบเชื่อมั่นผู้ประกันตน",
+      "summary": "สมาชิกวุฒิสภาจี้รัฐมนตรีแรงงานแจงความพร้อมเลือกบอร์ดประกันสังคม วันที่ 27 กันยายน หวั่นกระทบเชื่อมั่นผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qT3BUUkpGNnR4OTVBMHd2R0hhYkFlZkVoaGQ5RnQxaEIxblgwdFhpWnZQbzV5bFVaU1Vsb2xmOElMenprY1M1SVQ1ZVE3WjA?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-14T06:00:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวกับประกันสังคมผู้ประกันตน มีกำหนดวันชัดเจน แต่เป็นข้อกังวลยังไม่ได้ตัดสินใจ"
+    },
+    {
+      "id": "23a3b96e",
+      "title": "บอร์ด รฟม. ลงพื้นที่เยี่ยมชมความพร้อม “รถไฟฟ้าสายสีเขียว” เตรียมรองรับ “ค่าโดยสารร่วม” ปี 2570 ลดภาระค่าครองชีพประชาชน | สวพ.FM91",
+      "summary": "รฟม. เตรียมระบบค่าโดยสารร่วมสำหรับรถไฟฟ้าสายสีเขียวปี 2570 เพื่อลดภาระค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xYVlyaXhSSVlvRkJ6bWZxNFI1QURYZl91dmZ4ZzFlVnNuR1owUU1MMF90elN0RWFVemh3bWdKaHdyWEFZNGNkaElGR09NQ0JkWnZ3LWVR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-14T15:05:49Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการลดค่าใช้จ่ายสาธารณูปโภคแต่ยังไม่มีรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "26e7a009",
+      "title": "MEA ผนึก ม.อ. เปิด Smart Solar Grid 5 วิทยาเขต คาดประหยัดค่าไฟ 20.80 ล้านบาทต่อปี",
+      "summary": "MEA ร่วม มหาวิทยาลัยสงขลานครินทร์เปิด Smart Solar Grid ที่ 5 วิทยาเขต คาดประหยัดค่าไฟ 20.80 ล้านบาทต่อปี",
+      "url": "https://www.prachachat.net/biz-movement/public-relations/news-2066277",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-14T10:06:29Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "โครงการประหยัดพลังงานแต่เป็นระดับสถาบันการศึกษา"
+    },
+    {
+      "id": "b71395c6",
+      "title": "สกลนคร ผวจ.เปิดสงครามกวาดล้างหนี้นอกระบบ เดินหน้าช่วยประชาชน",
+      "summary": "ผู้ว่าราชการจังหวัดสกลนคร เปิดโครงการกวาดล้างหนี้นอกระบบ เพื่อช่วยเหลือประชาชนที่ติดหนี้",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRNmFOZXAtOW9FdkZETUJxTTMyMHh4bVVESVcyeFFQdXRUaVMzbFpTM1NaeWRsT0tFdW82MXJ0QThFSFZxdTVRU01yZFdWRXRnVENNbA?oc=5",
+      "source": "ทอล์คนิวส์ ออนไลน์",
+      "published_at": "2026-09-14T09:57:20Z",
+      "category": "debt",
+      "provinces": [
+        "สกลนคร"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "โครงการช่วยเหลือหนี้นอกระบบระดับจังหวัด แต่ขาดรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "77ae0e54",
+      "title": "สปสช.ย้ำยังไม่สรุปเงินเยียวยา ‘น้องยูฟ่า’ ชงให้คณะอนุกรรมการ ม.41 ชี้ประเภท-วงเงิน",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติยังไม่สรุปเงินเยียวยาคดีน้องยูฟ่า ส่งให้คณะอนุกรรมการตามมาตรา 41 พิจารณาประเภทและวงเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85MEJBNEtSOU9RcTBLR2hpV2YwRjZNbkd2c3drMDNqYjlYTEtFUjV6VzZXVlMyY3AzZW1DSVpybzJfTG82SDQzOGNEZ2xjcGRwLTNMTlZHbEQwcXd3dEVxdzhEOHY0QlpUdFE?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-14T09:47:15Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวกับการเยียวยาสวัสดิการสุขภาพ แต่ยังอยู่ในขั้นตอนพิจารณา"
+    },
+    {
+      "id": "d009d089",
+      "title": "ปตท.-บางจาก ปรับขึ้นราคาน้ำมัน \"กลุ่มเบนซิน\" และ \"แก๊สโซฮอล์\" ทุกชนิด 85 สต./ลิตร",
+      "summary": "ปตท. และบางจากปรับขึ้นราคาน้ำมันเบนซินและแก๊สโซฮอล์ทุกชนิด 0.85 บาท/ลิตร มีผลตั้งแต่วันที่ 15 มิถุนายน 2569 ส่งผลกระทบต่อค่าใช้จ่ายของประชาชนทั่วไป",
+      "url": "https://www.thairath.co.th/news/society/2959614",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-09-14T13:44:50Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ส่งผลต่อต้นทุนชีวิตประชาชนทั่วไป แต่ไม่ใช่มาตรการสวัสดิการโดยตรง"
+    },
+    {
+      "id": "f8a75623",
+      "title": "กบน.แบกไม่ไหว ปรับขึ้นราคาน้ำมันทุกชนิด 0.85 บาทต่อลิตร มีผล 15 ก.ย.69",
+      "summary": "กบน.ปรับขึ้นราคาน้ำมันทุกชนิด 0.85 บาทต่อลิตร มีผล 15 กันยายน 2569 เนื่องจากสถานการณ์ความตึงเครียดทางภูมิรัฐศาสตร์",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10398716",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-14T13:04:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข่าวเพิ่มค่าครองชีวิตไม่ใช่มาตรการช่วยเหลือ"
+    },
+    {
+      "id": "10fae875",
+      "title": "ชงปฏิรูปเกณฑ์คัดกรองยื่นกู้ กยศ. จ่อแบนรุ่นพี่ตั้งใจเบี้ยวหนี้ ลดปัญหาวิกฤตสภาพคล่อง",
+      "summary": "เสนอปฏิรูปเกณฑ์คัดกรองการยื่นกู้กยศ. เพื่อแบนผู้ที่เบี้ยวหนี้โดยตั้งใจ และลดปัญหาวิกฤตสภาพคล่องของกองทุน",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZbkhySGlnVEJucWxGZGQtMW8teW5hVUU1Z3VwQWxjb3NEVUN4QlBVcDNsLVZKVzNMYmlHYnJtdjNSWkwxQnp4ek9pT3pXamV3UHlCbzZTRlFlOEdWTkE?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-14T07:28:59Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ปฏิรูประบบกยศ. แต่เป็นการแก้ปัญหาระยะยาวไม่ใช่ช่วยเหลือทันที"
+    },
+    {
+      "id": "b141bbf0",
+      "title": "เจ็บจากการรักษา เยียวยาไม่ต้องพิสูจน์ ‘ถูกผิด’ รู้จักสิทธิ ‘ม.41’ ระบบบัตรทอง",
+      "summary": "ผู้ได้รับความเสียหายจากการรักษาสามารถเยียวยาตามสิทธิ มาตรา 41 ของระบบบัตรทองโดยไม่ต้องพิสูจน์ความผิด",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aMkI5dnlPWTVvWXNZUmE5TTIyWVFWR2lYZDlHSG5qSzhDRU8wbW9qMFpHU2t5ek1VaWNzSmtLZ3AtNUpHYmJOUlVsblNYRU1jMEl6bVYwLXBEZ2M?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-14T04:09:17Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวกับสิทธิสวัสดิการสุขภาพ แต่เป็นการอธิบายสิทธิที่มีอยู่แล้ว"
+    },
+    {
+      "id": "c20ab9f2",
+      "title": "โครงการบ้านจัดสรรสำหรับแรงงานในตำบลกวางเจา ก่อนเปิดใช้งานอย่างเป็นทางการ",
+      "summary": "โครงการบ้านจัดสรรสำหรับแรงงานในตำบลกวางเจา อยู่ระหว่างเตรียมเปิดใช้งานอย่างเป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVRjZ0pkMUp0SGJuT0lPTnRBMnZBZG9xUTdtMl9aRUd5Nm54Ylc2VlA4cnpMTTBuaTc5WHQ4b1dxcXZ1TVgwZWVZdVRERGlUc3RvbHR0RVl4ekkyekpIRmd0eDBtM09FWGw5RDdMWHRjVE9UbW9IU21tQm42cUZQeTJYcmNyRXUyRkFxTDg1VnhENktvYk1iNmNR?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-14T03:05:33Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "โครงการที่อยู่อาศัยสำหรับแรงงาน แต่ขาดข้อมูลจังหวัดและรายละเอียด"
+    },
+    {
+      "id": "35465678",
+      "title": "ราคาน้ำมันพรุ่งนี้ (15 ก.ย. 69) สูตรธรรมดา ขึ้นยกแผง 0.85 บาท ดีเซลแตะ 40.69 บาท",
+      "summary": "ราคาน้ำมันปรับขึ้น 0.85 บาทต่อลิตร มีผล 15 กันยายน 2569 ดีเซลแตะ 40.69 บาท เบนซิน-แก๊สโซฮอล์ขึ้นตามไป",
+      "url": "https://www.prachachat.net/economic/news-2066390",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-14T13:32:49Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "ข่าวเพิ่มค่าครองชีวิตซ้ำซ้อนกับรายการอื่น"
+    },
+    {
+      "id": "305dbb57",
+      "title": "เช็กราคาน้ำมัน 15 ก.ย.69 หน้าปั๊มปรับขึ้นแล้ว ขึ้นลิตรละ 0.85 บาท ดีเซลลิตรละ 40.69 บาท",
+      "summary": "ราคาน้ำมันวันที่ 15 กันยายน 2569 ปรับขึ้นลิตรละ 0.85 บาท ดีเซลอยู่ที่ลิตรละ 40.69 บาท ส่งผลต่อค่าใช้จ่ายของประชาชน",
+      "url": "https://www.matichon.co.th/economy/news_5889173",
+      "source": "มติชน",
+      "published_at": "2026-09-15T00:43:09Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข้อมูลราคาน้ำมันส่งผลต่อต้นทุนชีวิต แต่ไม่ใช่นโยบายสวัสดิการโดยตรง"
+    },
+    {
+      "id": "cc0d5256",
+      "title": "สำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) ลงนามความร่วมมือร่วมกับ คณะแพทยศาสตร์โรงพยาบาลรามาธิบดี ยกระดับระบบหลักประกันสุขภาพ",
+      "summary": "สปสช. ลงนามความร่วมมือกับคณะแพทยศาสตร์โรงพยาบาลรามาธิบดี เพื่อยกระดับระบบหลักประกันสุขภาพ",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQd3FvOWVoeEwtdC14cFBLRXVyN1F6NGZiSTU5bVJ4YkxpUmlJaFZfMEttRU9VbHBZc0l5TzhVUnVEb1FFaEU1NzJrdFVWdkpjeGk1OUNPVzZOOE9zR0VRaDJBbWdWUUNwdzNMR2RrdkRnZTNJcHJuMjI2YnNwaXFXQkZLY1g4YzQwUnQ1S1k0YU52a01WNU90bDBmUl9YZGw5YjhicEZCY3ZjUlE0QlhpZEJHR1FKMWNyUDVQc3pNYkxZd2hSNEZRZExLZG9qM1VOWExkQ3gzbElrWktmQmRDYjRVTlNwZGdQenlpamwyVGw5RkRXcXlaak9md2s4eWZVUVJUS3ZJRzM5ekxNenpqdEhUUDl5cl9vZUF1NTBWVlFqbi1EandfdURpcW1TNXZrQjY3NXVJeE5wNGlmdC1yN1NoVlNQY285WHhXZTh0dDJOeVhMU3I1MW1B?oc=5",
+      "source": "prakannews.com",
+      "published_at": "2026-09-14T08:32:36Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความร่วมมือยกระดับระบบสุขภาพแต่ยังไม่มีรายละเอียดการดำเนินการ"
+    },
+    {
+      "id": "0ea0baf7",
+      "title": "ราคาน้ำมันวันนี้ (15 ก.ย. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
+      "summary": "ราคาน้ำมันวันที่ 15 กันยายน 2569 แก๊สโซฮอล์ 95 ลิตรละ 39.94 บาท แก๊สโซฮอล์ 91 ลิตรละ 39.57 บาท ดีเซล 40.69 บาท ดีเซล B20 ลิตรละ 35.69 บาท",
+      "url": "https://www.prachachat.net/economic/news-2066437",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-15T00:14:45Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อมูลราคาน้ำมันส่งผลต่อต้นทุนชีวิต แต่ไม่ใช่มาตรการสวัสดิการ"
+    },
+    {
+      "id": "cace21c8",
+      "title": "หมอวีระพันธ์ ยัน กมธ.สธ.สว.ไม่เคยพูด ล้มบัตรทอง หวังแก้ กม.ให้ดีขึ้น",
+      "summary": "นพ.วีระพันธ์ ยืนยันว่าคณะกรรมาธิการสาธารณสุขไม่มีเจตนาล้มบัตรทอง แต่หวังแก้ไขกฎหมายให้ดีขึ้น",
+      "url": "http://www.hfocus.org/content/2026/09/39501",
+      "source": "Hfocus",
+      "published_at": "2026-09-14T11:21:54Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "การอภิปรายเกี่ยวกับบัตรทองแต่ไม่มีการตัดสินใจหรือมาตรการใหม่"
+    },
+    {
+      "id": "b7253874",
+      "title": "ข่าวบอร์ด สปสช. บอร์ด สปสช. หนุนนำร่องตำรับยาแผนไทย มุ่งยกระดับการรักษาโรคสะเก็ดเงิน",
+      "summary": "บอร์ดสปสช. สนับสนุนการนำร่องตำรับยาแผนไทยเพื่อยกระดับการรักษาโรคสะเก็ดเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGN215R0lFMFZodTZtbG1IQTFySFluZXgtTTRaMG16bjJYNW42SWNObWdtZ2E0N01ndWtGYlF3SWowWktyZnJMZnhPbGs3Zw?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-14T09:15:41Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "มาตรการสุขภาพแต่เป็นการนำร่องยาแผนไทยสำหรับโรคเฉพาะ"
+    },
+    {
+      "id": "1cb16adc",
+      "title": "ราคาน้ำมันวันนี้ 15 กันยายน 2569 อัปเดตล่าสุด \"เบนซิน-ดีเซล\" ลิตรละกี่บาท",
+      "summary": "อัปเดตราคาน้ำมันวันที่ 15 กันยายน 2569 ครอบคลุมเบนซิน แก๊สโซฮอล์ และดีเซลจากปั๊มน้ำมันหลัก ข้อมูลราคาปัจจุบันไม่ระบุในข้อความ",
+      "url": "https://www.thairath.co.th/news/society/2959643",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-09-15T00:13:20Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อมูลราคาไม่ชัดเจน เป็นข่าวอัปเดตราคาเท่านั้น"
+    }
+  ]
+}
