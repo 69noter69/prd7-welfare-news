@@ -1,0 +1,474 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T01:11:05Z",
+  "window": {
+    "from": "2026-09-14T23:09:49Z",
+    "to": "2026-09-16T01:09:49Z"
+  },
+  "stats": {
+    "fetched": 211,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 13417,
+    "ai_output_tokens": 8357,
+    "cost_thb": 2.01,
+    "runs": 1,
+    "kept": 30,
+    "eastern": 0,
+    "national": 30,
+    "new": 30,
+    "followups": 0,
+    "sources": 25
+  },
+  "items": [
+    {
+      "id": "5848e58b",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 จ่อสแกนจ่าย ไทยช่วยไทยพลัสได้ เริ่ม 1 ต.ค. 69",
+      "summary": "บัตรสวัสดิการแห่งรัฐจะสามารถสแกนจ่ายที่ร้าน \"ไทยช่วยไทยพลัส\" ได้ เริ่มตั้งแต่ 1 ตุลาคม 2569 เพื่อให้ผู้ถือบัตรเข้าถึงสินค้าและบริการได้มากขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pOEhzVTRGV0trWktXYVVQMVBZczR2V3Mwd3l4T0FlbEZoQUk3WFJMWEdZNk1VMjNxaVJ6b1BVUHBUTWRNdnNza1pnS08?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-15T15:10:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญมีกำหนดเริ่มต้นชัดเจน"
+    },
+    {
+      "id": "0aae30b7",
+      "title": "ครม.ไฟเขียวปรับเกณฑ์ UCEP ผู้ป่วยฉุกเฉินวิกฤต รักษาฟรี 72 ชม. เพิ่มความชัดเจนส่งต่อ-เบิกจ่าย",
+      "summary": "ครม.อนุมัติปรับเกณฑ์ UCEP ให้ผู้ป่วยฉุกเฉินวิกฤตรักษาฟรี 72 ชั่วโมง เพิ่มความชัดเจนในการส่งต่อและเบิกจ่าย ลดภาระค่าใช้จ่ายผู้ป่วย",
+      "url": "http://www.hfocus.org/content/2026/09/39516",
+      "source": "Hfocus",
+      "published_at": "2026-09-15T10:11:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายสาธารณสุขหลักระดับชาติ ลดภาระค่ารักษาผู้ป่วยฉุกเฉิน"
+    },
+    {
+      "id": "4a7ed025",
+      "title": "‘คลัง’ ดันบัตรคนจนใช้ร้าน ‘ไทยช่วยไทยพลัส’ ได้ เริ่ม 1 ต.ค.นี้",
+      "summary": "กระทรวงการคลังดันให้บัตรคนจนใช้ได้ที่ร้าน \"ไทยช่วยไทยพลัส\" เริ่มตั้งแต่ 1 ตุลาคมนี้",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pdnJxZWstMVVZWjNZbGMtcU54d0VBX2NJREtpVE56TUZQQUdqbElRbGxGcWQxZ3RPMGRzNXAtOXF5N0VSeUdnMlFScmJfLWlySFVhX1k5WlhYR3hM?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-15T23:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสำคัญขยายช่องทางใช้บัตรคนจน"
+    },
+    {
+      "id": "90187c35",
+      "title": "คลังเล็งให้ร้านค้า ”ไทยช่วยไทยพลัส” รับสแกน “บัตรสวัสดิการแห่งรัฐ” ได้",
+      "summary": "กระทรวงการคลังเล็งให้ร้านค้า \"ไทยช่วยไทยพลัส\" รับการสแกนบัตรสวัสดิการแห่งรัฐได้ เพื่อขยายช่องทางการใช้จ่ายสำหรับผู้ถือบัตร",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FdVpfV3oxaDBLSC1JVVA0T2RibU16ZE5aT3NFYncwcnRWSWNGQVcyaERWcFhGQmlHVDBSOWVOV25aRG53SGhVVVJOUEh5WUxUSTlBZw?oc=5",
+      "source": "moneyandbanking.co.th",
+      "published_at": "2026-09-15T10:47:55Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเพิ่มช่องทางใช้บัตรสวัสดิการที่ชัดเจน"
+    },
+    {
+      "id": "c5ee13fa",
+      "title": "ปลัดคลังเรียกประชุมบอร์ดกลั่นกรองเงินกู้ เร่งชี้ขาดต่ออายุ ‘ไทยช่วยไทยพลัส’ 17 ก.ย.นี้",
+      "summary": "ปลัดคลังเรียกประชุมบอร์ดกลั่นกรองเงินกู้เพื่อเร่งชี้ขาดต่ออายุโครงการ \"ไทยช่วยไทยพลัส\" ในวันที่ 17 กันยายน พิจารณาโยกวงเงินตามพระราชกำหนดเงินกู้และปรับเงื่อนไขโครงการ",
+      "url": "https://www.prachachat.net/finance/news-2067004",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-15T10:22:24Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การตัดสินใจระดับสูงเกี่ยวกับการต่ออายุโครงการช่วยเหลือประชาชน"
+    },
+    {
+      "id": "3ffe98c5",
+      "title": "คลังเปิดทางร้านค้า 'ไทยช่วยไทยพลัส' รับสแกนบัตรคนจนได้ วางเป้าเริ่ม 1 ต.ค.นี้",
+      "summary": "กระทรวงการคลังเปิดทางให้ร้านค้า \"ไทยช่วยไทยพลัส\" รับสแกนบัตรคนจนได้ วางเป้าเริ่มต้น 1 ตุลาคมนี้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wQVJCeXRVYjU3VmVwdnlCeVY5eGp2RHg2Y1ZBOTBkdElSUUcteG1nbW45YXBqSjJmY2JnM213T3pXRW05c3VxNHFEZUhtckEzUzlGVDZR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-15T09:22:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการขยายช่องทางใช้บัตรคนจนมีกำหนดเริ่มต้น"
+    },
+    {
+      "id": "549f6a57",
+      "title": "รัฐบาล ลุย “ไทยช่วยไทย พลัส” เฟส 2 อีก 2 เดือน ช่วยลดค่าครองชีพรับมือวิกฤตน้ำมัน-เงินเฟ้อ",
+      "summary": "รัฐบาลดำเนินการโครงการ \"ไทยช่วยไทยพลัส\" เฟส 2 อีก 2 เดือน เพื่อช่วยลดค่าครองชีพและรับมือวิกฤตน้ำมันและเงินเฟ้อ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PYnBXYnJNWlY4bTFOdmNTNnNLVE1FUVktdmxWU2d4aU9pMDNQcHp1TkVWYndBQ05OYllPallQZGxTQ1ZiVzRIU0QweUNVMUJ1Q2h3TUx2NkpBZ3U5TFJwWUp3?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-15T11:20:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "นโยบายรัฐบาลเพื่อลดค่าครองชีพในช่วงวิกฤตเศรษฐกิจ"
+    },
+    {
+      "id": "cc4fe40a",
+      "title": "‘พิพัฒน์’พับแผนสร้างตึกคมนาคม 3.5 พันล้าน เปลี่ยนเช่าแทน-ครม.ทุ่ม 9.5 หมื่นล้าน แก้น้ำท่วม 8 จว.ลุ่มเจ้าพระยา",
+      "summary": "มติคณะรัฐมนตรีบังคับให้โรงพยาบาลรักษาผู้ป่วยฉุกเฉินฟรี 72 ชั่วโมงแรก เบิกค่ายาจากสปสช. และจัดสรรงบประมาณ 6,873 ล้านบาทพัฒนาระบบบริการสาธารณสุข",
+      "url": "https://thaipublica.org/2026/09/anutin-cabinet-15-09-2569/",
+      "source": "ThaiPublica",
+      "published_at": "2026-09-15T13:43:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "นโยบายสุขภาพระดับชาติที่มีการจัดสรรงบประมาณและมีผลต่อประชากรทั่วไป"
+    },
+    {
+      "id": "404249c2",
+      "title": "บพท.ระดมสมองปั้นแผนแก้จนยั่งยืน เผยข้อมูล 20 จว.ติดอันดับยากจนสุด",
+      "summary": "บพท.ระดมสมองปั้นแผนแก้ความยากจนยั่งยืน เผยข้อมูล 20 จังหวัดติดอันดับยากจนสุด บรรจุในแผนพัฒนาฯ ฉบับที่ 14",
+      "url": "https://www.prachachat.net/uncategorized/news-2066933",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-15T09:42:58Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "นโยบายแก้ความยากจนระดับชาติ มีข้อมูลจังหวัดเฉพาะ"
+    },
+    {
+      "id": "15229a5d",
+      "title": "คลัง เตือนเร่งทบทวนสิทธิบัตรสวัสดิการ ถึง 20 ก.ย. ถูกสวมชื่อมีรายได้แจ้งสรรพากร",
+      "summary": "กระทรวงการคลังเตือนให้ผู้ถือบัตรสวัสดิการทบทวนสิทธิภายในวันที่ 20 กันยายน เนื่องจากมีกรณีสวมชื่อและผู้มีรายได้ถูกจดทะเบียนเป็นผู้มีสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QXlETk5VM01HalM0SDd0YWd6QjcyVVhxY2l1TTZ4UHhDZzhiZEdHeFgyLU1RRU1vbjU0VHlkN1JvdndrUUY4MDhuVDFoaW0tdmhv?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-09-15T23:37:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการควบคุมคุณสมบัติผู้ถือบัตร มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "539b6e2a",
+      "title": "กบน. ปรับลดราคาหน้าโรงกลั่น ลดราคาดีเซล 4 บาทต่อลิตร มีผลตั้งแต่วันที่ 16 ก.ย. ถึง 31 ต.ค.",
+      "summary": "คณะกรรมการบริหารนโยบายพลังงานปรับลดราคาดีเซลที่โรงกลั่น 4 บาทต่อลิตร มีผลตั้งแต่ 16 กันยายน ถึง 31 ตุลาคม เพื่อรับมือสถานการณ์ความขัดแย้งในตะวันออกกลาง",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10400060",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-15T13:25:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดราคาน้ำมันเชื้อเพลิงเพื่อลดค่าครองชีพประชาชน"
+    },
+    {
+      "id": "028da932",
+      "title": "\"อัครเดช\" เผยประชาชนหนุน “ไทยช่วยไทยพลัส” ช่วยลดค่าครองชีพ",
+      "summary": "อัครเดช รายงานว่าประชาชนสนับสนุนโครงการ \"ไทยช่วยไทยพลัส\" ซึ่งช่วยลดค่าครองชีพ โครงการนี้มีวัตถุประสงค์เพื่อบรรเทาภาระค่าใช้จ่ายของประชาชนทั่วไป",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mTXVBOW9JSXVkcXA2UnhCanZESGJrRmdTU1p3a2gyUGVkcDhlTkl2bVpRdDJ6V3FNVktkSm9xTTl3NXltWWJLb0pnVTdKeGl0VUhQaTRXZ19jTWM?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-15T09:44:05Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการช่วยเหลือค่าครองชีพที่มีการสนับสนุนจากประชาชน"
+    },
+    {
+      "id": "94cb43ca",
+      "title": "เปิดวิธี เช็กสถานที่เลือกตั้ง บอร์ดประกันสังคม 27 ก.ย.นี้ นายจ้าง - ผู้ประกันตน อย่าลืมใช้สิทธิ",
+      "summary": "เปิดวิธีเช็กสถานที่เลือกตั้งบอร์ดประกันสังคม วันที่ 27 กันยายน 2569 สำหรับนายจ้างและผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pelJIcXN2a1hRNEZtZmFhYndGcTJuWllaN3RtdGFqdjRTc2RPSW9kdURhLV9WNE5Xbl91LW9MQ3d2LXUxRmlnWXoxNEt6aE0?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-09-15T09:39:59Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องประกันสังคมและสิทธิคนทำงาน มีกำหนดวันชัดเจน"
+    },
+    {
+      "id": "9b9f2e82",
+      "title": "POLITICS: รมว. พม. สั่งด่วน 'ชนินทร์' ส่งที่ปรึกษาฯ ลงพื้นที่สุรินทร์ ตรวจสอบปมมิจฉาชีพเรียกเก็บเงินค่าทำบัตรคนพิการ วันนี้ (15 ก.ย. 69) นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) มีความห่วงใยและได้ติดตามกรณีที่มีการร้องเรียนผ่านสื่อสังคม",
+      "summary": "รัฐมนตรีว่าการกระทรวงพัฒนาสังคมสั่งตรวจสอบกรณีมีการเรียกเก็บเงินค่าทำบัตรคนพิการในสุรินทร์ วันที่ 15 กันยายน 2569 เพื่อแก้ปัญหามิจฉาชีพ",
+      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxQOGhMN0hCb3ZnQ0ZJNHkyb2JTQXJ5XzBzMENJMlF1Y3BaSkJMVTl3VVJsOS0tR2FFMnR6RENBQ1l5VnhHSWtEUGFyWDVPTkNKQTlzQzQ2cXJmN3B6VGtiRmhGYXlaZDNWN2ZaeEowUTAwOUQyNnBhVGNqOUhBeTVfVTdveGsxbk9pcUxYOW94OWdYOWhBS0xLU0RnTlpjcjB6UjlwZ210cGtVM2NQaVdwOElTVy1FUWE2RmcteGRkbmdyaUl3dlh3V1VZU3JPWWZFdXN0WXhYOVVpQm1YbDlxc1U0TnZha0pfMUpkeG4wbjJoR096TDlibHJWekVISFI4ZWdlcWtPMDhxWF80WGZ4VzE4bHFBdGx0M3dYbnlRX2ZtYTh4SDJBcHVkSFVsSVlxNGc3eXc3X19ObFEwZEwzUzFJbC0zdXU3akswMWpJTEVlemVQVjMxTUVJVHZjbkt6RWk2RjRjY2hrMmhJalZ4VDJxWHBHN2ctSGpCVG1FVGRKS1FuMzBGVjNfb2tYS0pvT3RSdGFWZ0ZoaFVzN0tWTjFrYmx5bDdlTkh3RG9MVE1peVVLTGppUTVvR0RydnhsTDNBb2FzOENGekZ3N1M3VzB5WjRvYnlxUERTajM1SmJhalVfQ2NwWXdHWlAxOXdZc01BU0tBMnVsaTJqbkx1VG1wLU9JbVBZQkh2MmVrNURwM3l5b1JMNzlMODlJcHR3cng1LTJibUNIQ250UEN6anVZWFNtZGxQM1dBRlgtbEwzQjJScTJGcUc4eGIwaDNFQTBlcUpOQlVHQnRCa2lWbkFXSXZCSEpXamdVZEt0SzVzYXUtU2lrdkQtSGFQS2Y3VlNJSWRDdzhlbUpUWGVyVFJnSDRlSnk0OTEtQ05FS1dMV2t1bk9oeXJ1Vk1jTEpSdXFYaDJ5RWpicUZzRk5uQkE5dUZUTUlZcmtNdk9WaTVBTFBLS1dOWEZFYU5vQnBPMkVWQ1JDVEJkOGIyVEh0ZlY0YnNKN01zXzJ0Y2tZZmIzckpWaUhubVRUNmlEX2d5M3NNYi1PMGVsXzhfOERiaTZPSDJlamZGUHZlLUk4clcybG91aHhYdnJoV3VZRXUtN0g0ZWZGaVZPMTQ2dUE2T0pfTjZ1WUhsaEFOVmJfYmVKYWFYSmYtcFlkbmF5RUdUZlBJQ1VobXZPRkNKNTBmLUhQblp3OF9yYzVCOTM5SHowZw?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-15T07:23:28Z",
+      "category": "disability",
+      "provinces": [
+        "สุรินทร์"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการตรวจสอบการทุจริตในการออกบัตรคนพิการ มีการลงพื้นที่และมีกำหนดเวลา"
+    },
+    {
+      "id": "fbc093d8",
+      "title": "รพ.นพรัตนราชธานี ใช้หุ่นยนต์ช่วยผ่าตัดเปลี่ยนข้อเข่า ผู้ป่วยทุกสิทธิ คว้ารางวัลเลิศรัฐ 2569",
+      "summary": "โรงพยาบาลนพรัตนราชธานี พัฒนาการผ่าตัดเปลี่ยนข้อเข่าด้วยหุ่นยนต์ ผู้ป่วยทุกสิทธิเข้าถึงได้ คว้ารางวัลเลิศรัฐ ประจำปี 2569",
+      "url": "http://www.hfocus.org/content/2026/09/39512",
+      "source": "Hfocus",
+      "published_at": "2026-09-15T04:54:59Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นวัตกรรมสาธารณสุขเพื่อประชากรทั่วไป แต่เป็นการพัฒนาเทคโนโลยี"
+    },
+    {
+      "id": "f26283df",
+      "title": "สปส. ลงพื้นที่สีลม สื่อสารตรงถึงคนทำงาน ชวนร่วมใช้สิทธิเลือกตั้งบอร์ดประกันสังคม 27 ก.ย. 69",
+      "summary": "สปส.ลงพื้นที่สีลมสื่อสารตรงถึงคนทำงาน ชวนใช้สิทธิเลือกตั้งบอร์ดประกันสังคม วันที่ 27 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5VVVmZFBFNGpaMEdWc1M2SHhHc2lOSnBTRjQ5OEVFOVlRZXBURGNOTERfcjdzb3J4TDFJbDczNl9RTlpYMTNUQVFJcFlMaV9CQ0VNdGlkQQ?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-09-15T13:39:01Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ส่งเสริมการมีส่วนร่วมของคนทำงานในประกันสังคม"
+    },
+    {
+      "id": "aae592b1",
+      "title": "ส.ส.ภูมิใจไทย เชียร์รบ. ต่อไทยช่วยไทยพลัส ยันปชช.หนุนชัด ลดค่าครองชีพ-กระตุ้นใช้จ่าย",
+      "summary": "สมาชิกสภาผู้แทนจากพรรคภูมิใจไทยสนับสนุนรัฐบาลต่อโครงการ \"ไทยช่วยไทยพลัส\" ยืนยันว่าประชาชนสนับสนุนชัด เพื่อลดค่าครองชีพและกระตุ้นการใช้จ่าย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04OXEwS2x3OEJxWW83Nk9LM3NnYVo4RTFSZ2NjS2JjWmZNYU0wcDdXakdjbVhpanVONmc2SnhQT2YyMDBSQWI2bV9mYjNqWmZsUVVRWlBsR1VHeEhN?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-15T10:41:46Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การสนับสนุนทางการเมืองต่อโครงการลดค่าครองชีพ"
+    },
+    {
+      "id": "884820bc",
+      "title": "‘สุชาติ’ ย้ำไม่ต้องร่วมจ่าย-ไม่เลิกบัตรทอง! แต่ให้สปสช.ลดงานป้องกันโรคซ้ำซ้อนกับสธ.",
+      "summary": "สุชาติย้ำว่าไม่ต้องร่วมจ่ายและไม่เลิกบัตรทอง แต่ให้สปสช.ลดงานป้องกันโรคซ้ำซ้อนกับกระทรวงสาธารณสุข",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15S3N6RV9uRndDZDhCUjk2RER5WkpzMWFsOFBJVG16QkRFcDVCMDBvN3lybzNsdFZJTjFDcVVjbTk0ekdfNE1ZZnJyYUt4bW14OXRB?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-15T07:19:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อมูลนโยบายเกี่ยวกับบัตรทองจากผู้บริหาร"
+    },
+    {
+      "id": "98d1ef4d",
+      "title": "กคช. จับมือ มรภ.เพชรบุรี พัฒนาที่อยู่อาศัย พร้อมยกระดับคุณภาพชีวิต สร้างชุมชนเข้มแข็ง",
+      "summary": "กคช.จับมือมรภ.เพชรบุรี พัฒนาที่อยู่อาศัยและยกระดับคุณภาพชีวิต สร้างชุมชนเข้มแข็ง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydzZQdFBfVFhIOVBwcjJiaFlZOFc4NFBpQjZKSmVQVVR6ZG9mZ0ExWlJOb05DcmVlc203aFNLU2c2eTNtMzJXT0JEZTFkVGxESDZCWjFnN1puNl8ybnRLbFNuLUFzQQ?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-09-15T06:27:57Z",
+      "category": "housing",
+      "provinces": [
+        "เพชรบุรี"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "โครงการพัฒนาที่อยู่อาศัยแต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "03f49a14",
+      "title": "ไข่ไก่ราคาถูก! พาณิชย์อ่างทองเปิดขายที่แสวงหา คนแห่ซื้อ ช่วยลดค่าครองชีพ 16.41%",
+      "summary": "กระทรวงพาณิชย์จังหวัรอ่างทองเปิดขายไข่ไก่ราคาถูกที่แสวงหา ประชาชนแห่ซื้อเพื่อช่วยลดค่าครองชีพลง 16.41 เปอร์เซ็นต์",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wTUtrUl91Uk1pYnR6WnNTak4xVllNNVVEZVFKMkxaM2ltd3Y4al9LZHc2dTJHTXJteE5reEFiV2dnSHRUbEFGWlVONFBXcFk?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-15T11:02:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "อ่างทอง"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการลดค่าครองชีพในระดับท้องถิ่นผ่านการควบคุมราคาสินค้า"
+    },
+    {
+      "id": "7ae9976e",
+      "title": "“สิทธิข้าราชการ” รับบริการ รพ.สต. ใกล้บ้าน เบิกจ่ายตรงผ่าน NHSO Digital Platform ไม่ต้องสำรองจ่าย",
+      "summary": "ข้าราชการและครอบครัวสามารถใช้บริการรพ.สต.ใกล้บ้านผ่านระบบ NHSO Digital Platform โดยไม่ต้องสำรองจ่ายค่ารักษาพยาบาล ครอบคลุมข้าราชการ บิดา มารดา คู่สมรส และบุตร",
+      "url": "http://www.hfocus.org/content/2026/09/39513",
+      "source": "Hfocus",
+      "published_at": "2026-09-15T08:27:58Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการสุขภาพที่ลดภาระค่าใช้จ่าย แต่เป็นสิทธิข้าราชการ ไม่ใช่ประชากรทั่วไป"
+    },
+    {
+      "id": "7f0cd60e",
+      "title": "ข่าวขอรัฐฯ ต่ออายุโครงการด้วย เพิ่มวงเงินพิเศษรวม 1,000 บัตรคนจน",
+      "summary": "มีข่าวขอให้รัฐต่ออายุโครงการบัตรคนจนและเพิ่มวงเงินพิเศษรวม 1,000 บัตร",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uYnN3d3hBTDV4U1kzR0hfZkdUVjBKRzZkclRkSTJyWkY0c3ZfSXVaYWNfUVE4Vkk4X0dKMjg5dHBLYU9rNEtEMV9R?oc=5",
+      "source": "Ch7.com",
+      "published_at": "2026-09-15T03:57:58Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข้อเรียกร้องต่ออายุโครงการ ไม่ใช่นโยบายที่ยืนยันแล้ว"
+    },
+    {
+      "id": "50d2f73c",
+      "title": "กรมบัญชีกลางแจง 3 ปมปรับเกณฑ์เบิกค่ายาขรก. อยู่ระหว่างรับฟังความเห็น ย้ำผู้ป่วยได้ยาตามความจำเป็น",
+      "summary": "กรมบัญชีกลางแจงการปรับเกณฑ์เบิกค่ายาข้าราชการ ดีเดย์ 1 มกราคม 2570 อยู่ระหว่างรับฟังความเห็น ผู้ป่วยยังเบิกยาตามความจำเป็นและเหตุผลทางการแพทย์",
+      "url": "http://www.hfocus.org/content/2026/09/39510",
+      "source": "Hfocus",
+      "published_at": "2026-09-15T03:55:34Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องสวัสดิการสุขภาพแต่ยังในขั้นร่างและหารือ"
+    },
+    {
+      "id": "2e755686",
+      "title": "TISCO เปิดตัว “สินเชื่อโฉนดแลกเงิน” เสริมสภาพคล่องรายย่อย - SMEs ลดภาระดอกเบี้ยสูง - ไม่เสี่ยงกู้นอกระบบ",
+      "summary": "TISCO เปิดตัวสินเชื่อโฉนดแลกเงิน เสริมสภาพคล่องรายย่อยและ SMEs ลดภาระดอกเบี้ยสูง",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLRGlDVy1xSmpvWVhWVElOeVg3SkxNYmJhNDV3UFhWZGlRTzZuU24tRVVwSmV6VGF4eXlxWmU3dHJFWEZtZ0gwT2ZHQUMzU1RMYURVTjQ0U0R0akF2MXUwUlp3?oc=5",
+      "source": "efin.finance",
+      "published_at": "2026-09-15T07:23:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "สินเชื่อเพื่อลดหนี้สูงแต่เป็นผลิตภัณฑ์ธนาคาร"
+    },
+    {
+      "id": "8ba16391",
+      "title": "ชาวเบตงหนุนขยายเวลา \"ไทยช่วยไทย พลัส\" วอนต่ออายุบัตรคนจน",
+      "summary": "ชาวเบตงสนับสนุนการขยายเวลาโครงการ \"ไทยช่วยไทยพลัส\" และวอนต่ออายุบัตรคนจน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tTy1OeGFQclhyak9CZ1kzWjVNeThFZExCWXhsRnVvaFVaWVBiX284WkJ0YlpRelZOLUJqSUpRU2lRUE1vYURTSHZSeUlXcV9sQ0ZIMHF3cmE?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-15T05:49:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "สตูล"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข้อเรียกร้องจากประชาชน ไม่ใช่นโยบายที่ยืนยันแล้ว"
+    },
+    {
+      "id": "f1fa18aa",
+      "title": "ไพร์มสตรีทฯ หนุน จุฬาฯ “CU Financial Change Agent” ติวเข้มนิสิตเป็นผู้นำความรู้ทางการเงิน",
+      "summary": "บริษัทไพร์มสตรีทสนับสนุนจุฬาลงกรณ์มหาวิทยาลัยในโครงการ \"CU Financial Change Agent\" เพื่อติวเข้มนิสิตให้เป็นผู้นำความรู้ทางการเงิน สร้างภูมิคุ้มกันแก้ปัญหาหนี้ครัวเรือน",
+      "url": "https://www.prachachat.net/uncategorized/news-2067049",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-15T11:18:05Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "โครงการศึกษาเกี่ยวกับการจัดการหนี้ที่เกี่ยวข้องกับประชาชนรายได้น้อย"
+    },
+    {
+      "id": "af21ecac",
+      "title": "ไอซ์ รักชนก เตือน ไม่ไปเลือกตั้งบอร์ดประกันสังคม อาจมีคนเลือกให้เหมือน สว.",
+      "summary": "ไอซ์ รักชนก เตือนคนทำงานไม่ไปเลือกตั้งบอร์ดประกันสังคม อาจมีคนเลือกให้แทน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sUndPQmZvNjRjY2h3MHJHUzEtLTNvNU5LUXk4NlE1NEYwVVIzajcxdnpmUmZwOXF3VDVQei1wM2syeEZNdkpwUU14Z0laRzQz?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-15T04:12:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นเกี่ยวกับการเลือกตั้งประกันสังคม แต่เป็นข้อเตือน"
+    },
+    {
+      "id": "57fd0f2f",
+      "title": "‘นิมิตร์’ ห่วงแก้ กม.บัตรทอง ปรับสัดส่วนบอร์ด สปสช. กระทบกลไกถ่วงดุล เปิดช่องทุจริต",
+      "summary": "นิมิตร์ห่วงการแก้ไขกฎหมายบัตรทองที่ปรับสัดส่วนบอร์ดสปสช. อาจกระทบกลไกถ่วงดุลและเปิดช่องทุจริต",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oQ2JCWGlKY3JvLUt1c2xSbUdaeXZLMzhFeDBqb2QwRndHNTV5em16a3RrMDhQcVQ2SnplYzR2RHVIeWppcGQ0NlVwQXVJRXBWNXgyWFpaVkNTM1U?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-15T03:27:59Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นเกี่ยวกับปัญหาการบริหารบัตรทอง ไม่มีมาตรการใหม่"
+    },
+    {
+      "id": "b73b59e4",
+      "title": "สธ.ตรัง ร่วมประชุม NHSO Region 12 Open House เปิดบ้าน \"บัตรทอง\" สปสช. เขต 12",
+      "summary": "สำนักสาธารณสุขจังหวัดตรังร่วมประชุม NHSO Region 12 Open House เพื่อเปิดบ้านบัตรทองสปสช. เขต 12",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SEFIWXk4QWhUYUR0aUVneXdXdXdwTWR6Mm00QkZoZWdNNTVNc1R3TmVVWlk3LUVpVk5KMmpQU2JCa29GeG1DQ3plOVk2Q0hfbDJHNzJlbjVmQQ?oc=5",
+      "source": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "published_at": "2026-09-15T05:39:39Z",
+      "category": "health",
+      "provinces": [
+        "ตรัง"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "กิจกรรมประชาสัมพันธ์บัตรทอง ไม่มีนโยบายใหม่"
+    },
+    {
+      "id": "a1aa6916",
+      "title": "ไม่ได้ลงทะเบียนล่วงหน้า เลือกตั้งบอร์ดประกันสังคม 27 ก.ย. 69 ไปใช้สิทธิที่ไหน?",
+      "summary": "ข้อมูลเกี่ยวกับการลงทะเบียนล่วงหน้าสำหรับการเลือกตั้งบอร์ดประกันสังคม วันที่ 27 กันยายน 2569 และสถานที่ใช้สิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uX0h0dEJnbWhwMWJmSXlDbVVaTS1UdmtSNVVGRFpoNmR6UGM2Zk8yc2NfMXMzbFZ4YktIS1h0cWxkSklXX2RXN1FoTHlya190Um43cmtBR1dJQUxBSnc0WTk1dWtsZkQtUTM2ZXlIQQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-15T02:17:12Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับประกันสังคม แต่เป็นข้อมูลขั้นตอนการลงทะเบียน ไม่ใช่นโยบายสวัสดิการ"
+    }
+  ]
+}
