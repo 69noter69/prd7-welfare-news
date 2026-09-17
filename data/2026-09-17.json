@@ -1,0 +1,520 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:12:16Z",
+  "window": {
+    "from": "2026-09-15T23:10:38Z",
+    "to": "2026-09-17T01:10:38Z"
+  },
+  "stats": {
+    "fetched": 222,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 17577,
+    "ai_output_tokens": 11200,
+    "cost_thb": 2.69,
+    "runs": 1,
+    "kept": 33,
+    "eastern": 1,
+    "national": 32,
+    "new": 32,
+    "followups": 1,
+    "sources": 22
+  },
+  "items": [
+    {
+      "id": "7c0403a1",
+      "title": "“บุญยิ่ง” จี้รัฐบาลเร่งจ่ายเงินช่วยชาวนา เผยยังค้างกว่า 2 แสนครัวเรือน วงเงินกว่า 1 พันล้าน",
+      "summary": "บุญยิ่ง จี้รัฐบาลเร่งจ่ายเงินช่วยชาวนา ยังค้างกว่า 2 แสนครัวเรือน วงเงินกว่า 1 พันล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sMG11eExQaFNCRy1odmpWdldFUVpQdk5HTUlDSF9hMUl4ZEZ1VmVKVEQ1Y1RHUGE1V08xRlY3bFM1STMwTkxqanZQTTVXaElKQ2l0Y3FpUUNncWU4MW84U2ZVQQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-16T03:45:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายช่วยเหลือชาวนาที่มีจำนวนเงินและครัวเรือนที่ชัดเจน"
+    },
+    {
+      "id": "2cd9d40f",
+      "title": "เลือกตั้งบอร์ดประกันสังคม 27 ก.ย. ผู้มีสิทธิลงคะแนนได้ทันที ไม่ต้องลงทะเบียนล่วงหน้า",
+      "summary": "การเลือกตั้งบอร์ดประกันสังคมวันที่ 27 กันยายน ผู้มีสิทธิสามารถลงคะแนนได้ทันทีโดยไม่ต้องลงทะเบียนล่วงหน้า เพื่อกำหนดนโยบายสวัสดิการคนทำงาน",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15d24xdWFVck9tYjJobm5aZ2tJT1dzcHJZVHlGVDdya2NHdE91SDBKU29IRmhmcHdTa1ptYlM3RFFoakE5RXVDNmg2a3AwS01SMmFYbg?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-09-16T10:30:48Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ข้อมูลการเลือกตั้งบอร์ดประกันสังคมที่มีผลต่อสวัสดิการแรงงาน"
+    },
+    {
+      "id": "650e9e66",
+      "title": "กาญจนบุรีเสริมศักยภาพกองทุนหมู่บ้าน 1,007 กองทุน เดินหน้าสร้างอาชีพ–แก้หนี้ครัวเรือน",
+      "summary": "จังหวัดกาญจนบุรีเสริมศักยภาพกองทุนหมู่บ้าน 1,007 กองทุน เพื่อสร้างอาชีพและแก้หนี้ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kbjNZeVduRU10UjQ3WWVuV0RlNnR2MERBUFo3cjVkZ0s5UGYxVElnRjktS21vdk1YSk1iWklGX2RSdHJLVTFzSXZ1Z25aQW8?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-16T09:37:00Z",
+      "category": "debt",
+      "provinces": [
+        "กาญจนบุรี"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการแก้หนี้ครัวเรือนและสร้างอาชีพที่เป็นรูปธรรม"
+    },
+    {
+      "id": "7e1ff625",
+      "title": "คลังดึง 1 ล้านร้านค้า “ไทยช่วยไทยพลัส” รับบัตรสวัสดิการแห่งรัฐ ดีเดย์ 1 ต.ค.นี้",
+      "summary": "กระทรวงการคลังเตรียมเชื่อมต่อบัตรสวัสดิการแห่งรัฐกับ 1 ล้านร้านค้าในโครงการ \"ไทยช่วยไทยพลัส\" โดยเริ่มใช้งาน 1 ตุลาคม 2569 เพื่อให้ผู้ถือบัตรสามารถใช้จ่ายได้ที่ร้านค้าที่เข้าร่วมโครงการ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vYVREOXBVSlNabmd6VFZ5Sno5Mm40cU1RX3F0N2RZRDZORFZWWkhZMUFQLVUybjhIcndWWjZYYWpkaFdyT0FCR182NE15S1dsVkdv?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-09-16T03:06:34Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสวัสดิการแห่งรัฐขนาดใหญ่มีกำหนดการชัดเจน"
+    },
+    {
+      "id": "4bc5a5a8",
+      "title": "สปส. ย้ำยื่นเพิ่มชื่อ-ถอนชื่อ ผู้มีสิทธิเลือกบอร์ดประกันสังคม ภายในวันนี้ (16 ก.ย.)",
+      "summary": "สปส. เตือนผู้มีสิทธิเลือกบอร์ดประกันสังคมให้ยื่นเพิ่มชื่อหรือถอนชื่อภายในวันที่ 16 กันยายน ก่อนการเลือกตั้ง",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MWEliTzlZUHpNSEJwR1l4akNtMkc4eTd2NWMzWTA2T2VhbGRsVFlBTEF5cWRPRnVYQVZKNUVicUY0Wkw5MDVRRFFFbWpkRXJnRHZHX3FZblYxVlBkSW5WOTBn?oc=5",
+      "source": "nationtv.tv",
+      "published_at": "2026-09-16T06:50:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ข้อมูลการเลือกตั้งบอร์ดประกันสังคมที่มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "6b291fbd",
+      "title": "ศึกชิงบอร์ดประกันสังคม 2569 กางนโยบายหมัดเด็ดทุกกลุ่ม ลุ้นชี้ชะตาสวัสดิการคนทำงาน 27 ก.ย. นี้",
+      "summary": "การเลือกตั้งบอร์ดประกันสังคม 2569 วันที่ 27 กันยายน กลุ่มต่างๆ นำเสนอนโยบายเพื่อกำหนดทิศทางสวัสดิการคนทำงาน",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UUVUOVJTZXhtUzJVdGxwY2lwdVBrVXNpWC1mZlBQNzk1Y2ZxdldDQ2I0c2g3M0ZtRk9qRXdWVnlwVzU0TU13MDZ4bi1lcmdVSlFsVFlubXVONWFsUGhv?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-16T11:42:23Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "นโยบายสวัสดิการแรงงานที่มีผลต่อประชาชนทั่วไป"
+    },
+    {
+      "id": "09e644d6",
+      "title": "23 ก.ย.นี้ กมธ.สธ.วุฒิสภา จัดเวทีสื่อสารข้อเท็จจริงร่าง พ.ร.บ.บัตรทอง",
+      "summary": "คณะกรรมาธิการการสาธารณสุขวุฒิสภาจัดเวทีสื่อสารข้อเท็จจริงร่างพระราชบัญญัติบัตรทอง 23 กันยายน เพื่อสร้างความเข้าใจเรื่องความอยู่รอดของโรงพยาบาลและการจัดการกองทุน",
+      "url": "http://www.hfocus.org/content/2026/09/39523",
+      "source": "Hfocus",
+      "published_at": "2026-09-16T09:59:04Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ข่าวเกี่ยวกับบัตรทองที่มีกำหนดวันเวทีชัดเจน เป็นการสื่อสารนโยบายสวัสดิการสำคัญ"
+    },
+    {
+      "id": "19e1eb14",
+      "title": "ไทยเจอวิกฤต \"เกิดน้อยด้อยคุณภาพ\" ชูยุทธศาสตร์ยกระดับเด็กไทยพันธุ์ใหม่ พบพัฒนาการล่าช้าพุ่งเกิน 20%",
+      "summary": "กรมสุขภาพจิตเปิดสถิติเด็กเกิดใหม่ต่ำกว่า 5 แสนรายและพบปัญหาพัฒนาการล่าช้าเกิน 20% เร่งยกระดับเด็กไทยและลดความเหลื่อมล้ำ",
+      "url": "http://www.hfocus.org/content/2026/09/39528",
+      "source": "Hfocus",
+      "published_at": "2026-09-16T12:40:23Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "นโยบายพัฒนาเด็กและลดความเหลื่อมล้ำระดับชาติ"
+    },
+    {
+      "id": "a5d824f7",
+      "title": "เครือข่ายผู้ติดเชื้อ HIV หวั่น ‘ร่วมจ่าย’ กระทบคนไข้รับยาต่อเนื่อง กังวลผู้ป่วยไม่มีเงินสมบทบัตรทอง",
+      "summary": "เครือข่ายผู้ติดเชื้อ HIV แสดงความกังวลว่าการร่วมจ่ายค่ารักษาพยาบาลอาจกระทบผู้ป่วยที่ไม่มีเงินสมบัติบัตรทอง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRW0xeUdYRFFqYjlDRE9BcFgxaTdTaTQ2S1pPalhjS1JLRjZ0VUFIRTlYdHNqQVN4ZS0zbWJtM19jQzdrckNhc2QtcXlIUFM1RzhUMDIweTBseHc?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-16T05:48:42Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ประเด็นสวัสดิการสุขภาพกลุ่มเปราะบาง เกี่ยวข้องการเข้าถึงบริการ"
+    },
+    {
+      "id": "00906f55",
+      "title": "ชลบุรีส่งกิ่งกาชาดบางละมุงเยี่ยมครอบครัวเด็ก มอบเงิน-นม-อาหารเสริม ช่วยเหลือเบื้องต้น",
+      "summary": "สาขากาชาดบางละมุง จังหวัดชลบุรี เยี่ยมครอบครัวเด็กและมอบเงิน นม อาหารเสริม เพื่อช่วยเหลือเบื้องต้น",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93RzNrazlfVjA3QktjTS1naERWU2JkUV9BUEdrdWtiUWItdDRRdFVuRmlfNlVkTy0zVGpDWkhjS2ZOQno4VFR1Y0dmSXA0QlE?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-16T16:03:00Z",
+      "category": "children",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "มีการมอบสิ่งของและเงินช่วยเหลือแก่ครอบครัวเด็กโดยตรง"
+    },
+    {
+      "id": "870960ee",
+      "title": "สปส. เดินหน้ารณรงค์เลือกตั้งบอร์ดประกันสังคมต่อเนื่อง ลงพื้นที่เชิงรุก บริเวณอนุสาวรีย์ชัยฯ เชิญชวนนายจ้าง – ผู้ประกันตนใช้สิทธิ 27 ก.ย. 69",
+      "summary": "สปส. ดำเนินการรณรงค์เลือกตั้งบอร์ดประกันสังคม ลงพื้นที่ที่อนุสาวรีย์ชัยฯ เชิญชวนนายจ้างและผู้ประกันตนใช้สิทธิเลือกตั้ง วันที่ 27 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95cVVOeXBMU3l2QjVKLTdORi1xb0IyMmNycDVaRThJWGNuZG15WW9WMW5ZSHdZU2oxd1ZLelU3RTdoY3V6c0FJQ196NDduUXRu?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-09-16T14:16:08Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการประกันสังคมที่เกี่ยวข้องกับสิทธิของผู้ประกันตนและนายจ้าง"
+    },
+    {
+      "id": "0267f604",
+      "title": "สปสช. จับมือ กรมราชทัณฑ์ ขยายบริการผ่านกองทุน กปท.ดูแลสุขภาพผู้ต้องขัง ปี 70-71",
+      "summary": "สปสช.จับมือกรมราชทัณฑ์ขยายบริการสุขภาพผู้ต้องขังปี 2570-2571 ผ่านกองทุนกปท. ดำเนินการแล้ว 92 แห่งในปี 2569 เพื่อลดช่องว่างการเข้าถึงบริการสุขภาพ",
+      "url": "http://www.hfocus.org/content/2026/09/39526",
+      "source": "Hfocus",
+      "published_at": "2026-09-16T11:48:47Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายสวัสดิการสุขภาพที่มีการขยายบริการและตัวเลขการดำเนินการชัดเจน"
+    },
+    {
+      "id": "4a3e5333",
+      "title": "“แอ๊ด คาราบาว” หักดิบเลิกสิ่งนี้! ชมบัตรทองใช้สิทธิครั้งแรก | daradaily",
+      "summary": "ศิลปินแอ๊ด คาราบาว แสดงความเห็นเกี่ยวกับบัตรทองและการใช้สิทธิประโยชน์สุขภาพ ครั้งแรก เน้นความสำคัญของการเข้าถึงบริการสาธารณสุข",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HSVExMzhuSVFXTU9GR2RaRDdZRlBLQ2hkaXpYd1IzUlREdXFFNkxwTHRNZFR3WnZ1VDRyYktJNDJuY3owSG5xS3ZXMXE1ODNrREhyMlZR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-16T10:22:56Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องบัตรทองแต่เป็นความเห็นส่วนตัว"
+    },
+    {
+      "id": "79dec65f",
+      "title": "‘พาณิชย์’ยกทัพสินค้าธงฟ้า-ไทยช่วยไทย ลดค่าครองชีพ จังหวัดยะลา",
+      "summary": "กระทรวงพาณิชย์ส่งสินค้าธงฟ้าและโครงการไทยช่วยไทยไปยังจังหวัดยะลา เพื่อลดค่าครองชีพให้แก่ประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVFJMbDlBeWN1T1B5YUNjTGpiVUlMejZqTXF0OWI0ZFZSV3dlMWhWb3Z6cE15VzR5NU9RRC1xcERnZHZKWnYtS3pXZ25hMXB3WmJScW50UHUxUQ?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-09-16T06:23:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ยะลา"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดค่าครองชีพในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "15229a5d",
+      "title": "คลัง เตือนเร่งทบทวนสิทธิบัตรสวัสดิการ ถึง 20 ก.ย. ถูกสวมชื่อมีรายได้แจ้งสรรพากร",
+      "summary": "กระทรวงการคลังเตือนผู้ถือบัตรสวัสดิการแห่งรัฐให้ทบทวนสิทธิภายในวันที่ 20 กันยายน เนื่องจากพบกรณีบุคคลที่มีรายได้แต่ยังคงถือบัตร ซึ่งเป็นการสวมชื่อและจำเป็นต้องแจ้งสรรพากร",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82QXlETk5VM01HalM0SDd0YWd6QjcyVVhxY2l1TTZ4UHhDZzhiZEdHeFgyLU1RRU1vbjU0VHlkN1JvdndrUUY4MDhuVDFoaW0tdmhv?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-09-15T23:37:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการควบคุมคุณสมบัติผู้รับสวัสดิการมีกำหนดเวลาชัดเจน",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "63b0e5d0",
+      "title": "เตือน 3 ความเสี่ยงการคลัง สศช. แนะสร้างสมดุล “วินัย-สวัสดิการ”",
+      "summary": "สศช.เตือน 3 ความเสี่ยงการคลัง ได้แก่ หนี้สาธารณะสูง จัดเก็บรายได้น้อยลง ตัดลดรายจ่าย แนะสร้างสมดุลระหว่างวินัยการคลังและสวัสดิการ",
+      "url": "https://www.prachachat.net/finance/news-2067638",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-16T12:09:33Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นโยบายการคลังที่เกี่ยวข้องกับสวัสดิการและความเป็นอยู่ของประชาชน มีการเตือนความเสี่ยง"
+    },
+    {
+      "id": "579b56b9",
+      "title": "เคาะ “กรุงไทย” บริหารจัดการรายได้กลาง ระบบตั๋วร่วมรถไฟฟ้า",
+      "summary": "ธนาคารกรุงไทยบริหารจัดการรายได้กลางระบบตั๋วร่วมรถไฟฟ้า กำหนดค่าโดยสารสูงสุด 45 บาท เพื่อลดภาระค่าครองชีพประชาชน",
+      "url": "https://www.prachachat.net/politics/news-2067623",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-16T11:55:41Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการลดค่าใช้จ่ายการเดินทางสำหรับประชาชนทั่วไป"
+    },
+    {
+      "id": "271a179f",
+      "title": "เปิด 9 ภารกิจเร่งด่วน ‘พาณิชย์’ สร้างโอกาส SME-ดูแลค่าครองชีพ-สร้างความเป็นธรรมการค้า",
+      "summary": "กระทรวงพาณิชย์เปิด 9 ภารกิจเร่งด่วน เพื่อสร้างโอกาสให้ SME ดูแลค่าครองชีพ และสร้างความเป็นธรรมในการค้า",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOMXpUMy1ic012ZXdBUExJSTZ5czZuZ3JzU3V3ZnlIcXI2dHo3YU5FMm9LMFJDZ0tfcVdTTFhHYmc0cGZ2azhvV2VZeXI2NFE4Y1hrUUVJX0FqdURfZzZhV0xJcWVaakFWeFlSNjFDTWpQSFVJZk1VVjJTR1MwcXRnSFFHS1JLTkc2MWU1QTVTRVNQbDJ4QmJZeTItRm1JVk43ZG5oaXJObnJ4dHB6NTlHVTFrZEdIZjlYdlFrRkVKZVFlT2x5VFA4NjcwdFlGZkxpTzIzN0JfSGVFd213RmE1VFJNOVRXaExweWdVY2t1d2JCSzhTUmY0X2dMM2hpay1xbDJFelBXZXZSaFRNVDM0Yk15LVhVbEowdnpVdkluNXZWR1lPckkwZWtSS21jTmVWYV9uVTExdkpLSU5GNzdRWEoybUl0Q2M?oc=5",
+      "source": "Smart SME",
+      "published_at": "2026-09-16T07:07:28Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นโยบายดูแลค่าครองชีพระดับชาติ"
+    },
+    {
+      "id": "8bfa4a6c",
+      "title": "\"สธ. - ไลอ้อน\" เดินหน้ารถทันตกรรมเคลื่อนที่-สแกนเนอร์ 3D ช่วยกลุ่มเปราะบางทั่วไทย",
+      "summary": "กระทรวงสาธารณสุขร่วมกับบริษัท ไลอ้อน ขยายโครงการ \"Lion Smile Express\" ปีที่ 3 โดยนำรถทันตกรรมเคลื่อนที่และเทคโนโลยี 3D Scanner ไปให้บริการกลุ่มเปราะบางและเด็กนักเรียนทั่วประเทศ",
+      "url": "http://www.hfocus.org/content/2026/09/39521",
+      "source": "Hfocus",
+      "published_at": "2026-09-16T06:49:33Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "โครงการสาธารณสุขเพื่อกลุ่มเปราะบางมีการขยายตัว"
+    },
+    {
+      "id": "306aecd2",
+      "title": "OKMD ผนึก ม.ธรรมศาสตร์ เปิดเรียนฟรี 4 หลักสูตร E-Learning อัปสกิลสายครีเอทีฟ ดึง ‘ทุนวัฒนธรรมไทย’ สู่โอกาสทางอาชีพ",
+      "summary": "สำนักงาน OKMD ร่วมมหาวิทยาลัยธรรมศาสตร์เปิดหลักสูตร E-Learning ฟรี 4 หลักสูตร เพื่อยกระดับทักษะแรงงานสร้างสรรค์",
+      "url": "https://www.khaosod.co.th/monitor-news/news_10401487",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-16T13:37:56Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "โครงการพัฒนาทักษะแรงงานและสร้างโอกาสการจ้างงาน"
+    },
+    {
+      "id": "51aadca5",
+      "title": "บัตรคนจน 1 ต.ค. จ่อสแกนร้านไทยช่วยไทยพลัส ต่างจาก 60/40 ตรงไหน",
+      "summary": "บัตรคนจนจะเริ่มใช้งานกับร้านค้าในโครงการ \"ไทยช่วยไทยพลัส\" ตั้งแต่ 1 ตุลาคม โดยมีความแตกต่างจากโครงการ 60/40 ที่ผ่านมา",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jWktTN052WkdyZWUzZVFJajJWQmFZX0l6Z19GX3JRYk5FX05SUUlVLUVSUDIzUDhaYnZHeklXeTBPR1Y5QnFMZjNDSkZOR0ZB?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-16T05:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการสวัสดิการมีกำหนดการชัดเจนแต่ขาดรายละเอียด"
+    },
+    {
+      "id": "5f699443",
+      "title": "วันสุดท้าย!! ผู้ประกันตน-นายจ้าง ยื่นเพิ่มชื่อ-ถอนชื่อ เลือกตั้งบอร์ดประกันสังคม",
+      "summary": "วันสุดท้ายสำหรับผู้ประกันตนและนายจ้างยื่นเพิ่มชื่อหรือถอนชื่อในการเลือกตั้งบอร์ดประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BalVzWFZlMEJidFVMNDhVZm1XZy1MMmF3WlU0eTVzazBQTnczbEFSTHNlVVhlQlE1T0JScldGWU1MTTJ4LWxrRnJYam55ZmNLZDBkbnFuM29jTk5OOE5tREFhdHY1ZHZfbTY3RURueENBSGh2QUFZcVRNWnY?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-09-16T01:28:38Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ประกาศเรื่องสิทธิประกันสังคมที่มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "6af5e5a5",
+      "title": "ฝนถล่มหนัก บุรีรัมย์ น้ำทะลักท่วมถนนสูง30ซม. ซ้ำหลากจมนาข้าว100ไร่ คาดน้ำขัง1สัปดาห์ ต้นข้าวเน่าเสียหาย",
+      "summary": "ฝนถล่มหนักในบุรีรัมย์ทำให้น้ำท่วมถนนสูง 30 ซม. และจมนาข้าวกว่า 100 ไร่ คาดน้ำขังนาน 1 สัปดาห์",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10401530",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-16T14:55:52Z",
+      "category": "disaster",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เหตุการณ์ภัยพิบัติที่ส่งผลต่อเกษตรกรและประชาชน"
+    },
+    {
+      "id": "1beb2570",
+      "title": "27 ก.ย.เลือกตั้งบอร์ดประกันสังคม ใช้สิทธิได้ ไม่ต้องลงทะเบียนล่วงหน้า",
+      "summary": "การเลือกตั้งบอร์ดประกันสังคมจะจัดขึ้นวันที่ 27 กันยายน โดยผู้มีสิทธิสามารถใช้สิทธิได้โดยไม่ต้องลงทะเบียนล่วงหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5PVTNlVXFJcGFTWDVINlFVbHg3dHJGSGs0S2tKT2t2dkUtNVdBajNIeUxLX0NiUmtlRHllLUNtUjdtSGdtZzIwNWl3?oc=5",
+      "source": "RYT9",
+      "published_at": "2026-09-16T09:48:04Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการประกันสังคมมีกำหนดการชัดเจน"
+    },
+    {
+      "id": "c6201ab8",
+      "title": "\"แอ๊ด คาราบาว\" ป่วยหักดิบน้ำมันกัญชา ประทับใจใช้บัตรทอง อยากให้มีต่อ",
+      "summary": "นักร้องแอ๊ดคาราบาวประทับใจบัตรทองสำหรับการรักษาพยาบาล ขอให้ประชาชนมั่นใจในคุณภาพบริการและยาที่ใช้",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3UE01alRaWmZXREhWYm5TRjh0YlZNUjl2YUNNY1N1NEU1SUprUVl1SHd0SERDYnNNeDZlY08zaHpLd2cyN0FYSmxVRW4xcHZHdml0eGsxbHgzQQ?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-09-16T08:05:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับบัตรทองแต่เป็นความเห็นส่วนตัว ไม่ใช่นโยบายหรือข้อมูลเชิงนโยบาย"
+    },
+    {
+      "id": "8cdedb8c",
+      "title": "ส่อง ‘ค่าครองชีพคนไทย’ ปี’69 หลังอาหารจานเดียว-ทางด่วนจ่อขึ้นราคา",
+      "summary": "รายงานสำรวจค่าครองชีพคนไทยปี 2569 หลังจากราคาอาหารจานเดียวและค่าทางด่วนเพิ่มขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01Zk1kUW9Xa3pYMmVaRlRUWjBVcEF1SG5ZLTFYajdzTWN5Zmd0RndVcFB0MVhjNk1uUldyaklDa3k2OFdNTlRDZlVUeG1UeUlDcGFoektPUFJKWTNVNXpR?oc=5",
+      "source": "springnews",
+      "published_at": "2026-09-16T07:58:46Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ติดตามสถานการณ์ค่าครองชีพ แต่เป็นข้อมูลวิเคราะห์"
+    },
+    {
+      "id": "5be65227",
+      "title": "‘บัตรทอง’ ที่โลกยอมรับ หลักประกันสุขภาพถ้วนหน้า อย่าถอยหลังเพราะ ‘ร่วมจ่าย’",
+      "summary": "บัตรทองเป็นหลักประกันสุขภาพถ้วนหน้า ข้อเสนอให้ประชาชนไม่ถอยหลังจากการร่วมจ่ายค่ารักษาพยาบาล",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ZFVKZ3psVkpweGh6bkl5WEdEWDFsM0NqN1lROUJZRnB5S3ZOZm14NFp6SVdfU21yWDh6ZVU4MjYyR09XRjJQVy16UU00S3NwaXRaY3phZnNEUTFNSURoUElR?oc=5",
+      "source": "สภาองค์กรของผู้บริโภค",
+      "published_at": "2026-09-16T03:44:17Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ความเห็นเกี่ยวกับบัตรทองและการร่วมจ่าย ไม่มีข้อมูลเชิงนโยบายใหม่"
+    },
+    {
+      "id": "c7511f54",
+      "title": "‘แอ๊ด คาราบาว’ เปิดใจใช้สิทธิ์ ‘บัตรทอง’ ครั้งแรก! ชมหมอรัฐบาล-ยาดี วอนรัฐอุ้มสวัสดิการหมอ",
+      "summary": "นักร้องแอ๊ด คาราบาว อายุ 72 ปี ใช้สิทธิบัตรทองครั้งแรกที่โรงพยาบาลเชียงรายประชานุเคราะห์ ชื่นชมคุณภาพบริการและยาของระบบสาธารณสุข พร้อมเรียกร้องให้รัฐดูแลสวัสดิการแพทย์",
+      "url": "https://www.prachachat.net/news/news-2067681",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-16T14:27:34Z",
+      "category": "health",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เรื่องบุคคลดังใช้สิทธิ์ แต่ไม่มีข้อมูลนโยบายใหม่"
+    },
+    {
+      "id": "41c9416a",
+      "title": "\"แอ๊ด คาราบาว\" รู้ซึ้งแล้วบัตรทองดีเลิศ ขอให้ประชาชนมั่นใจ ไม่มียาห่วยๆ แน่นอน! (คลิป)",
+      "summary": "นักร้องแอ๊ดคาราบาวแสดงความรู้สึกดีต่อบัตรทอง ขอให้ประชาชนมั่นใจในคุณภาพยาและบริการ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00ZzZGV2V0bVN5Qjg3cHliLXZiMng4c3hnQlFLX1BPOG9NNWJFSFllWnRnekUzbnVTcWV1dGlkQXdyV09PVXhDaEpkR0VSaFRMQjhiZnh0LTdpMXRsaFdVUnBCLXlrbmc?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-16T12:02:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับบัตรทองแต่เป็นความเห็นส่วนตัว ไม่ใช่ข้อมูลนโยบายหรือการดำเนินการ"
+    },
+    {
+      "id": "6484f37a",
+      "title": "‘OP-IP Anywhere’ ใช้ใบส่งตัวไหม? ป่วยอะไรบ้าง? ตอบคำถามพบบ่อย สายด่วน สปสช. 1330",
+      "summary": "สปสช. ตอบคำถามเกี่ยวกับการใช้บริการ OP-IP Anywhere ผ่านสายด่วน 1330 เพื่อให้ข้อมูลแก่ผู้ถือบัตรทอง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZ2IyeDNqN3Q1bGQzaHBoLXJLSmFydXBSR1l2SnJLTkROWkVlY0N3Z2EzSHIyalM2NjJtNHRMTlNCRnJIdkx4QXg3VnQyS3pwUWphUkRyTEZzSTg?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-16T06:28:32Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข้อมูลการใช้บริการสุขภาพ ไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "7df37b45",
+      "title": "แอ๊ด คาราบาว เล่าประสบการณ์ใช้สิทธิ์ \"บัตรทอง\" ครั้งแรก! ชื่นชมโครงการรัฐเป็นประโยชน์",
+      "summary": "นักร้องแอ๊ด คาราบาว เล่าประสบการณ์ใช้สิทธิบัตรทองครั้งแรก ชื่นชมโครงการสวัสดิการของรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MSFpkNlpVZmxuWDVkQkUtQnQyaE8tVmFBc2NMMWtvVTNmYzJZV1NKb0U0SmRNeVBHZlc5ZEdEU2pEOWpLdGtCY1A4NmJNSzd1TzExWDIxenlqZHdHYW1aWE43RQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-16T08:36:00Z",
+      "category": "health",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข่าวบุคคลดังเกี่ยวกับสิทธิบัตรทอง แต่ไม่มีนโยบายใหม่"
+    },
+    {
+      "id": "e63f658e",
+      "title": "ยันไม่ได้รับสิทธิพิเศษ! แอ๊ด คาราบาว เล่านาทีใช้บัตรทองครั้งแรก เผยอาการป่วยหนัก | News In Thailand",
+      "summary": "นักร้องแอ๊ด คาราบาว อายุ 72 ปี ยืนยันว่าไม่ได้รับสิทธิพิเศษเมื่อใช้บัตรทองครั้งแรก และเล่าประสบการณ์การรักษาพยาบาลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8ycDNLYzRnU0F0WUF4Wk93cGlrZkFjSkNTcFVadW94UVJKMFlWampFbVAxd1RBOG5Sby1oZ2plZUJBXzFxMzk0aE9LRlN4NlNrSWI2QjlB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-16T08:32:28Z",
+      "category": "health",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข่าวบุคคลดังเกี่ยวกับสิทธิบัตรทอง แต่ไม่มีนโยบายใหม่"
+    },
+    {
+      "id": "fdc9d47b",
+      "title": "‘แอ๊ด คาราบาว’ ใช้สิทธิบัตรทองครั้งแรก ในวัย 72 วอนรัฐฯคงโครงการดี ๆ",
+      "summary": "นักร้องแอ๊ด คาราบาว อายุ 72 ปี ใช้สิทธิบัตรทองครั้งแรก และเรียกร้องให้รัฐคงโครงการสวัสดิการที่ดีต่อไป",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMy1TbldIM1M3QS04N245X1JGYjlYQ0ROaXRzUW9QYTlLZngzQUoyb28xaTFHanRiN0JzYWFWVXJraFdFMFdzRnZ1LTdJVjRYRlB6azkwYlZMMHNNQmdhZ05adkVOUVh0dXNncHdCOWE3T0d6SnpidWRFZw?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-09-16T09:38:15Z",
+      "category": "health",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข่าวบุคคลดังเกี่ยวกับสิทธิบัตรทอง ไม่มีข้อมูลนโยบายใหม่"
+    }
+  ]
+}
