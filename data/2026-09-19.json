@@ -1,0 +1,706 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T01:11:04Z",
+  "window": {
+    "from": "2026-09-17T23:09:12Z",
+    "to": "2026-09-19T01:09:12Z"
+  },
+  "stats": {
+    "fetched": 264,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 17468,
+    "ai_output_tokens": 12919,
+    "cost_thb": 3.0,
+    "runs": 1,
+    "kept": 45,
+    "eastern": 0,
+    "national": 45,
+    "new": 42,
+    "followups": 3,
+    "sources": 25
+  },
+  "items": [
+    {
+      "id": "54db5677",
+      "title": "สุริยะ ชง ครม. สัปดาห์หน้า อัดงบ 1.8 พันล้าน อุ้มชาวนาตกค้าง ไร่ละพัน",
+      "summary": "รัฐมนตรีสุริยะ เสนอครม. สัปดาห์หน้าอนุมัติงบประมาณ 1.8 พันล้านบาท เพื่อช่วยเหลือเกษตรกรที่ค้างการชำระเงิน โดยให้เงินสนับสนุนไร่ละ 1,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KX1BQcGdyRGUtU0JoMGc3am1mZ01feDk1UWlkZm9PZkhnWC1pUUNCaDIxaThMc2R0bHd4a3JDcl8xeV9PWEpFSTZEZ3Z3cnNYTHZmR19yczhzUFp4?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-18T22:21:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายช่วยเหลือเกษตรกรขนาดใหญ่ที่กำลังจะเสนอครม."
+    },
+    {
+      "id": "35bf0909",
+      "title": "ชัดแล้ว! ไทยช่วยไทยพลัส เฟส 2 ให้เงินรวดเดียว 1,000 บาท ใช้ 2 เดือน บัตรคนจนก็เติมให้อีก 700",
+      "summary": "ไทยช่วยไทยพลัส เฟส 2 จ่ายเงินรวดเดียว 1,000 บาทใช้ 2 เดือน และเติมเงินบัตรสวัสดิการแห่งรัฐเพิ่มเติม 700 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84ZHZ2RVRjWXdRMkVmbWlVTjE1RGFrczl4alJkWmZHdW5nYTN6My04Vmpud0xfMzYyQ0JfeElwMzl3WEt4RVlMVmVzNnlvaUZIX3dEclJqY1YxTFpRdkdFUkhBaw?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-18T05:59:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "มาตรการสวัสดิการที่มีจำนวนเงินชัดเจนและส่งถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "85cae035",
+      "title": "เคาะแล้ว! ไทยช่วยไทยพลัส ต่ออีก 2 เดือน ต.ค.-พ.ย. เติมเงินช่วยบัตรสวัสดิการแห่งรัฐด้วย",
+      "summary": "ไทยช่วยไทยพลัสต่ออีก 2 เดือน (ตุลาคม-พฤศจิกายน) พร้อมเติมเงินบัตรสวัสดิการแห่งรัฐให้กับผู้มีสิทธิ์ เพื่อช่วยเหลือประชาชนในช่วงเวลาดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGS0hzQUlELTRCOHN3Y1lxRFM4WFlRVVl0RTdqSXNHeGdqTkpuR3ZPb1JoVURPSF9SVFhVUlVEWmZsOEk5WDBFRDBxVzlCSUI1MVFqX3RR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-18T08:09:33Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มาตรการสวัสดิการที่มีกำหนดเวลาชัดเจนและส่งเงินถึงประชาชน"
+    },
+    {
+      "id": "00fc6d88",
+      "title": "“สุริยะ” จ่อเสนอ ครม. เพิ่มงบ 1,846 ล้าน ช่วยชาวนาตกค้างมาตรการไร่ละ 1,000 บาท",
+      "summary": "นายสุริยะเสนอเพิ่มงบประมาณ 1,846 ล้านบาทต่อคณะรัฐมนตรี เพื่อช่วยเหลือชาวนาตกค้างด้วยมาตรการไร่ละ 1,000 บาท สนับสนุนรายได้เกษตรกร",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QamZldklmTHpTcVoweXZ5VHdpYkpOczVNekpfS21IUlhaTUsyZy1WX0NXLWxiTndhUkhqVWQ1bWhieUxfX0ZPR0xBS2JKWVd6YkdkRXFSVDVpZEE?oc=5",
+      "source": "THE BETTER",
+      "published_at": "2026-09-18T05:53:49Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มาตรการช่วยเหลือเงินสดโดยตรงให้เกษตรกรรายได้น้อย"
+    },
+    {
+      "id": "9050abca",
+      "title": "เฮทั้งประเทศ! ต่ออายุสิทธิ์ 'ไทยช่วยไทยพลัส' รับสวัสดิการยาวไปอีก 2 เดือน",
+      "summary": "ต่ออายุสิทธิ์โครงการ 'ไทยช่วยไทยพลัส' เพิ่มเติมอีก 2 เดือน เพื่อให้ประชาชนได้รับสวัสดิการต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMi1gZBVV95cUxNdmNXVmd4OXJMelhSb0VkQ2dOSHZmV1FFYk1XWHZreUVhcnlvbXgwY3dOVk9iczRrTGdkZWtBVHNSc2dUVHJ1b3RLTDFzUlc2Slo3SW9sM1phV0U4aWxKT2Z5MHVzaGFVOWdoM2lONmZyWHpHSnVyNHJ4UTloUFFucXlHOEJ3YkV1ZGw0YkFuTUlmeVRITWdKNG1XengwUmxZY2V4RTdlN3NwQ1VNdHYwUktlVUVPMENFaV9fc0hsWmhVMWd4REdRcjMtT2luaU5Rb056MW9hV0k4dGVtRVJ0LTgyWnNOUS1qdWhzX2IzYUxoSVVwY3BaSnZUcHRJZXZBbzd1LUExZGRMWW1nTHp2b2t1M1g4REJYTEVTRFNrdjNaSHZsc2oyS3NNZnZ0MUtrZnMzREhfWkZNS1RPRWJvdnVBYk4wRnlydEtaYk9RbW1uT0E5VE11UENPaDhhSWdBTXg3WjI0NXlhNWItd0IzYTE3Y3FOVDFRaFFwMXl1NVVpVC1abnZVdUdiNnNVa3Z5SUVmRWFXMXFzZFBrMGVZNWxldHRRRkdXSGt1eW1tdFNhOERvcFBUbHhaa1U4U2o3WUc1U01EZVpfalNFWFhGUjNQMHo0b3RXTFBKdG1EeGZZWE96VC0tVkpxdlNGMldfNERxakFzOUhlajd0MkR6SDlDRjh1TTU1X1dsQzBZZHI2cnNuVEdTeW50RkRlTlN2WW05S0E3ODNCVkN3VV9mRzNGdXREcnQwOTRLal9nRldGc0wweTVnWmtsVzByb05aUVVCX241MzQxM3ZlbWZ3U3ExUy1Sb0RJclVVZFVLTHNtTDNEMmdRSThPMTFocDlaalh2MGtsV0FuLXV1M1o1VDRxanhtSTlrLTlTcy03NFROVEs4ajFYT1FkR1piNjRNWURBT3JEdjlwbXQxbjNTV3JqMHQ3bDUwbGVIMFNRTE5mX19yakV0eWNPaHlsQXlRc0Vjc2stT1ZoTDdZUko5SkxXMWQySzhKWWItanVjdmVxdWc2bzQ3ZXNKUERVWXlqTWU2dHJSTGYtZWM4YkxNTlNqeVF2bFB1OEMwdjFkMlBWMlFrVmRheDZuU3QzejZXQVdlMC1lRkpuZTZFYzlBVnhGSFV1Zw?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-09-18T20:06:05Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ต่ออายุโครงการสวัสดิการเงินสดแก่ประชาชน มีระยะเวลาชัดเจน"
+    },
+    {
+      "id": "7cc8af2e",
+      "title": "“เอกนิติ” พร้อมชง ครม. 22 ก.ย. ต่ออายุ “ไทยช่วยไทย พลัส” เติมเงินบัตรสวัสดิการเพิ่มให้ด้วย",
+      "summary": "รัฐมนตรีว่าการกระทรวงการคลังเตรียมเสนอคณะรัฐมนตรีวันที่ 22 กันยายน เพื่ออนุมัติต่ออายุไทยช่วยไทยพลัสและเติมเงินบัตรสวัสดิการแห่งรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4cmVjSTBYWUVJT295N01tR3EtTmZiS2tlcm1ZNWdVTjlNckxtQmswcEl1LXRzR3dwZk1nNzNTNFE5d1dtajdaWWgyT1dzQjkyYS1jdHJOaTZhc2dEb3lvVWwwZ2QtM05XS3oyZjlEZFdRalE?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-17T23:10:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายสวัสดิการที่อยู่ระหว่างการพิจารณาของคณะรัฐมนตรี"
+    },
+    {
+      "id": "c5eb6658",
+      "title": "เบี้ยยังชีพผู้สูงอายุ 2570 ใครได้เพิ่มบ้าง? เช็กปีเกิดและยอดเงินใหม่ที่จะได้ สูงสุดเดือนละ 1,000 บาท!",
+      "summary": "เบี้ยยังชีพผู้สูงอายุปี 2570 มีการเพิ่มเงินสูงสุดเดือนละ 1,000 บาท โดยขึ้นอยู่กับปีเกิดของผู้รับสิทธิ์ รายละเอียดเงินใหม่สามารถตรวจสอบได้ตามปีเกิด",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WRzZ0Y0xHNVY1ajVFamhRX3A1ejF2b0lPdnhzREgtbnVNdjU2M29zSjR1bVJCb3A0dHUzZUdMR0p2UEJfNlBqbUdudFo?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-18T11:06:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายเพิ่มเบี้ยผู้สูงอายุชัดเจน มีจำนวนเงินระบุ"
+    },
+    {
+      "id": "0c41d214",
+      "title": "หนี้ครัวเรือนไทยปี 69 พุ่ง! แตะเกือบ 8 แสนบาท/ครัวเรือน ภาระค่าครองชีพ-รายได้ไม่พอรายจ่าย",
+      "summary": "หนี้ครัวเรือนไทยปีงบประมาณ 2569 พุ่งสูงถึงเกือบ 800,000 บาทต่อครัวเรือน เนื่องจากภาระค่าครองชีพสูงและรายได้ไม่เพียงพอต่อรายจ่าย สะท้อนความเดือดร้อนของประชาชนชั้นล่าง",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tQlJpeGhqWTNKcUVsdTV1dmhfc3MwanRHRWV2ZTV3a2lIVGsxQUIzMVl0V3dxb0NLTDVXQ1JBSW5IbHhNVTVPUw?oc=5",
+      "source": "cm108.com",
+      "published_at": "2026-09-18T09:20:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ปัญหาหนี้ครัวเรือนส่งผลต่อคุณภาพชีวิตประชาชนโดยตรง"
+    },
+    {
+      "id": "2dda7867",
+      "title": "นายกฯ ไฟเขียวต่ออายุ ไทยช่วยไทยพลัส เฟส2-บัตรสวัสดิการแห่งรัฐ ช่วยกระตุ้นศก.",
+      "summary": "นายกรัฐมนตรีอนุมัติต่ออายุโครงการไทยช่วยไทยพลัส เฟส 2 และเติมเงินบัตรสวัสดิการแห่งรัฐ เพื่อกระตุ้นเศรษฐกิจและช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtQzNfejQydk94TnkzaUFLVlZKdGx1ZEFJcXlaUUdGQzhTTDA1TUFhYVBLQkZud0tWRUliYzJaVTZIQXJaVWNKWkI0SDgtVUlVclNNVV91c0NvYy01?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-18T06:58:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสวัสดิการแห่งชาติที่ส่งผลต่อประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "4fd9e431",
+      "title": "นายกฯ แจงไฟเขียวไทยช่วยไทยพลัส เฟส 2 กระตุ้นเศรษฐกิจยุคข้าวยากหมากแพง จ่อประกาศข่าวดีลดค่าครองชีพครบวงจร",
+      "summary": "นายกรัฐมนตรีแจงอนุมัติโครงการ 'ไทยช่วยไทยพลัส เฟส 2' เพื่อกระตุ้นเศรษฐกิจและลดค่าครองชีพครบวงจร จ่อประกาศข่าวดีในเร็วๆ นี้",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tSzNuTElPdElnVl8xTE94Q0NFNmVReG5TSng5VXVDTWlWOHBad1VwSHI2OXlFWUFpOEF1UGFaNWV1Nm51UlMwdVpzb3hpc2laMlNRS3dtZHJEUmwxTUJGbg?oc=5",
+      "source": "MGR Online",
+      "published_at": "2026-09-18T06:50:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายลดค่าครองชีพระดับชาติที่อยู่ระหว่างการประกาศ"
+    },
+    {
+      "id": "ba788b9c",
+      "title": "\"ไทยช่วยไทยพลัส\" ต่ออีก 2 เดือน ต.ค.-พ.ย. เติมเงินช่วยบัตรสวัสดิการแห่งรัฐด้วย ยึดตามจำนวนผู้ลงทะเบียนที่ผ่านคุณสมบัติ อ่านข่าวคลิก https://www.fm91bkk.com/newsarticle/79038 #ไทยช่วยไทยพลัส #บัตรสวัสดิการแห่งรัฐ #ข่าวสวพFM91",
+      "summary": "โครงการไทยช่วยไทยพลัสขยายเวลาอีก 2 เดือน (ตุลาคม-พฤศจิกายน) เติมเงินเข้าบัตรสวัสดิการแห่งรัฐตามจำนวนผู้ลงทะเบียนที่ผ่านคุณสมบัติ",
+      "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxQVEhRZ1BhSkN5SFBWczNteXhqcFJPRkJTMVlVdzZnc1Z2bkdFdWwwcmJ6OWN1SUktSVhvWUowc3YxMkJBT3VyelljaHNYN19uaUNYbm5hZ191LWxVLXZIOHZ5VTdXbVF2NE1BajdpVzU5WkJid214RlR6d0g2QlNLYkxpbTJzMlRyeS1pakx4cUQtcEMtX0FHeTJISFBkQjE3dWc2V2gzcGdpc09NTTRGYlZJSVQwSU1MSTZXN1R4UjF2ejZWelRwanFoTmR3S1o1UUhPb3B0SlF0SUU0LVBNZFV4NzZIZE1GcjlzUzNNMFd2ZUZNVFFtamVRdDRVX2FXRWd0Ukl1ZDBpRjVvd2NVNmdrdEViRU1kUDhCQkVJX0NudE9lVVNPN2w1OUlFMmd6RXJzRWhkM01wMk9TMmROUF9XbmtHYlNjTW41RVZzelhnR0toRlB4cml0R2d2aEN4X0R1M1VoUEs3WTFiT3dzZmR3dGpGWnh3c0NYVzN0T0pkRUwwbFkzUHdTSlRTWjRqZWdWSnZBb2FpNEFCUjRoczJMT3loSXNsY2VOd2lIR3NFaGJBNTZiRzZHaHQ1SEYxdzNOOW5sb1hLNl9LOFRLUW03VnNZVnBKX0RmVWxheHZjMWpBOFU1THVEc29rNWpCTUtqQXExazVwanc0cHJ0RkpvR2JNeDNETTVIbjJyQ0JPal8yVGE1YVJPQ25NRjh0TXVqNTRFYWhxOERsWnNnQ3BNS09wdnREN1U5NUlvUVdrZGJwVEdBNkt3SXpQZjl3dVB3dGgxeTBodFhnakdmSEVjclhsTzZMV1VjUjlZY2ZLb080UnY5aW1uV0xfMUQ2NWxFM19RZkJhOGFQYVJqSzRoVHV3TXRRa3pESzVNMEZkdTdhcUNMeGNlbXlER2llclRtei1FVkM1NnpFSUxCb1A2ZzctUV9uZl9OMUR0U3VybHVsVFR4LUtYY2dpYk9EeE9KUTNUdEs3Q29tNFl5TXlYVUtrYlBjQ2lWdGsxUDVJQzlQMVV3emk4U1dkbjEtbkVnVUJFenZ4VDlFcjhnb2Jtc2dHRUtrWDRNYS1QSmdTQnJmMXhvWTBEOV9zbmRMbkJ4dU1MWmx4V1NmNkJCU3M0cEROZjU1YkF4ZmxVOVBaUkNSV0VrY2tQdzlHNkxXYmoyZzZhZEFjMTdpMFZrLTNjX2diWllITjRIbkhaTHcyYmxmeVg1eFZZSk5PcVVvUHpLNDlqZFlqbm9FaG1Nb1pIWmFGcXlRNzFQMlVJb3lrakM4X01xS1EtQlp6VTEzQ2FaQWplWU9yN2tp?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-18T01:56:28Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ประกาศการขยายระยะเวลาโครงการสวัสดิการที่มีผลต่อเงินสดจริง"
+    },
+    {
+      "id": "12c4bacb",
+      "title": "ศุภจี จ่อชง ครม. แผนอุ้มค่าครองชีพ-เกษตร รับมือพลังงาน คาดเงินเฟ้อปีนี้ไม่ถึง 3%",
+      "summary": "รัฐมนตรีจะเสนอครม.แผนอุ้มค่าครองชีพและสนับสนุนเกษตรกรรับมือพลังงาน คาดเงินเฟ้อปีนี้ไม่เกิน 3 เปอร์เซ็นต์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jOUN6QzRxcl9VdHprZVNNUGU4UF9GZXNpWU9TdlozcDAxVkEwbmMzdGs0bFFacFRiLWJsUjN1N1RrNWFMbU8wXzBoOEdUa3RFUGFfem1xa2kyZGdT?oc=5",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-18T07:39:49Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "นโยบายสนับสนุนค่าครองชีพและเกษตรกร มีกำหนดเสนอครม."
+    },
+    {
+      "id": "f262117e",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 รับเพิ่ม 700 บาทใต้โปรไทยช่วยไทยพลัส”",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐ 2569 ได้รับเงินเพิ่มเติม 700 บาทภายใต้โครงการไทยช่วยไทยพลัส",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkhBZDkzMEtwRVY4eFF0TU9KdHBZemNFVHRkTFdQTlZ4RXJlWXdXQjRIenVoM2xpU1N3a1poMkdLUWVESGtHU2VSVU1mUWViT21hR2J5X2RyWm1wbHJHX2l6dklwcmtIa3pGSjQ5dlFXSDctU2E1ZFdaV1ZyRHNMQzA1cTdlbFpMcnFtdlVQTllXQm4zbTdCYWdfMV9SQ0JQS0k0MjBGS1NOWmo3VEc2OGRoeVFaODVOUnY3Q0FnaVZ5Q3hZZm52S0lJcmhlMVJCQjktX1lySF9ITm92Q1NnQVZUa01Nd2w1UXpaVzI0TUdJdlk1SkM3NHVPenZ6TlJIY04xZnlKSXlzMkhvNkQ2QXRHUzAxWEN6d3ZWQ3VGZ3VnTk8wb253UTB5QUdtdnd5?oc=5",
+      "source": "คลาวด์ปัง",
+      "published_at": "2026-09-18T04:38:11Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ประกาศเงินสดเพิ่มเติมสำหรับผู้ถือบัตรสวัสดิการ"
+    },
+    {
+      "id": "597853e2",
+      "title": "\"ประกันสังคม\" ปรับปรุงสิทธิประโยชน์ทางการแพทย์ ให้ผู้ประกันตนเข้าถึงยา 4PCC",
+      "summary": "ประกันสังคมปรับปรุงสิทธิประโยชน์ทางการแพทย์ให้ผู้ประกันตนเข้าถึงยา 4PCC เพิ่มเติม ช่วยให้ผู้ประกันตนได้รับการรักษาที่ดีขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGclVWZTJLdTluSDZXUXEzRmxZa0NaeGRHX0NLUGF2VlE4eHhkZU5nSVBIbGdCMFcyX1FOSTIxOXNaNlNYc3JlUlgzanhMLVVtNS05OG8tXzVuTVU?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-18T02:59:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการปรับปรุงสิทธิสุขภาพสำหรับผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "9b4ff687",
+      "title": "ก.เกษตรฯ จ่อชง ขยายวงเงินช่วยเกษตรกรไร่ละ 1 พัน เข้า ครม. สัปดาห์หน้า",
+      "summary": "กระทรวงเกษตรเสนอขยายวงเงินช่วยเกษตรกรเพิ่มเติมในอัตราไร่ละ 1,000 บาท เข้าคณะรัฐมนตรีสัปดาห์หน้า เพื่อสนับสนุนเกษตรกรรายย่อย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMN0p1Y3NOYXphWEZpOERFM0dGRE9OekZLaXhhTmtSYVNHay16LU5fSDFtenl0em5nWGxsU1JFb1RwYjdtdVdSdG85c05qd0I1RkgwNTViU205WEk?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-09-18T06:39:57Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการสนับสนุนเกษตรกรชัดเจน มีกำหนดการเข้าครม."
+    },
+    {
+      "id": "10fa5c44",
+      "title": "‘ประกันสังคม’ เพิ่มยา 4PCC รักษาภาวะ ‘เลือดออกรุนแรง’ ลดเสี่ยงผู้ประกันตนเสียชีวิต",
+      "summary": "ประกันสังคมเพิ่มยา 4PCC เพื่อรักษาภาวะเลือดออกรุนแรง ลดความเสี่ยงการเสียชีวิตของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42bmVSSjlYbm1ZTnNQM3d5UnM4ZnhkZ0dPQ0NlR2NkdlJ4ckFhVXhrRXFkUVoxQTJtbmI4RXFKS3pGbmtCdnRFV08wQzBiQ25oeFZBSktVM2p1NE0?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-18T03:59:04Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ขยายสิทธิประโยชน์สุขภาพสำหรับผู้ประกันตนประกันสังคม"
+    },
+    {
+      "id": "06c30894",
+      "title": "ค้านปมกระทรวงดีอี ชงตัดสิทธิรักษาบัตรทอง ลงโทษ “บัญชีม้า” ด้านรมว.สธ.ยังไม่ดูรายละเอียด",
+      "summary": "กลุ่มสาธารณสุขค้านข้อเสนอของกระทรวงดีอีที่จะตัดสิทธิบัตรทอง 30 บาท เนื่องจากหากตัดสิทธิ โรงพยาบาลจะต้องแบกรับภาระการรักษาแทน ส่วนรมว.พัฒนาสังคมยังศึกษาข้อมูลต่อ",
+      "url": "http://www.hfocus.org/content/2026/09/39555",
+      "source": "Hfocus",
+      "published_at": "2026-09-18T10:48:06Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องกับสิทธิการรักษาพยาบาลของประชาชนรายได้น้อย"
+    },
+    {
+      "id": "e6532ebe",
+      "title": "สธ.ชวนปรับทัศนคติ “มีลูกได้จริง เลี้ยงได้ดี” เสนอ 5 นโยบายฝ่าวิกฤตเด็กเกิดน้อย",
+      "summary": "กระทรวงสาธารณสุขเสนอนโยบาย 5 ด้านปรับสวัสดิการเด็กไทย เพื่อแก้วิกฤตเกิดน้อยด้อยคุณภาพ และปรับทัศนคติการมีบุตร",
+      "url": "http://www.hfocus.org/content/2026/09/39554",
+      "source": "Hfocus",
+      "published_at": "2026-09-18T10:22:40Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายสวัสดิการเด็กและการสนับสนุนครอบครัว มีรายละเอียด 5 ด้าน"
+    },
+    {
+      "id": "32004a10",
+      "title": "‘รักชนก’ จี้รัฐบาลเร่งแก้ปัญหา กยศ. ล่าช้า หวั่นเด็กหลุดจากระบบการศึกษา",
+      "summary": "นางรักชนกจี้รัฐบาลเร่งแก้ปัญหากยศ.ล่าช้า หวั่นว่าเด็กจะหลุดจากระบบการศึกษา เนื่องจากการชะลอการจ่ายเงินกู้ยืมเพื่อการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRVFFyY3VPWFZUZWhzVWVOcTJMbXpfNWtNRG4wMHRUa0V6QzZzeEpVaXl1MkprOHdvcWNJdll1OTRFcHh4V0JGYlFtSW5ST3ow?oc=5",
+      "source": "one31.net",
+      "published_at": "2026-09-18T06:18:24Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ปัญหากยศ.ส่งผลต่อการศึกษาของเด็กรายได้น้อยโดยตรง"
+    },
+    {
+      "id": "9713a4fb",
+      "title": "คลังจัดสิทธิใหม่! ไม่ผ่านบัตรสวัสดิการแห่งรัฐ โยกเข้า “ไทยช่วยไทยพลัส”",
+      "summary": "กระทรวงการคลังปรับเปลี่ยนสิทธิสำหรับผู้ไม่ผ่านการคัดกรองบัตรสวัสดิการแห่งรัฐ โดยโยกเข้าโครงการไทยช่วยไทยพลัส เพื่อให้ความช่วยเหลือต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wcnRqZzJWMC1Bcm9rU3lKRkNwemJCVXNKYzRjUVQ1Q1RSOG9WczhBYjhGcFRYN2RQVVc0dENleVhwTm16bllYTG51dEVlNHhnU3NJ?oc=5",
+      "source": "kaohoon.com",
+      "published_at": "2026-09-18T02:46:46Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการปรับสิทธิสวัสดิการที่มีผลต่อกลุ่มเป้าหมาย"
+    },
+    {
+      "id": "4be2712b",
+      "title": "คลัง เตรียมตัดสิทธิ์ไทยช่วยไทยพลัส ผู้ผ่านเกณฑ์บัตรสวัสดิการ รอบใหม่ 30 ก.ย.",
+      "summary": "กระทรวงการคลังเตรียมตัดสิทธิ์ไทยช่วยไทยพลัสสำหรับผู้ที่ผ่านเกณฑ์บัตรสวัสดิการรอบใหม่ ตั้งแต่วันที่ 30 กันยายน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RcnFBMllaQ2xtcVVPQzk4Q2tjcHdYREwtbEdEcDBCQWd1RjN1YjEzWFZkcjBBOVkzSkxzYk9yZXlnbmRpaHdERTA2MUczbV9VTFZr?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-09-18T02:46:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การปรับเปลี่ยนเกณฑ์สิทธิ์ที่เกี่ยวข้องกับสวัสดิการ"
+    },
+    {
+      "id": "d4da8e74",
+      "title": "พาร์ตไทม์เพื่อคนไทย แกร็บ เปิดโครงการช่วยหารายได้เสริมสู้ค่าครองชีพ",
+      "summary": "บริษัท แกร็บ เปิดโครงการ 'พาร์ตไทม์เพื่อคนไทย' เพื่อช่วยให้ประชาชนหารายได้เสริมและสู้ค่าครองชีพที่สูงขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtOWdFLVF0bkRDMTJUM0VMclctY3U3dG1Tb0VISFpaV1hVZ0RtTFBacjhPelRQYlpGTVN3aThjYll1aWFjR29zeUU3VkJhdEs5N0swZkMxNm9vWWtINnc?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-18T01:30:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการสร้างโอกาสการจ้างงานเสริมสำหรับคนรายได้น้อย"
+    },
+    {
+      "id": "069ebfb2",
+      "title": "ข้อเสนอเพิ่มค่าแรงขั้นต่ำระดับภูมิภาค 7.8% มีผลบังคับใช้ตั้งแต่วันที่ 1 มกราคม 2560",
+      "summary": "ข้อเสนอเพิ่มค่าแรงขั้นต่ำระดับภูมิภาค 7.8 เปอร์เซ็นต์ มีผลบังคับใช้ตั้งแต่วันที่ 1 มกราคม 2560 เพื่อปรับปรุงรายได้แรงงาน",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc29kaUxzbnVpWGlUVGFLOHo5c1ZGOEhQYnlNamYzR2ZNMm40a1BDOXNHbzQ5SjE0UW1qU1dQVTJWMW95cl9NTkFwNjJXV25zQ01BTjZacXMzNERDd09pOWM4ZXFpbW1renczOUQtbkpSMV9QSlQ4WVp6RzQ0MzdiRW93anhodGs?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-18T08:22:25Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการเพิ่มค่าแรงขั้นต่ำ มีอัตราและวันที่ชัดเจน"
+    },
+    {
+      "id": "26da906a",
+      "title": "สำนักข่าวไอเอ็นเอ็น : innnews. . สรุป \"ไทยช่วยไทยพลัส\" จ่อไปต่อ คนขอไม่ทิ้งคนหลุดบัตรสวัสดิการ : 18-09-69 | คลิปเด็ด #ไทยช่วยไทยพลัส #บัตรสวัสดิการ #บัตรคนจน #เป๋าตัง #ถุงเงิน #innnews **อย่าลืม! กดถูกใจ กดติดตาม กดติดดาว เพจด้วยนะ จะได้ไม่พลาดโพสต์ของสำนักข่าว ไอ.เ",
+      "summary": "โครงการไทยช่วยไทยพลัสจะดำเนินต่อไป เพื่อไม่ทิ้งผู้ที่หลุดจากบัตรสวัสดิการแห่งรัฐ ให้ได้รับความช่วยเหลือทางการเงิน",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxPTEJCUHpWU09oLWMyLXhVRkZCLXhPblVHVGp5QURkMFFIUnZFbW5sSEV4X2RKOEVCZHVRYVYzOURPdGFxSTFRUjVYRjNTVWdTd3J4RzViaG5wM3AxMGFseVl2c0hZV09LUi0yeldINnpVeTlhenhvbnlzeWZnM19ZcnI3aVAtWTJseDQzLUZwQmd3NVBlbXFtUGx3T2RIblRDWEx4b08wd2k0WG1JZ0VDc3hwbDRleFhXMXFsdENrYmptNjlVWVBiVC1HTXBBNmFwcnpINTg2amRnc1FFR053TkRHay1ZdHlGeFBJU1NFanZhR1FfSW1oME5VaXk3c1pqZlFKSFFmUnBreXVTeUpIazFNVDU4WDM5NTdmOWZOZG5aSzQ5N1FnRTNHdHU0WW41OFBLR3FoNThYNkU0V05hcWVLdU1uRHppamwzZFF2N1RzWUNycXMtb0ZlV3RXQUtCNUxHMDA2ZWlEU2dNa01wU0JYS3l4UDhaanpHWGpva3MzZDRhck9CNVVwRDRNUnI4c19sYkZscXFiYnNXaDEwZ0cxVFdTc3FYeTZrQzdEbzN4SlY5YnNUNDlZZ05iMFl5YUJtck9yemVUaVpYWTg1RHl5Q1JnOXlkVnZxOVJUU1dCSnRSbEY1ZkpaeWlmREVtMzA0YmxwN1owRy1MRjdUaW1XT2k0WEc1Sm1Kb0h5d1VRT2g2RXMwb2hrR1BXcDRTaVRsTFNuZnZmTnY4T0JSMG1UWms0b2hPZ01mUGp5Uk9ZQ2R0SkowUllPZ1RUelpxeDUwS0pjc2pnOGlzeGdQTEpLWldjMmFsdTgwUTZJdEtUVGtyX2d0V0t3OWJZWmw0c2ZNZC1lNHAwTW9TcElOclllWG85THZBc1V3Zm1xNHFITWN2dUNPUmYzZzRhd0NabnB0ZlRFUFpQdmVOdzJKWTlscHIxbEtjSXBVZzlzaE54RktyRnVyYmRRWGNNSi1lVkVtQWZKc2lLV05PRjEtWnlwUVRqVDNmTmNhMVZkLVZ2dlFMM2lDN1ltNHZSMHpoekpXbWNKdWhGOXJUV2w3aUJJWENmNmUtdVh5MkY1REJnT0RmYzJ4ajJLb1pVMnI4LUtyS21NYlNRWXRuZEhCcDB2cWFuejdaRGpuYmJxY2ZvQjV5VDJCbHZlbHBkbmxoV1dVS1loYWl4V2l3bFhKWk9XdFFwTVp3WWpFaDBsajBGM3o1WXJpU0tESzM3Y053RlZxOWRPaw?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-18T07:01:24Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อมูลเกี่ยวกับการต่อเนื่องของโครงการสวัสดิการ"
+    },
+    {
+      "id": "21b5acff",
+      "title": "กห.-พม. ผนึกกำลังดันบ้านมั่นคงชายแดนนำร่อง 5 จังหวัดอีสาน-ตะวันออก ดูแลประชาชน-ทหารผ่านศึก-ผู้เสียสละ วันนี้ (18 กันยายน) ที่ศาลาว่าการกลาโหม พล.ท. อดุลย์ บุญธรรมเจริญ รัฐมนตรีว่าการกระทรวงกลาโหม ประชุมหารือร่วมกับ นิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมแล",
+      "summary": "กระทรวงกลาโหมและการพัฒนาสังคมผนึกกำลังดำเนินโครงการ 'บ้านมั่นคงชายแดน' นำร่องใน 5 จังหวัดอีสาน-ตะวันออก เพื่อดูแลประชาชน ทหารผ่านศึก และผู้เสียสละ",
+      "url": "https://news.google.com/rss/articles/CBMi2wdBVV95cUxPelNYNkJNZWtBMXNWOUMtTnQ2RHFSNWcxMjRkZkc4UlZPQW51dWhRWkktUnZmcHIwMG83TmN2ZFNnMk5PM1VYamh1Q1lHZzVGNkRfQnlVV0FicWJZd3REWHhXMEFmTjFjRERJckQxU1ZqU0xUZDNna1I0VzJwcEQtb0JSZXlpbUVMa1FLUFBHeHJmVTZENnRMbmdoWUdrcmJuSGdxcFEtRTlRWE44Mi1RRFdwU2dTdkR0eHZ2Rjh3MHJqWmd6bnlwUE5OSXE3MlQxUG4xR1NlMG1UVmlCcGZjcUdfYm53NzJLTVNoVmIwX3JJNVBFd0pLakNyX0lOeUFfQkJ0VGxzTmFQbmF6WFJSby1ELXhhcy1aQ0JDMG01YXdmVW9ObTNZWlVBbEkwXzJoQjBULVNCR0dxUDgxOW9NcWQ2NnBSbFU1eGlYak5OSHR3bXhORVdfaURoT2N0QmFwNnpiLUdTdGI4bk9pM3d3QlQ3bVVsUHlhUTVjYkMzbFRWWmlaZHE4TGp4Qk90QzVYb21wV2JRU1pyTW1UVzF3dTl3ZE14YTlCYWdMVmg2RXZrQVZqT3dFY2JqdWJGZG8waHBDeTN3UXJMVlN3RjJmWkx5RjhnZ1VxRzkwY3ViWHNCQ0RqaVh6VTNjbld1QmNYZ1pybkdFazhIUzJsVWp2S1VoYkJ1NERxV0VUMlUzdDdHUjVyQkJ2VE1HVzdZUS05SHppekNNdE9tbHFFR2ZQeHctME92STBmS05qQVVsYW5RWF9yeHl2bF8wNnE2SWJ4SUVkNk0zclZtVmFkUjdPNE42cVhQM3Q3RWcwRXJZVElfWFZNbXllVDRXcS15NFEtcnI3cHZoUFFFVXM1b0ZZWXdWS1E3UjR3NEdFb0dRT091ZE9KZ3l4Tnkxc0pQNFlTV18yS0RYSlljWGJmTWY4enpsemZoRFVCV1l2QlpzblcxV3JKa2l2QVBkLXpwd3htMnNsZXppenZPUmdzalpmOUIwRlFfNUNJTWVWbjQybEx0a1h6WExKQjRNR2R2WUFxbzd2bTV2bmR6LUp1S1pRRXBzZWx4OFBMSk41QUlmVEtXWVhnSC0wLXpUeHQtbTU2N2RtcTFLdHQ2WnZoZzlDNjhGbDFVc1NwM1JaUzJpbUVUMjVLclczUWxBc0xVRGNqSFdCdHZ0cTdvREQ0Z1F1SjBQdU1ROFVrVUpwa01WSGVZTmtoaUdVemRFSmVhR1dzQnItcmRhWlVBb2NHX3VidkVMNmhaNUVoNE9kUXFJWkgxamZGTVM5M2dManJOTThrclQ4VlNNN1ZGQUk?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-18T06:38:48Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "โครงการที่อยู่อาศัยสำหรับกลุ่มเปราะบาง ในพื้นที่ชายแดน"
+    },
+    {
+      "id": "2995a5db",
+      "title": "‘นิกร’ เล็งฟื้นฟู ‘เคหะชุมชนทุ่งสองห้อง’ สร้างคอนโดติดสถานีรถไฟฟ้า พลิกฟื้นคุณภาพชีวิต ลดภาระคนตั้งตัว . ​เมื่อวันที่ 17 กันยายน 2569 นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) ลงพื้นที่ตรวจเยี่ยมโครงการเคหะชุมชนทุ่งสองห้อง ถนนกำแพงเ",
+      "summary": "รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมลงพื้นที่ตรวจเยี่ยมโครงการเคหะชุมชนทุ่งสองห้อง เพื่อฟื้นฟูและสร้างที่อยู่อาศัยติดสถานีรถไฟฟ้าเพื่อลดภาระคนตั้งตัว",
+      "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxPWTlyOGRpR0puMm12R1JJay1UT2R3U2hobi1BV2h5Y0pwYWZLNjc3Uk9OanhjMi1nLWs1YlNLeWZUYkRNdXFSeHVCSVdTUVItdkd4NzVHMXF1aXBKUVNrQXBITk5ocFVsSFFORFlXTU4wODgwX2ZaMENrMDZyVkw0ODRkMVdWc2FMek5nV0NDZ1ZnclRVOTNhLUZ1TXQ3N3BHWmJLcG9NaU9oRnkwcGlha3F1Wk5ESXhTXzVEWi02S1cyZUpiYVBYRE9yb2diRmplei1nZ1ZlQXdmLTVDZzIzdC01eHhjaHhHM0pieGh4WFZaZlR6cllCTWh5RzgteG41ckE2ZFUzMGxyaUM0Y1dvdUFnczJaaHFJZ1dUSk9za1BORGs0cTRKbDRrRUc4ZzZZUGYwYm1BQ09oNHNwSEtJSzFwdXFvWlNNODJ1NGJIRHBldjkyeU1ldllGb29IRGhnOW9USVdkaXFfN1E5VHBNS19FcndIVUFRdERielNmbmRuU0NCSm56Z01Sdkxfc1kzX3FoT0xGVFRFQXNFZEJTcW1ycmhrNkJaZGZoa1hNZllNNXJBWDU4RVYtUHdSaXNLSDlRVmpHTFNWQ3FBbEJxSXR1UXVPYklsM1dybzZJc0VpeW5lVXBNd3NubEdoajlCRWpETm5IaENZOEVxQnktdmM3alJYYUhBWGowM0VNV2FSU3BHaWlEc0FiMG01cmMtanE2bnNmX1UwbWtZSzFIUzdpeF9LVDdKQ2haT1dqX05SLW9kbkVlUER1NHpWeEhhNHZ3SEhGZ2daZlZ5MnR1RHJ3OE40dTAyMVVJUHktbVBsa1F3bkRVVHAwZWJFc3luRERPM25TaDhkbTZJeE9abXJXbnpxUk40S2FtMzVnRzJmTEdNQXd6b2o3YmtvWmc0eFZGeEg3b2Z5dF9IVFRPMXJNVTVZTDNWOTREWTNhbmtuTHA1ZUVjR00wRVkxeFJocUw1SC05R0R0Rkg0bUFaTUdCME1MSjk3X0RmVGFlOEx3TW9UM19wejhRd1FGcFB1THAyYml5MWZjZmZSR2J3bHVXTk11VU52ZkdodmtkMDFTUTFLQzQ1RldnS0piZEJ0c0pYcENUUjFzSlJ1VDdORTBQLVpoSEVwU1NCN0hldVQ4NXZzVkstZ1pZZV9lWkkya0o1WjN5NGxvU28xaE0zbmFER2wtZDR3bzRGRTlrWlJNb3RhWjB3NGtYa0FNZklxU1VtZi1oMHR6UkRPWFZ6ekhfU0R6azJzZFNrbEZnWEpXRnA0S1ozSWg5RXh6TjNlVmpzQXEwVUp3V1NRcC0tZjBkcGRPTThCYnVhSGJncklPYU90MlJQV1Y0QkVJZjNfb3dVcGtB?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-18T04:47:36Z",
+      "category": "housing",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "โครงการที่อยู่อาศัยสำหรับผู้มีรายได้น้อยที่อยู่ระหว่างการดำเนินการ"
+    },
+    {
+      "id": "2f5787c7",
+      "title": "ผอ.WHO ภูมิภาคเมดิเตอร์เรเนียนตะวันออก ชื่นชม “สิทธิบัตรทองไทย”",
+      "summary": "ผู้อำนวยการ WHO ภูมิภาคเมดิเตอร์เรเนียนตะวันออก ชื่นชมโครงการบัตรทองของไทย",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZ0FDVlFNTTNhbTVkWWhGemx4V0gyNFdYcmhSaXNzNVlrdDRnb29uUURYUGFaS0dmdWYweTcyYTZrbVBteEJTYmNRaEFBLVJWQjg1aXhfOA?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-09-18T05:57:44Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การยอมรับระดับสากลต่อบัตรทอง แต่เป็นข่าวสารเท่านั้น"
+    },
+    {
+      "id": "511f60a9",
+      "title": "ชัดเจนแล้ว “ไทยช่วยไทยพลัส เฟส 2” ผู้ถือบัตรสวัสดิการแห่งรัฐ ได้ด้วยหรือไม่",
+      "summary": "ชี้แจงว่าผู้ถือบัตรสวัสดิการแห่งรัฐสามารถได้รับสิทธิโครงการไทยช่วยไทยพลัสเฟส 2 หรือไม่",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvdmFjSUZ0eUtMbUpTWHBFX29XNUMxenRrcWxsb05PUjE2eEd1YVJGbFhzbkJ4V29rX1JkWjNnSEhjbWZEWTA5NWdOa1hrY1pXRjM0b3lRUDRGS3M?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-18T03:38:39Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อมูลเกี่ยวกับเงื่อนไขสิทธิโครงการสวัสดิการ"
+    },
+    {
+      "id": "142b7d33",
+      "title": "ปรับเกณฑ์ปล่อยกู้กยศ. เน้นสาขาที่รัฐส่งเสริม แก้ปัญหาเด็กจบใหม่ตกงาน",
+      "summary": "ปรับเกณฑ์ปล่อยกู้กยศ. เน้นสาขาวิชาที่รัฐส่งเสริม เพื่อแก้ปัญหาเด็กจบใหม่ตกงานและสนับสนุนการศึกษาในสาขาที่มีความต้องการ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CUDhXdXZYMHQ2enVYSDVHMHh2eGJGQWZ1ckp3M0x4aE5ZWUN4aEhhZFVUMlFzSTdnWnB2ckpDUF80bzlTdUZFVVk3OUpNYUd6VDBZVHcwVkk?oc=5",
+      "source": "thaipbs.or.th",
+      "published_at": "2026-09-18T08:59:17Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ปรับปรุงเกณฑ์กู้ยืมการศึกษา เกี่ยวข้องกับการจ้างงาน"
+    },
+    {
+      "id": "2b2ce21e",
+      "title": "รัฐบาลลุยแก้ กยศ. ปรับเกณฑ์กู้ตรงตลาดแรงงาน",
+      "summary": "รัฐบาลดำเนินการแก้ไขระบบกยศ. โดยปรับเกณฑ์การกู้ยืมเงินเพื่อการศึกษาให้สอดคล้องกับตลาดแรงงาน",
+      "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPNnhSNk5YYmJSSUs1NnY0enVscTc1UTB5Zm01RnY5V1ViYUtuTTNGYkRyOWZ0VC04UGhwaXRvSjZocjdxams2cmhvVXFIZmpRUW03S3dYM1hKdTl2QnZEY0h0Z0k1a1V0bzhNS0RPRUZCYjFvS1phSVducGtXXzhqTEJqcUdkMlRiMFhEY0dUalZkVXF0UnhzYlF1VnFNT3UzMlh3VFNDQjIwWlNGYXJqdHJvem1EdzBkdXFVNk1PTV95WHJTQVMyZHZqVElRV01LTWVuelNJZGJNeDc0cVNXOEVjcy1WbkgwbmdZSk9YdFRKU3VCM01mSUF6OTA1dG1yRWlSblBLQXVwbGdLdy14amFyZTBPdHdZWG52c0hwX2l5RjRFU3ZYVzJNVWZXWnRtUFNjeWdtSERfdXRTa3dkLXViTDJlRi1YQ0I5NENVU09TS1ZiYWpBZml1Y1RkYktwUUk3NkVFT0pLRUFoTzV4NE9tWWF1eGhpT1NZcHZEdjYtLVhOWmhmMHN1OEJ3cE0wd2ZpM1FiR2JpaHZ5YXJ6TkFncE41cDUwSUs4a2FNN3hIYkNQUHhmUXo0ZEx3NVV0YlJEaW9mblhVb1pUeHhKYlNPeVNueG1PVTNJZkh5UXo1ZC0wd2h2WUJOeF9TSzUtMEtEMGdvZ1FVZmI3UnhXZGZzdTY5X2RmQmFXTXlxenRwLUJkX0xWSTQ2Z19hdmZEU09fbXJQdUdHUDR4Qy1xaw?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-09-18T03:31:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการเกี่ยวกับการศึกษาและการช่วยเหลือทางการศึกษา"
+    },
+    {
+      "id": "389fe6cd",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เริ่มใช้วันไหน? เช็กวิธียืนยันตัวตน e-KYC พร้อมวิธีลงทะเบียน ‘ไทยช่วยไทยพลัส’",
+      "summary": "ข้อมูลเกี่ยวกับการใช้บัตรสวัสดิการแห่งรัฐ 2569 วิธียืนยันตัวตน e-KYC และการลงทะเบียนโครงการไทยช่วยไทยพลัส",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GRnVoeEdxU2xsVWFKcTZ3c3hXRFpIM1c1N3pSV1kxbWYyN1dYVTd3V1d0Q05vN3hOX1QxeUhUbFpVV3ZnNmg4TVc1QWZCOHdTRmQ4d3gwRUJ4cmwz?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-18T00:29:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "คำแนะนำการใช้สิทธิสวัสดิการแต่ไม่มีรายละเอียดเฉพาะ",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "ac4bea4b",
+      "title": "สมาคมภัตตาคารฯจี้ทวนเกณฑ์ “คนละครึ่ง พลัส” โวยร้านเล็กจด VAT ถูกตัดสิทธิ ชงใช้ขนาดกิจการแทน",
+      "summary": "สมาคมภัตตาคารไทยขอให้ขยายสิทธิโครงการ 'คนละครึ่ง พลัส' ให้ครอบคลุมร้านอาหารขนาดเล็กและ SME ที่จดทะเบียน VAT ชี้ว่าการใช้สถานะ VAT เป็นเงื่อนไขตัดสิทธิเดี่ยวๆ ไม่เป็นธรรม",
+      "url": "https://www.prachachat.net/business/news-2068880",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-18T12:10:56Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับมาตรการช่วยเหลือต้นทุนครองชีวิตแต่เป็นข้อเรียกร้องเท่านั้น"
+    },
+    {
+      "id": "79008f28",
+      "title": "กห.-พม. ผนึกกำลังดันบ้านมั่นคงชายแดนนำร่อง 5 จังหวัดอีสาน-ตะวันออก ดูแลประชาชน-ทหารผ่านศึก-ผู้เสียสละ",
+      "summary": "กระทรวงการคลังและพัฒนาสังคมผนึกกำลังดำเนินโครงการบ้านมั่นคงชายแดนนำร่องใน 5 จังหวัดอีสาน-ตะวันออก เพื่อดูแลประชาชน ทหารผ่านศึก และผู้เสียสละ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95Ny1rY1FNT1FDMDFFdjIxWEJpSWdqSTlDaFZnUTRnY2JlbFdmQUlwVkE4T2FEZ3Brb2ZNZXlPSzNWTEJrWkNoanJhZGFSdEo3TC0wUFFGYXE3RlhuQ1dDbFNSdw?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-18T07:44:13Z",
+      "category": "housing",
+      "provinces": [
+        "อุบลราชธานี",
+        "ยโสธร",
+        "อำนาจเจริญ",
+        "บึงกาฬ",
+        "นครพนม"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "โครงการสนับสนุนที่อยู่อาศัยสำหรับกลุ่มเฉพาะ มีพื้นที่นำร่องชัดเจน"
+    },
+    {
+      "id": "d422004f",
+      "title": "เมืองเกิ่นโถเริ่มก่อสร้างที่อยู่อาศัยเพื่อผู้มีรายได้น้อย 308 ยูนิต และโรงพยาบาลขยายจำนวนเตียงเป็น 1,000 เตียง",
+      "summary": "เมืองเกิ่นโถเริ่มก่อสร้างที่อยู่อาศัยสำหรับผู้มีรายได้น้อย 308 ยูนิต และขยายจำนวนเตียงโรงพยาบาลเป็น 1,000 เตียง",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeGNBbUw3VlRHbVB3dWlTUlYzc1pTUElwS2VBaEdkNUFlV0VGMjJKSzhZRjBjT1pvcjhPUWFWUWREOUVrSnJrZWZNVmRtX1pGYmJYYkJQR2tZajliazBMV19lQXhoWlRUTUNZek5OaW9sVXZkYWd1a1VTNEZVX2h6cjVaNVUza1lleEkycHBkMGtwSE9BVjhDQU11QzZKWk5X?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-18T06:13:13Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "โครงการที่อยู่อาศัยสำหรับผู้มีรายได้น้อยในต่างประเทศ ไม่ใช่ประเทศไทย"
+    },
+    {
+      "id": "1e5326bb",
+      "title": "เปิดพื้นที่คนหูหนวก LGBTQIAN+ ร่วมพัฒนา ‘ระบบบัตรทอง’ เพิ่มการเข้าถึงสิทธิเท่าเทียม",
+      "summary": "เปิดพื้นที่ให้คนหูหนวกและกลุ่ม LGBTQIAN+ ร่วมพัฒนาระบบบัตรทองเพื่อเพิ่มการเข้าถึงสิทธิเท่าเทียม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aaE9Ka0FBbHBIcUVLRjlRNXVfbnFXeVBzeEQtdTRLbVVEWjFhZnVSY3hLNW1DZG1SaFlKaUdGNlA1dGVKcjBKaF9YLXRkZGFOc19nLTNYeGhtaHc?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-18T05:34:46Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการปรับปรุงบัตรทองสำหรับกลุ่มเฉพาะ แต่ยังอยู่ในขั้นพัฒนา"
+    },
+    {
+      "id": "c96b5452",
+      "title": "ถือบัตรสวัสดิการแห่งรัฐแบบไหน ได้สิทธิ ไทยช่วยไทย พลัส ต่อ หลังรัฐจ่อยืดอีก 2 เดือน",
+      "summary": "ข้อมูลเกี่ยวกับประเภทบัตรสวัสดิการแห่งรัฐที่มีสิทธิได้รับโครงการไทยช่วยไทยพลัสต่อ หลังรัฐขยายระยะเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzd1VTdXFqeTJxZkhFcjZJV092QjM5Z2lIcXRXY09YZGx2UzFNTWhXLTFCd0RDdjJjSmNDanduT0huTkhPbjJaVjNNSTYzREFu?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-18T04:18:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "คำอธิบายเงื่อนไขสิทธิแต่ไม่มีรายละเอียดตัวเลข"
+    },
+    {
+      "id": "41a9c50b",
+      "title": "ศุภจี ถกทีมเศรษฐกิจ รับมือราคาน้ำมันพุ่ง จ่อชง ครม.สัปดาห์หน้า เคาะค่าครองชีพ-สินค้าเกษตร",
+      "summary": "รัฐมนตรีว่าการกระทรวงการคลังประชุมทีมเศรษฐกิจเพื่อรับมือราคาน้ำมันที่สูงขึ้น และจะเสนอคณะรัฐมนตรีสัปดาห์หน้าเพื่อเคาะค่าครองชีพและราคาสินค้าเกษตร",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BNFFBdl9iVGpwV3lMcU50cTgzY2RGWnROaTlXclZfMWRrU0RDRDhDVHRhYVB3b1U2THRBNkUtUVZXUGxhZmpVZnNyS2Y0enpqYjFkeWh4SnYwUWRn?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-09-18T08:18:15Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "มาตรการเกี่ยวกับค่าครองชีพและการช่วยเหลือเกษตรกร"
+    },
+    {
+      "id": "7250c059",
+      "title": "\"ไทยช่วยไทยพลัส\" คนถือบัตรสวัสดิการแห่งรัฐ ได้ด้วยไหม? คลังตอบแล้ว",
+      "summary": "กระทรวงการคลังชี้แจงว่าผู้ถือบัตรสวัสดิการแห่งรัฐสามารถได้รับสิทธิโครงการไทยช่วยไทยพลัสหรือไม่",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56WGFzLUZ6bWRtNXQ2LVQwOTBSMXo2YnFvWGdrN0RlX3liM3lIT2JUWGdNbDBEYU1vSWdGNTgxMkN5cW9MMUlkMk8xRlc?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-18T06:30:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "คำชี้แจงเกี่ยวกับสิทธิแต่ไม่มีรายละเอียดเฉพาะ",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "1876a324",
+      "title": "ยอมเป็นบัญชีม้าถูกตัดสิทธิ์บัตรทอง",
+      "summary": "ข่าวเกี่ยวกับการตัดสิทธิ์บัตรทองสำหรับบัญชีม้า แต่ไม่มีรายละเอียดเพิ่มเติมในข้อความ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lMDdWMElsSG0yYlZyckF3N2s1Tk5sZlA1NjhVeDBhTGFZdFpLS3VNQ2Z6Nk8xcjlQNHo4LVY0ajU3cUhCWDJBX2JJT1NEQm1KUVRDdmc0WDRzRjRLZWQ3TWMzUk5ha2JfYTh5Z3VjOWRid2M?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-18T01:30:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องบัตรทอง แต่ข้อมูลไม่ชัดเจน ลดคะแนน 10 เพราะข้อความว่าง"
+    },
+    {
+      "id": "22c2a6e1",
+      "title": "หวั่น ตัดสิทธิบัตรทอง ‘คดีบัญชีม้า’ กระทบสิทธิพื้นฐานตามกฎหมาย แนะแยกเรื่องสุขภาพจากโทษอาญา",
+      "summary": "เครือข่ายคนไทยไร้สิทธิแสดงความหวั่นเกี่ยวกับการตัดสิทธิบัตรทองสำหรับผู้ถูกดำเนินคดีบัญชีม้า เสี่ยงกระทบสิทธิพื้นฐาน แนะแยกเรื่องสุขภาพจากโทษอาญา",
+      "url": "http://www.hfocus.org/content/2026/09/39556",
+      "source": "Hfocus",
+      "published_at": "2026-09-18T11:04:48Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "ประเด็นสิทธิสวัสดิการแต่เป็นความเห็นและข้อเสนอ"
+    },
+    {
+      "id": "d27b1eb4",
+      "title": "ความกลัวที่จะ \"ไม่ได้โอกาส\" และอุปสรรคในการเข้าถึงที่อยู่อาศัยสำหรับผู้มีรายได้น้อย",
+      "summary": "บทความวิเคราะห์อุปสรรคในการเข้าถึงที่อยู่อาศัยสำหรับผู้มีรายได้น้อย รวมถึงความกลัวไม่ได้โอกาสในการมีที่อยู่อาศัยที่เหมาะสม",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDlCa1RQZ1lBT3IwRUpSdC04UWZQSVByNVlWY203WTRuQ0RuRkVkcVpVUWhWMTBPRlVnemd0c3Z4NlhZQ2lPSFAzLTlIbXBTSW9EY0VzTDFhVzA5SUlZUkxBSnJ6WTJLOGxWcUtXRXZHS3NHR2pZS2Q4b0V5ckhCNTBjUWpyNEhyZml1ZDFR?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-18T23:56:23Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นการวิเคราะห์ปัญหา แต่ไม่มีนโยบายหรือมาตรการเฉพาะ"
+    },
+    {
+      "id": "4265494b",
+      "title": "‘พัฒนา’ รับทราบ ‘ดีอี’ ชงตัดสิทธิบัตรทอง ‘บัญชีม้า’ แต่ยังไม่เห็นรายละเอียด ขอศึกษา กม. ก่อน",
+      "summary": "กระทรวงพัฒนารับทราบข้อเสนอตัดสิทธิ์บัตรทองสำหรับบัญชีม้า แต่ยังรอศึกษารายละเอียดและกฎหมายก่อนตัดสินใจ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lWEtaYWJfNTJycU5XUW5zNFVGOVFpTXlMTWVUS1hocU1rWGJ3V1hGOF9rcG5XUDZUc2dkeHR1MnhNREg2UE9pakdGZ0V6Vm1TQlh2bm9iLW1xcVVqSmZ3bm5HVmFTc0dfaHc?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-09-18T07:52:38Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นข่าวการพิจารณานโยบาย แต่ยังไม่มีการตัดสินใจสุดท้าย"
+    },
+    {
+      "id": "e60cb579",
+      "title": "‘แอ๊ด คาราบาว’ ใช้สิทธิบัตรทองครั้งแรก ในวัย 72 วอนรัฐฯคงโครงการดี ๆ | The Bangkok Insight",
+      "summary": "บุคคลสาธารณะใช้สิทธิบัตรทองครั้งแรกในวัย 72 ปี และวอนให้รัฐฯคงโครงการบัตรทองต่อไป",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RQ01qZ0dGSDBxcDR6N3BsUkFHc1FKVjF1TGcwdnhoelZQZUtXMHhuTzZGR05OMXRQbVVTS3FaU1E4bWN2UUd6bUZqMmRONWVLS0FnZ19R?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-18T03:50:31Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นข่าวเกี่ยวกับบัตรทอง แต่เป็นเรื่องบุคคลเดียว ไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "a1aa6916",
+      "title": "ไม่ได้ลงทะเบียนล่วงหน้า เลือกตั้งบอร์ดประกันสังคม 27 ก.ย. 69 ไปใช้สิทธิที่ไหน?",
+      "summary": "ข้อมูลเกี่ยวกับการลงทะเบียนล่วงหน้าสำหรับการเลือกตั้งบอร์ดประกันสังคม วันที่ 27 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uX0h0dEJnbWhwMWJmSXlDbVVaTS1UdmtSNVVGRFpoNmR6UGM2Zk8yc2NfMXMzbFZ4YktIS1h0cWxkSklXX2RXN1FoTHlya190Um43cmtBR1dJQUxBSnc0WTk1dWtsZkQtUTM2ZXlIQQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-18T06:41:40Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องประกันสังคม แต่เป็นข้อมูลขั้นตอนการลงทะเบียน ไม่ใช่นโยบายใหม่",
+      "first_seen": "2026-09-16"
+    },
+    {
+      "id": "39b2c660",
+      "title": "มัดรวมบ้งทุกเรื่อง \"พรรคส้ม\" จากปม กยศ. สู่ แฉ 7 นักการเมืองเอี่ยวเขมร",
+      "summary": "พรรคส้มมัดรวมประเด็นต่างๆ รวมถึงปัญหากยศ. (กองทุนเงินกู้ยืมเพื่อการศึกษา) ซึ่งเป็นประเด็นสำคัญเกี่ยวกับการศึกษาของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CdXl0VDJfa2dOTWRNTzZzNTRLT2VfNzBISXpWWTZzOThUSEdKOXBQQ2NVMlk2WmFlSmdYQjVSMjBLUDB3MDZhd1hUaEdTa2tJTlZjQ3dn?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-18T03:14:36Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับปัญหากยศ.แต่เป็นข้อมูลการเมืองทั่วไป"
+    }
+  ]
+}
