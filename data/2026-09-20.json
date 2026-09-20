@@ -1,0 +1,476 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T01:10:45Z",
+  "window": {
+    "from": "2026-09-18T23:09:28Z",
+    "to": "2026-09-20T01:09:28Z"
+  },
+  "stats": {
+    "fetched": 211,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 12736,
+    "ai_output_tokens": 8668,
+    "cost_thb": 2.05,
+    "runs": 1,
+    "kept": 30,
+    "eastern": 1,
+    "national": 29,
+    "new": 28,
+    "followups": 2,
+    "sources": 18
+  },
+  "items": [
+    {
+      "id": "ce499442",
+      "title": "เกษตรฯ ชง ครม. อัดงบ 1,846 ล้าน จ่ายไร่ละ 1,000 บาท ช่วยชาวนา 2.3 แสนครัวเรือน",
+      "summary": "กระทรวงเกษตรเสนอครม.อัดงบประมาณ 1,846 ล้านบาท จ่ายไร่ละ 1,000 บาท ช่วยชาวนา 2.3 แสนครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GcFV5eENXT2FfRE5zNlFpRjRKSXRSdjF3UTlqdE9WOEk3WFQteXBDTmduU01wZjFrdUNudlVENllHbWMtZ0dnWEdxRXFrMkx3Z3k2aXhBQkFZcV8wV2VCamtR?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-19T03:56:41Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มาตรการช่วยเหลือเกษตรกรรายได้น้อยมีจำนวนเงินและจำนวนผู้ได้รับประโยชน์ชัดเจน"
+    },
+    {
+      "id": "6dae62fc",
+      "title": "คลังแจ้งเกณฑ์ยืนยันตัวตน \"บัตรสวัสดิการแห่งรัฐ\" ขีดเส้นถึง 30 ก.ย. รับเงินรอบใหม่ 1 ต.ค.นี้",
+      "summary": "กระทรวงการคลังแจ้งกำหนดยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ ขีดเส้นวันที่ 30 กันยายน 2569 เพื่อรับเงินรอบใหม่ตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNSkVtNnhieWtONDRodlFNaFJuV2ZkWm91RHlJcU1IaVQ4RndxcW4tNDEwWHhTSGxpWVNtdjRRNkRxMU9Ba01JMFZabzdzeTFzNlJ2V1pqS08wM3NhUTFUSElB?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-19T06:00:04Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ประกาศอย่างเป็นทางการจากกระทรวงการคลังมีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "40993d10",
+      "title": "บัตรสวัสดิการฯ รอบใหม่ รีบแก้ข้อมูลให้ทัน 20 ก.ย.",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐรอบใหม่ต้องรีบแก้ไขข้อมูลให้ทันก่อนวันที่ 20 กันยายน 2569 เพื่อให้สามารถรับเงินในรอบใหม่ได้",
+      "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxNRjRveEROb1JFUDR0X0ZUeUhtMmdfT0VMdEs5Zk9kRTlzRklRWmlXMWNKN3E0WDBOUnR6UnJ1ZGxheFIyeW1qY3hSeGprZTB5WllPbWl3OUlyNkItaVlhSDVUclV6WGxtUDYwYy1ubHNhaWdNUGdVb0lld2pUb3hyUlhqbkNhdjgtY1BEeFpnQkJmMDZ2bHpiWmFwMmhsRmZ2VTdadGhjMzFKTHFMOXVGbjY0anVXX0h5OHExTDN0NHZpNzZTWjltd296UnR6MmZ6VlJEQ09uVUxBcnZ2SWxzbnpfZzM0RU9SV21SM1djOE44anROZXhUYnlGWVpJRWNLb0pqa3FOcHlTUkJIQmRTcDRFa083T01XQlgtS2VNVUh1UXd0dHRUM0x4VFpIOUdfRXhWTDVOQ0hkX1c2cWdpNjY3UXdBclVrcHdTQVNwOU5sRFlzLTBoS2l3cklqSTc5OUw1RXB2NHQ5eXMyMGFMd2Z4S0F3aGxzSTlxM1FYMm11VzBhS2hVTDFGQjBlTzljTFdsLVNSZ1gydUFIOF9iRGh4WGYxSmNDS3dfTGsyejZXeERnQUFCOU9lZ0Rqa0lPRUhJQjU3QmRsdUJBWGJkMnRNZjVIUWdybjVTVEtmUHU0Q0dDeVA2S0hERHVpVmExejIxM0R1QzR2U0FOcjh3OHVWT3BTMEg1NDdNQm1QUnVBMjh4bTVHUi0yZmkxLTRaWFAwYlNUdEd1LXlIVk9CNlhPa29YUHhfcUx0eWZycjZ2bkU?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-09-20T00:16:41Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มีการประกาศกำหนดเวลาด่วนสำหรับการแก้ไขข้อมูลสวัสดิการ"
+    },
+    {
+      "id": "68d2b7f7",
+      "title": "'สุริยะ' จ่อชง ครม. จ่ายไร่ละ 1,000 ช่วยชาวนาเพิ่มเติม รอบปี 68/69",
+      "summary": "รัฐมนตรีสุริยะ จะเสนอคณะรัฐมนตรีให้จ่ายเงินเพิ่มเติมแก่เกษตรกรไร่ละ 1,000 บาท ในรอบปีการเกษตร 2568/2569",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kbWdkM3Npakh2ZkxtYVZhN3hZOU9IYzB1YVp4c1BuWVFvcnppSkYtRkdrSTg0TllVZmJvX1RQMmQzbHMyQnN0Q3g0ZHZDQnROU1d6ZEtpZEJwMzNGSWxVbTJxc05HM0JaWk9wRHB3?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-19T09:30:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการสนับสนุนเกษตรกรที่มีจำนวนเงินชัดเจน รอการอนุมัติ"
+    },
+    {
+      "id": "fec0de91",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เริ่มใช้สิทธิ 1 ต.ค. นี้ รายใหม่อย่าลืมยืนยันตัวตน",
+      "summary": "บัตรสวัสดิการแห่งรัฐ ปีงบประมาณ 2569 เริ่มใช้สิทธิได้ตั้งแต่ 1 ตุลาคม 2569 โดยผู้ใหม่ต้องยืนยันตัวตนให้ทันก่อนวันดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OMjR1Rm5QZHJhZWpYRVdOamk3SC1lN1ktLVQyN25jVnEzbUhpeExnc1BkQ0w5OFkzLUlYcG8wYUduY1BHb2xMYkxEbmc0VTl6SGZ5RFd6d0JIYXM?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-19T09:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ประกาศการเริ่มใช้สิทธิสวัสดิการแห่งรัฐรอบใหม่มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "8c8651d5",
+      "title": "ฝนถล่ม3วันติด น้ำป่าไหลหลาก จมมิดนาข้าวใกล้เก็บเกี่ยว 1,000 ไร่ 3หมูบ้าน ชาวนาเศร้าเผชิญวิกฤตน้ำท่วมใหญ่",
+      "summary": "ฝนถล่มต่อเนื่อง 3 วัน น้ำป่าไหลหลากท่วมพื้นที่อำเภอห้วยคต จังหวัดอุทัยธานี ท่วมจมนาข้าวใกล้เก็บเกี่ยว 1,000 ไร่ ของชาวนา 3 หมู่บ้าน",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10405449",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-19T12:52:38Z",
+      "category": "disaster",
+      "provinces": [
+        "อุทัยธานี"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ภัยพิบัติส่งผลกระทบต่อเกษตรกรและชุมชนโดยตรง มีตัวเลขและพื้นที่ที่ชัดเจน"
+    },
+    {
+      "id": "6cf66ca3",
+      "title": "“ศุภจี” เร่งแพ็กเกจกระตุ้นศก. รับน้ำมันพุ่ง-ค่าครองชีพ จ่อชง ครม. สัปดาห์หน้า",
+      "summary": "รัฐมนตรีศุภจี เร่งจัดแพ็กเกจกระตุ้นเศรษฐกิจเพื่อรับมือราคาน้ำมันและค่าครองชีพที่สูงขึ้น โดยจะนำเสนอต่อคณะรัฐมนตรีในสัปดาห์หน้า",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeHBOcGRuRm5aRUppUlZZNzM0S1JRWlVVSmgzOVFFQWs3dFFRdTNsN2V2SlBQXzF2c01QMTZoNG1YVkdxMGdHVGFqcVc3cVBzWGNtNWdpWUItRk9aeEE?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-19T08:53:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดค่าครองชีพที่ชัดเจน แต่ยังไม่ได้อนุมัติ"
+    },
+    {
+      "id": "38baa6f1",
+      "title": "เตรียมให้พร้อม! ไม่ผ่านบัตรสวัสดิการแห่งรัฐ โหลด เป๋าตัง รอ ลุ้นรับสิทธิไทยช่วยไทยพลัส",
+      "summary": "ผู้ไม่ผ่านเกณฑ์บัตรสวัสดิการแห่งรัฐสามารถใช้สิทธิผ่านแอปพลิเคชัน เป๋าตัง เพื่อรับสิทธิไทยช่วยไทยพลัส โดยเริ่มใช้ได้ตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KRm5rTDVtWEhOb0o2X0V3VjBNaWZXQW9oMjZScUVha0VXUC16dG92R2ZOS2JUbFhiYkZ0U2ltOTV2REZlWU95XzE0VnZOU2lsTEFHT3Nn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T04:32:17Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการประกาศเกี่ยวกับสิทธิสวัสดิการใหม่และวิธีการใช้งาน"
+    },
+    {
+      "id": "e9a9244a",
+      "title": "ประกาศแล้ว! เบี้ยยังชีพผู้สูงอายุ 2570 เช็กปีเกิดและยอดเงินใหม่ที่จะได้รับ",
+      "summary": "ประกาศเบี้ยยังชีพผู้สูงอายุ ปีงบประมาณ 2570 โดยให้ประชาชนตรวจสอบปีเกิดและยอดเงินใหม่ที่จะได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLV2ppNlhGX3RpQmFpMDN2aGcxZ19aY3hFd2RHbHBYVW1Gd0pFekhIc1paeWhXWk5mVjNHbVFBRC1HT3U5emFvak1ZSUhOT09MNWg5aDd3?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-09-19T03:03:13Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ประกาศเกี่ยวกับเบี้ยยังชีพผู้สูงอายุรอบใหม่แต่ขาดรายละเอียดจำนวนเงิน"
+    },
+    {
+      "id": "b396fb40",
+      "title": "ทำไมใจดำ! “ไอซ์” จี้รัฐบาลแก้ปม กยศ. หวั่นเด็กถูกมหาวิทยาลัยบีบจนเรียนต่อไม่ได้ ซัด กมธ.ตัดงบ 1.1 หมื่นล้าน แต่ไม่แบ่งให้ กยศ.แม้แต่บาทเดียว ขณะที่ “ภราดร” แจงรัฐบาลไม่ทอดทิ้งเด็ก | THE ROOM 44 CHANNEL",
+      "summary": "นักการเมืองจี้รัฐบาลแก้ปัญหากยศ.หวั่นเด็กถูกมหาวิทยาลัยบีบจนเรียนต่อไม่ได้ ขณะที่งบประมาณถูกตัด 1.1 หมื่นล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NbG1zWXlfX3RNdmwxNnlhN2d6LWYtTy1xYndnQjFOa2M3R3FwdHBwZGZvNlNoWkgwRnNOdkhOY2N1b1BHdmZvRTBUSjMydURuX2l1NlN3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T02:01:53Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องการช่วยเหลือการศึกษาเด็กรายได้น้อยแต่เป็นข้อกล่าวหาและการแจ้งข่าว",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "4604a4a1",
+      "title": "เตรียมพร้อมใช้ ไทยช่วยไทยพลัส ผู้ไม่ผ่านเกณฑ์ บัตรสวัสดิการแห่งรัฐ โหลดแอปฯ เป๋าตังรอ",
+      "summary": "ผู้ไม่ผ่านเกณฑ์บัตรสวัสดิการแห่งรัฐสามารถเตรียมใช้สิทธิไทยช่วยไทยพลัส โดยโหลดแอปพลิเคชัน เป๋าตัง เพื่อรอการจัดสรรเงินสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SWFctV1Q0NVhQdkdJSmdVWWx2YUc4M3VhZjhTNFRNYlhPWHJlcTJmRTU4N2NIWGhDSG1LYzFSZEFhM2dIbHBuVnVlWGZYV0M0Rnl3bTlFbWJyU1k?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-19T01:33:55Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการประกาศเกี่ยวกับทางเลือกสิทธิสวัสดิการสำหรับกลุ่มที่ไม่ผ่านเกณฑ์"
+    },
+    {
+      "id": "06b01157",
+      "title": "กระทรวงดีอี เล็งตัดสิทธิ “บัตรทอง 30 บาท” คนขายบัญชีม้า ตัดวงจรอาชญากรรมไซเบอร์",
+      "summary": "กระทรวงดีอีเล็งตัดสิทธิบัตรทอง 30 บาทสำหรับผู้ขายบัญชีม้า เพื่อตัดวงจรอาชญากรรมไซเบอร์",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wSGZNZ1pWNVBpeWlRUW15empkR3JDRTNNdTV2eXBQTXRneF9Ua1V0QVlyLU93WHlNWmZEVUVHdGNVR2V2SGpFZ0hvV3dJbUZSSDNaaWJEUVNWWnhXbVRROW13?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-19T05:07:11Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการเฉพาะเกี่ยวกับบัตรทองแต่มีเงื่อนไขและวัตถุประสงค์อื่น"
+    },
+    {
+      "id": "5bec9973",
+      "title": "เอกนัฏ เร่งเครื่องลดค่าไฟ-โซลาร์หลังคาบ้าน ปลดล็อกตลาดไฟสะอาด ดันแผน PDP ใหม่",
+      "summary": "รัฐมนตรีพลังงานเร่งลดค่าไฟฟ้าและเปิดโครงการโซลาร์หลังคาบ้าน 10,000 เมกะวัตต์ ให้ประชาชนผลิตและขายคืนได้ เดินหน้า 200 หน่วยแรกในราคา 3 บาท",
+      "url": "https://www.prachachat.net/economic/news-2068974",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-19T02:51:14Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการลดค่าครองชีพและสนับสนุนพลังงานสะอาด มีรายละเอียดเงินและจำนวน"
+    },
+    {
+      "id": "8e3df576",
+      "title": "คลังดันผู้ถือบัตรสวัสดิการ ใช้ร้าน “ไทยช่วยไทย พลัส” ได้ ตั้งเป้าเริ่ม 1 ต.ค.69",
+      "summary": "กระทรวงการคลังส่งเสริมให้ผู้ถือบัตรสวัสดิการแห่งรัฐใช้สิทธิที่ร้านค้า ไทยช่วยไทยพลัส โดยตั้งเป้าเริ่มใช้ได้ตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMi6gZBVV95cUxNbU8xaFdVbXIxRlhVY2pDclBnZnQycTFBT2Z2NjNDaUdaZm1kRHFhRFZaOFVlbkZYZlZ1Vnk2M1hqY0piY0Zsa1YzS01rQnpOUklwTmZlVmZuUm5FQXIwZHBCX0VXUHFUejY3YkpJQllqV0s0ZTRHRmFtSTY2YmMzbEhEWmx2RTlRU3lLcDVLVUF5UEJJdmdUczYyU2Y0enI4ZjVkemdMUkxPSHIxbk9qbGREWTFWc2dKd2JwMi1pV09UUTJ4bG9XSlhEX2h6cklpZG51dDF3UkxGdUFrdmtKQkowTHRpWGY2UHZac0g0UFU2dGM2SVdhSkZmR21KYU5TMFd5enprWERRRk9mcUdkSjhHNjlyWjVHMmVfLXhpTmE5M0Z6TUNVSmY3czRpTTU1RkNVQjRad0RRUnQ0US1nMHo0TEJZQ3VuSnMxeFRTc05OcmxHSFplc0VaQ2VHZ2RFMmIzU3RVczVPcmNrcVBma2h0SE1RTHR6UWNGMm8telg1YjFJbk9JaXlRbktXMTBHa19KVDFYcGQ5azhtTjRiQk15OVpEbl9TdkZmRmdLTHk2dVJSS2hOZWMtVTRCZ2NwTkppVTBfSU1DNlEtM2VocFRpRWFNT3BHZHc5RlhEYVBQUWNzelBIMWVZZHRrSkUzbjBjb1dpTldxZWxmQmFYQkFUSEhGalJKQXhfWVJ3Z1FUVmUyYnhkRDVPVkZkLXB5SFBqMGxYaWtvalZFWWVfNEJjZExKbG9aSEtYVjlFQzMzMFpXQ05aNU5sUzlHVkd5eVBGdVdEU2hyam50cXpxRVVkWk1PYjItUDdXU0NPMExUa1U2ZFRVYXlBd2dVcDJLTUFIV0RTbUxfRWlEeU5lLUFkemZCTW1sYnpLQVN3ZU1yNEpjWkNYVUJQWjBSakJhQ0pyNTZJcWdlSkd5RERZWmUxbVh5YkhENndfeU5PRkRzY1VFS3VJV2t0U29MclBrWWlLWXUtZHNoS0l0MU1BY3NBMVdObXlrQjJBWnV3UXkyLU1taWhTNjN2YThoMnE2MUZMZGJJLVhpNTZfQWUyWUQ3S0lMT0dSRFpuTnlIZTVEOW5KeS11MGIxSG82bXU1bXExSVg1WnlNR0czY1BmZHUyZmJmT2duS05HQTdrWWF3Ulh6QnNZZzRB?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-09-19T02:45:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ประกาศการขยายช่องทางใช้สิทธิสวัสดิการแต่เป็นข้อมูลเบื้องต้น"
+    },
+    {
+      "id": "f55d1635",
+      "title": "คนไม่ผ่านบัตรคนจน เตรียมใช้ไทยช่วยไทยพลัส แค่โหลดแอปฯ เป๋าตังรอ",
+      "summary": "ผู้ไม่ผ่านบัตรสวัสดิการแห่งรัฐสามารถเตรียมใช้สิทธิไทยช่วยไทยพลัส โดยเพียงโหลดแอปพลิเคชัน เป๋าตัง เพื่อรอการจัดสรรเงินสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HNGNhOXJYcGlzM3Uycm02LTV3alJ4eFZEWFhrRVpKOHhIMk9SWlltcEpyWVp0VXFDOElsUjVpVWFlUnJfeWZ5aHZSekk?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-19T02:39:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ประกาศวิธีการเตรียมใช้สิทธิสวัสดิการสำหรับกลุ่มที่ไม่ผ่านเกณฑ์"
+    },
+    {
+      "id": "37488ace",
+      "title": "รัฐลด “ราคาหน้าโรงกลั่น” คุมดีเซล ลดค่าครองชีพ-กดมาร์จิ้นผู้ประกอบการ",
+      "summary": "รัฐลดราคาหน้าโรงกลั่นเพื่อควบคุมราคาดีเซล เป้าหมายเพื่อลดค่าครองชีพและควบคุมมาร์จิ้นผู้ประกอบการ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EMmJpbTNGWHIyRkJPdjVuM25RUU5Xb1VrMjZ5ZFB5QXlEWGdZa2Y4X3ZlZUlYTVNkVGdZQXp6N1ZPY245OFhoMXZUTQ?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-09-19T01:47:14Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการลดค่าครองชีพผ่านการควบคุมราคาน้ำมัน แต่ไม่มีรายละเอียดผลกระทบ"
+    },
+    {
+      "id": "c5c8c9aa",
+      "title": "\"รักชนก\" อัดรัฐบาล “ใจดำ” ไม่แปรงบช่วย กยศ. แต่เลือกงบโซลาร์เซลล์ | The Better",
+      "summary": "นักการเมืองวิจารณ์รัฐบาลไม่ปรับงบประมาณช่วยกยศ.แต่เลือกจัดสรรงบโครงการโซลาร์เซลล์",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1telE0cWNGelZrMENNRlFrbG9vTWVPSG9YbjlmLThMVU55c01nSWNGSVhfMmxfODhVRzdOOF9hRlREb2RyQmgyTklxSGtrWWE1WGlSSHRR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T05:56:26Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวข้องการช่วยเหลือการศึกษาแต่เป็นการวิจารณ์นโยบาย ไม่ใช่ประกาศนโยบายใหม่",
+      "first_seen": "2026-09-18"
+    },
+    {
+      "id": "08b58a2d",
+      "title": "พม. - กห. ผนึกกำลัง เร่งเดินหน้า “บ้านมั่นคงชายแดน” ชูยุทธศาสตร์ชุมชนชายแดนเข้มแข็ง พิทักษ์พื้นที่ส่วนหลัง ยกระดับคุณภาพชีวิตประชาชน 26 จว. 752 ชุมชน พร้อมครอบครัวทหารผ่านศึก | สวพ.FM91",
+      "summary": "กระทรวงการพัฒนาสังคมและกระทรวงกลาโหมผนึกกำลังเดินหน้าโครงการ 'บ้านมั่นคงชายแดน' ครอบคลุม 26 จังหวาย 752 ชุมชน เพื่อยกระดับคุณภาพชีวิตประชาชนและครอบครัวทหารผ่านศึก",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00SWd4VWY5aWFmTHludFYzT0xnZ1JQX0FRLXZQZ0JJMmZaVVg2bVNha3lfdVVNRVZEWnY0cEtuTldCNHk2YkdIV1pGZzdkbHBCTV9vaE9n?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T16:58:50Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "โครงการยกระดับคุณภาพชีวิตชุมชนชายแดน แต่ไม่มีรายละเอียดเงินหรือวิธีการ"
+    },
+    {
+      "id": "b76df948",
+      "title": "ชาวบ้านโอดดีเซลทะลุ 40 ค่าครองชีพพุ่ง “พร้อมพงศ์” แนะรัฐบาลเร่งทำ 3 เรื่อง",
+      "summary": "ประชาชนร้องทุกข์ราคาดีเซลทะลุ 40 บาท ค่าครองชีพพุ่งสูง นายกรัฐมนตรีแนะรัฐบาลเร่งดำเนินการ 3 เรื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySS00VHFsZ3N4Q3dMQkl3ay1nZnh5bkJzMDNlOG1EOGlRWUlpTDZIWTN2TlBpQ1pPaE9QbUdXZGpBeDE0LUVPZmhfTmZERDBBRWIwRUpMbE9uSW8?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-19T05:41:41Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ปัญหาค่าครองชีพที่เป็นข้อเสนอแนะ ไม่ใช่มาตรการที่ชัดเจน"
+    },
+    {
+      "id": "fcac7b39",
+      "title": "เสียงจาก ปชช. ปมแก้ พ.ร.บ.บัตรทอง ห่วงร่วมจ่าย กระทบผู้มีรายได้น้อย",
+      "summary": "ประชาชนแสดงความห่วงใจต่อข้อเสนอแก้ไขพระราชบัญญัติบัตรทอง เกี่ยวกับการเพิ่มส่วนร่วมจ่าย ซึ่งอาจเพิ่มภาระค่าใช้จ่ายให้กับผู้มีรายได้น้อยและกลุ่มเปราะบาง",
+      "url": "http://www.hfocus.org/content/2026/09/39560",
+      "source": "Hfocus",
+      "published_at": "2026-09-19T04:41:29Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นข้อเสนอที่เกี่ยวข้องกับสิทธิสุขภาพแต่ยังไม่ได้ประกาศใช้"
+    },
+    {
+      "id": "1cdaf7d8",
+      "title": "หวั่นตัดสิทธิบัตรทอง ‘คดีบัญชีม้า’ กระทบสิทธิพื้นฐานตามกฎหมาย แนะแยกเรื่องสุขภาพจากโทษอาญา",
+      "summary": "มีความกังวลว่าการตัดสิทธิบัตรทองในคดีบัญชีม้าอาจกระทบสิทธิพื้นฐานตามกฎหมาย มีข้อเสนอให้แยกเรื่องสุขภาพออกจากโทษอาญา",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kWDdPRUVUNEZoQjZzcldUU1JYVGstS24wT1RtbVhaVXpmRGJSdmk2VEVSbnhFbjZGNzFQQVV2YVhScFpKRWlueHRfUGFXQ0hIajF3Q3R3TQ?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-09-19T04:16:14Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องบัตรทองแต่เป็นข้อกังวลและข้อเสนอ ไม่ใช่นโยบายที่ชัดเจน"
+    },
+    {
+      "id": "1379ee49",
+      "title": "ห่วงแก้ กม.บัตรทอง เปิดช่องร่วมจ่าย กระทบคนรายได้น้อย",
+      "summary": "มีความกังวลว่าการแก้ไขกฎหมายบัตรทองเปิดช่องร่วมจ่ายอาจกระทบคนรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdXMyaTJOMWk3czlHeUlOWG9VamRBOTljalNkWFpxLWwwUUVwTGhZUFRUdVpBb2ZtR0V5RElMejBVUm9lUkdOczhZaWlMT0FIMVJtWG5wa3lqN3Rzc2tDaGpsMFRrYlZCckRJ?oc=5",
+      "source": "The Active",
+      "published_at": "2026-09-19T08:52:01Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "เกี่ยวข้องบัตรทองและคนรายได้น้อยแต่เป็นข้อกังวล ไม่ใช่นโยบายที่ชัดเจน"
+    },
+    {
+      "id": "268b5980",
+      "title": "พาณิชย์ ดัน GI ขึ้นโต๊ะอาหาร ปั้นเมนูท้องถิ่นเชื่อมร้านไทยสู่ Thai SELECT",
+      "summary": "กระทรวงพาณิชย์ส่งเสริมสินค้า GI และผลิตภัณฑ์ชุมชนเข้าสู่เมนูอาหารมูลค่าเพิ่ม เชื่อมร้านไทยกับมาตรฐาน Thai SELECT เพื่อสร้างโอกาสตลาดให้เกษตรกรและชุมชน",
+      "url": "https://www.prachachat.net/economic/news-2069050",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-19T11:11:41Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "มาตรการสนับสนุนเกษตรกรและชุมชน แต่เป็นการพัฒนาตลาดระยะยาว ไม่ใช่ความช่วยเหลือทันทีทันใด"
+    },
+    {
+      "id": "0120e256",
+      "title": "รัฐบาลดัน ‘บ้านมั่นคงชายแดน’ ดีเดย์ปี 70 นำร่อง 5 จังหวัด",
+      "summary": "รัฐบาลดำเนินการโครงการ 'บ้านมั่นคงชายแดน' โดยจะนำร่องในจังหวัด 5 แห่งในปี 2570",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FRF84VFJ4S1lkVk5ta2FWUVpvMVAwbUNTTkZpZFhwQ015ZzBfclVFYTU1Qm1NRGlTQm9IQ2NFVE1ZV2taUGZGZ2Znek9VNmd0eVdmYWNmaGxYQXpzZ2o3SUhlYWs5dGY4Z0xNR3JJZUN3a3ZNbUZPZlRrSVU?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-09-19T01:51:54Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "โครงการยกระดับคุณภาพชีวิตชายแดน แต่เป็นข้อมูลเบื้องต้นเท่านั้น"
+    },
+    {
+      "id": "40fe48de",
+      "title": "Water Economy เปิด 10 ชุมชนต้นแบบ จัดการวิกฤตมวลน้ำ",
+      "summary": "เปิด 10 ชุมชนต้นแบบเพื่อจัดการวิกฤตน้ำ ตอบสนองปัญหาน้ำท่วมและภัยแล้งที่ส่งผลกระทบต่อเกษตรกรและผู้ประกอบการ",
+      "url": "https://www.prachachat.net/sd/news-2068654",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-19T09:46:18Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "มาตรการเกี่ยวข้องกับเกษตรกรและผู้ได้รับผลกระทบ แต่ยังไม่มีรายละเอียดเงินหรือเวลาที่ชัดเจน"
+    },
+    {
+      "id": "bf61f22f",
+      "title": "3 หน่วยงานสุขภาพ ผนึกกำลังรุกปฏิรูประบบสุขภาพปฐมภูมิ มุ่งยกระดับสู่ Value-Based Health Care ยั่งยืน",
+      "summary": "สธ.-สปสช.-สวรส.ร่วมปฏิรูประบบสุขภาพปฐมภูมิ มุ่งยกระดับจาก Activity-based สู่ Value-based Healthcare ยั่งยืน",
+      "url": "http://www.hfocus.org/content/2026/09/39563",
+      "source": "Hfocus",
+      "published_at": "2026-09-19T06:58:12Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องระบบสุขภาพสาธารณะแต่เป็นการปฏิรูประยะยาว ไม่ใช่มาตรการช่วยเหลือทันที"
+    },
+    {
+      "id": "47713aeb",
+      "title": "รัฐบาลเดินหน้าลดภาระค่าครองชีพประชาชน เตรียมเชื่อมต่อรถไฟฟ้าทุกสาย",
+      "summary": "รัฐบาลดำเนินการลดภาระค่าครองชีพประชาชน โดยเตรียมเชื่อมต่อระบบรถไฟฟ้าทุกสาย เพื่อให้ประชาชนสามารถเดินทางได้สะดวกและประหยัด",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5b09wa0ZycEY2X3MtZkRRSzA5MzBiVVFNTUNoY2tRTVdmNnRzVl96ZEpxM1BSNmVIcmVQSHp5SVRNZGlseVE1eHhyWmxYZEFFVVhrUA?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-09-19T03:26:31Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นนโยบายลดค่าครองชีพแต่ยังไม่มีรายละเอียดการดำเนินการ"
+    },
+    {
+      "id": "461e8382",
+      "title": "ปราจีนบุรี พบทารกแรกเกิดถูกทิ้งในป่ายาง เจ้าหน้าที่เร่งช่วยเหลือนำส่งโรงพยาบาล ปลอดภัยแล้ว",
+      "summary": "พบทารกแรกเกิดถูกทิ้งในป่ายาง จังหวัดปราจีนบุรี เจ้าหน้าที่ช่วยเหลือและนำส่งโรงพยาบาล ทารกปลอดภัยแล้ว",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKaFJTUlZFdzlHdGZSVXdvNE5mT01CQ3VsSjVvOEpNaE1CSmxUVlhXWWl0NVA5VWpBaEJ5NjVHSFcwY0k4QnRoenA4Ym96bi1VNENKMw?oc=5",
+      "source": "ทอล์คนิวส์ ออนไลน์",
+      "published_at": "2026-09-19T17:32:49Z",
+      "category": "children",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "เกี่ยวข้องกับการช่วยเหลือเด็ก แต่เป็นเหตุการณ์เดี่ยว ไม่ใช่นโยบายหรือมาตรการกว้างขวาง"
+    },
+    {
+      "id": "a5d3fda3",
+      "title": "รพ.รัฐขาดทุนเรื่องจริงหรือแค่มายาคติล้ม “บัตรทอง” : มีเรื่องเล่า กับ วิโรจน์ podcast",
+      "summary": "การสนทนาเกี่ยวกับว่าโรงพยาบาลรัฐขาดทุนจากบัตรทองเป็นเรื่องจริงหรือเป็นมายาคติ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBITkZzUDVCdzNqM3ZBREh2UXFQOXR4U1o2eDNaMmVjZDJKYzB5eDFZWVAwMzR6Yk5NNFBGc0tEN1BHQTI0TmNKTFJUdWxncmxkM0Y2cFFFbkNNckpreVZSVg?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-09-19T02:33:28Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องบัตรทองแต่เป็นการวิเคราะห์และสนทนา ไม่ใช่นโยบายหรือข้อมูลเชิงข้อเท็จจริง"
+    },
+    {
+      "id": "66e776a7",
+      "title": "Ch7HD. . สปสช. MOU ขยายศักยภาพด้านการแพทย์ จากโรงเรียนแพทย์สู่ระบบสุขภาพ | หนทางพารวย . ดูรายการ หนทางพารวย ย้อนหลังได้ที่ : https://www.ch7.com/th/variety/honthangpharuai/ . ติดตามรายการ หนทางพารวย ทุกวันเสาร์-อาทิตย์ เวลา 06.45-07.00 น. ทาง #ช่อง7HD",
+      "summary": "สปสช.ลงนามบันทึกข้อตกลงขยายศักยภาพด้านการแพทย์จากโรงเรียนแพทย์สู่ระบบสุขภาพ",
+      "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxNWmNQVGEzOTFaSkl1YTJfalpaY1BCU2VKYjZGc2tnREkxQTIzV2ROWkdQUU12dTJXcGxhOHdYSl9pNUI2S0I4UEJVMHNsX29EWl8yOFFLTy1lZGpJNUFlb1UweW9Gb3BPZE5pMjdpTV96aHloQmt0MW9MQmxRWndTTkZhNzNHYkllU0drSG12aENxTWNCVmo0UkZmLUgyR2RCbG5KSFpZMV9xZnV4SzRvTmVQd0FKNFdXWmJoc1VwQTNaN3dISVFRWS04TXVVd3JaamY1WXduVllEZE52TmF2R0xQVEV6N21fUWI3UzJxSUUxbHF1TTdpUDJOMENrTnh1cGJpcHBMTHduNDA0T3BidlZzRU1id2Y4OWxCZTIxekliQlpWOTVKQ0dSOHRkaTRpOU1LNTFaa05mQ3ExTUIyY1FhYmZCc0swTlZFa1Z4ZUhIS1BpUklQRUFwbjlZVzlJd2hSY2VOSzBTb3I2ajJXenpTdWFSRmktTGNjMkd4U1hDZmlhdVNFUlg1bnctSXZSXzNQRkd5bzJOc2xNWTlxb1RIRnlWbHdvQzUxQllXQWwwcTZvMlg3SG5Sb0N5QU0tSUZXWGNJTGM2cXBmNEdseFlPSVZvdlkyb3M3bDAzUEZmdWphbXU3SDN5cDRrYTR1QmFyN194YkFUTzB3bFF1T0g1cmZaYUF5THlfU2R1MGs5LVlOSFpyVmZoVUhlTVpPMjY0Nk92RWYwNmttb2ZNYjRXTzJERVhUT2RZNHIwOU9Cak9seV9KcmtreThLSWQ5S0FybS13UkNJTmZ4MVFUMVVPdnVxQUdhMlh4Vm1Dd09OUlNaQmFNalc0TFdOcG1DV3AtUG9LSWNyR2hUYkc3aldCQm1ncHUtNTF3ZzFRTG5mYUtRQXRfendCWXRkMFVkUGVTdmtncTQxY0hXN1NlQjVtMGdkckQ1UWhGdkc1RkdFak44MGtLR2NyWTQzYVlncGhpXzI3SGZOaVdGbmZkck4xRXBpMFRsY3ItMDFGV2F4VjRaUFRkX0NGZVJsRTZzNnhYelVQWUdFZW01UFJqTGFpWW1jOUVPUDg3cHF6a25yTU1pUWR6M2FKSVd5QUcxS1RaUGJSeHZNNWdhMW96VnptcXhVcUFkVEdidFpzUTFmdDZ2RTRmMmFlMHIxbTlyS3VfaEVCZFJJTTIxR1o2UXg1SGZYZnVxRml2QTJ6QW1kMzBHVWZoOHZ3dEZKSzZFZndHS1h0YU1rdElGcnRLckZMUVlvUDNZRHFUZm9lRXhCSS10bFkxTkJoVFY1bklNTnNKVXBFLXFnUUF2?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-19T00:30:25Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องระบบสุขภาพแต่เป็นความร่วมมือด้านการศึกษา ไม่ใช่มาตรการสวัสดิการโดยตรง"
+    }
+  ]
+}
