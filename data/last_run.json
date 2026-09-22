@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "date": "2026-09-21",
-  "fetched": 208,
-  "kept": 30,
-  "eastern": 1,
+  "date": "2026-09-22",
+  "fetched": 247,
+  "kept": 52,
+  "eastern": 0,
   "runs_today": 1,
-  "ai_input_tokens": 11917,
-  "ai_output_tokens": 8614,
-  "cost_thb": 2.01,
-  "generated_at": "2026-09-21T01:11:14Z",
+  "ai_input_tokens": 19295,
+  "ai_output_tokens": 12716,
+  "cost_thb": 3.02,
+  "generated_at": "2026-09-22T01:10:50Z",
   "errors": []
 }
