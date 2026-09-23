@@ -1,0 +1,928 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T01:11:47Z",
+  "window": {
+    "from": "2026-09-21T23:10:02Z",
+    "to": "2026-09-23T01:10:02Z"
+  },
+  "stats": {
+    "fetched": 328,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 19022,
+    "ai_output_tokens": 13351,
+    "cost_thb": 3.13,
+    "runs": 1,
+    "kept": 60,
+    "eastern": 0,
+    "national": 60,
+    "new": 58,
+    "followups": 2,
+    "sources": 32
+  },
+  "items": [
+    {
+      "id": "518aa775",
+      "title": "ครม.ต่ออายุไทยช่วยไทยพลัสต่อ2เดือนไม่ต้องลงทะเบียนใหม่- เพิ่มวงเงินบัตรคนจน1,000 บ.อีก1เดือน",
+      "summary": "คณะรัฐมนตรีต่ออายุ \"ไทยช่วยไทยพลัส\" 2 เดือน โดยไม่ต้องลงทะเบียนใหม่ และเพิ่มวงเงินบัตรคนจน 1,000 บาทเพิ่มเติมอีก 1 เดือน เพื่อช่วยค่าครองชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qZVRRQ0RqNlFqVkV0dXhGQU1CQ0J1SVFhVmhFR0tZLTlRTVFSR1ZlUVgybll1RFBMWS1VR1VwN3JVNFFxVzRhNkl3ZXoyYVNsV3pPQTZGcWl5UQ?oc=5",
+      "source": "js100.com",
+      "published_at": "2026-09-22T09:49:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสดจริงถึงมือประชาชน มีรายละเอียดจำนวนและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "d2b912da",
+      "title": "ครม.ต่ออายุ‘ไทยช่วยไทยพลัส’คนละ 1 พัน ใช้ได้ 2 ด.-เพิ่มเงินผู้ถือบัตรสวัสดิการฯ 700 บาท",
+      "summary": "คณะรัฐมนตรีต่ออายุ \"ไทยช่วยไทยพลัส\" คนละ 1,000 บาท ใช้ได้ 2 เดือน และเพิ่มเงินผู้ถือบัตรสวัสดิการครัวเรือน 700 บาท เพื่อช่วยค่าครองชีพ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmt0akJNTEJ6VmtJeWxpLVczbHBzZUxGX1hJMmltMmFmenRGQUpIZzVLT0xHOXYwbVdlMWg5UDhpekduS0tyYXhCcFFxVDZIWXNhMXRPOUJkcGZlZXUzOGMzODg5NXlndW5vNDhkZzI4T1B0LU5TbUxCdEpud1plbXo1dl9ZdVo2NkpJckpBM1N5SWFuLTVoVDdTLVd1dXl4S3J2TFpnOFdnNmNWTVVxVVhn?oc=5",
+      "source": "สำนักข่าวอิศรา",
+      "published_at": "2026-09-22T06:33:36Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสดจริงถึงมือประชาชน มีจำนวนเงินและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "9e317db3",
+      "title": "ครม. เคาะต่อ “ไทยช่วยไทยพลัส” 1,000 บาท ใช้ 2 เดือน–เติมบัตรสวัสดิการ 700 บาท",
+      "summary": "คณะรัฐมนตรีเคาะอนุมัติต่อ \"ไทยช่วยไทยพลัส\" 1,000 บาท ใช้ได้ 2 เดือน และเติมบัตรสวัสดิการครัวเรือน 700 บาท เพื่อช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqdFQ4TlJDM3R5NWFmTXFWa0oweWFVMHRWa0NvQVl0TEdCWXhPcWtKRDhUUzhyR2hvdF93YzRqOFNtLXRwQnNzSERjcGhQa1JGN2dV?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-09-22T06:31:16Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสดจริงถึงมือประชาชน มีจำนวนเงินและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "a95915e4",
+      "title": "กรุงเทพธุรกิจ. . ‘บัตรสวัสดิการ’ จ่อทบทวนสิทธิ์ 1 ต.ค.นี้ ดันเป้ารองรับ 14.5 ล้านคน | กรุงเทพธุรกิจ_InFocus . ครม. เคาะงบ 43,000 ล้านบาท เยียวยาคนไทยครอบคลุมถึง 47 ล้านคน ‘บัตรสวัสดิการ’ จ่อทบทวนสิทธิ์ 1 ต.ค.นี้ ขยายเพิ่มรองรับ 14.5 ล้านคน ส่วน ‘ไทยช่วยไทยพลัส’ เติมคนตกหล่น",
+      "summary": "บัตรสวัสดิการแห่งรัฐจะทบทวนสิทธิ์ 1 ตุลาคม เพิ่มเป้าเป็น 14.5 ล้านคน ครม.อนุมัติงบ 43,000 ล้านบาทเยียวยาประชาชน 47 ล้านคน",
+      "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxPSnk1R3E4UV9HSXpwaEwxZENuV0U4LThFaDNEUndKTVlTWUVKRXJXMUdic21YSjd6Tmt0TldYQW1yMzA4TlJZeGVRbzJ2QlFKeGE2LVB5NnF0bnR5VXFVcUEzNUNKRkVJbFNEQ0djMTE5X3RsM1ZlcWRNSzgtM2hOTEZWYVV1RlNQdUxRbGdPMTdTUG5keE1lZldIbzJJX2doRTRNdFJKbVk5cURtT3llT0ZKMXV1NGNxQUtMREtVLUs5REM3bU1jcGJCZlRsdTVGZy0wVHJvaVFKSWRxX0E4RGZaWnZneWVkU2lXZ2Vlb0ZWcWEwb1VSdV80M3R4eGtUOVBOV2NzcXBDcVc5d2lQblo3czZ4OENOcTRZMW8zdlI1Q09QM18xTlZoX1hnS1BPd3ZCaThrVFQ0bVBqZDRHMF9acVJZNHpYeWFjeE9UMkRSWi1fam9HeVNDam43MGRZZnBfRnRxQmwwcm5QWU9ZMlhMTEhVT281TmVjaGhZR29aWVNVN3NrV1pPODNjeFpBMWgzbDhwSEZEMlU2Wk5NY19xZEo2RmswT2xwb1hnd05LQndXSjFXaE9FcjBsZ0Y1ZnhkR0htd01UaTZQRUFxS215Ql9TZG9oRkNvMk1iZE1raHZYNHRheDU5T0h6WGUxMUM4R09uWC1INWZwUW5XZnRraHYtdkxSZ0xkZXpwUVFweHpiNmJNanZQQ3JienJQekNUeXlBRWt5Zy00dGxNMmkzQkRLeU5lV1BrazhmLTR1OHRBTEc1b0Q4b1BjNGpmRGdPSmVYTzU2WFVqTW9RUWZILVYyZG1DbHdtTXJmOTg0TmF2dTd0b2pvNmkxcV9nQm11RHdldTBlVlJjZ3NsWFlzRG40SHpPdEhVV3Bqc2FDX3ZiTjJDQllaZkZUMzNRZzhqV1VuWDhtV2xTbnNFRDBDdzhwVUJCMm1OR2M1Z0hUa01hbXlpUzB3aGp3NXZpZzlNSENsN1gwOU94SUlEQmlKTm5DOTh2LU5DZndRbTQzOHVORmtXRXlvR1RrcVBDV0FJOEdNSGJQZDJLdmVjdDJZWG1JV1NmOHF2OXlnQVk1N1dFSWpST2ZjSXVtTFdZektwaDg0S2xQSUxPbDJWaWxrbHJLbG41UUxKNTFUa25qNFlLZTlYN0xoUVlRbW9WQXN0Z0JQalNYR2FFM3E1aFc5OWJvdVdF?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T12:40:34Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายหลักขนาดใหญ่ เงินจำนวนมากถึงประชาชนหลายล้านคน"
+    },
+    {
+      "id": "70970d58",
+      "title": "บทบรรณาธิการ – ต่ออายุไทยพลัส",
+      "summary": "ครม. อนุมัติต่ออายุโครงการไทยช่วยไทยพลัส 2 เดือน (ตุลาคม-พฤศจิกายน 2569) วงเงิน 1,000 บาท (500 บาท/เดือน) ภายใต้พ.ร.ก.เพื่อแก้ไขปัญหาวิกฤตพลังงาน",
+      "url": "https://www.khaosod.co.th/politics/hot-topics/news_10409218",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-22T12:00:12Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญ มีจำนวนเงิน ระยะเวลา และเหตุผลชัดเจน"
+    },
+    {
+      "id": "95fa8484",
+      "title": "“เอกนิติ” แถลงต่ออายุ \"ไทยช่วยไทยพลัส\" อีก 2 เดือน พร้อมเติมเงินบัตรสวัสดิการแห่งรัฐ 1,000 บาท 1 เดือน วงเงิน 4.3 หมื่นล้านบาท รับมือวิกฤตน้ำมันตะวันออกกลาง มั่นใจปั๊มจีดีพีได้อีก 0.1% -",
+      "summary": "นายกรัฐมนตรีแถลงอนุมัติต่ออายุโครงการไทยช่วยไทยพลัส 2 เดือน และเพิ่มเงินบัตรสวัสดิการแห่งรัฐ 1,000 บาท 1 เดือน วงเงินรวม 4.3 หมื่นล้านบาท เพื่อรับมือวิกฤตพลังงาน",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lSUZnaVB3Nkw4MEdUejFnLXQ4NUNjUS1LQUlZWEY3b3lYWERTSnkzZmpteXEtanV1Y1N2Y01wa2xjcUt4b1ItWmMzOVktUklCbmdyOElSdw?oc=5",
+      "source": "Plewseengern.com",
+      "published_at": "2026-09-22T08:52:42Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญ มีจำนวนเงินและวงเงินรวมชัดเจน"
+    },
+    {
+      "id": "a25fe38e",
+      "title": "ด่วน! ครม.ต่ออายุ \"ไทยช่วยไทย พลัส\" คนละ 1,000 บาท ใช้นาน 2 เดือน ต.ค.-พ.ย.69 บัตรสวัสดิการแห่งรัฐ คนละ 1,000 บาท ในเดือน ต.ค.69",
+      "summary": "ครม. อนุมัติต่ออายุโครงการไทยช่วยไทยพลัส คนละ 1,000 บาท ใช้ได้ 2 เดือน (ตุลาคม-พฤศจิกายน 2569) และเพิ่มเงินบัตรสวัสดิการแห่งรัฐ 1,000 บาท ในเดือนตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wRDM1WnlHc0VTQkNDaDVMWlg3dlFCTDY2SFdTMC05SXJ5WHFrNjEwRGNyc3JhU0lDMk41QVAyNmhJQmptMmNBZVllalR1a3lIZWJZ?oc=5",
+      "source": "สวพ.FM91",
+      "published_at": "2026-09-22T06:57:18Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญ มีจำนวนเงินและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "7479f719",
+      "title": "ครม.ต่ออายุไทยช่วยไทย พลัส 2 เดือนต.ค.-พ.ย. พร้อมเติมเงินบัตรคนจน",
+      "summary": "คณะรัฐมนตรีอนุมัติต่ออายุ \"ไทยช่วยไทยพลัส\" 2 เดือน (ตุลาคม-พฤศจิกายน) พร้อมเติมเงินบัตรคนจน เพื่อสนับสนุนค่าครองชีพของประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKSXRiS2FuVzBSdUZkUEFrZjJUYVRzUEtJN2RGN1JFeVIxYS1xTHRnaUg4Y0phUEtjMHBTa2Z3ejRqbFFxQ1ZDcW93bHR4VDVnWmRaWkRCOHpJbzc3?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-22T05:23:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสวัสดิการหลัก มีกำหนดเวลาและเงินสดชัดเจน"
+    },
+    {
+      "id": "298079db",
+      "title": "กรุงเทพธุรกิจ. . ครม.ไฟเขียว ‘ไทยช่วยไทยพลัส’ วงเงิน 1,000 ใช้ภายใน 2 เดือน | กรุงเทพธุรกิจ InFocus ‘เอกนิติ’ แถลง ครม.ไฟเขียวต่ออายุ ‘ไทยช่วยไทยพลัส’ วงเงิน 1,000 บาท ใช้ภายใน 2 เดือน หวังช่วยลดภาระค่าครองชีพให้ประชาชน #ไทยช่วยไทยพลัส #บัตรสวัสดิการแห่งรัฐ #ลดค่าคร",
+      "summary": "ครม.อนุมัติต่ออายุโครงการ 'ไทยช่วยไทยพลัส' วงเงิน 1,000 บาท ใช้ภายใน 2 เดือน เพื่อลดภาระค่าครองชีพให้ประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMi3gZBVV95cUxQcloxRFM2aXVQU3lrZWdVZ0xDNDZqV0tYbnNRTUIwWEtPS2wwR2hRX2NDalVDQUZ1ZDZ5MlhBN25QbFo1enNBVENDbjhvMWY4UFVmSE1CRHFrOTEyUHVTOXdLSGx6UGxBYkxRYkVPcXhncnc2ZVdDbXozSlZEalE0ZDA1YmRoczlCdFFTc0luRFBwVjhabTZvMXd1S3pDUXp3MThkX0xVaGRVNnY4V0VkNzFJWGszdXhGZmNyM3l5TGNwZkhyTTRpRERIb0kyaUF3ZFN6SlE2a1BweXJFNVc1Z012c0FXUlFNQmUyRnpQYTdpT2c2NzNWT19Ndm9pb1lKbHFwTlZaVFhVTzhpbDRYV19zVjJBYzBHN1BSWjdPQ3Y0VWYwa2ZjcmI5Q1o1QXhWOHVVZkNNZTFyMl9NWnZYMndyS01kVlhsT2c5bGhDNlAzbFBBZ0JYNmRaaDYxb2IxWTU2dlQxV2F1Q3dvN2hCRnVKTThTMmRPLWJQS0RFZWVhaUJ2NnVkSG5Vd0p3MzUyQ1cwVW9oWmYtcVdTeEMzeEFJWU5pbi1BaGs5clVzV2ItMXAxd182bllvbGlhbEhQVUp4NDVEVEtkb1RiOWRUd2Nua0ZSb093RjlKLXBhN2k0bnNSZjlWblhjTFRtLTI5eUh2N0JfaXFBc0pQNGwxTElkTDFKMHFGeUlENkVKRWluR0Z1bVFLRnRCaDA5d1NTSXVQYzl1Y2dYeVhhekpfWVllaXZKbTZjNUxiVVpDQTlna3BPc3hOSjJpMDVrSEJYSllJbG5xemR6d1N5SGI0U2lQMnYxVHEzMUZ6VkJTSTdYbEdUUkJnczctRUY1bERTU3NrYlFUZTlGekxUQm1HZnQ4ZVVfcFhGMVlCWG1Oa2E3eV9tZTNVUF9BVk91OTV3ZXlXZmZ5dDJsX3M0WlM1VEY1SWhNZWt4WllpNVlObFBmN3NYc3BtekVJYXlwdVkzLWwwWG1LNUFRUV9IUjhkdzhyZWtGOFozUTJjUDZhelY1R2M5VFhpaGg5clhkSjhQYnEzSk5PMUh6emtOSHVESVVKeFpZTEpWZXB0UHJCTDBGeElXdXgxT1NNazZzekNrZEhVek12dHQtVHctc1J3TnZtaWpMZDhCMUtFWXN3?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T14:45:55Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินสดจริงถึงมือประชาชนเพื่อลดค่าครองชีพ"
+    },
+    {
+      "id": "96d0f08a",
+      "title": "สำนักข่าวไอเอ็นเอ็น : innnews. . มติ ครม.ขยาย ไทยช่วยไทยพลัส ใช้เงินกู้ 4.3 หมื่นล้าน 2ด.แจก 1พัน : 22-09-69 | iNN Top Story #ไทยช่วยไทยพลัส #บัตรคนจน #เงินกู้ #วิกฤตพลังงาน #iNNTopStory #INNNEWS",
+      "summary": "คณะรัฐมนตรีมีมติขยายโครงการไทยช่วยไทยพลัส ใช้เงินกู้ 4.3 หมื่นล้านบาท แจกเงินคนละ 1,000 บาท เป็นระยะเวลา 2 เดือน",
+      "url": "https://news.google.com/rss/articles/CBMi8gVBVV95cUxQc09ZcGt1amR1bWN0X2RmNER6NkpxNm9abDFpNXN6bmswMDRqYW9Zc0trSXdUNmx1SjFzNlJmNHpDek9uaVJFYzQ4RVlrcVhMMl9feUNVbkRHNW5kYk4tQTZlWkdvY0pSbjhkaE9RRERjVG9Zdmk1RUxNVzlOWTlKeHI3SVBvUV9Nb25MSTYxQ1ZQajI0dzEtTldYYnE2NEdSMUVPN0RqbnFuOWRXX21qT282WGpRWGNxTXJ0cHdHZFR2NldVUzZpVnNMV3REVmVSNXNvblY4REx3QzlFeU9zbDVNa3R6bDJsTVVodTJKWTJjOS1Qa0wwbFcwNERCM0xmb1FndEVnZ3ZrS3RqQ3FkRjJobjVURHNURlA4VTBIWURBUVYyN1dTWlVOOC10aktwdUtsTEZYN0hwcWdtSEVWTWh6dlg3N0YzUVJ1c0JTejAtMlhwakdDTDhzeG5VTHd2N2tCZms4dUdZRDVnMXpqRVlhd3p2dTFkUzVKYkNOM2tNN0xJMU16Z3FNWW5LTDRXVDZFdlVGcW9JVGZBQ2xKWHBKNTQxckJoWGxuV0NIUzlDTF9KVDlPR1ZzZUdxdDFmV0xQSjBEYTRXM1V6cGZ5NllVOW5iTHcyeFJOdDhZWnIwQ1VoMWFFUldSbGtiNWN1OG1LSWYzektpNjNSeW1lQmxhMERSZW91WlB1eVNuNE12aHpsMzZqRU54a0sxYWVXTTNVTEdQYlJzS1JGQlZoNUlDaVFHQ3JHTHg1MGRhXzFvaWpRc3lSN3djT0oyNDUzRFlzXzM4b1UxMmx2VkFtWjZNZDZjZUUyRVZTc1JlMFhUU2lXeVJwSHBuS1R2cmJEWVdmU2xTellGbzVfVklhTkhpa3k4UXhVNVljNzRaVmk1RUY3X1diWHRveW5YdUd4bUNhdjMzTGIzb2FMbDRNTWV2YVpaeHZlQUNNeXc2cGE1WWM2ZDRFSkxmejdQVWR4VzhrWFc4QmdvdHhLSUlLTTNB?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T12:01:10Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายเงินสดหลักของรัฐ มีจำนวนเงินและระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "0201a538",
+      "title": "ครม.เคาะ \"ไทยช่วยไทย พลัส\" เพิ่มบัตรสวัสดิการฯ-60/40 รับ 1,000 บาท",
+      "summary": "คณะรัฐมนตรีเคาะอนุมัติ \"ไทยช่วยไทยพลัส\" เพิ่มเงินบัตรสวัสดิการครัวเรือนและ 60/40 รับ 1,000 บาท เพื่อช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSbUE0bVBKY05fdXkzXzVGNHBJSEQ2dkNON1F3ZUhiVlBPUldPcHlzVVI0NEwxY3RaWlVZYmJYVVpGUXlzM24xQ3A5SFRGX29KNlNMTA?oc=5",
+      "source": "nationtv.tv",
+      "published_at": "2026-09-22T08:51:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายสวัสดิการหลัก มีจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "22b7c672",
+      "title": "ครม. เคาะเพิ่มเงิน “ไทยช่วยไทย พลัส (60/40) รอบใหม่” ช่วยค่าครองชีพ 2 เดือนเต็ม ประชาชนแห่ถามสิทธิ์วุ่น ชี้เงื่อนไขยังชวนสับสน . ที่ประชุมคณะรัฐมนตรี (ครม.) เมื่อวันที่ 22 กันยายน 2569 มีมติเห็นชอบอนุมัติโครงการ “ไทยช่วยไทย พลัส (60/40) (เพิ่มเติม)” ตามที่กระทรวงการคลังเสนอ เพื่",
+      "summary": "คณะรัฐมนตรี 22 กันยายน 2569 อนุมัติโครงการ \"ไทยช่วยไทยพลัส (60/40) เพิ่มเติม\" ช่วยค่าครองชีพ 2 เดือนเต็ม แต่ประชาชนมีข้อสงสัยเกี่ยวกับเงื่อนไขการรับสิทธิ์",
+      "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxNRmVER09yRDR0dEpyMEZ1M3FRRHlGdGZtU2lrZUNSVDlEeEVxRTBHRmhodE16Wm5HaFVyM3VXS1ZWSlRtUGVzVHJuakVkM1ZhS1BpVUhXMEZkd1RaYnUydkdOajloNy1teW9WdGNSQzBvTE9PbmhlNjAyNmRIWjR1RmU5R2FOODJtUE84V0lwdFZpeFVlenB6UmZ6SVlud2xSTFIySG9pWDljem5oWWowOE15WGtqU2VKUnBNSEJpVElpY1F5NEFOd1ZHLVAyN1lEanduSlR4TEN2R2RSQ3l0SzRKU0g4Z0FLTC1yTUlPWXBVSkNYWVlTLTRLU2JYdWFTOGxLdFo1a3pFRks4T1R1YWIyUmZNc2EzR2NyZ0tLcjdEcENnRkFLXy1xdHQtUVdGU1lQNzJjN2tBTTllVmdDX2wtbnUxLU5IUk8tOU12NkE3S3FHeVE4dHVrMnZSa1Q1cWVVWDJSZXpHQUJxNkJDQkV5TEVWY0txV1A0NEU2S0UtTUJUZzB1Xzg5S2pqcHZxT2JwdUpQNmo1bEp5aWhzZXhVSVE0SkpBelN5Zm5SVHRKNFhCRTVOeVpOUG1Ld1pfSVkxM0JYd0xhTU9kejJORWNaTXl5LU1UQWZja0Z6cTgxNzVRMFVBa2Z1VkFMRFFLZ25vTEFBZEV5Ym9oWTdkaERzazVHNktCNmtkUDFpczNmeExEdXVFbnJaV0Y0VzFVZy1nTUlMZ2RoSFdUX0M5RVdwcUpzdnNRTTlEODVHcG1OLW5Jcjk0WW1YX01qYWNLa1JDZUd1VVJGUGlIRlZzZTB4T1FZOV9TSGw5MmRKOXMtY1dCbU9kT0R4ckhobWpjbzFyQTMtVGFFdFZTUF8tNVlaVkpuX3UxR3BiZm9IVVJNRWNWb05Gc0p3Q0txVmZXQzJKaHUwMVBMQnlqLUZqYjFOX2RCLUVfSUtXZmhZMUVOUEk1SDFnc2doUkJJcVhWZ2toaWNlQmpnNkZGSERkNk9NNmM5N3JPVHJQelNwVk10MVhxY3dmRHlxTnU0UG5tOEUzRjBEWXR2RlZjTUxScmh2Z2FQa0NRT3JLUDM4eTI1SjZTcVI0Nko3UHZPR1AwcTdCU1JSZGNRam80aUExZGtxWFJ0clZwODhhZG5ZMkJsNk5JaUpyUDJuR1BKLUdIZ2hITVM4YkRIbkh1YW9PMVh2QTQtVlctQUw0c0c2Yi1qbi14U2RIUTZfWQ?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T07:31:44Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายสวัสดิการหลัก แต่มีความสับสนเกี่ยวกับเงื่อนไข"
+    },
+    {
+      "id": "310591ab",
+      "title": "POLITICS: ครม. อนุมัติ 'ไทยช่วยไทย พลัส เพิ่มเติม' อุ้มกลุ่มเปราะบางพยุงกำลังซื้อ รัฐร่วมจ่ายร้อยละ 60 สูงสุด 1,000 บาท เริ่ม 1 ต.ค. นี้ วันนี้ (22 ก.ย. 69) นายเอกนิติ นิติทัณฑ์ประภาศ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงการคลัง เปิดเผยว่า ที่ประชุมคณะรัฐมนตรีมีมติเห็นชอบการปรับ",
+      "summary": "คณะรัฐมนตรีอนุมัติไทยช่วยไทยพลัสเพิ่มเติม รัฐร่วมจ่ายร้อยละ 60 สูงสุด 1,000 บาท เริ่ม 1 ตุลาคม เพื่ออุ้มกลุ่มเปราะบาง",
+      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxQN2lkaUJoTDdsRGxwNlA4TWo2Wkx5NlFOeEJSSXFtUldQOFJUZnk1eUZKMjZDSnlaOFlRQXhRYTRhc2w0QWcyS1JueERXdFFLNTB1Z1U5RmZGVHNMMldGdEFHRVdaZF84NEZydEV3RHFBMDNpNU1WeGZYb24tTTZUNlFYZHpvbHFfRTlEODdCTDRWcnZhWldvTDdOY0xKRmlpaDVuVXMxZ1lrWW04UnVzM0Q5MXBKNmZsSWYtVUk3QktBLUJKYzU2RFVKeEMwU0doYm92cmJud3FUaVhwYmZUOXhSdTdaM1BidjhSczViSzVBN09IUlNWX3dzcFM1MWJqVXl3bEc1a1NQR3QxeW0tVnlmbnZ2Y0NwVnJYRktjb2ZJaUpOSWdVUF9KOXlXLVdyS0pBaHd6dVQzTmozV2djZ1NRbTVLZnhpMm1sbXg0OWQyX0w0Mk1JYmh6S0xmVFlFd1BRYWR2Y1E3cFFHNml2dU9TYXB2UVBQZnZCSGF2c0x3OXhHcERnVmZpRktSa2xoTmxMd3BMUk8wazVpak9rWGhtWmZKTWFLSllnckdrTjFjb3JnRlpSN2FVT3VHdjZGVHhNcFd0MTU4QVAyOXJuWXpzSFp1dVl5TzdTYXoyNTFZakpqRFNJUWRfY2lIVlNrU25tZ0V3bjRzbGhpY05PNDlfUGcwd2YzOUFXcUNQUFk5YzU4RkNkbWs3UmxHdzFHTlN4MFdvZlpkTi02dzZmdHJmM0FQMjlWQ1h3RVhfR2dNRDAxQ1FVZ2tFVE5yZUhWT0dpR2ZjdHJOcXpjdm03TW1WQlBDTEg3a3FHOVk3T3ByOXlfU0F3YTVoNmpDS21HZVpVX25aSC1iRTB5dUhJWERja0tLbE93WWVmOVQtUW5CRFZCSlFlYnVXalMtYUw5VlAwMGR5Z3hUMGlyZXhsd2NjTEtJVkJNM2J2OE9LcFNaUGJLR3ZuclRRWDdBYWpRWjFUOFlDbVJERlI2aWpwVzVMX1ZMUm00bGlvYjk4NkpmTGZ1aUFYNGY3RWpOcWROMmxZYVFPX08wUURHVzl4ekNmOEpoOWJaaUc1RTZPWHM1NjRyMEtDVWNZZVJsY0s5SUhJaWFSRFdTYTYtbnFyOERKNXRkUXZaZ3BIUVNjak1COG9TOHdKRVpRNFd6WWtyQWV3MmlzUGhTQVJTcU5IVmxzMERZYkRwaERNZm5Sd1ZXQQ?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T06:02:02Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "นโยบายเงินสดหลักของรัฐ มีอัตราการจ่ายและวันเริ่มต้นที่ชัดเจน"
+    },
+    {
+      "id": "f59fc09f",
+      "title": "ครม. ไฟเขียวคืนสิทธิบัตรสวัสดิการแห่งรัฐ 2569 ให้คน 4 กลุ่ม มีใครบ้าง เช็กเลย",
+      "summary": "ครม.อนุมัติคืนสิทธิ์บัตรสวัสดิการแห่งรัฐ 2569 ให้ 4 กลุ่มคน เริ่มใช้สิทธิ์ 1 ตุลาคม ประกาศผล 30 กันยายน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IOGZibzhINi1ITmg4WFpEb0Z3ZUhMbUx1UWx1S093dmxkS0NzbDEwMkp5QWxHU28td3JPUlgzdVE5VUpXWXRzbU45OFA?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-22T05:02:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "นโยบายหลักบัตรสวัสดิการแห่งรัฐ มีผลต่อประชาชนจำนวนมาก"
+    },
+    {
+      "id": "4f7b7fa4",
+      "title": "‘เอกนิติ’ เติมเงิน “บัตรคนจน” 700 บาท – แจก “ไทยช่วยไทย พลัส” คนละ 1,000 บาท ต่ออีก 2 เดือน",
+      "summary": "เติมเงินบัตรคนจน 700 บาท แจกไทยช่วยไทยพลัสเฟส 2 คนละ 1,000 บาท ต่ออีก 2 เดือน เพื่อรับมือวิกฤตพลังงาน",
+      "url": "https://thaipublica.org/2026/09/ekniti-extends-700-welfare-card-topup-and-1000-thai-chuai-thai-plus/",
+      "source": "ThaiPublica",
+      "published_at": "2026-09-22T10:27:46Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 86,
+      "why": "นโยบายสวัสดิการหลักของรัฐ มีจำนวนเงินและระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "1a2d8b68",
+      "title": "ครม.ต่อไทยช่วยไทยพลัส 2 เดือน ‘กรุงศรี-EIC’ มองไตรมาส 4 แผ่ว",
+      "summary": "คณะรัฐมนตรีต่ออายุไทยช่วยไทยพลัส (60/40) จ่าย 1,000 บาท เติมเงินบัตรสวัสดิการ 700 บาท อีก 2 เดือน เพื่อรับมือวิกฤตพลังงาน",
+      "url": "https://www.prachachat.net/economic/news-2070126",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-22T23:45:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสวัสดิการหลักของรัฐ มีจำนวนเงินและระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "78049b40",
+      "title": "ไฟเขียวไทยพลัส2เดือน เติมบัตรคนจน700บาท",
+      "summary": "รัฐบาลอนุมัติโครงการไทยพลัส 2 เดือน เติมเงินบัตรคนจน 700 บาท เพื่อช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uOHNVWFVfWThQT2NBUG93Q0hLNFhONGpnZjctU1RVUVJjbmEtMUcyaTl5Y0tYS2o0TGhOelROMnpUV29nYzVQQjJXcTY0WHB0TU5LdEhQTmtjdTA?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-09-22T17:01:06Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายเงินสดถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "d30f4fa7",
+      "title": "ชง ครม.พรุ่งนี้ เยียวยาน้ำท่วม 9,000 บาท | CH7ON อัปเดตข่าวใหม่ ข่าวช่อง 7HD | CH7ON",
+      "summary": "รัฐบาลเสนอครม.อนุมัติเยียวยาผู้ประสบภัยน้ำท่วม 9,000 บาท เพื่อช่วยเหลือประชาชนที่ได้รับความเสียหาย",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1GeXhHWEYxOXBXcjJYeFA0U2JTeVBIR1h3d2lpYjFTVnUtQ21wblFic1hXMHZBZ1RZc05qY09LRDRZQzhtc2lYZkhkdw?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-22T13:03:11Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีการจัดสรรเงินเยียวยาสำหรับผู้ประสบภัยน้ำท่วม"
+    },
+    {
+      "id": "705b18f5",
+      "title": "เช็กช่องทาง ประกาศผลทบทวนสิทธิ บัตรสวัสดิการแห่งรัฐ บัตรคนจน ตรวจสอบได้วันไหน",
+      "summary": "ครม.อนุมัติคืนสิทธิ์บัตรสวัสดิการแห่งรัฐ ปี 2569 ให้ 4 กลุ่มคน มีการทบทวนสิทธิ์ 5.01 ล้านคนที่ยื่นอุทธรณ์ ประกาศผลวันที่ 30 กันยายน เริ่มใช้สิทธิ์ 1 ตุลาคม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVbDN4MWVSdV8wcnByb21LSmFZWGNwSGZOOWJNTWFEVmVIUDhXMS0yZVpEQnpldjRLSnFSa01iT3FfNWZraVNyS19BU0NPdzc3bGQwd3R6YTlxVlE?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-22T11:52:17Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายหลักเกี่ยวกับบัตรสวัสดิการแห่งรัฐ มีผลต่อประชาชนจำนวนมาก"
+    },
+    {
+      "id": "24958104",
+      "title": "ค่าครองชีพไทยพุ่งแรง น้ำมันดันภาระเพิ่ม 7 เท่า คนกรุงแบกหนักสุดเดือนละกว่า 3,000 บาท",
+      "summary": "มหาวิทยาลัยรังสิตเปิดตัวดัชนีค่าครองชีพครัวเรือนไทย พบค่าครองชีพพุ่งแรงตั้งแต่ไตรมาส 2/2569 เพิ่มเฉลี่ย 2,787.5 บาทต่อเดือน",
+      "url": "https://www.prachachat.net/economic/news-2070021",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-22T10:13:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ข้อมูลค่าครองชีพที่เพิ่มขึ้นส่งผลต่อประชาชนรายได้น้อย"
+    },
+    {
+      "id": "de5e3a2d",
+      "title": "ครม. ยืดเวลา “ไทยช่วยไทยพลัส-บัตรคนจน” อีก 2 เดือน",
+      "summary": "คณะรัฐมนตรีอนุมัติขยายระยะเวลาโครงการไทยช่วยไทยพลัสและบัตรคนจนเพิ่มเติมอีก 2 เดือน เพื่อสนับสนุนกลุ่มประชากรที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBubElYVEgtU2Y4NDF3MXNXYWRlaUtPWWNQOU5NQXNuXzA1Q00tVi15aVpybnpLR3NScUF0alc4WEhoTDRoT2c3ZnBpeEJaemlyTllCVmt0WlkyMkk?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-22T08:55:57Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการสวัสดิการหลักของรัฐ มีการขยายระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "bd28e469",
+      "title": "ครม. ต่ออายุ ไทยช่วยไทยพลัส 1,000 บ. ใช้จ่าย ต.ค.-พ.ย./ เพิ่มวงเงินบัตรสวัสดิการรัฐ เป็น 1,000",
+      "summary": "ครม. อนุมัติต่ออายุโครงการไทยช่วยไทยพลัส 1,000 บาท สำหรับเดือนตุลาคม-พฤศจิกายน 2569 และเพิ่มวงเงินบัตรสวัสดิการแห่งรัฐเป็น 1,000 บาท ในเดือนตุลาคม",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fYWxGSVNJSFA1cE4yeWZnZW1McnoyRTBMRUJTbGhZT1FrRHRFNEdWanRQMmtiamY0UDRJVUZIQVVWWElQT2o5Vi13?oc=5",
+      "source": "RYT9",
+      "published_at": "2026-09-22T06:18:54Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีจำนวนเงินชัดเจนและระยะเวลาที่กำหนด"
+    },
+    {
+      "id": "d3111da8",
+      "title": "ครม. ถกต่ออายุ \"ไทยช่วยไทยพลัส\" นัดแถลงเที่ยงวันนี้ พ่วงลงทะเบียนบัตรคนจน",
+      "summary": "คณะรัฐมนตรีอนุมัติต่ออายุโครงการ \"ไทยช่วยไทยพลัส\" พร้อมประกาศแถลงข่าวเที่ยงวันนี้ และเชื่อมโยงกับการลงทะเบียนบัตรคนจน เพื่อช่วยเหลือประชาชนที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04UlZPSE5FU2pLQVZuaGcwQzhZTmVDeDFyVDc5MDA0YTJIa1VPWV83ak9aQ0E0M291aVU1WmtxTE9ObXZLUXZHbnVIbURRQXR3dTR2S3JR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-22T02:10:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสวัสดิการหลักของรัฐ มีการประกาศอย่างเป็นทางการ"
+    },
+    {
+      "id": "b4a33846",
+      "title": "เปิดรายละเอียด ไทยช่วยไทยพลัส เฟส 2 ใช้จ่าย 1,000 เวลา 2 เดือน เติมเงินบัตรคนจน เป็น 1,000 ด้วย",
+      "summary": "เฟส 2 ของไทยช่วยไทยพลัส แจกเงิน 1,000 บาท ใช้ได้ 2 เดือน เติมเงินบัตรคนจนเป็น 1,000 บาท เพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oTVFHdHZUajNqSmNXZGR1OWJUMzBWa29ydkhiUm5pMkhvNGRkTHFZMlhaWlV1ZWNsSjBXb00zU19uc3g1Y0tPeUZ3ZVNQTlpPeDVXbWtRa2FadGxpWlZuSlNZVQ?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-22T10:24:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 84,
+      "why": "มาตรการเงินสดหลักของรัฐ มีรายละเอียดการจ่ายและระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "66afca41",
+      "title": "ครม. เห็นชอบทบทวน-ลดเงื่อนไขเกณฑ์คุณสมบัติลงทะเบียนโครงการบัตรสวัสดิการแห่งรัฐ ปี 2569",
+      "summary": "ครม.เห็นชอบทบทวนและลดเงื่อนไขเกณฑ์คุณสมบัติลงทะเบียนโครงการบัตรสวัสดิการแห่งรัฐ ปี 2569",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XTlVqT01JVGdqSnN0SV9ZMXpsMGdzSTZEZmFRbHNpR0RZcWozeUZMRURGR25KREJtVmx0ZmRNLXRMSEZSZkFqRjNkLXRhbnk4cDNER1NnRU5xZw?oc=5",
+      "source": "js100.com",
+      "published_at": "2026-09-22T10:15:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 84,
+      "why": "ปรับเกณฑ์บัตรสวัสดิการเพื่อให้ผู้ยากไร้เข้าถึงสิทธิ์ได้มากขึ้น"
+    },
+    {
+      "id": "0873f450",
+      "title": "“คลัง” ผ่อนเกณฑ์บัตรสวัสดิการแห่งรัฐ 4 ด้าน คืนสิทธิ์ผู้เดือดร้อนจริง",
+      "summary": "กระทรวงการคลังผ่อนเกณฑ์บัตรสวัสดิการแห่งรัฐ 4 ด้าน เพื่อคืนสิทธิ์ให้ผู้เดือดร้อนจริง",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CWXlyREpGcjJHVWtQV0x2MXBzMjJ1ODBnY2RKRF8wUUJPVm01Wi1VdjlJVXhQdGFqZkdWZEN3Z2UtOTFlWURiQkdHWV8xMnlFU0Mxc1hEd3B6TXdjXzM1Y01B?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-09-22T08:03:25Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 83,
+      "why": "ปรับเกณฑ์บัตรสวัสดิการเพื่อรองรับผู้ยากไร้มากขึ้น"
+    },
+    {
+      "id": "b21e0d86",
+      "title": "เคาะแล้ว! ขยายเวลา \"ไทยช่วยไทยพลัส\" ถึง พ.ย. พร้อมปรับบัตรคนจนเพิ่ม",
+      "summary": "ขยายเวลาโครงการไทยช่วยไทยพลัสถึงเดือนพฤศจิกายน พร้อมปรับปรุงบัตรคนจนเพิ่มเติม เพื่อสนับสนุนกลุ่มประชากรที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43ZFBrdlVJMExtakt2WUVZNGI3UUNnZTA3YXJkQWFCYlFmSEp1Zkl1SE9xTmRidE53aEttekpYY0EzZXpjTDRUX1Q5Y3RNXzcwYlFpU2oyM2dVdGtU?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-09-22T05:56:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 83,
+      "why": "มาตรการสวัสดิการหลักของรัฐ มีการขยายระยะเวลาที่ชัดเจน"
+    },
+    {
+      "id": "e670ecba",
+      "title": "เคาะไทยช่วยไทยเฟสใหม่ แจก 1 พันบาท ใช้ได้ 2 เดือน คืนสิทธิบัตรคนจนนร.-นศ.",
+      "summary": "เฟสใหม่ของไทยช่วยไทยแจกเงิน 1,000 บาทต่อคน ใช้ได้ 2 เดือน พร้อมคืนสิทธิบัตรคนจนให้นักเรียนและนักศึกษา",
+      "url": "https://www.matichon.co.th/economy/news_5900493",
+      "source": "มติชน",
+      "published_at": "2026-09-22T23:40:52Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการเงินสดสำหรับประชากรเปราะบาง มีรายละเอียดการจ่ายที่ชัดเจน"
+    },
+    {
+      "id": "ee763179",
+      "title": "ครม.ไฟเขียวโครงการบ้านประหยัดพลังงาน 1,050 ล้านบาท ดันสินเชื่อดอกเบี้ยต่ำ ช่วยผู้มีรายได้น้อย",
+      "summary": "ครม.อนุมัติโครงการบ้านประหยัดพลังงาน 1,050 ล้านบาท พร้อมสินเชื่อดอกเบี้ยต่ำเพื่อช่วยผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YRFRIMzBPcXVfUUdRczJpT2VoNzlUVXhGTUpyOEM5VmVpd0l4TWlfTHBDLTdIZXpiZ25xOS1acUxfNUVfNXFJYkFjT2tmS1ZCTnRyQWhn?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-22T07:17:40Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "นโยบายสินเชื่อที่ช่วยเหลือประชาชนรายได้น้อยด้านที่อยู่อาศัย"
+    },
+    {
+      "id": "b9f60ec4",
+      "title": "รีบลงทะเบียนค่าไฟ - ค่าน้ำ รอบใหม่ ใช้ฟรี สำหรับผู้ผ่านเกณฑ์บัตรสวัสดิการแห่งรัฐ 69",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐ 2569 ที่ผ่านเกณฑ์สามารถลงทะเบียนรับสิทธิ์ค่าไฟและค่าน้ำฟรีในรอบใหม่",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hbEYtbjV0ZHRPU0NVdDNOUmwwUEdNc25xd3I0V1lGcjZtYWhLRk5wWXp1UWRmODdOSHhuRF9WNEJPMldtajdvVU5CYlZiQ3Z6NHhmYXUybnNneEFj?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-22T03:21:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "สิทธิ์ลดค่าสาธารณูปโภคสำหรับผู้ได้รับบัตรสวัสดิการ"
+    },
+    {
+      "id": "5c2370b5",
+      "title": "ครม.ไฟเขียวแก้กฎหมายคนพิการ ยกระดับสิทธิ-สวัสดิการ ขจัดการเลือกปฏิบัติ",
+      "summary": "ครม. อนุมัติหลักการร่างพระราชบัญญัติส่งเสริมและพัฒนาคุณภาพชีวิตคนพิการ เพื่อเพิ่มสิทธิ-สวัสดิการและขจัดการเลือกปฏิบัติโดยไม่เป็นธรรม",
+      "url": "http://www.hfocus.org/content/2026/09/39595",
+      "source": "Hfocus",
+      "published_at": "2026-09-22T11:22:49Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เป็นการปรับปรุงกฎหมายสำหรับคนพิการ มีความสำคัญต่อสวัสดิการ"
+    },
+    {
+      "id": "69205843",
+      "title": "กยศ.ยันมีเงินหมุนเวียน ไม่ปล่อยเด็กหลุดระบบ - รัฐแจง ครม.เงางบปี 70 เพิ่มเป็น 9 พันล้าน . กระทรวงการคลังยืนยัน กยศ. ยังมีสภาพคล่อง พร้อมจัดสรรงบให้เพียงพอกับการใช้จ่ายแต่ละเดือน ควบคู่กับการเร่งติดตามหนี้ เพื่อนำเงินที่ผู้กู้เดิมชำระคืนกลับมาหมุนเวียนในกองทุน . ขณะนี้มีผู้กู้ที่อนุมัติแ",
+      "summary": "กยศ.ยืนยันมีเงินหมุนเวียนเพียงพอ งบประมาณปีงบประมาณ 70 เพิ่มเป็น 9 พันล้านบาท เพื่อให้สินเชื่อการศึกษาต่อเนื่องและไม่ปล่อยให้นักเรียนหลุดระบบ",
+      "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxNVkk3by1tTElUSGREY2o1WmU2SkM0eHlxN2M2Z1lQQzhDUmUyN0JYdlRyYmNpQVdlM25mMzhhME5fMXJHcjY0Tl9mM3JrQ21JcUJwbnZEUVJ4aWUtR0ZXRm5ZVG1Pb2dkcXlSem5tVzc4NmttNEYyQi1Xc1FYekFJMVZVZXVSOU5XUEN3cXI0d2xkRjNKNGdON0dTVUJOenNZbUZIcEQ3a1lWZ1hseUxtUTJ5X0lJX2Z0LTQ1QnRnTFVfYTdvVjdVWVlYMFdKQTJST3NQUTktNmhqSFJGUVQwUHZPeFVCQzdQdlB5UHZ6ODJrN19wVHI1dHJXVkdKQjc3UlhtQ1VTdmQtQTltSGZPbEhoM0phVFBra1pPSlhvUVFGaDlSSndTaHFLVHhxc05sa2hNbVptUFJoV1ctUDVCdlg5NWE2TGpyTGxSUGM2ODVUM0N3WVdtYm5VNXN6RTlQWTdoVDhWbjVFbnBwR0x3bmVUTU9jaUdKTTl5Q1I0Y3pfQ0ZaeVBEV01WcUxuVkRTdVpZUzA0bDFUREZ3RVl4Qi1sdVZyRWNHR1J4NnBJSEJUaFloT1JJRWhWV3BDLXBnWmRDMjIwZzFvaEpKM3BEUHRybXVEVG9NUFQ4QWVYWkRnVWlSOTE4eVl1d3ZxbEo1dTNLZWpMZGpvZFZxTjRRZUhVS2Y2bnB0MDlBTnZBTXBRVndYdVh6Rll4OUJCcjFQenNSNUU1X2k3QjM5WHRxRW1QaUg3SklkUVE0MU4zaHpseTZRTTg4THdpNWl3VUJHUGIyc01ZZHppbWdZaGlkWU11VzZaeFA2bHNUNHgwVEtkVnlpY01UYXJkcGJvdkZSOHUtRmJLVDM2SWRCVEJFdzg2VE9pd211UnFIbGZmbEotdHdtZ1F3LTJ1TjNhQ1FRSDJ4STctTFEyY3pOMnpSTVlwR1RGVnVmYXU3bmJRcm9EY0xBSzAxTHdRNXVzb3RrZ29ud0wyRTFlTTBXQ0trRmRxT2ZNSi1oUlptQjNGMEVIdk9LV2lIUDZQT3JVY0pSN0RWdWN5VnY0UW9WQ3JXZ1RWRmNtVWJsMTdZUFhpTmZDWTJlZktJaEwwN3A4VFV5azlOWERxTTZMR1NTY1BnMm1nSlhRTjhqRDF2WFF4bXBYNWNTNC05LVpVT1hpZW02bWVOM05XdEtGV0tiWXd2TDBJUFM0c1lJYTk0RHdPSXZ3WDk5ay1sT1ZEaEtRSzY2TkppQzVycHNTTmUzZWRaS2s1cFhWSWJUbFQ0dFZUekhCRjhsbmc?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T10:45:05Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การศึกษาเป็นสิทธิสวัสดิการ มีการเพิ่มงบประมาณที่เป็นรูปธรรม"
+    },
+    {
+      "id": "fb04c3c6",
+      "title": "ครม.ไฟเขียว กคช. ลุย “บ้านเขียวเบอร์ 5” GEF อัดฉีด 3.14 ล้านดอลลาร์ช่วยผู้มีรายได้น้อย",
+      "summary": "ครม.อนุมัติโครงการบ้านเขียวเบอร์ 5 ของกคช. ได้รับเงินอุดหนุน 3.14 ล้านดอลลาร์จาก GEF เพื่อช่วยผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GMVdUY1h6LUZqR0pmcDR1NE51UE5fenlPMURRalZHZ3NKTGN2Wmk1OFBhQmM5R1drWEllWFNiUHoyZm1tbnJVVVZGZ2p1Zk9FZkI2WGc4c2YzbnJCNGxVeThPUmhqNms?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-22T10:16:06Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "โครงการสนับสนุนที่อยู่อาศัยสำหรับประชาชนรายได้น้อย"
+    },
+    {
+      "id": "7f2eb883",
+      "title": "คลัง-บสย. อัด 2 พันล้าน หนุน “ค้ำประกันนาโนพลัส” ปลดล็อกหนี้นอกระบบคนตัวเล็ก",
+      "summary": "กระทรวงการคลังและบสย. อัดเงิน 2 พันล้านบาท หนุนค้ำประกันนาโนพลัส เพื่อปลดล็อกหนี้นอกระบบสำหรับคนตัวเล็ก",
+      "url": "https://news.google.com/rss/articles/CBMiiAdBVV95cUxPelBNTENNNUZOX21IMlV3VExiY3lPU2RXeXFOeFZwY3o4Q0s1S3o4ZTRpa0QzVVhfQVprN2JvSE5yaHF6b25XR1dvcWdUVlpZSi1YUU13dU1aQW1BaUZIOXlzV01Uc3VfSkVQdE1odERNcjhxY3NaTG83aEZVUUhXdmxaMlN1VEptRjQyT0R1Q0FUOUNkRFp4YUxEc0lKU1ZXZ1pCcW5haFVZMm80OGdRMkxZVnVYckp0UW83Z2xnaUZkOWhjcjdIV0Vmb01tVnFDU3lkZ253UV9lellfdDdBN3RiMEtHSHBMYTB1WkN6T05iLTFpcmJrSm1oeXFQbXFhMkxOX3BtNVV6NDFscjBxWno2ZWFQRV9kVENmcVM2ZmtSbHJyblprdm9rcklWLS1Zd3NEUFZ6alVOZmM4Um12bHBMQTdDbmNWMExDQkJQZ1dUSkx2Z0dpUHc0Qm5qSFpEc0NrMlNxeVM3QU52bjRocUZnTFotMG1HeThOcm01MFNocGVzcjdHMEhTV3lneERCMm5oUGlrT3FzZ1pIOEdBZWVfY3IzcWpRZzhTZ2x2Sy1uNXd0RjNPRzVpV1lZTzAybnBfN1Bpb3lKSUI1THBuRVBqTkJ2WFFtT194cTYxTVdCTnB5TUVfTWpSQ05UWFFSUTg2ZzFHMTFkR0VtY1QzNllYeU91OHJZTmRQa3NqTDBkd1l5NVlKTjJJR19RZ3hYNlF1dWZJYTFjQzNmdGRCMmo2X3R3bXFVTXdmeUdNN1M4M01KamIzNGNycGhuU05MV1UxRDNWNElRSU1feVFjMEhmenJCTnlaejhpU01ldmlNZ1RhNFhmbFJiU1ZVcFEtTVd0c2l3c0FjaGxSc1FlcE90TXhtZDhuRlhBRGpxRmVveFNBc2xmOTFKbkVhVU1VSjIyUy1KeG5lNl80UTZCcnEtUFRSS2c1eE5MQ1ZqREI5alE4VHdGZS02MEJjbUFxYXJiM0V0Vjc4bGtvZk9JZXpHaVJuanlucW1nam8yOHk4bUJHZTFYRUFzV2tnYUlhTDlkX1NJbk00SjhGYllMVjJCY0R2VG5zYUxqeHkxdEI4TlZyS0M1aUlRQ2s5TjFJamFXTTNnQWZ0anp2ZXpaMmpUYVNpeWRxOFhEcGhPNVNmUGZhcWtXNkhrRU83TjkzbVF2SjdKRFFQVUdNaGp3aFMyRlNod3Q3?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T08:36:08Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มีการจัดสรรงบประมาณเพื่อช่วยเหลือหนี้นอกระบบของประชาชนรายได้น้อย"
+    },
+    {
+      "id": "35fef5d5",
+      "title": "‘รมช.อัครนันท์’ แจ้งข่าวดี ครม.เห็นชอบคืนสิทธิ์ นร.อาชีวะ-สกร. ได้รับสิทธิ์บัตรสวัสดิการแห่งรัฐ",
+      "summary": "ครม.เห็นชอบคืนสิทธิ์บัตรสวัสดิการแห่งรัฐให้นักเรียนและนักศึกษาอาชีวะและสถาบันการจัดการ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0M1lmbVBvaUludXBqaTZ2bERmeERiOFd5Nm52RjVEMlRpUjVuM2NISzRDOTBPZ1I3cXRldHZIUWtSX091WEhiYmpETXJsYUhITnUyZXVfRHdHVGhT?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-22T04:34:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ขยายสิทธิ์บัตรสวัสดิการให้กลุ่มนักเรียนอาชีวะ"
+    },
+    {
+      "id": "4bbfa5ab",
+      "title": "ยินดีด้วย! เติมเงินบัตรคนจน 700 รวม 1,000 เช็กได้กี่เดือน",
+      "summary": "เติมเงินบัตรคนจน 700 บาท รวมกับเงินจากไทยช่วยไทยพลัส 1,000 บาท สำหรับประชากรที่มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zTGVQc1pjTWZsMlFMa2V1enBJNHJwU2xKMFR6RmlTbm9pTW4zYjZrOHNLbXFzQzdydnA4dDZlSllUSTRlTFBTbXRnaw?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-22T09:57:51Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการสวัสดิการบัตรคนจน มีจำนวนเงินที่ชัดเจน"
+    },
+    {
+      "id": "974160cb",
+      "title": "ครม.ไฟเขียวคืนสิทธิ \"บัตรสวัสดิการแห่งรัฐ\" นักเรียน-นักศึกษาอาชีวะ",
+      "summary": "ครม.อนุมัติคืนสิทธิ์บัตรสวัสดิการแห่งรัฐให้นักเรียนและนักศึกษาอาชีวะ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5saHpyODNMNHpIQko0OXZ0NU85X29HY1ZSNVUyY0xPaFp1VjdQQksyMzhIYlk4TDRBSWdobXo1SUZacHBfSlJLdVRhRmF0ZE5nYTJvYUtBMA?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-09-22T06:11:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ขยายสิทธิ์บัตรสวัสดิการให้กลุ่มนักเรียนอาชีวะ"
+    },
+    {
+      "id": "4e7593ef",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เดือนตุลาคม ได้รับเงิน 2,245 บาท ใช้สิทธิอะไรบ้าง",
+      "summary": "บัตรสวัสดิการแห่งรัฐ เดือนตุลาคม 2569 ผู้รับสิทธิได้รับเงิน 2,245 บาท โดยสามารถใช้สิทธิตามเงื่อนไขของโครงการ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sNzhLZm9sM014WlN2RXJqVVoyRl9CQS1ELWZVOTVROV9xUUdiNEpVbWJaWGxXWVBuRUlPRktVZEJwbFBfVWpGak1MOThjWDF0OGxfUEhXVXRRNmdn?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-22T23:25:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีจำนวนเงินชัดเจน แต่เป็นข้อมูลเกี่ยวกับการใช้สิทธิ"
+    },
+    {
+      "id": "a904c554",
+      "title": "'คลัง' ยันรัฐบาลพร้อมเพิ่มสภาพคล่องให้ กยศ.ดูแลนักเรียน-นศ. ไม่ให้หลุดจากระบบ",
+      "summary": "กระทรวงการคลังยืนยันรัฐบาลพร้อมเพิ่มสภาพคล่องให้กยศ. เพื่อดูแลนักเรียนนักศึกษาไม่ให้หลุดจากระบบการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwV0JNRzdQZ0hGbzg4UFlxT1NWZ0NqaUxTRzR1UU43SVRpU3labkR2RnJ3dGt4cFQ2VDlTUXpDSnZOSW9nWFFMRlhiMlZOUXlfaS1tbWNNeGV3UndD?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-22T08:48:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายรัฐบาลเพื่อรักษาโอกาสการศึกษาของนักเรียนนักศึกษา"
+    },
+    {
+      "id": "ce6de795",
+      "title": "คลังการันตี กยศ.สภาพคล่อง พร้อมให้กู้ควบคู่แผนตามหนี้ ชี้ โอกาสการศึกษาต้องไม่สะดุด เพราะเรื่องงบ",
+      "summary": "กระทรวงการคลังการันตีสภาพคล่องของกยศ. และพร้อมให้กู้ควบคู่แผนตามหนี้ เพื่อให้นักเรียนนักศึกษาไม่สะดุดการศึกษาเพราะปัญหางบประมาณ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Jb0ktRjFPYVlya3VocU5KRnpLVFdVbW5lQmhsWmoxX1ZON2tFbGRCYV9WYktDbTVIMU10TGRRV0UtSElEU3p2dXNxSHljeTMwUEltZ191bTNXUE5xa1d5VA?oc=5",
+      "source": "MGR Online",
+      "published_at": "2026-09-22T08:10:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "นโยบายสนับสนุนการศึกษาสำหรับนักเรียนนักศึกษาที่มีรายได้น้อย"
+    },
+    {
+      "id": "b1a0fe5d",
+      "title": "รบ.โต้ \"ครม.เงา\" งบกยศ.ปี70เพิ่มแล้วเป็น9พันล้าน",
+      "summary": "รัฐบาลโต้แย้งข้อมูลสินเชื่อการศึกษา ยืนยันเพิ่มงบประมาณเป็น 9,000 ล้านบาท ในปีงบประมาณ 2570",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Z18yVkZMamdKeVY5TXZVb1NlXzJJZHB1TWY0T0tyTUJTbVVObWNQb1Zwc01ZamFMREljTWU4dGVpZVc0Tzd3d01JcFJYbVB2Q1RnaU9udFVHWGFiMTNrVWRBOA?oc=5",
+      "source": "INN News",
+      "published_at": "2026-09-22T07:46:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การเพิ่มงบประมาณสินเชื่อการศึกษาแต่เป็นการถกเถียงการเมือง"
+    },
+    {
+      "id": "093da7bc",
+      "title": "\"บัตรสวัสดิการแห่งรัฐ 2569\" ครม. ปรับเกณฑ์ใหม่ ใครได้ไปต่อบ้างเช็กด่วน",
+      "summary": "ครม. ปรับเกณฑ์ใหม่สำหรับบัตรสวัสดิการแห่งรัฐ ปี 2569 โดยจะประกาศผลการคัดเลือกในวันที่ 30 กันยายน 2569 เพื่อให้ผู้มีสิทธิทราบว่าได้รับการต่ออายุหรือไม่",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OdzBDOTBIc1pZeWhjaXlPUDZHRHNBT1ltMHRHeXlMam9helVkRWszcDBXX1pkQUk1UlhqZmM3OFFqeHJFazJaUGRDR28?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-09-22T06:12:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการปรับเกณฑ์ใหม่ แต่ยังไม่มีรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "f20432e0",
+      "title": "ครม.เล็งจัดงบกลาง 7,000 ล้าน แก้ปัญหา กยศ.ขาดสภาพคล่อง-ตั้ง “สลักจิต พงษ์ศิริจันทร์” นั่งอธิบดีสรรพากร",
+      "summary": "ครม.เล็งจัดงบกลาง 7,000 ล้านบาทแก้ปัญหากยศ.ขาดสภาพคล่อง ขยาย 'ไทยช่วยไทยพลัส' เฟส 2 แจก 1,000 บาท 2 เดือน ปรับเกณฑ์บัตรคนจน 5 ล้านคน",
+      "url": "https://thaipublica.org/2026/09/anutin-cabinet-22-09-2569/",
+      "source": "ThaiPublica",
+      "published_at": "2026-09-22T14:15:40Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการช่วยเหลือหลายด้าน รวมการแก้ปัญหาหนี้สินและเงินสด"
+    },
+    {
+      "id": "e5959714",
+      "title": "รัฐบาลโต้ครม.เงา ยันเพิ่มงบกยศ.เป็น 9 พันล้าน ติงฝ่ายค้านใช้ข้อมูลคนละส่วนกัน",
+      "summary": "รัฐบาลโต้ครม.เงา ยืนยันเพิ่มงบสินเชื่อการศึกษาเป็น 9,000 ล้านบาท ชี้ฝ่ายค้านใช้ข้อมูลไม่ตรงกัน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JM1BISEZsajNTZXR6ZDJjb3JhQzlrS21iZWY5NS1zUEYyY3VNdXJmb0JqTC1OeU8yaWY0bWZSVWRCVmRneFd6S0d0UHBHYzZETkk2TjNEeGZYNnZ1?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-22T07:52:48Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นโยบายสินเชื่อการศึกษาแต่เป็นการถกเถียงการเมือง"
+    },
+    {
+      "id": "edeeb1b5",
+      "title": "“ภราดร” ถามกลับ ปชน.ใช้สิทธิ์อะไรตัด “กล้าธรรม” พ้นฝ่ายค้าน ย้ำ กยศ.เร่งจัดการหนี้ 2.6 ล้านคน",
+      "summary": "สมาชิกสภาผู้แทนเน้นความจำเป็นในการจัดการหนี้สินของประชาชน 2.6 ล้านคน ผ่านสถาบันการเงินการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qOTVkYmZyWW1XTU12a1gzcFVXU3gzbDNoM0cxX3dtdU5Ma2lfZ1BaLWhwOGlNZC15cnY2VUVLQ3VwMGN2MjFfeDg3SnZfeThoQktLSDJLcmRrVDA?oc=5",
+      "source": "THE BETTER",
+      "published_at": "2026-09-22T04:07:59Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นโยบายหนี้ประชาชนขนาดใหญ่แต่เป็นการถกเถียงการเมือง"
+    },
+    {
+      "id": "b3fac7d3",
+      "title": "เสียใจด้วย!! 3 กลุ่มไม่ได้ไปต่อ บัตรสวัสดิการแห่งรัฐรอบใหม่เริ่ม1 ต.ค.69",
+      "summary": "บัตรสวัสดิการแห่งรัฐรอบใหม่เริ่มต้น 1 ตุลาคม 2569 โดยมี 3 กลุ่มที่ไม่ได้รับการต่ออายุสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NU0gzbV9kZ0NvLVJsTnBZTlZUSko1b2RkTGxqQWxSQTFMZlFpNTVsNy1ydkNnRGJtLXd1M1FBREJoUE0tVTd0ajR6RlRFcVFwU2lhNDNDdTBhc0thX1FKQk9MU3BpRkFJeTFwdmF5VW9TNVVoM1Fz?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-22T14:31:08Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีข้อมูลเกี่ยวกับการเปลี่ยนแปลง แต่ขาดรายละเอียดเฉพาะของ 3 กลุ่ม"
+    },
+    {
+      "id": "c89f88b3",
+      "title": "‘ภราดร’ เผยคุย ’ยศชนัน‘ แก้ มหาวิทยาลัย ขู่ นศ. ไม่ให้สอบ หลัง กยศ. ไม่จ่ายเงิน | The Reporters",
+      "summary": "ผู้บริหารรัฐบาลเผยการสนทนาแก้ปัญหามหาวิทยาลัยขู่นักศึกษาไม่ให้สอบเพราะกยศ. ไม่จ่ายเงิน รัฐบาลการันตีเงินกยศ. ไม่ขาด",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wVkRnazVlcXNCal94eEdWYUZOZjRWOWdNRVRHdkhmV0hKbERza0VYeGh6dmNYOE5kUW5NZ0MydWFMcmlGZ0N0VE43Zi15RUdvenh4Q3dB?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-22T11:57:54Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ปัญหาการจ่ายเงินกยศ. ที่ส่งผลต่อการศึกษาของนักศึกษา"
+    },
+    {
+      "id": "ad6a486e",
+      "title": "ศธ. สั่งตรวจ 4 สถานศึกษาภาคอีสาน นำชื่อนักเรียนไปสวมสิทธิเบิกเงิน กยศ.",
+      "summary": "กระทรวงศึกษาธิการสั่งตรวจสอบ 4 สถานศึกษาภาคอีสานที่นำชื่อนักเรียนไปสวมสิทธิเบิกเงินกยศ. เพื่อป้องกันการทุจริต",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlenY0TFZjVGZaMmtUcVpsejRvLW5Bc28wdGJEODdQcy1IaWczRDRtbW1HekJJQlVwQS01VjlVUU92bEtGNC1FOU5XTmlfRjZwNGxOUXpqdW1MT2ow?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-22T08:48:00Z",
+      "category": "education",
+      "provinces": [
+        "อุดรธานี",
+        "ขอนแก่น",
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การตรวจสอบปัญหาการสวมสิทธิกู้กยศ. ในภูมิภาคอีสาน"
+    },
+    {
+      "id": "14adbf17",
+      "title": "รัฐบาลปรับเกณฑ์บัตรสวัสดิการฯลดเสี่ยงหลุดสิทธิ",
+      "summary": "รัฐบาลปรับเกณฑ์การคัดเลือกบัตรสวัสดิการครัวเรือน เพื่อลดความเสี่ยงที่ประชาชนจะหลุดสิทธิ์การรับสวัสดิการ",
+      "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxQWWVyc1EyWHFXVVFScmc0WmpheHl5UnVIYTFpWE9VX3lOTmp1UGI3Ni1VZFRUM1RXeFAzcnZqemt2UG5PeEFxYkVxVldQT19KcmIyZUVWTjZGSE5mTWVpa1lPd1NSNnh5eGRpOG42eGxNd2Zrejc4ejRLVXJ4TUtveHVVT1hWcW5FaWhocHlTRm4tY1NoMzRPTFBpYm5RZGV3SXg5NlJzNU00djA1c2ZBakdwTTFPMEFKVy1zVlBSVTlwajFDTElRWEkxZGhJR2NHcmFZSDhVdUx5R212Y0h6ZnIxV2NSSmJGM0ZDV3BFQVRiVjNWS2QzeVIxSmdZUlR2bklTMEw0TjNIT2JhVGF5NmRwVHZaZ0JpOTk5X2VLZVlvcjlhR0VhTEQxLUs3TmV5VWJvMS1BOEc4azZXTjdfTlZ4aWtDZ1ZraHZzUGdYV1BvZm9RWjh2TlloemlpUmtmNXdQYW1HWUVmRmdvMW15c3F4TklnLWUwVDhkVmRqWjRsVzNXTkx1d1NNdEZ3OHdZcndYTDNwVUpzelFiVF9sMUN3UTdkTUswZ2p4ZHZVR19SQ3J0M1ZFUnFTa1I0aGhja2JhU3V5SnRsTjFZTXppQlR6bDlGSFdTTjR3ZU1JRDdOdm1OSWFzZ0FhUHA0dFVUUV9CYlpWbnBPWXZ5MEtFQ29XT1hyOE8yZ2lEeHhrblpIOHRURFZwSF92M2ZVVDVDWHR0SjI4WmxHU2Mwc21PQ1h1VzE4Vl9qeERvUjRuZmMyb2RCNFVrNjFIbzd4bU85dXdZUXJ2SnpGOXlEWDBqa1dYbm9pX0pPcTdDa21DYUNaU0FBNGVJME5mYUJ6UlFWY0dzOWVWd1VVRC1FRUk4Y2lqMmlzemhDSXc?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-22T08:09:24Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การปรับปรุงเกณฑ์สวัสดิการ แต่ข้อมูลรายละเอียดไม่ชัดเจน"
+    },
+    {
+      "id": "060c0902",
+      "title": "ครม.เคาะปรับเกณฑ์ \"บัตรสวัสดิการแห่งรัฐ\" ประกาศผล 30 ก.ย.",
+      "summary": "ครม. ปรับเกณฑ์บัตรสวัสดิการแห่งรัฐ โดยจะประกาศผลการคัดเลือกในวันที่ 30 กันยายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waEF1bk1pb0lDTTJjUzZYbGZXM0pIZWs2ejZEU3l6TnAtMW1NaHZZb255Wm9kbnU5V1Y0WTI4MllBdzlYN19peDlvM0hVcTlVYXA4dV9TY2w?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-22T08:07:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีการปรับเกณฑ์และวันประกาศผล แต่ขาดรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "b1e779d7",
+      "title": "รมว.ศึกษาธิการสั่งตรวจสอบ ปม 4 วิทยาลัยเอกชน สวมสิทธิ์นักเรียนกู้ กยศ. พบเป็นเจ้าของเดียวกันถึง 3 แห่ง หากพบพร้อมลงโทษ",
+      "summary": "รัฐมนตรีศึกษาธิการสั่งตรวจสอบวิทยาลัยเอกชน 4 แห่ง พบเป็นเจ้าของเดียวกัน 3 แห่ง ที่สวมสิทธิสินเชื่อการศึกษา พร้อมลงโทษ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PYzZ2VTgyUDliN19TLTQ2aHlKNkNZLXNzOTdKOEstU0ppbXdMc19fRGJ4ODYwV1huT1RiSEtFLTZ2Yi1FODBRSkN1UktzSF9yNWdzWVlSYXJRbEFCMGk4WkVZUXltT1oyalhRTXFn?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-22T06:26:50Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การป้องกันการทุจริตสินเชื่อการศึกษาของประชาชน"
+    },
+    {
+      "id": "e9f4822d",
+      "title": "ประเสริฐ สั่งสอบ วิทยาลัยเอกชน สวมสิทธิเด็กกู้ กยศ.แลกวุฒิ ชี้เป็นเจ้าของเดียวกันถึง 3 แห่ง",
+      "summary": "รัฐมนตรีศึกษาธิการสั่งสอบวิทยาลัยเอกชนที่สวมสิทธิเด็กกู้สินเชื่อการศึกษา พบเป็นเจ้าของเดียวกัน 3 แห่ง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Rm1vbGtEMHJVa25Pc2lLMThwZ3dXTWtMN1BhQkxWYXYxX0pmNjc1RE5SSVBtV0JTT1EycF9mQ2JtTU9nNmx1X0kxd0VPeG5fQnBnUkFKQ1p0UkROQmx4TlNpQTIydw?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-22T06:39:58Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "การป้องกันการทุจริตสินเชื่อการศึกษา"
+    },
+    {
+      "id": "9ba83fc9",
+      "title": "รมว.ศธ.สั่งตรวจสอบ 4 วิทยาลัยเอกชน ปมสวมสิทธินักเรียนกู้ กยศ.",
+      "summary": "รัฐมนตรีศึกษาธิการสั่งตรวจสอบวิทยาลัยเอกชน 4 แห่งที่มีการสวมสิทธิสินเชื่อการศึกษาของนักเรียน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ja2pZT3JnM3BxZmw3ZDlsUWxuVDlTS2lzYUdYY2t1YmozYzMzZFpBc2JzdFNWTGdUVFJUb0tnb0w1c0hqYXpyUGJ2blhfVU1qVmhmQm5qRkI?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-22T06:03:53Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการควบคุมสินเชื่อการศึกษาแต่เป็นการสอบสวนการทุจริต"
+    },
+    {
+      "id": "f00b3b31",
+      "title": "“รมว.ศธ.” สั่งฟัน 4 วิทยาลัยเอกชน สวมสิทธินักเรียนกู้ กยศ.แลกวุฒิ ปวส.",
+      "summary": "รัฐมนตรีศึกษาธิการสั่งฟันวิทยาลัยเอกชน 4 แห่งที่สวมสิทธิสินเชื่อการศึกษาของนักเรียนปวส.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QQ1c4TllrNFBIUEx6aFVfWWRteFVRSkpaTWIwVWk4VThya1FhdkZmSWJsenU4c0pkallFZWZSelU2bVRaZDc4ZkdyZk9KcE43QXFuUDNWQTFsWEhCQVZ4TGRn?oc=5",
+      "source": "nationtv.tv",
+      "published_at": "2026-09-22T08:00:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 66,
+      "why": "การป้องกันการทุจริตสินเชื่อการศึกษา"
+    },
+    {
+      "id": "38baa6f1",
+      "title": "เตรียมให้พร้อม! ไม่ผ่านบัตรสวัสดิการแห่งรัฐ โหลด เป๋าตัง รอ ลุ้นรับสิทธิไทยช่วยไทยพลัส",
+      "summary": "ผู้ที่ไม่ผ่านการคัดเลือกบัตรสวัสดิการแห่งรัฐสามารถโหลดแอปพลิเคชัน เป๋าตัง เพื่อรอรับสิทธิโครงการไทยช่วยไทยพลัส",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KRm5rTDVtWEhOb0o2X0V3VjBNaWZXQW9oMjZScUVha0VXUC16dG92R2ZOS2JUbFhiYkZ0U2ltOTV2REZlWU95XzE0VnZOU2lsTEFHT3Nn?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-22T18:25:30Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นข้อมูลเพิ่มเติมเกี่ยวกับการเข้าถึงสิทธิ แต่ไม่ใช่นโยบายใหม่",
+      "first_seen": "2026-09-20"
+    },
+    {
+      "id": "7d290e65",
+      "title": "วิทยาลัยเอกชน แจง 3 ข้อปมสวมสิทธินักศึกษา กู้กยศ. ยันทำตามขั้นตอน จ่อแจ้งความปกป้องสิทธิ",
+      "summary": "วิทยาลัยเอกชนแจงข้อปมนักศึกษาสวมสิทธิกู้กยศ. ยืนยันการดำเนินการตามขั้นตอนและจะแจ้งความปกป้องสิทธิ เกี่ยวข้องกับการเบิกเงินกู้ยืมเพื่อการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdHhNX0Z4UzlsbnRrWVJyUTRXNll5ekhub0pzVzJ5TmRFZEtSYk40cUoxVUZ2aFpHbTNScjN2Wmo2NnltSkV0VFF3elJONnByUFZSRTdZdERoNXFQd3JveVI2TWFuUQ?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-22T08:03:05Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ปัญหาการสวมสิทธิกู้กยศ. แต่เป็นการแจงข้อมูลเท่านั้น"
+    },
+    {
+      "id": "96b0771e",
+      "title": "“ประเสริฐ” เปิดปม 4 วิทยาลัยเอกชน สวมสิทธิกยศ. จ่อเอาผิดข้าราชการเอี่ยว",
+      "summary": "เปิดปัญหาวิทยาลัยเอกชน 4 แห่งที่อาจสวมสิทธิสินเชื่อการศึกษา เตรียมดำเนินการทางกฎหมายกับข้าราชการที่เกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vTlZScVd1NHhGRlNQZ2F1a1dKTUJXcHJhUGxXaHVGN3I5VXQ5eDRxWW85SXUyVDJ4dE5WVm16RVNVVzhXd2Z2UWprVFZoSFhzbnNN?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-22T05:46:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องสินเชื่อการศึกษาแต่เป็นปัญหาการทุจริต"
+    },
+    {
+      "id": "1aa5b6e3",
+      "title": "สรุปอัปเดต ไทยช่วยไทยพลัส - บัตรคนจน ได้เงินเพิ่มกี่บาท กี่เดือน ลงทะเบียนใหม่ไหม",
+      "summary": "สรุปข้อมูลอัปเดต \"ไทยช่วยไทยพลัส\" และบัตรคนจน รวมถึงจำนวนเงินที่เพิ่มขึ้น ระยะเวลาการใช้ และการลงทะเบียน เพื่อให้ประชาชนเข้าใจสิทธิ์",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wUWU0bFIzU2RuNUNXbjFWVEJzMk5WNXo2cndPM19QOS1mRXZ0MnVRYjRydDNHTWtGXzEyUjFESlAyXzlmdWdfSFFULS1nM3VJS3c?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-09-22T08:05:04Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เป็นสรุปข้อมูล ไม่ใช่ประกาศนโยบายใหม่"
+    },
+    {
+      "id": "1b3a8f50",
+      "title": "วิทยาลัยฯ แจงไม่เกี่ยวข้อง ปมสวมสิทธิ์กู้ กยศ. จ.หนองบัวลำภู",
+      "summary": "วิทยาลัยแจงไม่เกี่ยวข้องกับปมสวมสิทธิ์กู้กยศ. ในจังหวัดหนองบัวลำภู เป็นการแจงข้อมูลเพื่อชี้แจงข้อหา",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZUEIwTXRDYTZUVDJWZ3psbUxvT3JFa3N2TGY1WllGNTZhTG5FaUp3cXRkZTVTMjhWSmhlWTgyRDZjN1BxT3Jv?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-22T13:45:46Z",
+      "category": "education",
+      "provinces": [
+        "หนองบัวลำภู"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "การแจงข้อมูลเพื่อชี้แจงปัญหาการสวมสิทธิกู้กยศ."
+    },
+    {
+      "id": "1aae3c00",
+      "title": "วิธีติดตั้งและลงทะเบียนแอปฯ เป๋าตัง ไทยช่วยไทยพลัส สำหรับผู้ไม่ผ่าน \"บัตรสวัสดิการฯ\"",
+      "summary": "คำแนะนำการติดตั้งและลงทะเบียนแอปพลิเคชัน \"เป๋าตัง\" สำหรับผู้ไม่ผ่านการคัดเลือกบัตรสวัสดิการครัวเรือน เพื่อเข้าถึงสิทธิ์ \"ไทยช่วยไทยพลัส\"",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43Q3BESnRvVWtCYmt6LVhjMHhoUUswU19WRFAzLTlKUlNHZ09VdnFaa0JNb2tpMlIzYTFLSlhzTkxqWGZESHJUSms3WlJMSW9HUDBWak0zakx1UFBD?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-09-21T23:11:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นคำแนะนำเชิงเทคนิค ไม่ใช่ประกาศนโยบายหรือการจัดสรรเงินใหม่",
+      "first_seen": "2026-09-22"
+    }
+  ]
+}
