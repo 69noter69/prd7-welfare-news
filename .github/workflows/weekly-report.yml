@@ -1,0 +1,56 @@
+name: weekly-report
+
+on:
+  schedule:
+    - cron: "30 1 * * 1"
+  workflow_dispatch:
+    inputs:
+      week:
+        description: "วันจันทร์ต้นสัปดาห์ที่ต้องการ (YYYY-MM-DD) เว้นว่าง = สัปดาห์ที่เพิ่งจบ"
+        required: false
+      dry_run:
+        description: "ทดสอบสร้างไฟล์อย่างเดียว ไม่ส่งอีเมล"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: weekly-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ติดตั้งไลบรารี
+        run: pip install openpyxl==3.1.5
+
+      - name: สร้างรายงานและส่งอีเมล
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          TZ: Asia/Bangkok
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.week }}" ]; then ARGS="$ARGS --week ${{ inputs.week }}"; fi
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python -m report.weekly_report $ARGS
+
+      - name: เก็บไฟล์รายงานไว้ดาวน์โหลดจากหน้านี้
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-report
+          path: report/out/*.xlsx
+          if-no-files-found: ignore
+          retention-days: 90
