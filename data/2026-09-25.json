@@ -1,0 +1,822 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T01:12:02Z",
+  "window": {
+    "from": "2026-09-23T23:10:03Z",
+    "to": "2026-09-25T01:10:03Z"
+  },
+  "stats": {
+    "fetched": 247,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 16513,
+    "ai_output_tokens": 12903,
+    "cost_thb": 2.96,
+    "runs": 1,
+    "kept": 53,
+    "eastern": 1,
+    "national": 52,
+    "new": 51,
+    "followups": 2,
+    "sources": 31
+  },
+  "items": [
+    {
+      "id": "37995bd7",
+      "title": "กยศ.เร่งเคลียร์ 7.5 หมื่นราย! เพิ่มกรอบกู้ 14,004 ราย อัดงบ 1,200 ล้าน ลั่นไม่มีเด็กหลุดจากระบบการศึกษา",
+      "summary": "กยศ.เร่งเคลียร์ 7.5 หมื่นราย เพิ่มกรอบกู้ 14,004 ราย อัดงบประมาณ 1,200 ล้านบาท เพื่อให้เด็กไม่หลุดจากระบบการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNnFCOVdiWkd0bzFmSkM4RzBra2UyQ1V1bUZTTFhlQUlTdDkzVFV1VWVTYTBqZDZGZzR3UXlYcy1seGdLbjZZSVVtSE14QkU?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-24T12:45:19Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายสนับสนุนการศึกษาเด็กยากจนขนาดใหญ่ มีงบประมาณและจำนวนผู้ได้รับประโยชน์ชัดเจน"
+    },
+    {
+      "id": "32df91f2",
+      "title": "คลังเร่งของบกลางอุด กยศ. เพิ่ม 1.2 พันล้าน ปล่อยกู้นักเรียนอีก 1.4 หมื่นคน",
+      "summary": "คลังเร่งเพิ่มของบประมาณกยศ. 1.2 พันล้านบาท เพื่อปล่อยกู้ให้นักเรียนเพิ่มเติม 1.4 หมื่นคน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZGQycFQ2V0dYVExER1dnWll3emNIM1daaDFvYVlQY3d4RTRjVW1WLXFlMGxHcHAxbkJ4RHVCVVZoMGhXelAxc2NYWHB1TFF1TjA4OS15MjlMYWJy?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-24T12:50:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเพิ่มเติมสำหรับสินเชื่อการศึกษา ช่วยนักเรียนจำนวนมาก"
+    },
+    {
+      "id": "1481ad3c",
+      "title": "กยศ. เคาะของบกลางเพิ่ม 1.2 พันล้าน ช่วยนักเรียนกู้ยืมอีก 14,0004 คน เร่งเสนอครม.",
+      "summary": "กยศ.เคาะเพิ่มของบประมาณกลาง 1.2 พันล้านบาท เพื่อปล่อยกู้ยืมให้นักเรียนเพิ่มอีก 14,004 คน กำลังเสนอครม.อนุมัติ",
+      "url": "https://www.matichon.co.th/local/education/news_5903784",
+      "source": "มติชน",
+      "published_at": "2026-09-24T12:49:28Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเพิ่มเติมสำหรับสินเชื่อการศึกษา ช่วยนักเรียนจำนวนมาก"
+    },
+    {
+      "id": "e5981571",
+      "title": "ส.อ.ท. หนุนรัฐยืด \"ไทยช่วยไทยพลัส-เติมเงินบัตรคนจน\" กระตุ้นกำลังซื้อ-แนะฟื้น Easy E-Receipt ปลายปี : อินโฟเควสท์",
+      "summary": "สภาอุตสาหกรรมแห่งประเทศไทยสนับสนุนให้รัฐบาลขยายโครงการ 'ไทยช่วยไทยพลัส' และเติมเงินบัตรคนจน เพื่อกระตุ้นกำลังซื้อและฟื้นฟูเศรษฐกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVcHMxNFRfOUstSmxsTzdrT091X3JnMlhLclg5WHNva3hGaWw2RW1oV3pZd1h3ZlVVX2Zzd1IyM3hONGowZi1jVGZ4blZtLXdw?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-09-24T10:22:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "โครงการเงินสดสำหรับประชาชนรายได้น้อยที่มีผลกระทบกว้าง"
+    },
+    {
+      "id": "467d6177",
+      "title": "เปิดไทม์ไลน์ ลงทะเบียนยืนยันสิทธิ “ไทยช่วยไทยพลัส” ผ่านแอปฯ เป๋าตัง เริ่มวันไหน",
+      "summary": "เปิดลงทะเบียนยืนยันสิทธิโครงการ 'ไทยช่วยไทยพลัส' ผ่านแอปพลิเคชัน เป๋าตัง โดยมีการประกาศวันเริ่มต้นการลงทะเบียน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jX2JKc1NPRk9jQ1lCaUZYejM3X24tX1Vrbjh0NFhodmx0WTdqekZHNXRWUVBwenFkdDk1MElGVkNmS3N5Nk5OaVZldHNWSWFTZElHRzZyZDNDakk?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-24T07:27:43Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "โครงการเงินสดช่วยเหลือประชาชนที่มีการลงทะเบียนจริง"
+    },
+    {
+      "id": "8772bb27",
+      "title": "ครม.ไฟเขียว ปรับทบทวนเกณฑ์ 5 กลุ่ม บัตรสวัสดิการแห่งรัฐ ประกาศผล 30 ก.ย.นี้",
+      "summary": "คณะรัฐมนตรีอนุมัติการปรับทบทวนเกณฑ์ 5 กลุ่มสำหรับบัตรสวัสดิการแห่งรัฐ โดยประกาศผลลัพธ์ในวันที่ 30 กันยายน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05dUNkcFAtVzEzYjVqTTIwZ1ppU0l1WnYzemlYcUg5V2ZXd2hyYUVXazZiWS1YaVJOSXM1U25jRXFNY0VTa1o0QUhhS3dCT1NY?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-24T03:41:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายระดับชาติที่มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "8cc67625",
+      "title": "'คลัง' ชงของบกลางเพิ่ม 1.2 พันล้าน หนุน 'กยศ.' ขยายสิทธิ์นักเรียนขอกู้อีก 1.4 หมื่นราย",
+      "summary": "กระทรวงการคลังเสนอเพิ่มงบประมาณ 1.2 พันล้านบาท เพื่อสนับสนุนกยศ.ขยายสิทธิการกู้ยืมให้นักเรียนเพิ่มเติม 1.4 หมื่นราย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbkdjaDBqeGZfSmI3ZFpFSktfSDU4YUFUVlhIZW9YSXVBZ2dwOFQwRWRCY2NBUWk0ZzBZSl9sdHZXbklBQ19YSnNrejJrUFgzT1JwaEJLVXBGSE0w?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-24T13:41:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มติงบประมาณเพื่อขยายสิทธิการศึกษาสำหรับนักเรียนรายได้น้อย"
+    },
+    {
+      "id": "3583a920",
+      "title": "ประกาศแล้ว ผลบัตรสวัสดิการแห่งรัฐ 2569 ออกวันไหน และช่องทางไหน? คนยื่นอุทธรณ์เตรียมตัว!",
+      "summary": "ประกาศผลการคัดเลือกบัตรสวัสดิการแห่งรัฐ ปี 2569 พร้อมช่องทางการอุทธรณ์สำหรับผู้ที่ไม่ผ่านการคัดเลือก",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KQjgtenBVNFlQc3luSzNqbEhTZUdyU0pkbHFfcFlyTU9fdGhpaWxDZW1RT2JxWEtYbFh4eTZYVTZpY3RYV3U4RDNXbUw?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-24T09:41:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ประกาศผลสิทธิสวัสดิการระดับชาติ"
+    },
+    {
+      "id": "d197bf3f",
+      "title": "หลุดบัตรคนจน ยังมีสิทธิ! เช็กวิธีกดรับ \"ไทยช่วยไทยพลัส\" รอบใหม่ 1,000 บาท",
+      "summary": "ผู้ที่หลุดบัตรคนจนยังมีสิทธิรับเงินสนับสนุนจากโครงการ \"ไทยช่วยไทยพลัส\" รอบใหม่ 1,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nS0c4UHNXLUk2bTY4SDhSWktWT2ZJa3kyNXF2U290RnZybzJ1b19NNjc2RjRQb0ZsVW12Q2tUcndReGxsVHo0MENtamU?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-24T07:29:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การโอนเงินสดให้ผู้มีรายได้น้อย",
+      "first_seen": "2026-09-24"
+    },
+    {
+      "id": "903836b5",
+      "title": "ขั้นตอนยืนยันสิทธิ ขอรับเบี้ยยังชีพผู้สูงอายุ ปี 69/70",
+      "summary": "ขั้นตอนการยืนยันสิทธิและขอรับเบี้ยยังชีพผู้สูงอายุ ปี 2569-2570 สำหรับผู้สูงอายุที่มีสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MblhrRENHTDZjcGxNOE40WFFsdGh6bGVscGFFaVhIb1RVUUtZMU1Iei1mc2lhRThEMzFxVlg3LXR5M080aEFXTWNWSk92NWdZeDdYUFN4cGJEUjBqMnVtSk5XSlNsQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-24T05:45:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการสวัสดิการผู้สูงอายุที่ชัดเจน"
+    },
+    {
+      "id": "1dba71f9",
+      "title": "มติ ครม. เห็นชอบหลักเกณฑ์ การกำหนดค่าใช้จ่ายในการดำเนินการผู้ป่วยวิกฤติฉุกเฉิน (UCEP) พ.ศ ....",
+      "summary": "ครม.อนุมัติปรับหลักเกณฑ์ UCEP สำหรับผู้ป่วยฉุกเฉินวิกฤต เพิ่มความชัดเจนในการส่งต่อและเบิกจ่ายค่ารักษา 72 ชั่วโมงแรก เพื่อให้การช่วยเหลือเยียวยาเหมาะสมและสอดคล้องกับระบบแพทย์ฉุกเฉินปัจจุบัน",
+      "url": "https://www.hfocus.org/content/2026/09/39626",
+      "source": "Hfocus",
+      "published_at": "2026-09-24T14:48:56Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มติครม.ปรับปรุงระบบสุขภาพฉุกเฉินที่ส่งผลต่อประชาชนทั่วไป"
+    },
+    {
+      "id": "776d3ce5",
+      "title": "ภาคประชาชนชู 4 จุดยืน ไม่แก้ กม.บัตรทอง เปิดทางร่วมจ่าย ชวนลงชื่อค้าน ล่าสุดมี 5 หมื่นชื่อแล้ว",
+      "summary": "ภาคประชาชนชี้ 4 จุดยืนคัดค้านการแก้ไขกฎหมายบัตรทอง เนื่องจากไม่แก้ปัญหาระบบ และเปิดทางให้ผู้ประกันตนร่วมจ่าย ได้รับลายเซ็นค้านแล้ว 5 หมื่นชื่อ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EUWFab05WMk42QnktTzRFT3lZNHBTdm9Pak82bEFkNjVpM1JUMWZKZXpZY21SMXM3YjliMmNGaTJqSGhUVzFOZ0RsdDlxbEtKMWxFRFZob2l0bWs?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-24T11:24:52Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ประเด็นนโยบายบัตรทองที่มีผลต่อผู้ประกันตนรายเล็ก"
+    },
+    {
+      "id": "59039220",
+      "title": "ขุดงบประกันสังคม จนพบใช้เงินผู้ประกันตนซื้อตึก 7,000 ล้านบาท ผลงานสำคัญบอร์ดชุดแรกที่มาจากการเลือกตั้ง",
+      "summary": "พบว่าบอร์ดประกันสังคมใช้เงินผู้ประกันตน 7,000 ล้านบาท ซื้อตึก เป็นผลงานสำคัญของบอร์ดชุดแรกจากการเลือกตั้ง",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6Yk5Xa3drMWNRVHA4dmlsT29OdFl1cGZJMUtWNDhnWmNsZ1V2ZUh2bUpTN2pWbndFUlpacUtGMFlNd2lNYTRESS0yYTBUUmxWVzVsNER5YXdVa2Qw?oc=5",
+      "source": "The Momentum",
+      "published_at": "2026-09-24T07:57:47Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องการใช้เงินประกันสังคมจำนวนมาก"
+    },
+    {
+      "id": "5d1b35a3",
+      "title": "สมัครไทยช่วยไทยพลัส สำหรับคนใหม่ที่หลุด บัตรสวัสดิการแห่งรัฐ 2569",
+      "summary": "ขั้นตอนการสมัครโครงการ \"ไทยช่วยไทยพลัส\" ปี 2569 สำหรับผู้ที่หลุดจากบัตรสวัสดิการแห่งรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fZnc2RDlWVEowSnFZY0pJN1VOQ0ZidVJ0ODN2SUVIRndiUEVQNDI1SEJSSHVIWTFNR1ZVcEJJZEJxQ1JxaDk0bFQzT2Y?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-24T07:12:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสวัสดิการสำหรับกลุ่มผู้มีรายได้น้อย"
+    },
+    {
+      "id": "f2434609",
+      "title": "วิธีลงทะเบียน ไทยช่วยไทยพลัส สำหรับคนไม่ผ่าน บัตรสวัสดิการแห่งรัฐ",
+      "summary": "วิธีการลงทะเบียนโครงการ \"ไทยช่วยไทยพลัส\" สำหรับผู้ที่ไม่ผ่านการคัดเลือกบัตรสวัสดิการแห่งรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Gd2s1ekVFY2NTQkJvbU1oUVNBT3lqd0ZIZ2thZkE5VmFObktTbTg0TDVVTHlYRnFaSEZGRDR1U1VGUHpkeGxzcEdXOTljYXY3?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-24T06:09:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสวัสดิการเพื่อผู้มีรายได้น้อย"
+    },
+    {
+      "id": "2b2a15b3",
+      "title": "รักชนก จี้รัฐบาลเร่งเติมเงิน กยศ. หวั่นเด็กหลุดจากระบบ | เที่ยงทันข่าว | 24 ก.ย. 69",
+      "summary": "สมาชิกสภาผู้แทนราษฎรรักชนกเรียกร้องให้รัฐบาลเร่งเติมเงินกองทุนเงินกู้ยืมเพื่อการศึกษา (กยศ.) เพื่อป้องกันเด็กนักเรียนหลุดจากระบบการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kREhhb0oweVpFYjlLRHg5c3J1M0lGelNHX2c4bzBOX2hvd2ZPQkgzUkMxZk1SUDdHOUd3Y1J3eDVyMUJLV1d3bVJOTTExZmFmQ1J3ag?oc=5",
+      "source": "pptvhd36.com",
+      "published_at": "2026-09-24T05:30:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการเกี่ยวกับการศึกษาเด็กเนื่องจากปัญหาเงินทุน"
+    },
+    {
+      "id": "978bd20a",
+      "title": "วิธีลงทะเบียนรับสิทธิ \"ไทยช่วยไทยพลัส\" สำหรับผู้ที่หลุดจาก \"บัตรสวัสดิการแห่งรัฐ\"",
+      "summary": "แนวทางลงทะเบียนรับสิทธิ \"ไทยช่วยไทยพลัส\" สำหรับผู้ที่ไม่ผ่านเกณฑ์บัตรสวัสดิการแห่งรัฐ เพื่อให้ผู้มีรายได้น้อยได้รับความช่วยเหลือทางการเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrYVNWaWx5bnFTM05EcTcxMHlnUmE2eklHNXc0Q1NMbU9ZNTFmbkFDV2t5T2g0RG1MZDNnSzM5RzBXa0N6dklvVEl2bE1yazJ0NjE3emMtSU85REk?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสวัสดิการที่ชัดเจนสำหรับกลุ่มเป้าหมาย"
+    },
+    {
+      "id": "317f3ac9",
+      "title": "ภาคปชช.ไม่ร่วมสังฆกรรม ‘แก้ พ.ร.บ.บัตรทอง’ ชี้ไม่ช่วยแก้ปัญหาระบบ ชู 4 จุดยืน",
+      "summary": "ภาคประชาชนไม่เห็นด้วยกับการแก้ไขพ.ร.บ.บัตรทอง ชี้ว่าไม่แก้ปัญหาระบบสุขภาพพื้นฐาน ชู 4 จุดยืนเพื่อปกป้องสิทธิผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WQnFkdDlUWllXclZ1V0N3ODV2RlB5M21NeXBpc0RfR0E1Z2l4eXF6aGpLd2xITUhTNkdYRVdJc2pzbUNjbFRCTEZCVVZIdjluYkxFNGNfRVo5UFFOOXNUc2ZCNEp5c2Y4Rjkw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-24T17:38:35Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ประเด็นนโยบายบัตรทองที่มีผลต่อผู้ประกันตนรายเล็ก"
+    },
+    {
+      "id": "3d26d9bd",
+      "title": "ชาวผักไห่ เผยเชื่อคำ สส. บอกปีนี้น้ำไม่ท่วม ชะล่าใจ น้ำพุ่งมาวันละ 1 เมตร ยกของหนีไม่ทัน",
+      "summary": "ชาวผักไห่ประสบน้ำท่วมรุนแรง ระดับน้ำพุ่งขึ้นวันละ 1 เมตร แม้ได้รับข้อมูลจากสส.ว่าไม่มีน้ำท่วม ส่งผลให้ไม่สามารถออกไปหาหนทางหาเลี้ยงชีพได้",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10412087",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-24T12:05:32Z",
+      "category": "disaster",
+      "provinces": [
+        "พระนครศรีอยุธยา",
+        "ชัยนาท"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ภัยพิบัติน้ำท่วมกระทบรายได้ประชาชนต่ำ ต้องการเยียวยา"
+    },
+    {
+      "id": "710b6829",
+      "title": "เวทีชำแหละร่างแก้ พ.ร.บ.บัตรทอง มุ่งปกป้องหน่วยบริการ ขัดเจตนารมณ์ “หมอสงวน”",
+      "summary": "เวทีสาธารณะชำแหละร่างแก้ไขพระราชบัญญัติบัตรทองเพื่อปกป้องหน่วยบริการสุขภาพ ขัดกับเจตนารมณ์ของแพทย์สงวน",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByMUx2TFUzYWZLcDFDZHlyemNwRm01eGR0V3llbTNuUlZic2xQTnRrRzB5ZmR5dTZWMDZDZXVYWFRhR0ZIdVgxalRlcHlBNFJhTFBKUzNLQQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-09-24T06:14:47Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การแก้ไขกฎหมายบัตรทองซึ่งเป็นมาตรการสุขภาพหลักของประเทศ"
+    },
+    {
+      "id": "b816f01c",
+      "title": "เสนอปรับขึ้นค่าแรงขั้นต่ำ 7.8% ในปี 2027: สหภาพแรงงานจะเจรจาต่อรองเรื่องการปรับขึ้นค่าแรงและสวัสดิการเพิ่มเติม",
+      "summary": "เสนอปรับขึ้นค่าแรงขั้นต่ำ 7.8% ในปี 2027 โดยสหภาพแรงงานจะเจรจาต่อรองเรื่องค่าแรงและสวัสดิการเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2NEQ3BidEdBekc2WGFmU3FPTzk2NWM0czM3cDV4djBGVnMzTGtOMmNLd3l2WlE5Wk5ZR2RvUlctQ1l5czBhYkllZnllTzVHN2U4NmxESnhQZGlMMHBnMlptanFLRlhGcjExTjA3SG9LZWQ2elcyRFdxTC01S0ZRcHROZ0V0dk91dkFmN1kzR2g5SURnNDZPeEoyNGJ3eGlaZlJ4OVcxT1FvYVZZMlllZ2xEOXNlNlZBMm1N?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-24T16:38:32Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "นโยบายเพิ่มรายได้แรงงาน"
+    },
+    {
+      "id": "0c94b1e4",
+      "title": "กระทรวงมหาดไทยเห็นชอบข้อเสนอในการปรับขึ้นค่าแรงขั้นต่ำใน 7 จังหวัดและเมือง",
+      "summary": "กระทรวงมหาดไทยเห็นชอบข้อเสนอปรับขึ้นค่าแรงขั้นต่ำในจังหวัดและเมืองต่างๆ 7 แห่ง เพื่อปรับปรุงสภาพการจ้างงาน",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTVvR21xTXBTcHc2ck9wMndhMGJVQTJPLThkREdtUUNGc1A1Z1ljTGhDdnMzUzhHLXVVTlpBYXVtcFRaVzdVVU14MEtiMEI0LUhIOUgzbmdNV3FDRWQ3bFBSamtvMWluQUJ1RU1yQXc0QjRua2JtYXNXN1hZRWRhMnp0Nk55LU5jS0NTVWNwd0UwUVZGalVyaQ?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-24T09:13:29Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการเพิ่มค่าแรงขั้นต่ำสำหรับแรงงานรายได้น้อย"
+    },
+    {
+      "id": "32d413a6",
+      "title": "ยันไม่ได้ล้มบัตรทอง! ชี้วิกฤต รพ.ขาดทุนหนัก-เงินบำรุงฮวบ วอนปรับโครงสร้างบอร์ด กระจายอำนาจ",
+      "summary": "ยืนยันไม่ล้มบัตรทอง แต่ชี้ว่าโรงพยาบาลขาดทุนหนัก เงินบำรุงไม่เพียงพอ วอนปรับโครงสร้างบอร์ดและกระจายอำนาจ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qRlVPQ29MbzY5WENSVTZnTHVkR3cwaXhpTXhaS21JemppWlc2RHQ3VzhyUDhCQUI4UWc0R0V0TE9zSG9reWYyQ1FOaFkwN2VVTUdHd3Jjdw?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-09-24T02:49:37Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวกับระบบสุขภาพของประชาชนรายได้น้อย แต่เป็นข้อมูลจากหัวข้อเท่านั้น"
+    },
+    {
+      "id": "88d85fea",
+      "title": "คนรักหลักประกันฯ ล่าชื่อค้านแก้ พ.ร.บ.บัตรทอง ย้ำจุดยืน รักษาฟรี-ไม่ร่วมจ่าย ณ จุดบริการ",
+      "summary": "กลุ่มสนับสนุนระบบประกันสังคมรวบรวมลายเซ็นค้านการแก้ไขพระราชบัญญัติบัตรทอง ยืนยันจุดยืนการรักษาฟรีและไม่ร่วมจ่ายที่จุดบริการ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CMEVEcjRWdU1FeXlXYUlmWlRYbVJkT0FIbENiZnlZVEZBS2N2ZVFwdXhCUFloQmFrNXhHekc0Ty1CczBmcUl1cW5YNHo1a0txX0lV?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-24T08:30:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "การเคลื่อนไหวเกี่ยวกับการปกป้องสิทธิสุขภาพของประชาชน"
+    },
+    {
+      "id": "dc8c77e3",
+      "title": "สถานการณ์น้ำสระแก้วยังน่าห่วง! ทหารจิตอาสาระดมกำลังช่วยชาวบ้าน ขนของหนีน้ำขึ้นที่ปลอดภัย",
+      "summary": "สถานการณ์น้ำท่วมสระแก้วยังวิกฤต ทหารจิตอาสาช่วยชาวบ้านขนย้ายสิ่งของหนีน้ำขึ้นที่ปลอดภัย",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mM2Juc25ZVEFLbTk3MGN0eDhZbVJFT29saVZWRFhOQXB6UVNseE11eXhkbXlMdkc3aEQ0Mi1NX2MyYVEtTnRaQVJLaVdub0hKbl9UZg?oc=5",
+      "source": "News1Live",
+      "published_at": "2026-09-23T23:50:27Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "ภัยพิบัติน้ำท่วมกระทบชีวิตประชาชน แต่เป็นข้อมูลการช่วยเหลือ ไม่มีรายละเอียดเยียวยา"
+    },
+    {
+      "id": "79008f28",
+      "title": "กห.-พม. ผนึกกำลังดันบ้านมั่นคงชายแดนนำร่อง 5 จังหวัดอีสาน-ตะวันออก ดูแลประชาชน-ทหารผ่านศึก-ผู้เสียสละ",
+      "summary": "กห.-พม. ผนึกกำลังดำเนินโครงการบ้านมั่นคงชายแดนนำร่องใน 5 จังหวัดอีสาน-ตะวันออก เพื่อดูแลประชาชน ทหารผ่านศึก และผู้เสียสละ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95Ny1rY1FNT1FDMDFFdjIxWEJpSWdqSTlDaFZnUTRnY2JlbFdmQUlwVkE4T2FEZ3Brb2ZNZXlPSzNWTEJrWkNoanJhZGFSdEo3TC0wUFFGYXE3RlhuQ1dDbFNSdw?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-24T14:08:19Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "โครงการที่อยู่อาศัยสำหรับกลุ่มเปราะบาง แต่ยังไม่มีรายละเอียดงบประมาณหรือเวลาเริ่มต้นชัดเจน",
+      "first_seen": "2026-09-19"
+    },
+    {
+      "id": "6f96f1c1",
+      "title": "กสิกรไทย ปรับขึ้นค่ารักษาพนักงาน เบิกได้สูงสุดปีละ 300,000 บาท จัดเงินกู้ดอกเบี้ยต่ำ ช่วยค่าครองชีพ",
+      "summary": "ธนาคารกสิกรไทยปรับเพิ่มค่ารักษาพยาบาลพนักงานสูงสุดปีละ 300,000 บาท ตั้งแต่ 1 มกราคม 2570 และจัดโครงการเงินกู้สวัสดิการดอกเบี้ยต่ำสูงสุด 50,000 บาท ช่วยค่าครองชีพ",
+      "url": "https://www.prachachat.net/finance/news-2071170",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-24T11:18:07Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการช่วยเหลือค่าครองชีพ แต่เป็นสำหรับพนักงานธนาคารเท่านั้น"
+    },
+    {
+      "id": "dc176404",
+      "title": "เพื่อไทย โวย เอกนิติ-ศุภจี ดึงเรื่องช่วยไร่ละ 1 พัน ชาวนา หลังเกษตรเคาะแล้ว แต่ไม่ยอมเอาเข้าครม.",
+      "summary": "พรรคเพื่อไทยวิจารณ์ว่าเอกนิติและศุภจีดึงเรื่องช่วยเหลือชาวนาไร่ละ 1,000 บาท หลังกระทรวงเกษตรเคาะแล้วแต่ไม่นำเข้าคณะรัฐมนตรี",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XWTJadnJad0V4UVBYLTJEYm5sVXZ3M2tPaldaN3ZMZ0JwQm5jRmZ6MmlHZ1YwSzVSdzVzS3ZhNnJvenNrTW4xeTFMLXZDZUZfVFNBb0UxVkh0cUl1?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-24T09:25:17Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวกับมาตรการช่วยเหลือชาวนา แต่เป็นข้อโต้แย้งทางการเมือง"
+    },
+    {
+      "id": "aa4d2648",
+      "title": "ขสมก.ลุยเปลี่ยนรถเมล์ EV 2,320 คัน วงเงิน 2.3 หมื่นล้าน ตั้งเป้าปี 73 เลิกขาดทุน “พิพัฒน์”เร่งถกคลังเยียวยาค่าตั๋ว เลิกรถร้อนต้องไม่กระทบผู้มีรายได้น้อย",
+      "summary": "การขนส่งมวลชนกรุงเทพฯ วางแผนเปลี่ยนรถเมล์เป็น EV 2,320 คัน และพิจารณาเยียวยาค่าตั๋วเพื่อไม่กระทบผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LUzFFeXRrckI0aC1ub1BiQ1ZmZjdsalNlcGZBSnBWakJpR2JsWndFYUFjY3h6b3FKZTBzdEkzYWswZ1VrRWlYZ2tpYjlKclJLYjlJY0pDQmVCd3F6MmdyNA?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-24T07:48:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการเกี่ยวกับค่าใช้สอยสำหรับผู้มีรายได้น้อย"
+    },
+    {
+      "id": "b187e8fe",
+      "title": "รักชนก ฟาดแรง เลขาฯประกันสังคม ทำงานห่วย ปมให้ข้อมูลขัดกฎหมาย ห้ามนำโพยเลือกตั้งบอร์ดประกันสังคม",
+      "summary": "เลขาธิการประกันสังคมถูกวิจารณ์ว่าทำงานไม่ดี เกี่ยวข้องกับการให้ข้อมูลที่ขัดกฎหมาย และการห้ามนำโพยในการเลือกตั้งบอร์ดประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wVHRjek1RLTJydDBWT0FPbXdhNWVVR0dVdi1uUnlTOHhFRlk2X1Q1cExHSWp0RnUwRFV5dzA2dXh0ckloU3lkNWRXZ0xmQlRkblE?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-09-24T07:02:56Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นเรื่องการบริหารจัดการ"
+    },
+    {
+      "id": "9fa71ae4",
+      "title": "เปิด 4 จุดยืนปกป้องบัตรทอง ยันค้านแก้ พ.ร.บ.-จวกแบ่งสิทธิประโยชน์พื้นฐาน เปิดทางร่วมจ่าย",
+      "summary": "กลุ่มสนับสนุนเปิด 4 จุดยืนปกป้องบัตรทอง ค้านการแก้ไขพระราชบัญญัติ และเตือนเรื่องการแบ่งสิทธิประโยชน์พื้นฐาน พร้อมเสนอให้มีการร่วมจ่ายค่ารักษา",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WSnVPNm9XamtkQmJzWVJyVGczX0RDSmJ5NW1JT0ctc2dvXzhUVGdLLW52cFpjZExoMGJlbDROczVCOTN2bFlNTy11bml5cklDTEpfeXhsbw?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-09-24T05:10:31Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข้อเสนอเกี่ยวกับการปกป้องสิทธิสุขภาพ แต่เป็นความเห็นไม่ใช่นโยบายสุดท้าย"
+    },
+    {
+      "id": "e1ac484f",
+      "title": "ค้านแก้กฎหมายคุ้มครองพันธุ์พืช ชาวนาขอเงินเยียวยารอบใหม่ไร่ละ 2,000",
+      "summary": "ชาวนาค้านการแก้ไขกฎหมายคุ้มครองพันธุ์พืช และขอเงินเยียวยารอบใหม่ในอัตราไร่ละ 2,000 บาท เพื่อชดเชยผลกระทบจากการเปลี่ยนแปลงกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE53LTAwRWhVY2NCOGdBVk9Ld3ZEV29pX003VXhwV0J3YUlGSzNOdGp5OEhjM19EUUhseDlVSm14alNMOURCZFBENkpVN3BJRThyZ21KVGNxQU9LTHB1?oc=5",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-24T03:32:10Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องเงินเยียวยาเกษตรกร แต่ข้อมูลไม่ชัดเจนเต็มที่"
+    },
+    {
+      "id": "055e314b",
+      "title": "\"ไอซ์\" ฟาดแรง \"เลขาฯประกันสังคม\" ทำงานห่วย มีระบบราชการคุ้มกะลาหัว ให้ข้อมูลขัดกฎหมายปมนำโพยเข้าคูหา",
+      "summary": "นักการเมืองวิจารณ์เลขาธิการประกันสังคมว่าทำงานไม่ดี มีระบบราชการคุ้มกะลา และให้ข้อมูลขัดกฎหมายในปมการเลือกบอร์ด",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rU2FuYWJma2dtTFRISDhNN0RfZXFtVnhOMzNHZTAyV3o4X3NPYWxIVjE4VS1aMlhVY00tUzJ6cDJERkQzbmowYm5YT2lpMXpiUUlBNVA4ck4yUUF0SlE?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-09-24T05:06:45Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "ประเด็นการบริหารประกันสังคม แต่เป็นการวิจารณ์ไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "763feb31",
+      "title": "ก.คลัง เร่งสางปัญหาสภาพคล่อง กยศ. | CH7ON อัปเดตข่าวใหม่ ข่าวช่อง 7HD | CH7ON",
+      "summary": "กระทรวงการคลังเร่งแก้ไขปัญหาสภาพคล่องของกยศ. เพื่อให้สามารถปล่อยสินเชื่อได้อย่างต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE11UGxNWngwOC1qdGZCM3d1N2xYc3M5cG83cjBLdUd4dGVVcy1CWHJQeFZSR2liNE41STVrcDZ2N0xlcXd4bTNR?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-24T14:43:28Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข้อมูลจากหัวข้อเท่านั้น ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "ebf92049",
+      "title": "สปส.เตรียมส่ง SMS 25 ก.ย. แจ้งจุดเลือกตั้งบอร์ดประกันสังคม สำหรับคนลงทะเบียนไว้ เตือนระวังมิจฉาชีพ",
+      "summary": "สำนักประกันสังคมเตรียมส่ง SMS วันที่ 25 กันยายน แจ้งจุดเลือกตั้งคณะบริหารประกันสังคม สำหรับผู้ลงทะเบียน พร้อมเตือนระวังมิจฉาชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZS0V4WEJLQkZBMEpGbG5BaTY1XzZhc2dIRWwzTW9UZ3FIdmxVUm5ETUxJZFpNeXhuTkV3STBVTzV0bkZkajRQOU0tQWx0aEctWl9ZcUdTNlFObTFkMDJNdFB4VjlxTnFnWkE?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-24T11:19:36Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "การประชาสัยเกี่ยวกับการเลือกตั้งบอร์ดประกันสังคม แต่เป็นข้อมูลการดำเนินการ"
+    },
+    {
+      "id": "20a3481f",
+      "title": "เตือน!เก็บเห็ดป่าฤดูฝน เสี่ยงเป็นพิษ - ปี 69 ป่วยกว่า 3.2 พันราย เสียชีวิตแล้ว 11 ราย",
+      "summary": "กรมควบคุมโรคเตือนประชาชนระวังเก็บเห็ดป่าฤดูฝน เสี่ยงเป็นพิษ ข้อมูล 1 มกราคม-23 กันยายน 2569 ป่วย 3,269 ราย เสียชีวิต 11 ราย",
+      "url": "https://www.hfocus.org/content/2026/09/39619",
+      "source": "Hfocus",
+      "published_at": "2026-09-24T09:58:46Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องสุขภาพประชาชนโดยเฉพาะผู้สูงอายุ"
+    },
+    {
+      "id": "ddc8ed4b",
+      "title": "ตัวแทนผู้ป่วยร้องกมธ. หลัง สปสช. ปรับเกณฑ์คลินิกนวัตกรรมทบทวนคุมโควตา “บัตรทอง”",
+      "summary": "ตัวแทนผู้ป่วยร้องต่อคณะกรรมการหลังจากสำนักงานหลักประกันสุขภาพแห่งชาติปรับเกณฑ์คลินิกนวัตกรรมและทบทวนโควตาบัตรทอง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44c191Z2M4M2RYYzI1QnF5c0k4RkZpc2ZlN1VaaHhoT01ZQnVXUk5HUnNMM2ZSbTY2RnJ4TDNJQVVlbk1MX09mLUNHMjc3blU5OEM3dkYzRUZzOFE?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-09-24T09:10:55Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นสวัสดิการสุขภาพที่เกี่ยวข้องกับผู้มีรายได้น้อย"
+    },
+    {
+      "id": "8657e5e8",
+      "title": "ตัด ‘สิทธิบัตรทอง’ บัญชีม้า สร้างภาระใหม่ รพ.-สังคม !!? ‘ผิดอาญา-สิทธิสุขภาพ’ คนละเรื่องที่ควรแยกขาดกัน",
+      "summary": "บทความวิเคราะห์เกี่ยวกับการตัดสิทธิบัตรทองสำหรับผู้มีบัญชีม้า ซึ่งอาจสร้างภาระต่อโรงพยาบาลและสังคม พร้อมถกเถียงเรื่องสิทธิสุขภาพและความผิดอาญา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IODhKSHhPVVpJX3hfN2dvSnZfT0FCR0ppZHdKSFhPbUIyVjg1Q25CdUVuRmpCbDlGcndxM0xMdWZ2SExGRFlPajduOFpIbHl1SC1PVzhmQjgtdUk?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-24T03:04:12Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความเห็นเกี่ยวกับการเปลี่ยนแปลงสิทธิสุขภาพ ไม่ใช่นโยบายสุดท้าย"
+    },
+    {
+      "id": "90a24b46",
+      "title": "มท.2 สั่งหาสาเหตุ ชะลอเก็บค่าไฟบ้านร้าง",
+      "summary": "มท.2 สั่งหาสาเหตุและชะลอการเก็บค่าไฟฟ้าสำหรับบ้านร้าง เพื่อตรวจสอบความเหมาะสมของนโยบาย",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13dHpaMUZPMTh1YVkwMllMUnBkakh0U2h6cnoxWmo0OERDNXJGSkYxaFhmc05oM0VDNlpVbUlQaXVFd0p5ajVn?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-24T02:50:52Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "เกี่ยวข้องกับค่าใช้จ่ายพื้นฐาน แต่เป็นการชะลอการเก็บเงิน ไม่ใช่มาตรการสนับสนุนโดยตรง"
+    },
+    {
+      "id": "78e7ae66",
+      "title": "พม. จัดงานวันผู้สูงอายุสากล 2569 โชว์ศักยภาพขับเคลื่อนเศรษฐกิจและสังคม พร้อมจับมือทุกภาคส่วน ออกแบบสังคมเพื่อชีวิตที่ยืนยาวของคนทุกช่วงวัย",
+      "summary": "กระทรวงพัฒนาสังคมจัดงานวันผู้สูงอายุสากล 2569 เพื่อแสดงศักยภาพและขับเคลื่อนเศรษฐกิจสังคม พร้อมออกแบบสังคมเพื่อชีวิตที่ยืนยาวของคนทุกช่วงวัย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QWE5QUHQxQTcyWjZ0WnFDbHZCeE9RS3VhTHBUblFXdGlhaWF3S0xoOHpFbHROcGxwU3RubjBIbTZVMnBqN2h1VXgxS2FpM1Vvcm5zY01YQVR5MkE?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-09-24T23:51:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "งานประกาศนโยบายผู้สูงอายุ แต่ไม่มีมาตรการเฉพาะหรือเงินจริง"
+    },
+    {
+      "id": "f91319e5",
+      "title": "ผู้เสียหายร้องถูกสวมสิทธิ์กู้เงิน กยศ.",
+      "summary": "มีผู้เสียหายร้องเรียนเกี่ยวกับการถูกสวมสิทธิ์ในการกู้เงินจากกยศ.",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNMFZORG5NLXZOeXpPejRJbEhfTWhIdG1YckpUZTJWRFBucXFCX1JRbk9YT2pOTk8ydExwTUFjWm5hNWU2UHFR?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-24T16:06:30Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อมูลจากหัวข้อเท่านั้น ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "a867c3ff",
+      "title": "ผู้สมัครบอร์ดประกันสังคม 2569 มีใครบ้าง? ก่อนจำเบอร์ ลองดูว่าแต่ละทีมอยากเปลี่ยนอะไร",
+      "summary": "แนะนำผู้สมัครบอร์ดประกันสังคม 2569 และแต่ละทีมมีแผนการเปลี่ยนแปลงอะไรบ้าง เพื่อช่วยให้ผู้ลงคะแนนตัดสินใจ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtT2xYRGc4VUpTR2pjQUpnOGsxQmtmb2VIY1pQUE5HUWdkMi1xTW1OaWN4WTJYYXdBVWQyZm5WM2VMQlhHcmM4Ujd4MkZudFhZbGxDY1lGN3pzY1ptbUN6d1VDYlBwWUxQT3g4V045UXVsNkl6TU1VT09NQ3F0Zw?oc=5",
+      "source": "inzpy.com",
+      "published_at": "2026-09-24T10:40:39Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นข้อมูลการเลือกตั้ง"
+    },
+    {
+      "id": "ed1e648d",
+      "title": "เตรียมให้พร้อม! วิธีลงคะแนน เลือกตั้งบอร์ดประกันสังคม 27 ก.ย.นี้ ใช้เอกสารอะไรบ้าง",
+      "summary": "แนวทางการลงคะแนนเสียงในการเลือกตั้งบอร์ดประกันสังคม วันที่ 27 กันยายน พร้อมเอกสารที่ต้องใช้",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtZ0l0NklyMG5KWGhUNTRVSnZ4dEczVHFjZmZnT2hmX3R2OVhrb3pqWDRGU1F4S0VMcXBEWko2LWhBellGcmd4Uk5ST1dEZ3FP?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-09-24T07:29:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นข้อมูลขั้นตอนการเลือกตั้ง"
+    },
+    {
+      "id": "97738ce4",
+      "title": "อดีตนักเรียนบึงกาฬเปิดใจถูกแอบอ้างชื่อกู้ กยศ. คนค้ำโผล่ชื่อพ่อ",
+      "summary": "อดีตนักเรียนจังหวัดบึงกาฬเปิดเผยถูกแอบอ้างชื่อกู้เงินกยศ. โดยบุคคลที่ไม่ทราบตัวตนนำชื่อพ่อไปใช้ในการยื่นกู้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VGJPWVlHbEFfQ2NDZmpTN0I3V3NsQ3FSdUEtbktVVkhvV1NmMzVacGJVY0dQVlhYemJPMi1PWFJOc0lvXy1sa3Q2a0RHdm9yZUo5Y0dR?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-09-24T06:00:00Z",
+      "category": "education",
+      "provinces": [
+        "บึงกาฬ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เรื่องการละเมิดระบบกยศ. แต่เป็นเหตุการณ์เฉพาะตัวอย่างเดียว"
+    },
+    {
+      "id": "bff5e76f",
+      "title": "\"รักชนก ศรีนอก\" โต้ สปส. ปมโพยเข้าคูหาเลือกบอร์ดประกันสังคม",
+      "summary": "สมาชิกสภาผู้แทนราษฎรโต้แย้งข้อกล่าวหาเกี่ยวกับการเลือกบอร์ดประกันสังคม ในปมการนำโพยเข้าคูหา",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lNDJlR3NJSEc4LUV2QXNldW5YOEwtWDltUHFzRE8yY1JHb1NBNDh4NlR3T0FjcjB4NDBaaG94blA0TXFiUW9Kc09vTlZOYXllTUpJ?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-09-24T05:42:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นการบริหารประกันสังคม แต่เป็นการโต้แย้งข้อมูล ไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "326170a0",
+      "title": "รพ.ตำรวจ ผนึก CPF ลดค่าครองชีพ อัดงบจัดซื้อเครื่องมือแพทย์",
+      "summary": "โรงพยาบาลตำรวจร่วมมือ CPF ลดค่าครองชีพ และจัดสรรงบประมาณซื้อเครื่องมือแพทย์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZMVJWaUUxbWY0Zl9DN1JqbFRQMU9tMEpFaEEzMnY2Z25WTmpNd0FDRzNvWDNrOExlUmU3Wk1KN3RyWUFCUWI3T0Q1Z0p2Y1FYQklLTHdnLXBlNTdG?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-24T10:18:34Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องการลดค่าครองชีพและสุขภาพ แต่ข้อมูลไม่ชัดเจน"
+    },
+    {
+      "id": "fd4057b5",
+      "title": "การอบรมคณะกรรมการประจำที่เลือกตั้ง ในการเลือกตั้งผู้แทนฝ่ายนายจ้างและผู้แทนฝ่ายผู้ประกันตน ของสำนักงานประกันสังคมจังหวัดอุบลราชธานี จำนวน 2 รุ่น",
+      "summary": "การอบรมคณะกรรมการประจำที่เลือกตั้ง สำหรับการเลือกตั้งผู้แทนฝ่ายนายจ้างและผู้ประกันตน สำนักงานประกันสังคมจังหวัดอุบลราชธานี 2 รุ่น",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGZYNDBiY0N4UTlncWNxRDctUUxnQ05rNDk5eXJJWGI4NzhmNDdpTHpqUWFnMUV0V20yZGRfMnVnUXItY1hmS1M0bC01RXFjWFpnajg2cmpBOTZsUnJYMGRFcWRsb1JlTVB4eFF0RW51b2JYY1hjV3lJYmxEbDg5SWFn?oc=5",
+      "source": "ect.go.th",
+      "published_at": "2026-09-24T09:10:44Z",
+      "category": "other",
+      "provinces": [
+        "อุบลราชธานี"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นการอบรมเตรียมการเลือกตั้ง"
+    },
+    {
+      "id": "1a5401ea",
+      "title": "แก้กฎหมาย 'บัตรทอง' มุ่งปรับสมดุลการเงินรพ. หรือ ปกป้องสิทธิประชาชน?",
+      "summary": "บทความวิเคราะห์ถกเถียงว่าการแก้ไขกฎหมายบัตรทองมุ่งหมายปรับสมดุลการเงินโรงพยาบาลหรือปกป้องสิทธิประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wMWFkSTlMOThkWUZMX1NaaUNjLUliTEdMZ0dnMm9YcFFEdVd0c3ZvUlAzU1R6N0JuV2s3cTJXSXpNVFRzTlhjV1JEOEhhVGE5Uzg3S0JlMmotclNOcnpHdGZmRjFvYjlaa3c?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-24T08:17:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "บทความวิเคราะห์ความเห็นต่างเกี่ยวกับนโยบาย ไม่ใช่ข้อมูลนโยบายสุดท้าย"
+    },
+    {
+      "id": "cc682aeb",
+      "title": "\"ไอซ์ รักชนก\" จี้รัฐบาลเติมเงิน กยศ. ย้อนถามติดโซลาร์เซลล์ สำคัญกว่าอนาคตชาติ?| PPTV News",
+      "summary": "สมาชิกสภาผู้แทนจี้รัฐบาลเติมเงินกยศ. และตั้งคำถามเกี่ยวกับลำดับความสำคัญของนโยบายต่างๆ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xZVZmMVlUeWtiWXRzOXVyQTJMT3VpMEtWUEs2QllibVF5UUF5VEpRQ0N1amx6UFlwZ0tZcVFUbE5ZcEloYzJ5UDFpa2dWd1RTMVVmRQ?oc=5",
+      "source": "pptvhd36.com",
+      "published_at": "2026-09-24T05:00:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อมูลจากหัวข้อเท่านั้น ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "405418e9",
+      "title": "ไอซ์อยากรู้! จี้รัฐบาลเปิดตัวเลข กยศ.ขาดงบเท่าไหร่",
+      "summary": "สมาชิกสภาผู้แทนจี้รัฐบาลเปิดเผยตัวเลขว่ากยศ.ขาดงบประมาณเท่าไหร่",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xV2h0RnYwVGdEZGxoSk4yTkhpXzVVeElWOVYwbXVtYjA3Skh5MFR0SHJCWndMTksyOGFpelVIZTVOcThHVUM0bDZYcldiWVdDa0lIU29fZFc?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-09-24T04:39:23Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อมูลจากหัวข้อเท่านั้น ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "c6931061",
+      "title": "มาตรฐานการครองชีพขั้นต่ำจะสูงขึ้น 3.7% เมื่อค่าแรงขั้นต่ำปรับขึ้นตั้งแต่วันที่ 1 มกราคม 2560",
+      "summary": "มาตรฐานการครองชีพขั้นต่ำจะเพิ่มขึ้น 3.7% เมื่อค่าแรงขั้นต่ำปรับขึ้นตั้งแต่ 1 มกราคม 2560",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1NSMnc2Q1FqbnJGUzZERS1ScFFXSEswM3h0SlRJalpBcU5HNC1XRVZGV0M1NkpBS05tWFFUa2xUV1NfcTkxX0luR2Z2eG9VYS12Rk9GdnhhMlBhZmxZV2RMQktXTGZyOU84Y1VGMWxFMDMtTFMwSXAycE9wYTZfZDFGbXhTRXo5aWpBWi1oV2dmWm53SG92cw?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-24T01:31:30Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวกับค่าครองชีพ แต่เป็นข้อมูลเก่า (ปี 2560) และมาจากแหล่งข่าวต่างประเทศ"
+    },
+    {
+      "id": "298e670a",
+      "title": "ที่ปรึกษา รมว.แรงงาน ยืนยัน เลือกตั้งบอดร์ดประกันสังคม จดเลขใส่ฝ่ามือ-กระดาษแผ่นเล็กได้",
+      "summary": "ที่ปรึกษารัฐมนตรีแรงงานยืนยันว่าการเลือกตั้งคณะกรรมการประกันสังคมสามารถจดเลขใส่ฝ่ามือหรือกระดาษแผ่นเล็กได้ เพื่อความสะดวกในการลงคะแนน",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85OE1QU00xQUZ1aG5XOU1BZ1FmdjZtLU5tX0RSaG5fQmtaZldOTWRhS2hDYXZzRXNHVkZ0cE9jUWhHajIwSV80X3hRT1hMV0loc0hMTk51RlJVNVhMaGw0WTQ1UQ?oc=5",
+      "source": "khaosod.co.th",
+      "published_at": "2026-09-24T09:30:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข้อมูลเกี่ยวกับการดำเนินการประกันสังคม ไม่ใช่มาตรการสวัสดิการใหม่"
+    },
+    {
+      "id": "c5b78e8b",
+      "title": "บริษัทที่จ่ายเงินเดือนต่ำที่สุดนั้น จ่ายสูงกว่าอัตราค่าจ้างขั้นต่ำเฉลี่ยถึง 32%",
+      "summary": "บริษัทที่จ่ายเงินเดือนต่ำสุดจ่ายสูงกว่าอัตราค่าจ้างขั้นต่ำเฉลี่ย 32% แสดงการปรับเงินเดือนของแรงงาน",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdDNXakkwVm1lbTBYaU1DRGNlVXFLTS04ZHJYTk1RLWs3YnFSZDVHdlFDNFJ2RHd1bHZ0UWNIS2prUkIwZDFaLXRkbVpMWVdfYVFHbnlidVdMWGthS2EtREI0TUJrVzEzUUxTd09MVUdfc0NhZVhUcTdhX1pEQWJfaFVPLUUtaUM1cnJDdjVVZVM?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-24T09:11:13Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องค่าจ้างแรงงาน แต่ข้อมูลมาจากต่างประเทศ"
+    }
+  ]
+}
