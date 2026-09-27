@@ -1,0 +1,640 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T01:12:14Z",
+  "window": {
+    "from": "2026-09-25T23:09:39Z",
+    "to": "2026-09-27T01:09:39Z"
+  },
+  "stats": {
+    "fetched": 248,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 20559,
+    "ai_output_tokens": 15456,
+    "cost_thb": 3.57,
+    "runs": 1,
+    "kept": 41,
+    "eastern": 9,
+    "national": 32,
+    "new": 40,
+    "followups": 1,
+    "sources": 25
+  },
+  "items": [
+    {
+      "id": "1794ff11",
+      "title": "รัฐจุดพลุ 60/40 เฟส 2 ลดค่าครองชีพ-พยุง 26 ล้านคน เงินสะพัดกว่า 1.6 แสนล.",
+      "summary": "รัฐเปิดตัวโครงการ 60/40 เฟส 2 เพื่อลดค่าครองชีพและสนับสนุน 26 ล้านคน โดยมีเงินสะพัดกว่า 1.6 แสนล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeHhrakpQbUlBY1cxMk5zQmc1djdWOERLekN6RUZkMy01dmpRZ1N2TEdGcmctOW5XcWFQUmdSSTFscFdvTHJRRHdhRnM5c3pCT0NSeEJJVTFYZ1Q3VVE?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-26T05:43:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 95,
+      "why": "นโยบายสวัสดิการระดับชาติขนาดใหญ่ เงินจำนวนมากถึงประชาชนจำนวนมาก"
+    },
+    {
+      "id": "ea055771",
+      "title": "เงินช่วยชาวนาไร่ละ 1,000 อัปเดต เงินเข้าบัญชี ธ.ก.ส.",
+      "summary": "เงินช่วยเหลือชาวนาในอัตรา 1,000 บาทต่อไร่ได้เข้าบัญชีธนาคารเกษตรแล้ว เป็นมาตรการสนับสนุนรายได้เกษตรกรที่ประสบปัญหา",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56STJId0pyR1JQZ1FGY0c3RzI1WTQ3N2pEaUM5bEFXX1BPUEJ6T01fTERNd3JvNWdsT0pqZDZCakpJRFZXNG5pTFpn?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-26T21:07:34Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินสดถึงเกษตรกรโดยตรง มีจำนวนเฉพาะ"
+    },
+    {
+      "id": "6665b920",
+      "title": "เช็กเงื่อนไข-เอกสาร กทม. ขยายพื้นที่ภัยพิบัติครอบคลุม 50 เขต เปิดหลักเกณฑ์จ่ายเงินเยียวยาผู้ประสบอุทกภัย",
+      "summary": "กรุงเทพฯ ขยายพื้นที่ประกาศภัยพิบัติครอบคลุม 50 เขต เปิดหลักเกณฑ์และเอกสารที่จำเป็นสำหรับการขอเงินเยียวยาผู้ประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50bXdnejVURnl0TkFtSzRmOHp4dU83NThFNHZmeEFZVDl5WnZTT0JZSkEwVS0wQ3NPSmpBZDV5WTk1YzY1WGlEMUNTX3J1dGNsSTJ5OGhyekUyd3JVU0RjYmM0Yw?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-26T12:33:14Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาน้ำท่วมถึงผู้ประสบภัยโดยตรง"
+    },
+    {
+      "id": "40aa565a",
+      "title": "เช็กเกณฑ์เงินเยียวยาน้ำท่วม กทม. ขยายพื้นที่ภัยพิบัติครอบคลุม 50 เขต",
+      "summary": "กรุงเทพฯ ขยายพื้นที่ประกาศภัยพิบัติครอบคลุม 50 เขต และเปิดเกณฑ์เงินเยียวยาสำหรับผู้ประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WcndyMlB3TkdyMWx0OVJxNEg0dlNnNG1rbUswMjJwWTFyVzNqQUl1LWc2VVJQMjY1MFJSUzh2R1BneTFmdng5QWdRRkxZYUxrYTJOZWxVYkZDX3F3?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-26T12:21:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ขยายพื้นที่ภัยพิบัติและเงินเยียวยาถึงผู้ประสบภัย"
+    },
+    {
+      "id": "80cd1b3d",
+      "title": "น้ำท่วมกรุงเทพฯ บ้าน-ทรัพย์สินเสียหาย ขอเยียวยาได้เท่าไร? เช็กเงื่อนไขและวิธียื่น",
+      "summary": "กรุงเทพฯ เปิดหลักเกณฑ์และเงื่อนไขการขอเยียวยาเงินสำหรับผู้ประสบภัยน้ำท่วมที่เสียหายบ้านและทรัพย์สิน พร้อมแนวทางการยื่นคำขอ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BMU5hQlp0QTA2RGJqeFYxT29JOGhWSF9Nd29Lcm11YS1TVDNDTE5QQXZyQU1FQkRHUzNud2M3RERjNVhGZENZb3NUdWg?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-26T11:53:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาน้ำท่วมถึงผู้ประสบภัยโดยตรง"
+    },
+    {
+      "id": "3b97b696",
+      "title": "เลื่อนเลือกตั้งประกันสังคม เหตุน้ำท่วมในหลายพื้นที่ เคาะวันใหม่ 11 ต.ค.",
+      "summary": "ประกาศเลื่อนการเลือกตั้งประกันสังคมจากวันที่ 27 กันยายนเป็น 11 ตุลาคม 2569 เนื่องจากอุทกภัยในหลายพื้นที่กระทบต่อการใช้สิทธิผู้ประกันตน",
+      "url": "https://www.hfocus.org/content/2026/09/39649",
+      "source": "Hfocus",
+      "published_at": "2026-09-26T10:02:47Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การเลื่อนการเลือกตั้งประกันสังคมอย่างเป็นทางการ"
+    },
+    {
+      "id": "00990e1c",
+      "title": "‘เอกนิติ’ ชู ‘ไทยช่วยไทย พลัส’ เฟส 2 ช่วยลดค่าครองชีพ | The Reporters",
+      "summary": "เอกนิติโปรโมตโครงการ 'ไทยช่วยไทย พลัส' เฟส 2 เพื่อช่วยลดค่าครองชีพให้ประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wWHBydlM5OWp2YzBMZG16VlBsWTktckVzMEdWMnRyck9yMmdqLW9SN0NaUFc1SVFHbzV6TTU2a3FEVWxoY0E0c3h4RFFtZE8zUENjdm5R?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-26T08:04:39Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสวัสดิการระดับชาติเพื่อลดค่าครองชีพ แต่ไม่ระบุจำนวนเงินหรือผู้ได้รับประโยชน์"
+    },
+    {
+      "id": "ccec7513",
+      "title": "ธอส. ออก 7 มาตรการช่วยเหลือลูกค้าถูกน้ำท่วมเร่งด่วน ยื่นเรื่องได้ทันที",
+      "summary": "ธนาคารอาคารสงเคราะห์ (ธอส.) ออกมาตรการช่วยเหลือลูกค้าถูกน้ำท่วม 7 มาตรการ ได้แก่ พักชำระหนี้ ลดเงินงวด ลดดอกเบี้ย และเคลมสินไหมเร่งด่วน ยื่นเรื่องได้ทันที",
+      "url": "https://www.prachachat.net/finance/news-2072110",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-26T09:39:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการช่วยเหลือเงินกู้สำหรับผู้ประสบภัยน้ำท่วม"
+    },
+    {
+      "id": "388f10f8",
+      "title": "อย่าพลาดเด็ดขาด!! เผย 4 ขั้นตอน เก็บหลักฐานขอรับเงินเยียวยาน้ำท่วม",
+      "summary": "แนะนำ 4 ขั้นตอนการเก็บหลักฐานและเอกสารสำหรับการขอรับเงินเยียวยาน้ำท่วม เพื่อให้ผู้ประสบภัยได้รับเงินอุดหนุนอย่างถูกต้อง",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbEdaMDRhRDRJUDJZVVJDY1h0dEhBMDAyTnoxTGU2TmJJTTFVMDdmYlVZNnVUaElUcTZMSGtrNFRLVFBZTkhkYTVIb1JDYTVmbGJoN0g3ci1vbEtIa182enRNSndyS2E2VlpmSm1NZ09IVHktcEI0?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-26T15:27:57Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "แนวทางปฏิบัติการขอเงินเยียวยาน้ำท่วม"
+    },
+    {
+      "id": "82457183",
+      "title": "ผู้ว่าฯ ปทุม ประกาศ 90 ชุมชน อ.ธัญบุรี เป็นเขตภัยพิบัติน้ำท่วม เร่งเยียวยาด่วน",
+      "summary": "ผู้ว่าราชการจังหวัดปทุมธานีประกาศ 90 ชุมชนในอำเภอธัญบุรีเป็นเขตภัยพิบัติน้ำท่วม เร่งดำเนินการเยียวยาด่วน",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aakRJREViS2I5WWJ6R0h0dDZCc1l2dE1kLXQydjRXRGdJdTJzX0hnVGtDYUVZZ3NmdUlheWtLcVlVVi0zZUF5T0pPaXF3WWhMWU5jUDNpVTRJV041QUhkbDNqZG5MMXQwcmNFTkd5ZEk0VDZaZXRKZmY2NjQ?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-09-26T14:01:22Z",
+      "category": "disaster",
+      "provinces": [
+        "ปทุมธานี"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ประกาศเขตภัยพิบัติและเยียวยาผู้ประสบภัยในพื้นที่"
+    },
+    {
+      "id": "e85deec9",
+      "title": "เช็ก 7 มาตรการ ธอส.ช่วยเยียวยาน้ำท่วมปี 69: พักหนี้-ลดดอก 0% จ่ายสินไหมเร่งด่วน",
+      "summary": "ธนาคารอสม.เปิด 7 มาตรการช่วยเยียวยาผู้ประสบภัยน้ำท่วมปี 2569 ได้แก่ พักหนี้ ลดดอก 0% และจ่ายสินไหมเร่งด่วน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdU5WQndzSVRqY3BmOGFvQWJsUnpxQ0lsMVplQXdvZmR6R1E3ak5ZVVhUanVTWVp4TlhTeE5ZWVFmcFRHTnZwNHBSN0Y4UDBGUWpj?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-09-26T09:21:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการช่วยเหลือหนี้สำหรับผู้ประสบภัยน้ำท่วม"
+    },
+    {
+      "id": "dc01e866",
+      "title": "ประกันสังคมประกาศเลื่อนเลือกตั้งบอร์ดประกันสังคม ไปเป็น 11 ตุลาคมนี้",
+      "summary": "ประกันสังคมประกาศเลื่อนการเลือกตั้งบอร์ดประกันสังคมไปเป็นวันที่ 11 ตุลาคม 2569 เพื่อให้สมาชิกสามารถเข้าร่วมการเลือกตั้งได้อย่างปลอดภัย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wMkpIOWN3YU1GeTRDY2o0cUphSE9Ma1FMUWNEZm9PVzNNbWk4cXpXREFnR3lfaDJtT0Y1V28yRXoxQkdBdXFjZ2ltZ2VBdVRKN2JiS3AwSHh3S1Z1?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-26T09:38:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การเลื่อนเลือกตั้งบอร์ดประกันสังคมเนื่องจากภัยพิบัติ"
+    },
+    {
+      "id": "0bc622d5",
+      "title": "เลื่อนเลือกตั้งบอร์ดประกันสังคม เป็น 11 ต.ค.69 เหตุฝนตกหนัก-น้ำท่วม",
+      "summary": "ประกันสังคมประกาศเลื่อนการเลือกตั้งบอร์ดประกันสังคมเป็นวันที่ 11 ตุลาคม 2569 เนื่องจากสถานการณ์ฝนตกหนักและน้ำท่วมในหลายพื้นที่ของประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80RXo2bFo4TDl5VGdmQ2VHcU0xTVN0SnZlamV3cjYxSlV0N3ppYUhLRXNDdUFjcldTNmFpSUVFT1piTWpjOUJpbnEzaVZ2QmVrZ2hYM3dzZFE?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-26T09:20:18Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การเลื่อนเลือกตั้งบอร์ดประกันสังคมเนื่องจากภัยพิบัติ"
+    },
+    {
+      "id": "239eecc0",
+      "title": "ด่วน! มติเลื่อน ‘เลือกตั้งบอร์ดประกันสังคม’ ทั่วประเทศ เป็นวันที่ 11 ต.ค. เหตุน้ำท่วมหลายพื้นที่",
+      "summary": "ประกันสังคมประกาศเลื่อนการเลือกตั้งบอร์ดประกันสังคมทั่วประเทศ จากวันที่กำหนดไปเป็นวันที่ 11 ตุลาคม 2569 เนื่องจากสถานการณ์น้ำท่วมหลายพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcER4RDl5V1dodzhES29rTVktQV9wT3FIMFVzelhGUW85YkgtNlB1eUYyYXR6R2dUdjJCbjlJYkNrNVlRS1NWUUJsMzQ2WFUtZVJFU1JsQmVhV01abDlndWpwQU53aHpUSWc?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-26T09:08:39Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การเลื่อนเลือกตั้งบอร์ดประกันสังคมเกี่ยวข้องกับสถาบันสวัสดิการสังคม"
+    },
+    {
+      "id": "6e9aca27",
+      "title": "UPDATE: รมว.แรงงานบอกเลื่อนเลือกตั้งบอร์ดประกันสังคม หวั่นได้เปรียบเสียเปรียบ ป้องกันหีบบัตรพื้นที่อุทกภัยเสียหาย ยันเปิดโอกาสให้ทุกคนได้ใช้สิทธิ วันนี้ (26 กันยายน) จุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน โพสต์ข้อความผ่านเฟซบุ๊ก ระบุถึงสาเหตุการเลื่อนเลือกตั้งผู้แทนฝ่าย",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานอธิบายเหตุผลการเลื่อนเลือกตั้งบอร์ดประกันสังคมเพื่อป้องกันความได้เปรียบเสียเปรียบและเสียหายจากน้ำท่วม ยืนยันเปิดโอกาสให้ทุกคนใช้สิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxNQmVaNUpjNVlXNVJLQWw2N2dtVW5pOW1uWWY0c3pHRXY0X1h5LVZFRHV5MzdMRWdTbW1LN25BU2hNMHNOSWMyQVMwR3F0dVBqZXRvSENRRFRuT0M2U2h5bHUtZFdldHc5WHA0M2hzdE4zVjh1eEZCT2VfeGNibnRfMFdCeUwxaWhyb2xORThwdWRocm00anFqdUFGX2ZrSHZSUkFLNXZiWmZ4UGoxMDJ6aTlpZ3haVWhGZlV6TDRDX2R5M3BJRUd1LXI3WjFZeEQyeUVrUG9UeWo3OGp0TjJWbUFGWkEzaTN3Wkt1TG9BUGtfLVBWeDhpNjZURmlIQ2VBbGpSY3UwUzlUMmpyNGtQY1czamhDWmZzblNoaVhrWjVXdC1rX2pPOF92dGxyRGRUZHdBdkFDbC1VbkZ2TWtSS1FlOHdHSjNsUFhRR2RXWVpuUkp0UGZKbk9OMXFMUkoxV29kajBPdmp6S3c5em5PcDJvMnQ2M1EzdGFiZlJQdmVQXzJQYkREM2dxSjJONjBaZF9jdjFvUEwzSXh4akJYTF82RGs0THF2ekxKdUdqYThoN1A5NFRQSmRpUU1kUVNrUDBPVHg2LW9qQUJJMkVRaWRpV0ZxbjRpeGpLVWFXU1NLZ3RVeWt1NTZHSDdOSXRFNWIzTk1VdFdtTHBkY2VCMmdGTVRQOUt3Y3hZYUlRYmZ4TG9Ud29DWXg4bmFYWTJGaTJhaURwUE5feFYwc3llMHlrRFBJc0I0TDk0RTdkQWlPRkxVeVB3MmVWWEQ3VndzSGp4NjNwSjVGekhib3M5eE4ySFZNWGdHT3I5ajAxRnBFUjhsSThDV29xb3h6emdVdGR6OVNMclJMcjFnOVVtbzRWYXp3VHBDUlh2aEVtc3VHZXpvdzNjNS1xV3dmWmVySjhMNG9vRjN1QmsxYkd6SWtpcjdYQzZ2WFUwNGxtdXZzSzVSQnNuY0x4S2ZkaDVlMktVZ3pOTUpUUWV2VW8tdVNXa0VtNmM5VWlZYjVuV0RhTmdTSEZuLVVSMXdMMmZ0VVpEc2JrbjUyb1VwcDlFNUJmTjQ0bmhackFuaU9IR1RUaFhhZ01DNU00eFE3WDYzdXlIZmJuQnBIQndzRmJmUm12NVJTVHFRSVh0b2pQU3h5WUVzOEktdEpUZThaUTlvS2RHamhkNERzNHBXY21UeWZoTFdlUFFfOXNqdkhmRDVad3dUWDhSTE1aNHhzejFkVEhWcFQtTE9XeUswWnhZZnhVb0NQblN3ajh4alZNUktyTEVkSm5YNXVFMjV2XzI0?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-26T11:31:51Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "คำชี้แจงอย่างเป็นทางการจากรัฐมนตรี"
+    },
+    {
+      "id": "bb3eda48",
+      "title": "สปสช.แนะใช้ “สิทธิบัตรทอง” ช่วงน้ำท่วม เผย 2 หน่วยไตเทียมปิดชั่วคราว",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติแนะนำผู้ป่วยไตวายเรื้อรังใช้สิทธิบัตรทองในช่วงน้ำท่วม โดยมี 2 หน่วยไตเทียมปิดชั่วคราวจาก 35 หน่วย เมื่อ 26 กันยายน 2569",
+      "url": "https://www.hfocus.org/content/2026/09/39651",
+      "source": "Hfocus",
+      "published_at": "2026-09-26T11:21:27Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "มาตรการสนับสนุนสุขภาพผู้ป่วยในสถานการณ์ฉุกเฉิน"
+    },
+    {
+      "id": "767e13aa",
+      "title": "เลื่อนแล้ว! เลือกตั้งบอร์ดประกันสังคม จาก 27 ก.ย.เป็น 11 ต.ค. 69 เหตุสถานการณ์น้ำท่วมกระทบการใช้สิทธิ",
+      "summary": "เลื่อนการเลือกตั้งบอร์ดประกันสังคมจากวันที่ 27 กันยายนเป็น 11 ตุลาคม 2569 เนื่องจากสถานการณ์น้ำท่วมกระทบการใช้สิทธิของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUi1zcGcyMEtPRVk5SUp3Vy1JazItay1IWHlHSVJIeVpYTU1TNkoyMWhab0lVMzV6a2VoNjY3b2JxQ0FwWDluVHVCUmpqWk9BMGQ3a2tISlFtb0lLQXNXVQ?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-26T10:58:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เลื่อนการเลือกตั้งสำคัญของสถาบันประกันสังคม"
+    },
+    {
+      "id": "b2030fc9",
+      "title": "เลื่อนเลือกตั้งบอร์ดประกันสังคมทั่วประเทศ หลังน้ำท่วมกระทบการใช้สิทธิ กำหนดวันใหม่ 11 ต.ค. 2569",
+      "summary": "เลื่อนการเลือกตั้งบอร์ดประกันสังคมทั่วประเทศจากวันที่ 27 กันยายนเป็น 11 ตุลาคม 2569 เนื่องจากน้ำท่วมกระทบการใช้สิทธิของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpR1hKdjlTRVNDQS1wUWZmVGxzTFNsZE5XTUZjRVJEcGFULWQyTWxlRXBiN2UydGRWQml6TFdPT2RHeGJVbTE0ckgxOWhxaEF1bkVKTzQ0bWlBNTJUUHpma19R?oc=5",
+      "source": "The Momentum",
+      "published_at": "2026-09-26T10:10:09Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เลื่อนการเลือกตั้งสำคัญของสถาบันประกันสังคม"
+    },
+    {
+      "id": "80dc068c",
+      "title": "เลื่อนเลือกตั้งบอร์ดประกันสังคม ทั่วประเทศ เป็น 11 ต.ค. เหตุฝนตก-น้ำท่วมกระทบผู้ใช้สิทธิ | สวพ.FM91",
+      "summary": "เลื่อนการเลือกตั้งบอร์ดประกันสังคมทั่วประเทศจากวันที่ 27 กันยายนเป็น 11 ตุลาคม 2569 เนื่องจากสถานการณ์น้ำท่วมและฝนตกกระทบการใช้สิทธิของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JbTFoWThYNUpnZmtfNnZGUkFscHhBSEQ4d1hCMWN1cFRRWGo3QlJYdUtrM1RkWDRuMWg0a1BoNDJKZHFLQWEzOXFkdWwzaXRuZnBMa0pR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-26T10:08:06Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เลื่อนการเลือกตั้งสำคัญของสถาบันประกันสังคม"
+    },
+    {
+      "id": "ddf0bb8d",
+      "title": "เริ่มการก่อสร้างบ้าน 3 หลังสำหรับครัวเรือนยากจนและใกล้ยากจนในพื้นที่ทางตะวันออกของจังหวัดลำดง",
+      "summary": "เริ่มการก่อสร้างบ้าน 3 หลังสำหรับครัวเรือนยากจนและใกล้ยากจนในพื้นที่ทางตะวันออกของจังหวัดลำดง เพื่อให้ที่อยู่อาศัยที่เหมาะสม",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTBiVDdsVmpnOVBEM2d2OG9SaUhfUV9Va3JHejBKaGE2TVU3OVhFemwwZ2p2UDBvYW5hY1JvZFVsWTVXaWE4TXEzVHFxQi13emRiT2NBM1FOdTY3azJPN1ZJdmZOQ2pHaGh0WlBXbmN6TE1YM1lCeW9NYW1wSlBCbmFxTFJhSGVzcjBJc0tEMFJJTEczc2J3QnUzdUl3NEhR?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-26T09:40:56Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการสร้างบ้านสำหรับครัวเรือนยากจน"
+    },
+    {
+      "id": "079995b4",
+      "title": "POLITICS: ’สุชาติ‘ ลงพื้นที่ชลบุรี สั่ง ทส. ระดมกำลัง - เครื่องมือ เร่งช่วยผู้ประสบภัยน้ำท่วม ตั้งศูนย์บัญชาการส่วนหน้ารับมือสถานการณ์ วันนี้ (26 ก.ย. 69) นายสุชาติ ชมกลิ่น รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม พร้อมด้วยผู้ว่าราชการจังหวัดชลบุรี และหน่วยงานที่เกี่ยวข้อง",
+      "summary": "นายสุชาติ ชมกลิ่น รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม ลงพื้นที่ชลบุรี วันที่ 26 กันยายน 2569 สั่งการระดมกำลังและเครื่องมือช่วยผู้ประสบภัยน้ำท่วม ตั้งศูนย์บัญชาการส่วนหน้ารับมือสถานการณ์",
+      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOMnN3cGdMSnZ2b2Z0THNoczduOHFwWWpEaHdHVmQ4RzRLZ2s5cTZwWDlKSzhWeHRuaWYtdmxqLVVFYnUwd0ZsYThGRXdsQ0k4N0xqX2dpMG9IUzByMDFnU2Zsalp4NUJHVGNqMWVKM3dtNXdkUmZrS3czN0U0Y3c4ZWtseHNiNGNubDM1Wk5KT0lURWRteW5iTDJBXzdnQTBObFMzUGxJRDBkQVNyZHhtOUNWd2JOZUljR1l3dUtSek9mQ3laUkdOYUZnWS1YdmJYMi1QVEx5MjlNOUxHRzRETmp5ME1tcWx2S3Y4RGYzcWFmdjZXSHNzNG1kUXNGdkxyNC1HMlNXb3Q5YWd0T1hfdHBBN0RLNUdTNHU1NDdnMXI1X2tUMFgxOVUwR2cxS1ZJMGZ5V3ZtanllSkpDczljN2ljb1VUZnJ6aV9IT1Nfb0tVOEp6ZWRSMUU4SmxhZ3hUdy1kWGhxZ2JjOUhOODBMQS1NMktNLXlFYThoX05DejNxNFl0VWpOOW1qakNraXpsOU9uV1JCWjNOVlJTME1MSFlSSHVEc3VoUXFJNGNIQk15XzhxUERxcU1qdUNQSVEteWdLRi1Ic3JhRWE5LVU4MVJsV3pSQ0YzdE4tbkhRMGlOQThZTlNpNGNDOFRVTFNRUERtQy1Qd25OTGJ0T2Y4UHAzOElSZjhERk9uemU2VWhmaU5zUGNMN0hZMHNyTUdUc1puSXNxd0VNR0wzSEFySWxXY0xGTEdLWXlQckZDdkFQd2lrZ19tY1NWTWtzX3RQLW9NWFo3Z2xQb3BlZVpSdDMyZ1piSG4yRzZmeWp5cS1UVEoweXBqMzFKblJNQmxEOEk4dXNuVnh5M2MxVDdEcHc4REJpSW13OHVzeXJLc3M4aHFHNG5jNm9xOEo2TlRFa1Q5QXV5UGcwRklkYkxQa1dGTTYzQmJqVWk5bmpvcnFEM1ZMcjFqRjhUbk40b3Q3YUxWNU93NHVrVVpRMk5uaWMzSUlMck50MmZUS3AwODJydzlPV0pNY2tIWnlrRjdRQjFTNF9uSERod2FfQXd5MUxPSWV4WUw0elJvSjhyalZ0ODVpeTlJcU5BTGtNLVlDX0tMOF9fQ1dhcnFHa0std2wyWjBwSnA4Z0hKaENDd3NvZnp4cTQwYWtoR2xfVEVKMXFUdkd2RFF3a1V0bVdtY3B2WjBVdVg0Y292d1RtOFFIZw?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-26T08:25:12Z",
+      "category": "disaster",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือผู้ประสบภัยน้ำท่วมระดับจังหวัด"
+    },
+    {
+      "id": "fd4c61fe",
+      "title": "“กองทัพบก ลงพื้นที่ ช่วยเหลือประชาชนจากเหตุอุทกภัยในพื้นที่ จ.ชลบุรี”",
+      "summary": "กองทัพบกลงพื้นที่ชลบุรีให้ความช่วยเหลือประชาชนที่ประสบเหตุอุทกภัย ดำเนินการกู้ภัยและบรรเทาทุกข์",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVRUlSYndHbXIyd1ppd0ZFa0plQlRBMElvTHN5LTF3aklIRW96UmdCMFhGUm80cDNIYzVodnZEdjNDcHBZTmI4WkFSNS01cDVpMG5OWXBZc2ZxOV9kVFBlYTZSNkpDUjFxVnRQN203VzY3dU0?oc=5",
+      "source": "กรมประชาสัมพันธ์",
+      "published_at": "2026-09-25T23:30:08Z",
+      "category": "disaster",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "การช่วยเหลือจากภัยพิบัติในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "317b02f1",
+      "title": "สระแก้ววิกฤต! น้ำท่วมหนัก อบจ.-ทหาร-กู้ภัย-ชาวบ้าน เร่งช่วยประชาชน-พระสงฆ์ รถจมน้ำ",
+      "summary": "จังหวัดสระแก้วประสบภัยน้ำท่วมหนัก องค์การบริหารส่วนจังหวัด ทหาร กู้ภัย และชาวบ้านเร่งช่วยประชาชนและพระสงฆ์ รถจมน้ำหลายคัน",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iWjBUQ1Zlc2t0WVBUSnQ5UzU4SjBhQl9oWVVaVUJXMkQ0UDFCSUNHOVRrVXQ1ZS05cmw1WUFDakxiUWFDeXdyY2hxT05hay1MSmdPMFI2UUZ6N2tVS28xLXZwWDRrOFgy?oc=5",
+      "source": "77 ข่าวเด็ด",
+      "published_at": "2026-09-26T09:40:39Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 72,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วมในจังหวัดสระแก้ว"
+    },
+    {
+      "id": "6160a3ad",
+      "title": "กรมก่อสร้างได้ตรวจสอบโครงการที่อยู่อาศัยเพื่อสังคมจำนวน 17 โครงการ",
+      "summary": "กรมก่อสร้างตรวจสอบโครงการที่อยู่อาศัยเพื่อสังคม จำนวน 17 โครงการ เพื่อให้มั่นใจว่าเป็นไปตามมาตรฐานและสามารถให้บริการแก่ประชาชนได้อย่างมีประสิทธิภาพ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MMFBKdmp1UUpWcjJOY1ppaDhiTHhEWVZKWjE4OEdCTlozTmowVk5ZUlEyajBMMWNTb3R6NHBRN0hmb1dQRURHd2dKbTFHcUVoQ3RBcndLRm5wYllNVmo5aTJiLXBsQW1RckUxVGZxbXNHbDlRS1RJ?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-26T08:41:54Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "โครงการที่อยู่อาศัยเพื่อสังคมสำหรับประชาชนรายได้น้อย"
+    },
+    {
+      "id": "4cc76dac",
+      "title": "น้ำท่วมไปทำงานไม่ได้ \"ประกันสังคม\" ช่วยได้จริงไหม? เช็กเงื่อนไข ใครบ้างมีสิทธิได้เงินชดเชย",
+      "summary": "อธิบายเงื่อนไขและสิทธิการได้รับเงินชดเชยจากประกันสังคมสำหรับผู้ประกันตนที่ไม่สามารถไปทำงานได้เนื่องจากน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZdFk1NklqeWJsRVFLSHNPYUlIZ1FhbGJ4VkpPYy1WOEFJa3d4MXFNRUhHcWpZdnRtWXVVYlFDTjZMYTBZN0NkSHNUcGQ?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-09-26T12:59:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เงินชดเชยจากประกันสังคมสำหรับผู้ประสบภัย"
+    },
+    {
+      "id": "df1b344d",
+      "title": "มทบ.19 เร่งช่วยประชาชน จ.สระแก้ว ขนย้ายสิ่งของ-อพยพกลุ่มเปราะบาง รับมือเหตุน้ำท่วม",
+      "summary": "กองทัพบกสถาบันที่ 19 เร่งช่วยประชาชนจังหวัดสระแก้วโดยขนย้ายสิ่งของและอพยพกลุ่มเปราะบางรับมือเหตุน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GUlN0RDc0VHRzaFVTcjY2aUExakFObnRDZVVvd21iT1k2OWlwMG9CMlBSeTVtbUNMQThvU2NyX3dZRndVTURLcUFIbmRIT1FZbWN5aXpRV3phM1FlV3M5UVh3b0JibFFzVVpPOHZMa3ZNb3M?oc=5",
+      "source": "กรมประชาสัมพันธ์",
+      "published_at": "2026-09-26T08:18:01Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 70,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วมกลุ่มเปราะบาง"
+    },
+    {
+      "id": "32455ae2",
+      "title": "หลายฝ่ายเรียกร้อง ก.แรงงานเลื่อนเลือกตั้งบอร์ดประกันสังคม 27 ก.ย. ชี้วิกฤตน้ำท่วมกระทบสิทธิผู้ประกันตน",
+      "summary": "หลายฝ่ายเรียกร้องให้กระทรวงแรงงานเลื่อนการเลือกตั้งบอร์ดประกันสังคมเนื่องจากวิกฤตน้ำท่วมกระทบต่อสิทธิผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VMDFIdjBlaU9kRU9FNDZFSGJtcEU3N2FMTktIZEhjVGxybmZ5cnBKZ2J3TU9XVElBR2tRZjZJeFJGa2stQTQ1YmY0TXBjNlJiaWZZSzNrNkJlaENYako3eW0wVWw5NHZhMUpfNXRpVDhJa1pwQ2JwaGZn?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-09-26T05:33:27Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เรื่องประกันสังคมที่เกี่ยวข้องกับสิทธิผู้ประกันตน"
+    },
+    {
+      "id": "a6e199a2",
+      "title": "ไม่ใช่มหาอุทกภัย? ทีมงานผู้ใหญ่บ้านแก่งหางแมว จันทบุรี ไม่ทิ้งลูกบ้านบุกให้ความช่วยเหลือ วันที่ 25 กันยายน 2569 มีการเผยแพร่ภาพสถานการณ์น้ำหลากในพื้นที่ กลุ่มบ้านเมธา ซอยเขาฆ้อง ต.พวา อ.แก่งหางแมว จ.จันทบุรี หลังฝนตกหนักสะสมตลอดทั้งคืน ส่งผลให้มวลน้ำไหลเข้าท่วมพื้นที่",
+      "summary": "ผู้ใหญ่บ้านแก่งหางแมว จันทบุรี ให้ความช่วยเหลือประชาชนในพื้นที่บ้านเมธา หลังน้ำท่วมจากฝนตกหนักในคืนที่ 25 กันยายน",
+      "url": "https://news.google.com/rss/articles/CBMiighBVV95cUxQWlFuZ0l4V2l1RWFKLVhqOVVWUU5DaUdHX2FqMzMydkpxOThkcl9LSmZtY2lrX05TaHpScWJ6WU12d3pPT0hPUmlaVmhmOWdiaTlQOWxMdlVrek16Q2RYdFV2Vnp6TUlTYXMyWHA1NXByN2p3VGRCYlpJWFdRbnRHWUJCc0JNNDBDTHFWOHl6c3dmV2FBYWhxUmdkUUxTd3pTeHV0V0pfZEhQMFJHSDJtRTMxejZ2dFpZWjlDR1pfa0JCNzZjZlZFWmlqNHJkN0JRaHJsUG9sVi0yd0hVS3kxam1wMXRNSW5YYnN3UzBlVTlPajc3dzJTR1VLbUd2QU9mdGNMSjlRWmFhbzYxdXRoOE1LTmJ5aGtLazBHRUVsVHJPS1J6bGtmRjhFekZ0azFSZU1DYWdlcGFQS2RVaWdJTHdrc0ZYSmZDbTNRWWVBdHF1dFNQVWxBMF9lQnZPUkt0di11QUFlSXgtdmZsWllpalhyNnVzY3hGVG00Snl1X194elJkdjJZQ2JCVVI2U1pZVk5WSENPVlR6LUlUQzg4MnVyQWNzdV9tWGJRSlFKcmRXNTgwUUttSkd1NTRadDc0ZG1PSHB4N1B5TENLSlhuOUJPemNQV1Y1UVRVVVA3UGVDOTVyRkF1YWVOS0NRZVhjTWZZQzJQemdiWXloWm9rdTkydXRfWFpoWFJidUFiVzY0akt5clhiNmU1aGNUNGtJRFRsZTA3WWpWYkJ1cVNxN1ZLb0hYU1lCUW1ZT1lIdmhNMVQ2eUpOVG15djNtWkFac2cwSXRoU0lBRlBFRXpXMVBuTHJrWnVwRkZ2V0NYU05zRkpOLTIxZzRMX1Jtdm9RbWRmNXRHX0Rpaml1SGs5UDZITEJpQWJnbGpXOG1EWFlFV0xqMkVSSGpqTS1DQUZLODRPWlJmV3oyUURtdFZoUGJMeDFfZHpKMW92VktNVkE2aUZvWjJFVDhZdUJNSnA2NVRYbjFxeS1CRTV5SGhLellkM0xUdTMwakFyLUs0d2xXMWI3RjQ2U21mQlpsS3RVNWIwLXFCeE1pTS01czV5T3pYMTF1ZXhQTVIxdk9aUkJGNDFwTzlPYjJLQXRMM1JfbElackNHRllJNWkzVjdOeW5tTXZkVzdNempZaEFhZzZScWl4OGF3SlExdnV1X2o3LTdBaHgyWS1BdE40V3lzS1k2bXhjSGp0dDhsbjZzNTQ4by05b2hYMlQxZVNTX3NDVkFBdHpvb3R0NF9CdmMzdVZLTzRzdUI0VUVLTUxiQ3ZhNlhxUUFCclpUclphTkxPbDNHOFpydXhOTTY4a0xSaTBzb2c2ZzYxbk5CVDhBQzJBYTdqb0dJYkk2UHhaU1ZaNkoyQ1ZmZkVfUQ?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-26T02:00:04Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 70,
+      "why": "การช่วยเหลือภัยพิบัติในระดับท้องถิ่น"
+    },
+    {
+      "id": "c3e95d1c",
+      "title": "We Watch เรียกร้องเลื่อนเลือกตั้งบอร์ดประกันสังคมทั้งประเทศ เนื่องจากสถานการณ์อุทกภัย",
+      "summary": "องค์กร We Watch เรียกร้องให้เลื่อนการเลือกตั้งบอร์ดประกันสังคมทั่วประเทศ เนื่องจากสถานการณ์อุทกภัยที่เกิดขึ้นในหลายพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ybE5fN3FLX1FiRTJkQTBBbXV6M2ZGdTZWNDB5YVNzM21yVlRmdE5YRkJDM3dlazdBR1JxY1VXVlJkeG1paEJMMDJUMjdYVHlPdTdvZDNBdw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-09-26T09:13:35Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เรียกร้องเลื่อนเลือกตั้งบอร์ดประกันสังคมเนื่องจากภัยพิบัติ"
+    },
+    {
+      "id": "d3eccaa0",
+      "title": "กะเทาะเปลือกดราม่า กยศ. รัฐบาลถมเงินอุดหนุนไม่พอ หรือปัญหาระบบบริหารจัดการเงินกู้?",
+      "summary": "วิเคราะห์ปัญหาการบริหารจัดการเงินกู้ของกยศ.ส. ว่าเป็นเรื่องเงินอุดหนุนจากรัฐบาลไม่เพียงพอหรือปัญหาระบบบริหารจัดการเงินกู้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WRzNndXVrcTRtSktPRjRzZzY4YkQ4OGl5Y3Q0YVRfVlE3WnczTmJGRy1BSDNFbTdaRldFRktpSDFueS1GTFF4SFpjUElJU0tDN3JGR2JR?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-26T14:10:40Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับเงินอุดหนุนการศึกษาแต่เป็นการวิเคราะห์"
+    },
+    {
+      "id": "2177d73e",
+      "title": "ประกันตีโจทย์ Longevity แก้ปมคนไทยสูงวัย เงินหมดก่อนชีวิต",
+      "summary": "บทความวิเคราะห์เกี่ยวกับประกันตีโจทย์ Longevity เพื่อแก้ปัญหาคนไทยสูงวัยที่เงินหมดก่อนชีวิต ในบริบทที่ประเทศไทยเข้าสู่สังคมผู้สูงอายุอย่างสมบูรณ์",
+      "url": "https://www.prachachat.net/finance/news-2071202",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-09-26T08:56:06Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับความมั่นคงทางการเงินของผู้สูงอายุ แต่เป็นมุมมองธุรกิจ"
+    },
+    {
+      "id": "ff505ed2",
+      "title": "ทหาร มทบ.19 เร่งช่วยชาวสระแก้ว ขนของหนีน้ำท่วม",
+      "summary": "ทหารมทบ.19 เร่งช่วยเหลือชาวสระแก้วที่ประสบน้ำท่วม โดยขนย้ายสิ่งของให้ประชาชนหนีน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrUHRVSXlrSXY0cndsU0N1bzVZN3pkYlpsWGZMeWJiWGtmdHRySWEtbFp4ZGFIQjRja3pZUUFOMUNmZlFmalNMTnF5RXZJOGJOX3NRQUlR?oc=5",
+      "source": "TrueID",
+      "published_at": "2026-09-26T05:19:00Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 65,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วม แต่ไม่ระบุจำนวนเงินหรือมาตรการสวัสดิการเฉพาะ"
+    },
+    {
+      "id": "f46a4c3c",
+      "title": "สปสช. ยกระดับ ‘อปสข.-อคม.’ เชื่อมนโยบาย ‘บัตรทอง’ สู่บริการคุณภาพใกล้ ปชช.",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติยกระดับการบริการตามนโยบายบัตรทองผ่านการเชื่อมโยงระหว่างหน่วยงานเพื่อให้บริการคุณภาพใกล้ชิดประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DNlZybjJ6aEIzMHoxRzZ3Z0gtR1lFTFdTaGxjVWtEVzJ5TlFfcmFTTkMzMWtTUkhoSnRkNW12MlZ2OVk3Y2FjeHM5YTh1Q1cwLVJZTnZKNWIwb0k?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-26T04:39:09Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "นโยบายเชื่อมโยงบัตรทองแต่ไม่มีรายละเอียดเฉพาะ"
+    },
+    {
+      "id": "b0e88ee8",
+      "title": "นิกร โสมกลาง ลงพื้นที่เกาะลันตา หนุนคุ้มครองวิถีชีวิตกลุ่มชาติพันธุ์ ยกระดับคุณภาพชีวิตชาวเล",
+      "summary": "นิกร โสมกลาง ลงพื้นที่เกาะลันตาเพื่อสนับสนุนการคุ้มครองวิถีชีวิตกลุ่มชาติพันธุ์และยกระดับคุณภาพชีวิตชาวเล",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tVC14QURudzlXdEl3UGtPcFBBNVpReGw2b21hLXFna1dDYk9MUEFBSmlXeTY3aXN2ZExuLUh1dndWczAyaG9sbk9CN2hieVBQcHRnbWVpNFZDbDZ1ZkRibWI1eWljdw?oc=5",
+      "source": "thaipost.net",
+      "published_at": "2026-09-26T02:00:09Z",
+      "category": "other",
+      "provinces": [
+        "กระบี่"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการยกระดับคุณภาพชีวิตกลุ่มชนรายได้น้อย"
+    },
+    {
+      "id": "f86500a1",
+      "title": "ตำรวจจังหวัดลำดงกำลังให้ความช่วยเหลือในการก่อสร้างบ้านสำหรับครัวเรือนยากจนและผู้มีรายได้น้อยในตำบลถ่วนอัน",
+      "summary": "ตำรวจจังหวัดลำดงให้ความช่วยเหลือในการก่อสร้างบ้านสำหรับครัวเรือนยากจนและผู้มีรายได้น้อยในตำบลถ่วนอัน",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0JUaVVHMTdxNjZ5cGxPMm5xanpldzRvclBweXpNR1dpdGtWYzJQOGFHUEI2ZHlTQnB3Uzd2dzJLazE0ajBfVnFsRlhMaEUyeUQtbExDcndKcmZybzlZUmRON1dFNTJacHBWSWpjOXhKdjFDWE5GYkctOHFNMFR4dzRJY1lGWnhZa2o2dlUxRHUtQTV6enk0bmFpWFlLNTM4cmxWdVgxVTZvdw?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-26T09:40:56Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "โครงการสนับสนุนที่อยู่อาศัยแต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "cc356375",
+      "title": "สระแก้วอ่วม! น้ำท่วมเมืองสูงเกือบ 1 เมตร ทหาร-กู้ภัยเร่งอพยพชาว",
+      "summary": "สระแก้วประสบน้ำท่วมสูงเกือบ 1 เมตร ทหารและหน่วยกู้ภัยเร่งอพยพประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Td0VneXlXWjVMZlAxMUZXeXE2cTh0blc0SElobTFsWHZ6cUIwazlNdTdQcDBHNkx5NG5DY3NfVjlMLXVfN1AycldULW9PODM0NWZScHJXUDFzeWtUdVE?oc=5",
+      "source": "tnews.co.th",
+      "published_at": "2026-09-26T06:09:00Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วม แต่ไม่มีรายละเอียดมาตรการสวัสดิการ"
+    },
+    {
+      "id": "cdaae17f",
+      "title": "กัน จอมพลัง ระดมทีมกู้ภัยบุกสระแก้ว เปิดรับแจ้งเหตุพื้นที่ใกล้เคียง พร้อมส่งทีมช่วยทั",
+      "summary": "กัน จอมพลัง ระดมทีมกู้ภัยในสระแก้ว เปิดรับแจ้งเหตุและให้ความช่วยเหลือประชาชนในพื้นที่ใกล้เคียง",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHeHNnaDE1ZVVjVHNPcE5lZnc2WUtTaHBKX3VMSFdMajB0ZjdmWGVQemR2MDhyWHYway15ZVhvMjRjQk96UExXaGZBMlVRTlZmMHZSMTF3?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-26T04:32:13Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "การช่วยเหลือภัยพิบัติในระดับท้องถิ่น"
+    },
+    {
+      "id": "d5a91a85",
+      "title": "สปส.เร่งประเมินน้ำท่วม เล็งเลื่อน-ย้ายจุดเลือกตั้งบอร์ดประกันสังคม",
+      "summary": "สปส. ประเมินความเสียหายจากน้ำท่วม และพิจารณาเลื่อนหรือย้ายจุดเลือกตั้งบอร์ดประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yb2hQc0wyTTRFYWlQSzI5ekxsN1ZnN2FIOVBGZUhhMU01eksxR3ZGVW85aERGa1ZjZ3pnTVpxMzd3YkFDS1E2bm11SFVHMHpYeXFEeWJNRUczSkZB?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-26T05:21:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับการช่วยเหลือภัยน้ำท่วม แต่เนื้อหาหลักเป็นการจัดการเลือกตั้ง"
+    },
+    {
+      "id": "8cc67625",
+      "title": "'เอกนิติ' นัดถก กยศ. บ่ายนี้ หารือแผนแก้ไข หลัง 'คลัง' จ่อดึงงบกลางขยายสิทธิ์นักเรียนขอกู้",
+      "summary": "รัฐมนตรีว่าการกระทรวงการอุดมศึกษานัดประชุมกับสำนักงานสภาสถาบันอุดมศึกษาเพื่อหารือแผนแก้ไขหลังจากสำนักงบประมาณจะดึงงบกลางขยายสิทธิ์นักเรียนขอกู้",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jbkdjaDBqeGZfSmI3ZFpFSktfSDU4YUFUVlhIZW9YSXVBZ2dwOFQwRWRCY2NBUWk0ZzBZSl9sdHZXbklBQ19YSnNrejJrUFgzT1JwaEJLVXBGSE0w?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-26T02:28:17Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข่าวการประชุมหารือ ยังไม่มีการตัดสินใจสุดท้าย",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "bdf5e7b7",
+      "title": "นาทีชีวิต! น้ำทะลักบ้าน-ไฟดับ “ยายวัย 94” ผู้ป่วยติดเตียง กู้ภัยฝ่าสายฝนเร่งย้ายหนีน้ำ",
+      "summary": "หน่วยกู้ภัยเร่งอพยพผู้สูงอายุวัย 94 ปี ผู้ป่วยติดเตียง ที่ประสบน้ำท่วมและไฟดับ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JdkNWdHdiU1NXNDFfeFAxYTE3eWlobnNkM0tFaS1lelk2R2hLSHVXZjMwdzlpcF9qeTc5NTFxVXdDZC1nRG9uUmJZbWRhNmM?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-09-26T06:14:46Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วม โดยเฉพาะผู้สูงอายุ แต่เป็นเรื่องเดี่ยว"
+    },
+    {
+      "id": "89724676",
+      "title": "น้ำไหลบ่า ทะลักท่วม การเคหะสระบุรี 2 จ.สระบุรี",
+      "summary": "น้ำไหลบ่าทะลักท่วมการเคหะสระบุรี 2 ในจังหวัดสระบุรี",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14aUxGSURNWWJwdFdNd2QtZE9rLUtiNzZ3cHdPX2I3emZLZi1DYnAyc1ByX09tRHpxeU5iN2twdTQwR0NVQnQ0?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-26T07:04:24Z",
+      "category": "disaster",
+      "provinces": [
+        "สระบุรี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข่าวน้ำท่วมที่อาจส่งผลต่อผู้อยู่อาศัยรายได้น้อย แต่ไม่มีรายละเอียดมาตรการช่วยเหลือ"
+    }
+  ]
+}
