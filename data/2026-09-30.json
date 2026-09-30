@@ -1,0 +1,869 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T01:13:50Z",
+  "window": {
+    "from": "2026-09-28T23:11:38Z",
+    "to": "2026-09-30T01:11:38Z"
+  },
+  "stats": {
+    "fetched": 318,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 20499,
+    "ai_output_tokens": 15636,
+    "cost_thb": 3.6,
+    "runs": 1,
+    "kept": 56,
+    "eastern": 0,
+    "national": 56,
+    "new": 51,
+    "followups": 5,
+    "sources": 31
+  },
+  "items": [
+    {
+      "id": "b7eec0b7",
+      "title": "จับตา! \"บัตรสวัสดิการแห่งรัฐ 69\" คลังชง ครม. เคาะผู้ผ่านเกณฑ์กว่า 11.22 ล้านคน วันนี้",
+      "summary": "จับตา! \"บัตรสวัสดิการแห่งรัฐ 69\" คลังชง ครม. เคาะผู้ผ่านเกณฑ์กว่า 11.22 ล้านคน วันนี้ sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5enpwNVltcS1iTjVDZ2xVdjdDbXBtR2NPbGppQ1NCZmUtZk83dEZMQlU2QVZBaXl3R3hqQWRJeDI5UVZVZ18yZjM5RkU?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T06:39:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 100,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "179649a9",
+      "title": "คลังเตรียมชงผลคัดกรองบัตรสวัสดิการแห่งรัฐ ปี 69 เข้า ครม.วันนี้ เผยคนผ่านเกณฑ์ 11.22 ล้านคน",
+      "summary": "คลังเตรียมชงผลคัดกรองบัตรสวัสดิการแห่งรัฐ ปี 69 เข้า ครม.วันนี้ เผยคนผ่านเกณฑ์ 11.22 ล้านคน thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNFNwazFPU2N1UDVaeUF3aTJQMklPbVVMaHR0SmIzVlhPaTJucE9qbDFRTDdQQ1Y2Ym5EU0t5T1lMZHM0ZDZWaTVpRmNkMGRad0h3d2h4Q3RDN1U?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-09-29T02:14:48Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 100,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a519eac4",
+      "title": "ครม.เคาะแล้ว! งบกลางปี 69 วงเงิน 2 พันล้าน เยียวยาน้ำท่วม . ที่ประชุมคณะรัฐมนตรีวันนี้ มีมติอนุมัติงบกลางฉุกเฉิน ปี 2569 วงเงิน 2,000 ล้านบาท เพื่อใช้บรรเทาความเดือดร้อนให้กับประชาชนที่ได้รับผลกระทบจากสถานการณ์ฝนตกหนักและน้ำท่วมขัง . งบดังกล่าวจัดสรรเพื่อรองรับสถานการณ์ใ",
+      "summary": "คณะรัฐมนตรีอนุมัติงบกลางฉุกเฉินปี 2569 วงเงิน 2,000 ล้านบาท เพื่อบรรเทาความเดือดร้อนประชาชนผู้ได้รับผลกระทบจากฝนตกหนักและน้ำท่วมขัง",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxOOFBXcmZHQng5bUYxSnNhNURMSGJpSWFwSFdzelNFd3I3Qk1jako1cjdYdkhoUlBKZEgtMjZyT1FmUmVzdlpNVEhkUVBHS05UcWxwdU9jWWx5UUNDWUxCRU5aMU9TZDVXeHUzOE1VdkRuNFplM3hFQ0FTZnEtRkh2VDFKd3FFR2ttSjltSTBnX1RzQW1sQTRnOXZ5VWFrZzNodVluaTRrbDlNTVNEOGQ1RDdMalNrajF0bER2X2RYZ2RET3Fsc05fRmxrV0Q4UnM5TlQyZXZ3cnI4Zm96bHlMU3lZN21IUXZLc0MzNlRTMWJFeVJiUnFMRlA2OTRPUEVDNDI1VkRpM1ZIWFlIN1JrNlUyd2pMN3dUN3BwbnhkQ0p3Z1oyTkJpdy14Q0hqMG1qalJmZkNGd21Ga3lzbm1hYXVxT3hoTVRZUzU4RTIzZlppRk5BdlpnNDZ3R21GTTJ4YWJSTEd0U3d2ZlFQM09XR0h0bFRmTkVITEpheFZUOWdFWk5GV1RFRk9ZdE9lOUZjR2JLMEl6VmRiYWo2OUY4V3VfYjhhUTR1Yk9zdjhVNEg2bWd4QlJ0QVdsOHljbXFZcDI0aVc5TW1lQ0oxOE5GMHFWMFZoVmhHM2xiV3p2MlFJbkd4S2dSM3d0dVZMS19IUnJSRUVzOXJsMVNVaTFMVlZ1UWJaMkZZR0txVi1BRWxGWGhGUHpXNUxfUDQteUNCRS11TXluTG5uWEF5OGpoSHVNNFdjNXlPcjIxRThld2RxMllRNmFJUnhfclFuemJzM2oxc1hvM0JzMGhLdkwwaGE4Y0lyRmJGeVEzWFdjY3cyM193TURPZVBTRmFsZmYyQlprb3ktc292bkVwbENIRUxfX1VpS29reWlVTnRzV2pKV25MRXVOY2JCSHR3VzhOY25pNkNhaHBmZm1UME9rMlRLTXV4eEgtNFRKblV1TFlfN1BDaTc4SHRtMUtMRmk2MTRZOV9QQW1BVmRZYUVrVVpZX2tSOVVBWU83am9fMk1OY2l5YkdpeUJ2Nk1KZFB6RUtTeEpQek1uVWdTdUs0MWRId3JWZ3Z2UTlxVTBvOUNKUVZvMlRGbXdJb2FNcE1fN0NBQk5BTW1ub2N3UmJPOGhQcHNUQnZ1WGRDalVaS3g5RURMQk9zTm5FV1NXbWR6Q2JiVkZfa3NWV1lBZjR4X0J4NUg1QjlRRm9IQncxVkdRREZvZ2hxUURoRkdKRjc0MWdTLU15T252a2RvU1AzTDdJZ29mMUlHVXBLRFhvV1VqWDBGZTVvU2JfOVllUEpU?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29T06:06:54Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "มติครม.ชัดเจน จำนวนเงินและวัตถุประสงค์ระบุไว้"
+    },
+    {
+      "id": "70332b65",
+      "title": "คลังชงครม.คัดเข้ม บัตรคนจน 11.22 ล้านคนผ่าน 7.6 ล้านคนไม่ผ่าน",
+      "summary": "กระทรวงการคลังเสนอครม. ผลคัดกรองบัตรคนจน ปี 2569 ผ่านเกณฑ์ 11.22 ล้านคน ไม่ผ่าน 7.6 ล้านคน มีเงื่อนไขรถและบ้านสูงสุด",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yazZUcmhVaDFReXluNTVXTHlUWHJkc2hxTFZMbDhqaVl5a3dyWU1zNjZsWXp5MFpDSUVBMC04b2kyMGM0VGxmb01PU2RTTWlVUGl3TThEMVRwZzNGQ2c?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-29T01:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายหลักเกี่ยวกับบัตรคนจน ตัวเลขเฉพาะ ส่งครม."
+    },
+    {
+      "id": "4c10262b",
+      "title": "คลัง ชงผลคัดกรองบัตรสวัสดิการฯ ปี 69 เข้า ครม. พบผ่าน 11.22 ล้านราย ไม่ผ่าน 7.6 ล้านราย",
+      "summary": "คลังเสนอครม. ผลคัดกรองบัตรสวัสดิการแห่งรัฐ ปี 2569 ผ่านเกณฑ์ 11.22 ล้านราย ไม่ผ่าน 7.6 ล้านราย",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53bkJNeFR5QmQ4akxEUzJsMm4zaXJKMXBkb3JRcDF4aGJZNS1ucWVvSzAzajBzYjc3T2wyVFFpYnJON3l3czI5T2pua3dETEM1OXM2Tkl3Q19jaDQwUlhrT2lR?oc=5",
+      "source": "efin.finance",
+      "published_at": "2026-09-29T04:09:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 91,
+      "why": "นโยบายบัตรสวัสดิการระดับชาติ ตัวเลขเฉพาะ เข้าครม."
+    },
+    {
+      "id": "e435e3fd",
+      "title": "วิธียืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 กลุ่มทบทวนสิทธิทำตามนี้",
+      "summary": "วิธียืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 กลุ่มทบทวนสิทธิทำตามนี้ sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XN1dheU1oRUFrbWJaZV9QbGF5NjYtd0dGcF9zUTFmbmkxejdUQjhxUmVFc29tRGZaSGNlUzRsT19pMUhqNGpmMy1IYW4?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-30T00:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "9453edf0",
+      "title": "เช็กด่วน! ประกาศผล รอบทบทวนสิทธิ \"บัตรสวัสดิการแห่งรัฐ 2569\"",
+      "summary": "เช็กด่วน! ประกาศผล รอบทบทวนสิทธิ \"บัตรสวัสดิการแห่งรัฐ 2569\" komchadluek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUk9zV0hNTzZRbzZTSVF2WkpzQkJ0OW0yVDFzYTZFelZsODdWVDNFR09NRmFSUFBacWxyRkFVN1RTbVZTVFhLNWZzcmRTV01tRm9qci03dWZLVlhU?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-09-29T23:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1526278c",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เช็คสิทธิ์รายชื่อคนผ่าน-ไม่ผ่าน เช้าวันนี้ 30 ก.ย. 69",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 เช็คสิทธิ์รายชื่อคนผ่าน-ไม่ผ่าน เช้าวันนี้ 30 ก.ย. 69 sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VRldTRE5jQTBZXy10RUhBUnVpU0NqUkRhOFowWXdTMWw1YkdhVTY5eUpjdTF2ZTdRYWh2czRsOV9heHdlMlNXZEY5M04?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T21:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "59691c5f",
+      "title": "เตรียมประกาศผล \"บัตรสวัสดิการแห่งรัฐ 69\" กลุ่มทบทวนสิทธิ พรุ่งนี้",
+      "summary": "เตรียมประกาศผล \"บัตรสวัสดิการแห่งรัฐ 69\" กลุ่มทบทวนสิทธิ พรุ่งนี้ sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xQjdPekxBUDdmbkpaZl9fWDBIb19BVGVjZzhvNVFjT1dNMlppMFBfTlFwVlgzRFlLMVlESVhrVnZRbTVrQ1A1NTI0a2M?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T16:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "9c471a24",
+      "title": "ครม.เคาะงบกลางเงินเยียวยาน้ำท่วม - เปิดเกณฑ์เยียวยา 9พันต่อครัวเรือน | 29 ก.ย. 69 | ไทยรัฐนิวส์โชว์",
+      "summary": "ครม.อนุมัติงบประมาณเยียวยาน้ำท่วม เปิดเกณฑ์เยียวยา 9,000 บาทต่อครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTZpOE1Wb1dlV19NZDhieWxGdzZ1Zm9aaXBWcVNFUEpaMzJibjR6SXZzQjAzZ0R0VDVuMWY0ZnRBNUlKT2pLeTkzak5sZ1R6STBrOGt0dDN2M1A0bWVYcWt5dXJtT1FZSnBWNTVYZlF3eExucmRZU05CSkwyY1F4X1ZvaVo1eGxP?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-09-29T15:11:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาโดยตรงถึงครัวเรือนผู้ประสบภัยมีจำนวนชัดเจน"
+    },
+    {
+      "id": "117cbc52",
+      "title": "นายกฯเคาะ 1.6 แสนล้าน สร้างคลอง “ชัยนาท-ป่าสัก-อ่าวไทย” แก้น้ำท่วมภาคกลาง-กระจายอำนาจให้ อปท.ทำกิจการขนส่ง",
+      "summary": "นายกฯจัดงบกลาง 4 พันล้าน เยียวยาน้ำท่วม-เคาะ 1.6 แสนล้าน สร้างคลอง “ชัยนาท-ป่าสัก-อ่าวไทย” แก้น้ำท่วมภาคกลาง-หารือว่าที่ปลัด กทม.เตรียมแผนฟื้นฟูหลังน้ำลด-สั่ง ‘บิ๊กดุลย์’ ส่งทหารช่วยผู้ประสบอุทกภัยใน กทม.-มติ ครม.ไฟเขียวสร้างคลองระบายน้ำหลาก ‘ชัยนาท–ป่าสัก–อ่าวไทย’ เริ่มปี’70-กระจายอำนาจ ให้ อปท.ประ",
+      "url": "https://thaipublica.org/2026/09/anutin-cabinet-29-09-2569/",
+      "source": "ThaiPublica",
+      "published_at": "2026-09-29T11:22:47Z",
+      "category": "farmers",
+      "provinces": [
+        "ชัยนาท"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "15c849b4",
+      "title": "สรุปวิธียืนยันตัวตน (e-KYC) \"บัตรสวัสดิการแห่งรัฐ 2569\" รอบทบทวนสิทธิ",
+      "summary": "สรุปวิธียืนยันตัวตน (e-KYC) \"บัตรสวัสดิการแห่งรัฐ 2569\" รอบทบทวนสิทธิ komchadluek",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QXRxcUpZZmVnQWdiZFhIZS01TmRodURmajFDcjFLdjZDWUsyOG5SOWJMTVF3NU5uYl83ZlN5Wms5X25mUVlqUWRMR2JmRHZOc001alF6anhkRzFY?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-09-29T07:22:06Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "9788e047",
+      "title": "ครม.ไฟเขียว 439 ล้านบาท สร้างอาคารเช่าผู้มีรายได้น้อย 596 หน่วย นำร่อง 4 จังหวัด",
+      "summary": "คณะรัฐมนตรีอนุมัติงบประมาณ 439 ล้านบาท สร้างอาคารเช่าผู้มีรายได้น้อย 596 หน่วย นำร่องใน 4 จังหวัด",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LT3VBVWhCMUxUa24yZ3RaOUN1QWpDMEtHOElseTV3Mlpfbm5oSFphb0x1YWp0V1NnVGVDMDlaZFQwcWt1MTlGRUQwczJnMWg4VzN4UjNLcE5ScVJsQ3o3cy1xNGU0RUk?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-09-29T06:27:08Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญ มีงบประมาณและจำนวนหน่วยชัดเจน"
+    },
+    {
+      "id": "f4c1b07a",
+      "title": "'ครม.' เห็นชอบ 'บ้านเช่าผู้มีรายได้น้อย' 4 จว. 596 ยูนิต 2-3 พันบาทต่อเดือน",
+      "summary": "คณะรัฐมนตรีอนุมัติโครงการบ้านเช่าผู้มีรายได้น้อย 596 หน่วย ใน 4 จังหวัด ราคาเช่า 2,000-3,000 บาทต่อเดือน",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQai1FWlFMdmpzdXlpVW9VcVJzM0VpY3k0ejdxeEpDcDdjWGd2NUx2QV9WR00ta2R0YjdGd2tMbjN5bWpjUGdoZ3B0c3ZmR1M3al9UcFBwVHZpTWR1RWl2SW9IT05sRjEtWXZuMHdCT1BHUElzVmNkcTVwcnNKM1o0M3F4dw?oc=5",
+      "source": "สำนักข่าวอิศรา",
+      "published_at": "2026-09-29T05:42:39Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายสำคัญ มีจำนวนหน่วยและราคาชัดเจน"
+    },
+    {
+      "id": "41d9c206",
+      "title": "คลังเตรียมชง ครม. ผลคัดกรองบัตรคนจนปี 69 ผ่านเกณฑ์ 11.22 ล้านราย ติดเงื่อนไขรถ-บ้านสูงสุด : อินโฟเควสท์",
+      "summary": "คลังเตรียมเสนอครม. ผลคัดกรองบัตรคนจน ปี 2569 ผ่านเกณฑ์ 11.22 ล้านราย มีเงื่อนไขเกี่ยวกับการถือครองรถและบ้าน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MVVhXVS0tM0duZWJnZkhfTXc5MFdwVWRndUxfNUxENk1lLWg5c1RpaGM0bHVSaXZnbzJnMHUwZzJYZUFjZl9ILU4tVXNHWjE4?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-09-29T02:02:58Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายบัตรคนจนระดับชาติ ตัวเลขชัดเจน เข้าครม."
+    },
+    {
+      "id": "2b9027bc",
+      "title": "เอกนิติ ชง ครม.เคาะผลคัดกรอง “บัตรสวัสดิการแห่งรัฐ” ปี 69 ผ่าน 11.22 ล้านคน",
+      "summary": "เอกนิติ ชง ครม.เคาะผลคัดกรอง “บัตรสวัสดิการแห่งรัฐ” ปี 69 ผ่าน 11.22 ล้านคน thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YQXRwYkk5Znd0aXFZMS1vMlhjMTlkb2taYXFLUFEwWE8xeU9TZ29pNHdtSVBwWWpNbFBrWmhZbWMzV2xuUHJlTHgzQ09LbElHazBXeVRR?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-29T01:01:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-09-29"
+    },
+    {
+      "id": "7f86586c",
+      "title": "ครม.เคาะงบกลางปี 69 วงเงิน 4 พันล้านบาท เยียวยาน้ำท่วม",
+      "summary": "ครม.อนุมัติงบกลาง 4,000 ล้านบาท เยียวยาผู้ประสบภัยน้ำท่วม ปี 2569 ประกาศภัยพิบัติ 50 เขต กรุงเทพมหานคร เปิดช่องทางและหลักเกณฑ์การเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fZ1Q5Q0VXVnZPUklDdmNtSWhrVUlXLWJiMDN0YXJqeFA0RHFCanhqOXBMal9UYkdYWk41QUtlM0tnTnZuNnNRc2FVUUUzMW5hcUM1Q2pkN1A?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-09-29T05:49:40Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 89,
+      "why": "งบประมาณสูง เยียวยาน้ำท่วมหลายเขต"
+    },
+    {
+      "id": "20c6d49c",
+      "title": "ครม. ไฟเขียว 439 ลบ. ผุดบ้านเช่าสำหรับผู้มีรายได้น้อย 4 จังหวัด เริ่มต้น 2 พันบาท/เดือน",
+      "summary": "ครม.อนุมัติงบประมาณ 439 ล้านบาท สร้างบ้านเช่าสำหรับผู้มีรายได้น้อย 4 จังหวัด ค่าเช่าเริ่มต้น 2,000 บาท/เดือน",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03b2YyUmtmYVJCLUNaMjJ0OUxsOEQtZkZzbHNablRPRUttYXFmRGw4UlhUcmdnX1ItNFZ3YndGdVhwaWRIZjU3WlNB?oc=5",
+      "source": "RYT9",
+      "published_at": "2026-09-29T10:28:11Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "โครงการบ้านเช่าสำหรับรายได้น้อยมีงบประมาณชัดเจนและเป้าหมายเฉพาะ"
+    },
+    {
+      "id": "dbfa1d7e",
+      "title": "ครม. เคาะวงเงิน 1,200 ล้านบาท เติมทุน กยศ. ช่วยนักเรียน-นักศึกษา",
+      "summary": "ครม.อนุมัติเงิน 1,206 ล้านบาท เติมทุนกยศ. เพื่อช่วยนักเรียน-นักศึกษากว่า 1.4 แสนราย ให้ได้รับค่าเรียนและค่าครองชีพต่อเนื่อง ไม่หลุดจากระบบการศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GdmVlRGNKXzg4WGVVR2NzOHEwRUJHSFFTUy1tTXpPcmpEUW1veUpMQklvR3JQbFBETnZaSVZxQThxa094ZVZDSFpmS1o?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T07:48:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "งบประมาณสำคัญ ช่วยเหลือนักศึกษาจำนวนมาก"
+    },
+    {
+      "id": "5dd4510e",
+      "title": "เกษตรกรช้ำ 1 ล้านราย คลังปิดฉากพักหนี้ ธ.ก.ส. 9 ปี ต้องกลับมาผ่อนใหม่ 1 ต.ค.นี้",
+      "summary": "คลังปิดโครงการพักหนี้ ธ.ก.ส. ที่ใช้มา 9 ปี เกษตรกร 1 ล้านรายต้องกลับมาผ่อนหนี้ใหม่ตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HMmhxVTVDQXp6OFdfdHdmSUl2QmMzNVBmcl9Mcl9QQ3UzY0VEN3VGZndGYTJDSHMxS0pWRzVOTmdVdkV3dUFSOGhLTEdDbkdlRTdZ?oc=5",
+      "source": "dailynews.co.th",
+      "published_at": "2026-09-29T04:45:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายเกี่ยวกับเกษตรกร มีตัวเลขและกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "1e361080",
+      "title": "น้ำท่วม ภาคกลาง ครม.เคาะแผนใหญ่ 1.65 แสนล้าน พร้อมงบเยียวยา กทม.-ปริมณฑล 2 พันล้าน",
+      "summary": "คณะรัฐมนตรีอนุมัติแผนบรรเทาน้ำท่วมภาคกลางวงเงิน 1.65 แสนล้านบาท พร้อมงบเยียวยากรุงเทพฯและปริมณฑล 2,000 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGZ0dDVGdzE0WnVLZ2s1U0Z2WWhwTklibWJOYzJpQzNHRGl5c0F3amhQYnZDUG1vM3VTMmpMd1VkNzJKdldIbldYc3NfTDV2QjlFMF9JSjRTbzFBc1l3ZF9IOWJfNjFNeGJ2RWlVaGhpeElxU2ptLXNPcV9kcU02dUptU2JwZlM5R0JlV3hfcnJaWVBQ?oc=5",
+      "source": "คลาวด์ปัง",
+      "published_at": "2026-09-29T04:05:15Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "งบประมาณเฉพาะเจาะจงและจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "7198c759",
+      "title": "‘วัชระพล’ เผย ครม.ไฟเขียวช่วยชาวนา ‘โครงการไร่ละ 1,000’ ปีการผลิต 2568/69 เพิ่มเติม วงเงินกว่า 1,500 ล้านบาท นายวัชระพล ขาวขำ รัฐมนตรีช่วยว่าการกระทรวงเกษตรและสหกรณ์ เปิดเผยว่า ที่ประชุมคณะรัฐมนตรี (ครม.) มีมติอนุมัติเพิ่มกรอบวงเงิน โครงการสนับสนุนช่วยเหลือเกษตรกรผู้ป",
+      "summary": "ครม.ไฟเขียวเพิ่มกรอบวงเงินโครงการไร่ละ 1,000 บาท ปีการผลิต 2568/69 เพิ่มเติมกว่า 1,500 ล้านบาท เพื่อช่วยเหลือเกษตรกร",
+      "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxQQkw2ZmFVVkNWS1dhb1hSbmdqcGEyRGYxMTYyaW92Q0d3VE00WC1KRFpyVXlJT2Z3a1BGWHJER3NUZnpqRmVOa0YxRE1oenU5UmNSdDdxa3RLUzZKX3Z4NUJyVVJEVks3dE9tWEh4c2RRdnJkdl9UNEFQcnE0aHJoajJRZGFncDBtTG96Vk9IUl9KTkpuYWlIQ3R2djBHQm5LZXhHV0R5TGRKcVNvMVFiNTFiZW1hMHlxSkpFWk1BcU42Uk1CUW5oNFE4SVdxaXdqWWpRTkttN2xQMHRVX1JXaHdYMkJSRGJLOVhJS0NMdHoxUm9zOFRpVS1JTzIySnJfcWRFcDlWWXdmREw1R0YzM1gxcmVLTnRnMkpPWXg5NkcwaHpwX0ZrZ2RVUE12ZEFzNkczMk5pNC04akhWeXpnVGN5R2MyTUJyNTdnNGVveG00eHR6S2tsNTR1cFFhekhwWDNTdW9od2NkMVFxazVIMnc1YmxjV0JaaVVFTjJxWERvX280RVhnOEtQNEdLUkRMOENQZk5WS1hzZy01Mmh0MTFhdzhwbmF2RzBCVTlOR2xEMDdyTHF1dFVqN0N4QlI4TFdNY05OY05fUGgwMGZYU3U1QlZ1YzVPWjNUSUkzZlp4ZmtUVlA4WWZmXzdmNHdBdUhPYTFFVU5Zdl8zS1I0TW01cU05dU1kbVVyNGk2cWdYdDRlNFcwS2cxb2VCZGN3Y2ZZeXpKSTFKa1MtOVkxQkJHSnkzbjE5WDB6anFmekpPQVp6WE0tOEw4ckRhaE1KeTFOS1Ywcnc2WFVIbXFkY2RvSG00OXMzSTh0YlA5OEdHdExWZGlHR1J6T2NyN1hSbHhIYmJZbXM1bmxlWjBJTDlvS0F6a0N5ei1QRkFFeThXRGZtcGNXMW1kNmNmUVdmUEZNaGhRckNTUUZaUjZDQml1MnUtbzlmd21MZm4xamI1b0VQVUEtQTJnYUtmZHIwVFhqd3Fjb2ZjR2ZNWDhFQnpxUlNMT1RGVkRoQ3phNTlTS2VaTDE2SjhvQ0tPdHN1N1c4UExfYTVnYkVGUjkwWHlUX2locVhGcVE2dHo1Nll2aE9BUkdySVR5ME5GZVBsSy1DaWNJa1NtYlJTZ2dxRzV0NnpOOF9fQ3dacm03SFhCS0wzN3QxaGJfVWxUbnBj?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29T16:45:47Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "งบประมาณเพิ่มเติม ช่วยเกษตรกรจำนวนมาก"
+    },
+    {
+      "id": "fff1bc89",
+      "title": "ครม. ไฟเขียว 4 โครงการอาคารเช่าผู้มีรายได้น้อย 596 หน่วย วงเงิน 439 ล้าน",
+      "summary": "ครม.อนุมัติ 4 โครงการอาคารเช่าสำหรับผู้มีรายได้น้อย 596 หน่วย วงเงิน 439 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQ1RER09uRWpzN09WRWhUeFc0WElHZUxJTWtYUlpfMXF4dFNrdC16YXItWkM5dmtxbWtOWTB1bkxBQUsxZlEzaXZlOU9CbUFPemRySWtiRm03WlhVSm0yTV93bEQ?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-09-29T10:33:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "โครงการสร้างที่อยู่อาศัยสำหรับรายได้น้อยมีจำนวนหน่วยและงบประมาณชัดเจน"
+    },
+    {
+      "id": "a74ca44a",
+      "title": "รัฐบาลเดินหน้าหนุน กยศ. เสริมสภาพคล่อง 1,206.48 ล้านบาท ดูแลนักเรียน–นักศึกษากว่า 1.4 แสนราย ให้ได้รับค่าเล่าเรียน–ค่าครองชีพต่อเนื่อง ไม่ให้หลุดจากระบบการศึกษา",
+      "summary": "รัฐบาลหนุนกยศ. 1,206.48 ล้านบาท เสริมสภาพคล่องสำหรับนักเรียน-นักศึกษากว่า 1.4 แสนราย ให้ได้รับค่าเล่าเรียนและค่าครองชีพต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WSlNzMlpfeVZNVGhFOEpqOHdJVWh3VlcxQXU1ODFxdGo0em5rRkY3ellIMGRTUW1ZNjdZLUZsaTVHWUpkZFgwa0NsbHMwX0R0eVlFWkNqZzBXVzVpdDlTZjlKR1ZaUGxzd3RiU1JXVmdsNnM?oc=5",
+      "source": "กรมประชาสัมพันธ์",
+      "published_at": "2026-09-29T08:13:46Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 87,
+      "why": "งบประมาณสำคัญ ช่วยนักศึกษาจำนวนมาก"
+    },
+    {
+      "id": "a16efebb",
+      "title": "“สุริยะ” เผยชง ครม.วันนี้ ช่วยชาวนาไร่ละ 1,000 บาท เร่งบรรเทาความเดือดร้อนเกษตรกร",
+      "summary": "รัฐมนตรีเสนอครม.อนุมัติมาตรการช่วยเหลือเกษตรกร โครงการไร่ละ 1,000 บาท เพื่อบรรเทาความเดือดร้อนของชาวนา",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3UEI5NlMzUElSZEtMNFNSVlBUUFdObjgyNWctRkFHYVhEVFU4a2paVXN6aEpmUWNVbWRESUJCbGVVZWJIS0NHWHR1UnFsbkE?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-29T04:07:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 86,
+      "why": "มาตรการเงินสดช่วยเกษตรกร ลดความเดือดร้อน"
+    },
+    {
+      "id": "8088e5ec",
+      "title": "เบี้ยผู้สูงอายุ โอนแล้ว 10 ม.ค.เช็กรับเงินช่วยค่าครองชีพ ได้กี่บาท",
+      "summary": "เบี้ยผู้สูงอายุโอนแล้ว วันที่ 10 มกราคม ผู้รับสามารถตรวจสอบจำนวนเงินช่วยค่าครองชีพได้",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUWHBlNDZSa25HYWQwR1B3bE1EelZwMlJ6bG04NHRZNkpYQV9PSm5PaHJueVd2X1BWT2xycm14OWUwbnpZSFFDQ1RB?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-29T11:08:03Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเบี้ยผู้สูงอายุโอนจริง มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "72073e0f",
+      "title": "ครม.ไฟเขียวงบ 4.7 พันล้าน เยียวยาน้ำท่วม 24 จังหวัด กทม.ใช้เงินสะสมก่อน",
+      "summary": "ครม.อนุมัติงบประมาณ 4.7 พันล้านบาท เยียวยาผู้ประสบภัยน้ำท่วม 24 จังหวัด กรุงเทพฯ ใช้เงินสะสมก่อน",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZlFhMHFOWlIwcVRBTHVwT1Z6V3J4SVdNaGdhcVk5Y0dsOE02Rnh6M2hERjlzSHdYQVlIZGtoOUtYdWRyT3pnV2p5cGFCcWFYaHp3dE9uZFE1Zw?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-09-29T09:56:08Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนหลายจังหวัด"
+    },
+    {
+      "id": "d11c0db4",
+      "title": "“อนุทิน” เผย ครม. จัดงบกลาง 4 พันล้านบาท เยียวยาน้ำท่วมทั่วไทย",
+      "summary": "ครม.จัดงบประมาณกลาง 4,000 ล้านบาท เยียวยาผู้ประสบภัยน้ำท่วมทั่วไทย",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MVWVIaG5vb1RTd2R0UmZOcjFLekx0bnFNdHpIejZ3S0dfeWpKbk1xMmp6UXdQczVXWDYwSm1EbE5DNE95RTZKb2NYQ2VTVjZF?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-09-29T07:54:36Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "c8cd97c2",
+      "title": "นายกฯ เตรียมงบกลาง 4,000 ล้าน เยียวยาน้ำท่วมทั่วประเทศ มีผู้แทน ครม. กำกับรายภาค–เร่งสูบน้ำ ฟื้นฟูพื้นที่ พร้อมเดินหน้าโครงการคลองระบายน้ำชัยนาท–ป่าสัก–อ่าวไทย",
+      "summary": "นายกฯเตรียมงบประมาณกลาง 4,000 ล้านบาท เยียวยาน้ำท่วมทั่วประเทศ มีผู้แทนครม.กำกับรายภาค เร่งสูบน้ำและฟื้นฟูพื้นที่ เดินหน้าโครงการคลองระบายน้ำชัยนาท-ป่าสัก-อ่าวไทย",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52dmZ2VTZWM0VmeVBNbTB6MjYxRzZBVHJheWdGakhEaHVaa0xfU3BldEs2dzRCa3JxTVJUNEdYZHp2Q0QtNFNMbHhkMnN0TWstV1E?oc=5",
+      "source": "เว็บไซต์รัฐบาลไทย",
+      "published_at": "2026-09-29T07:47:31Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "0251c236",
+      "title": "ครม. เคาะงบกลาง 4 พันล้านบาท ช่วยเหลือเยียวยาน้ำท่วมทั่วประเทศ",
+      "summary": "ครม.เคาะงบประมาณกลาง 4,000 ล้านบาท เพื่อช่วยเหลือและเยียวยาผู้ประสบภัยน้ำท่วมทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WZDZTWEh2THRlT0VhZEkyS085NXB4UEFEdk04N2FTRUwyM09hYnBtUDFuNUhrRGFuMzNlWEg2anY4T2xBWEU0amx3dEhTZmxOajZfTUtB?oc=5",
+      "source": "news.trueid.net",
+      "published_at": "2026-09-29T07:23:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "e0735dbe",
+      "title": "“อนุทิน” เผย ครม.เคาะงบกลาง 4 พันล้าน เยียวยาน้ำท่วม ทุ่ม 1.6 แสนล้าน เพิ่มช่องทางน้ำชัยนาท-ป่าสัก-อ่าวไทย",
+      "summary": "รัฐบาลเคาะงบประมาณกลาง 4,000 ล้านบาท เยียวยาน้ำท่วม และลงทุน 1.6 แสนล้านบาท สำหรับโครงการคลองระบายน้ำชัยนาท-ป่าสัก-อ่าวไทย",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zYjFvN05wR0RRNXpoTDd6aS1SaWRTUndCSlFxMHBNaGVlYy1RSWZHSVV3ODlOYXdMaWlQWVZhU0RLNUNNaVJJc29QdWdoOU0?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-09-29T07:17:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "9c4126b3",
+      "title": "นายกฯ เผย ครม.เคาะงบกลาง 4,000 ล้าน เยียวยาน้ำท่วมทั่วประเทศ เดินหน้า “ชัยนาท-ป่าสัก” 1.6 แสนล้าน",
+      "summary": "รัฐบาลอนุมัติงบประมาณกลาง 4,000 ล้านบาท เพื่อเยียวยาผู้ประสบภัยน้ำท่วมทั่วประเทศ พร้อมเดินหน้าโครงการคลองระบายน้ำชัยนาท-ป่าสัก 1.6 แสนล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU5zNENKY2YteXAxaXhOZGZFc0ZTeHdSU3MzbEpfcGhGdmNodGZIOWFGQjlUR1lRVEp4MDhGdTZTVldnMDFMZXU1UEZndDE4NnpTbTJXSEFsazltaFEyc3NCT0tYNHQxX1lUX0l2MENDU1JQYU1ab3lFZXhWUGxwSFEyUHpLWkpQ?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-29T07:09:21Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "be32621d",
+      "title": "‘ครม.’ เคาะ 4พันล้านเยียวยาน้ำท่วม ไฟเขียว โครงการชัยนาท-ป่าสัก 1.65 แสนล้าน",
+      "summary": "คณะรัฐมนตรีอนุมัติงบกลาง 4,000 ล้านบาท เยียวยาน้ำท่วม และไฟเขียวโครงการชัยนาท-ป่าสัก 1.65 แสนล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0VGg5MWx4YTFtdGcwNVdic2pWRUFPWm9vdTQ0MndYSnNKQXZONUcyY3BJVGNqaS1iWjhhVEFET1lXVXB5YWp0T2h3djNMOHRObGpGYldRbzltUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-29T07:02:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาชัดเจน แต่โครงการใหญ่เป็นโครงสร้างพื้นฐาน"
+    },
+    {
+      "id": "a8738c93",
+      "title": "ครม.เคาะงบกลาง 4 พันลบ. เยียวยาน้ำท่วมปี 69 ไฟเขียว 1.6 แสนลบ. บิ๊กโปรเจ็กท์ \"ชัยนาท-ป่าสัก-อ่าวไทย\" : อินโฟเควสท์",
+      "summary": "คณะรัฐมนตรีอนุมัติงบกลาง 4,000 ล้านบาท เยียวยาน้ำท่วมปี 2569 และไฟเขียวโครงการชัยนาท-ป่าสัก-อ่าวไทย 1.6 แสนล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwU2NnMzduSTFld1Yyb0ctb3NUMUNxelVhVGVzUVJ0SFNJMzQ3MW1XUF9PZFJmTVZoc05HT2pBU3pfNG1XVXFqUzA1cWZPTi1z?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-09-29T06:54:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาชัดเจน แต่โครงการใหญ่เป็นโครงสร้างพื้นฐาน"
+    },
+    {
+      "id": "0e6326eb",
+      "title": "ครม.ไฟเขียวงบกลาง 4,000 ล้าน เยียวยาน้ำท่วม - ไฟเขียว โครงการชัยนาท-ป่าสัก-อ่าวไทย 1.6 แสนล้าน",
+      "summary": "คณะรัฐมนตรีอนุมัติงบกลาง 4,000 ล้านบาท เยียวยาน้ำท่วม และไฟเขียวโครงการชัยนาท-ป่าสัก-อ่าวไทย 1.6 แสนล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yemVkMjZ0d1pKTV9VRmlaZTlZY2V0RFhhdER6LUJEbFpYSXJielExeHFCV0Q4RnRoRlJOQ3E2N0JtVDEtXy1kNFhrdXVRcTFOZFRyampGQm9PYkJ6?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-29T06:54:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "งบประมาณเยียวยาชัดเจน แต่โครงการใหญ่เป็นโครงสร้างพื้นฐาน"
+    },
+    {
+      "id": "bd874f5b",
+      "title": "เปิดลงทะเบียนทั่วไทย รับเงิน 1,000 บาท เบี้ยยังชีพผู้สูงอายุ 2571",
+      "summary": "เปิดลงทะเบียนรับเบี้ยยังชีพผู้สูงอายุ 1,000 บาท ทั่วประเทศ ผู้สูงอายุที่มีสิทธิสามารถลงทะเบียนเพื่อรับเงินสงเคราะห์ตามโครงการเบี้ยยังชีพประจำปี 2571",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLVHBRMkhDQVp1X29PWVV2c1hrTXItUm5lTlFkRjhCSDgtdDBGOXV2cHdXcmU4UWozTnBFUXFqVVd4dUlGVlV1U3puZVptRWp5ejg4NFdFZlB0M0F0Y2NQNmJFejRvQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-29T06:07:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเงินสดถึงผู้สูงอายุ ทั่วประเทศ"
+    },
+    {
+      "id": "7be5bb1e",
+      "title": "เช็กด่วน! บัตรคนจน 2569 ประกาศผลแล้ว ผ่าน 11.22 ล้านคน ใครมีชื่อรีบยืนยันสิทธิ",
+      "summary": "ประกาศผลบัตรคนจน 2569 ผ่านการพิจารณา 11.22 ล้านคน ผู้ได้รับสิทธิต้องยืนยันสิทธิเพื่อใช้บัตรคนจนในการเข้าถึงสิทธิประโยชน์ต่างๆ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTXh3VEszeG8xNjExV2xFQ3RnVTVMem9vSklSbWJFOXRJOVhvaWVYWVcyU214YWphRUpTTGwzN1UzRWdhZVFwbF9GeXVBZF9MZUpjLQ?oc=5",
+      "source": "อีจัน",
+      "published_at": "2026-09-29T17:11:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ผลประกาศบัตรคนจน ส่งผลต่อสิทธิประโยชน์ผู้มีรายได้น้อย"
+    },
+    {
+      "id": "0aba7d07",
+      "title": "ครม.ทุ่มงบ4พันล้านเยียวยาน้ำท่วม “อนุทิน”ไม่หวั่นคนด่าปล่อยให้ระบายได้เต็มที่",
+      "summary": "ครม.ทุ่มงบประมาณ 4 พันล้านบาท เยียวยาผู้ประสบภัยน้ำท่วม นายกฯ เร่งมาตรการระบายน้ำ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFaURhdEJ2dnFjbGNWdC1teC0xSnVTUDEteXlDek1FNEhlaFZaVVNDMEpkOUcyUllRMkx4bTVGVndzcW40a1labUJfajdMa2REamlySUdyQmE?oc=5",
+      "source": "INN News",
+      "published_at": "2026-09-29T12:00:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ถึงประชาชนทั่วประเทศ"
+    },
+    {
+      "id": "57001306",
+      "title": "น้ำลดภาระไม่จบ เร่งฟื้นฟูบ้าน-ธุรกิจ เปิดมาตรการ \"พักหนี้\" ช่วยผู้ประสบภัย",
+      "summary": "รัฐบาลเปิดมาตรการพักหนี้เพื่อช่วยผู้ประสบภัยน้ำท่วม ในการฟื้นฟูบ้านและธุรกิจ เพื่อลดภาระการชำระหนี้ของผู้ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZQ2p1aXg0WlNEak1ISDRzNUxOOXVSaHFmOWdKNXZRQi1ac3lQZG1hSTdDTXc4SzhrM0JZcjA5WmFFT0xpNVlfeXFGRmRMMmlENUxNNmxqN2FjTzE4cDRv?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-09-29T05:01:40Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการช่วยเหลือชัดเจนแต่ขาดรายละเอียดเงินและเวลา"
+    },
+    {
+      "id": "5c080c8e",
+      "title": "สำนักข่าวไอเอ็นเอ็น : innnews. . ครม.ทุ่มงบ4พันล้านเยียวยาน้ำท่วม “อนุทิน”ไม่หวั่นคนด่าปล่อยระบายได้เต็มที่ : 29-09-69 | iNN Top Story #น้ำท่วม #น้ำท่วมกทม #น้ำท่วมกรุงเทพ #เยียวยาน้ำท่วม #ครม #อนุทิน #iNNTopStory #INNNEWS",
+      "summary": "ครม.ทุ่มงบประมาณ 4 พันล้านบาท เยียวยาผู้ประสบภัยน้ำท่วม นายกฯ เร่งมาตรการระบายน้ำ",
+      "url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxOZHFNOEpEdHZmcUJOemJ6cUJoVU1iQTJFVDRscUwtT0VoMDBTOThUVjZIUUQ4TndqVWQ5b3BJdUY1X3piMk8xRmdGN2x1V0RzNUdScDdqQjZlXzVaR1Q0S09oelJhZ2l2WmVfbmN3YnVxS1c1RW1SVUNxQmNILXVsLTNPYWdJVkZqZVlabEdrS1d0NEY0dzQtM2VmZU5JOUFHTEIzWmNjQkdiX1Rqb0thdWRnWElwMTBlNXdXTkZPd1MwbTVpNUxQek5DRTF6RjhCZERsc1RHN3JlcmhXVE1sQmVPREVyWVNvM1FPWGwwVDFZTHNaYzZrSHV1dVpNemV1bVpnT2E3YVlCVTlNNmhwMjB2NzhtdGIwYk9HQXdZM2NBbUlYdXc4SFNfNk1ya1UzeGY5WUFfX3NaR2pOWlkyajE1N2tsWkZuR0VPSjl3Yk5lQnRhTUljWUctQk9JMUstcVIxMFVkd0tYVVBHTE9YeFpNOHBUTk9NUTFNdlZLVzl1Sm93Q0FVZGlqZ0tpWHVRSDYyTDVZSzhvQUowOHJoOGN4OFQzWThRSXNNdkYyRFNjQjVrUnJKNVJ4MW5pREVKMUdaXy1IWEdGSmg5SWhINklGNWZHOTNfbkVCY01FVlJjSkV1Vm5UaF95MV8zNmpnTzhzUzYyZ0dlYUlwc0EtMmJHRmFqc0VwdnYxdXhfODRQbDhuOUl3N20yRXg3NDFuR0RIOVIzNlNQV1ZsdEVDa1BiS1JYQUtUb1A5d0dLNnpzQmYySjBSMkl4b1oxTGJfN01ySkxBUDU2MEc3VXFJU0J4eUJFREE0NWgzaW4tVkFkTk42RWEyT3BlTU5WUHVJVzQ3T0ZTVkFFTnNrOUZoZXlxTS1mT0RmWGNwMk1BXzAtMndHd3F4N0hYRU1scWhBSWN0UFVzNHk4Zl9ZMzBTeERiZUxyTmVLVG9KaVlpeDNfakJIT29paTk4T1pvcllYcGM4NGl3MVdwc3FBNHhJZ3B6SnJBbFR1NmM3ZkFvajZzazVyR211alI4d3A3VzVtazNLRHhRM1NrVlBTQXpLREVieFp2MW5NVVl6c2hoaGFwLXRwQjF3bnNSOTFPU0V3TGVSM2RwSzZ4aThoeTNQN1NJYl9MRTk1ZkRiUkVOczNBX2pFY3AxVnNWVDFCZldhS2FQeDRhQ0x3TXBsRkF2TG1FTllLcldPUDQtNExhNDdkcmlVXzE0ZjlKTTRJTHVVT0xaY1pDUG5TSEIyR1FMVlpVLUpYaDdyazcteA?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29T12:00:38Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่ แต่เป็นการแชร์ข้อมูลจากสื่อ"
+    },
+    {
+      "id": "6548d13b",
+      "title": "ครม.อนุมัติงบ 1,206 ล้านบาท เสริมสภาพคล่อง กยศ. ดูแลนักเรียน-นักศึกษากว่า 1.4 แสนราย",
+      "summary": "ครม.อนุมัติงบประมาณ 1,206 ล้านบาท เสริมสภาพคล่องของกยศ.เพื่อดูแลนักเรียน-นักศึกษากว่า 1.4 แสนราย",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80MlAtSjFUOEk4YVpDaFVBUXRjakJtemRWYzVGcHhPeGktWWdMTFZUTFA4S19wd1lzaEx0VkRsN21WV2phTWtaNE1NYlpYWEJIR0pLRU9QNnMtcnQ0b1E?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-09-29T08:11:23Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบประมาณสนับสนุนการศึกษาสำหรับนักเรียนจำนวนมาก"
+    },
+    {
+      "id": "c012b30d",
+      "title": "ครม. จัดงบเยียวยา 4 พันล้าน ดึงท้องถิ่นทำแก้มลิง รับมือระยะยาว",
+      "summary": "ครม.จัดงบประมาณเยียวยา 4,000 ล้านบาท ดึงท้องถิ่นร่วมแก้ปัญหาน้ำท่วม รับมือระยะยาว",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wMzY3aHZteE44TFB5aGZMNHlaQkpZeW9GMUpKdkdJQ1lhUnY3a2hCaF9fSXVtb3lzYW53X2J6a1BEZjlEaUh4UE1vWVZVaWV1aXhJbzdtQWJ4ZnVkMUhhdFY3aWlGdw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-29T08:11:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบประมาณเยียวยาน้ำท่วมขนาดใหญ่พร้อมแผนระยะยาว"
+    },
+    {
+      "id": "bb712910",
+      "title": "‘ครม.’ ไฟเขียวงบกลาง 1,200 ล้าน เสริมสภาพคล่อง กยศ.อุ้มคนกู้อีก 1.4 แสนราย",
+      "summary": "ครม.อนุมัติงบประมาณกลาง 1,200 ล้านบาท เพื่อเสริมสภาพคล่องของกยศ.สนับสนุนนักเรียน-นักศึกษากว่า 1.4 แสนราย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KYkcwSlVjLWd2YnZFWW85ay01ODFpcmlEd3k2MlFWMWZyQ2hBWEhYNHlWUFd3MlN1REpVb2pVd1lxYnB1RE5zRnR0VGVIeUFua0hRWTFmczA1MndC?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-09-29T07:32:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบประมาณสนับสนุนการศึกษาสำหรับนักเรียนจำนวนมาก"
+    },
+    {
+      "id": "a628ad70",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เดือนตุลาคม จะได้รับวงเงินทั้งหมดกี่บาท",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 เดือนตุลาคม จะได้รับวงเงินทั้งหมดกี่บาท sanook.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PZWJHS3BNeWtBYmdERVlXVkdDXzhpNk94YmQ4NGt1WTBPZkVyRGhXMEw5dnRpZkl4ZFJUWWpGRVFqbXozaTFHdFByRmo?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T06:43:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "9a92ee9f",
+      "title": "‘นิกร โสมกลาง’ รมว.พม. เดินหน้าลุยน้ำท่วม กทม. ปักหลัก ‘สายไหม-จตุจักร’ มอบถุงยังชีพ-ข้าวกล่อง เร่งเยียวยากลุ่มเปราะบาง 24 ชม. . วันที่ 28 กันยายน 2569 นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (รมว.พม.) พร้อมด้วย นายชนินทร์ รุ่งธนเกียรติ",
+      "summary": "รมว.พม. นิกร โสมกลาง ลงพื้นที่น้ำท่วมกรุงเทพ บริเวณสายไหม-จตุจักร มอบถุงยังชีพและข้าวกล่องให้กลุ่มเปราะบาง",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxNQ2xmS3pQRFJwaHVvWVFWeE9aMmo2b3BXWmRSbXB2S09MMnJ4RlZES1lvQTctQ2dFRFEyTmZldTBqejZLakpCc1NURFNPc1N1aGt2czRJQXNleVRsMWd5c09nTGlaSXUwTjN2dElGU1Y3SF93aW1zaUhYTnl3bDMwN0hFLXBsTTRrOE0xQ3RISXJqNlFuWGVkNkFLLU1NN1c3SmttQ2s4aHJUMzhrVWR2RnNPanhJWEpvR1VId09BS3h1b1Y3eXJSZmhQb2U4RnJDUjFRbERkQkhMdnJJSlBsdE5sSjJsMk9ERGpyVEpfSmZncjU4T2FoTDJRNVExOG5qb3lqYmNLWVAxekxOVTVwMERSd3p0cFBPaUNNV01fdkhWSk5EQjhqejB3Mk5IVGFNZk5hejlhYnFqbENYZkFHcHNwU0IwOUJWR2djVGQ5N25URm9XVXVRVEZTLWdaTnZxWkF0NDhBbTJFZjVCbk1hWElkQWVsTW5lM3VWa0FGUUtwUW9WMGxSc0JxZ3JhMVRobFBtZ3lIWVpqU2FLeFhFYjZ0Z2RQUHhPMTRqY3NYb3gwNmdEZmZieUowdGUzbGpzU3ltRVpHVGhBZEVtMW1Wek9jZHhkOU5CcW9UODlvSVM0SnFNLXg0MzNjUXhRR3czRVpUaGpvN05OTmZKR1QtVk9Gb2taSXV2aGUyOFRudVRnUXlqRDRSQnZTUFdwVTJNWnhjNUFQWFVmRFRrVnNTck1QQ3RmdDRQdDduRWpOMVkzSTZFTmI0aEd6cG40RkFKWE1ya0hRSWJJN1N6MENYbUFxRXBocHF4WFJGUENyZHk0eXRHUnV3RXNqQ0VVLWYzazBTS0g3TU9jZDcwNURHLW81V1ZPbjNPTmh5bTB3THhpSnJzd3JnZ2RPSDNpVU91X09yLWQwd3BmYWxZMGZnYm5PZHF5aGVPTTc5RV9YU1gtN0NvTlRaS1R4eDhzZEVwbWZ1bUlvTGV2dlhHcE9zWHJ1a1BIcUlhbVpNMzliOE1KeHZXV2k3NGNQZXZqSjZobENsYkN6TXZUaFBTMUpUbnhaTlBGclJIV1ZvU19pb29zUDV1TmpZRWtqVDZSbVVtZ1VlZmhVNmdYcVgteS1rVWo0NExsMUp5aXM1ZW00WGp4NjNhellpV0gyQnU4d0Z3dkxEXzgyaWdrUUxLQUZiZU9haGo5NWMtRTc3WVZldFhLbUc5bWJKaTJld0ZVZjRPU0RHSEp2VnMzb29zdFowQXRORzNiN2JRWE0xS0h3RlJsQlBNekVEaEptYjN4Q3ND?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29T02:14:02Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การช่วยเหลือผู้ประสบภัยน้ำท่วม มีการมอบสิ่งของจริง"
+    },
+    {
+      "id": "2e6aa1ee",
+      "title": "อนุทิน ลงพื้นที่บ้านเอื้ออาทร คลองถนนบางเขน รอบดึก มอบถุงยังชีพ ให้กำลังใจผู้ประสบภัยน้ำท่วม",
+      "summary": "นายกฯ ลงพื้นที่บ้านเอื้ออาทร คลองถนนบางเขน มอบถุงยังชีพให้ผู้ประสบภัยน้ำท่วม",
+      "url": "https://www.khaosod.co.th/politics/news_10419085",
+      "source": "ข่าวสด",
+      "published_at": "2026-09-29T17:14:41Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การมอบความช่วยเหลือโดยตรงแก่ผู้ประสบภัยน้ำท่วม แต่เป็นการลงพื้นที่ไม่ใช่นโยบายระดับชาติ"
+    },
+    {
+      "id": "09abc1da",
+      "title": "ครม. เห็นชอบอาคารเช่าสำหรับผู้มีรายได้น้อย รวม 596 หน่วย",
+      "summary": "ครม.เห็นชอบอาคารเช่าสำหรับผู้มีรายได้น้อย รวม 596 หน่วย เพื่อแก้ปัญหาที่อยู่อาศัยของประชาชนกลุ่มรายได้ต่ำ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aR2FFbldQYmNyek9LY1cwX0xWcGMtZllrRllSeHYtMVE0R1dCQ1BsSkdUTHBZZVk1RVNoTkRCSVE1dks4b1NONWRzRXdOU3oxVC04?oc=5",
+      "source": "dailynews.co.th",
+      "published_at": "2026-09-29T08:02:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสนับสนุนที่อยู่อาศัยสำหรับผู้มีรายได้น้อย"
+    },
+    {
+      "id": "3583a920",
+      "title": "ประกาศแล้ว ผลบัตรสวัสดิการแห่งรัฐ 2569 ออกวันไหน และช่องทางไหน? คนยื่นอุทธรณ์เตรียมตัว!",
+      "summary": "ประกาศผลบัตรสวัสดิการแห่งรัฐ ปี 2569 พร้อมแจ้งวันออกบัตรและช่องทางรับบัตร ผู้ที่ไม่ผ่านการคัดกรองสามารถยื่นอุทธรณ์ได้",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KQjgtenBVNFlQc3luSzNqbEhTZUdyU0pkbHFfcFlyTU9fdGhpaWxDZW1RT2JxWEtYbFh4eTZYVTZpY3RYV3U4RDNXbUw?oc=5",
+      "source": "sanook.com",
+      "published_at": "2026-09-29T06:44:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ประกาศผลการคัดกรองบัตรสวัสดิการ มีกำหนดเวลาชัดเจน",
+      "first_seen": "2026-09-25"
+    },
+    {
+      "id": "a7feda0d",
+      "title": "‘กลไกคุ้มครองสิทธิระดับจังหวัด’ กลไกใหม่ดูแล ‘บัตรทอง’ เพราะหลายปัญหาจบได้ในพื้นที่",
+      "summary": "รัฐบาลสร้างกลไกคุ้มครองสิทธิระดับจังหวัดเพื่อดูแลผู้ถือบัตรทอง โดยแก้ไขปัญหาต่างๆ ในพื้นที่ท้องถิ่นให้ได้ผลสัมฤทธิ์มากขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LWF91MmJoSEFmYlh4eS11RDI0eDZlbHdsQXliemNKdHVuSmRYSk9FazBhUi1idVB6V0g4UEEydTJWY2JwNU5RUUwyOEFaUzMwSllrem1TZnU4NDA?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-29T02:45:19Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการใหม่ดูแลบัตรทองแต่ยังไม่มีรายละเอียดเงินหรือเวลา"
+    },
+    {
+      "id": "463a1b29",
+      "title": "รวมมาตรการธนาคารรัฐ – พาณิชย์ ช่วยเหลือน้ำท่วม พักหนี้-ลดดอกเบี้ย-เติมสภาพคล่อง เยียวยาลูกค้าฝ่าวิกฤตน้ำท่วม กทม. | การเงินธนาคาร",
+      "summary": "ธนาคารรัฐและพาณิชย์ประกาศมาตรการช่วยเหลือผู้ประสบภัยน้ำท่วม ได้แก่ พักหนี้ ลดดอกเบี้ย และเติมสภาพคล่อง เพื่อเยียวยาลูกค้าที่ประสบวิกฤตน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmTHhvYVU2NjVjcWVXeWxTbUJ2Q0pLcDd1VlViZkh1dV9mRE9EeHd4dGs5Y1FaSTVKMG9sWjA1ZVpsUjR4MUtqdUtjcmdHc0ctTlZITEN3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-29T01:04:36Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือผู้ประสบภัยน้ำท่วม ลดภาระหนี้สิน",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "53eb9e02",
+      "title": "เบี้ยผู้สูงอายุ เงินเข้า 10 มิ.ย.68 ยังได้กี่บาท โอนรายเดือน",
+      "summary": "ข้อมูลเบี้ยผู้สูงอายุ เงินโอนเข้าบัญชี 10 มิถุนายน 2568 โอนรายเดือนตามปกติ ผู้สูงอายุสามารถตรวจสอบจำนวนเงินที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE91QVUyVE1hY2gtUnpPd1Mwd2xGSjJNYjh1NlkyN0RkV3h1UkN5OWZqUERYVWZLSS1jc0tyaVVQVjZ3R0ZlaVpDVzN3?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-09-29T13:31:20Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อมูลการจ่ายเบี้ยผู้สูงอายุ ไม่มีการเปลี่ยนแปลง"
+    },
+    {
+      "id": "5bddad81",
+      "title": "ครม.ถกทิ้งทวนปีงบ 69 เคาะงบเยียวยาน้ำท่วม-ช่วยเกษตร-กยศ.",
+      "summary": "ครม. พิจารณาทิ้งทวนงบประมาณปี 2569 เพื่อเคาะงบเยียวยาน้ำท่วม ช่วยเกษตร และสนับสนุนกยศ.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpUzhfelpsLXNqMjVaZ1Ntb2FDMGZSeEZnQ1pRZWkyNkNaejRlQVkwUEpRS0FYT3RGaWRYNWtfVFl0UXpwZWtfZUlnc1VVQ0lULUtMWUVn?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-09-29T02:29:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การจัดสรรงบประมาณเยียวยาหลายภาค แต่ยังไม่มีตัวเลขชัดเจน"
+    },
+    {
+      "id": "849515df",
+      "title": "29 ก.ย. ‘วันหัวใจโลก’ สปสช. ชวนตรวจความเสี่ยง ย้ำ ‘บัตรทอง’ ครอบคลุมการรักษา",
+      "summary": "สปสช. ชวนตรวจความเสี่ยงโรคหัวใจในวันหัวใจโลก 29 กันยายน ย้ำว่าบัตรทองครอบคลุมการรักษา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tVkFEeWFnMUxBR3dQbTBFZFYtVXNVaG0zMV9RRmRSM2NOMGFpYWZzZXE4enVjTXpfY1VZMHA2OVhmblQzR2o0V0lKSUJaU013UHFnQWJzb2MwR2M?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-09-29T03:45:52Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวกับสวัสดิการสุขภาพ แต่เป็นกิจกรรมประจำปี ไม่มีนโยบายใหม่"
+    },
+    {
+      "id": "ea93f4d9",
+      "title": "สส.ปาล์ม จี้ กทม.ทบทวนเกณฑ์เยียวยาน้ำท่วม ชงปลดล็อกบันทึกประจำวัน ลดภาระผู้ประสบภัย",
+      "summary": "สส.ปาล์มเสนอให้กทม.ทบทวนเกณฑ์เยียวยาน้ำท่วม ปลดล็อกบันทึกประจำวัน เพื่อลดภาระผู้ประสบภัย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83YmFicE15NEZ1WmVSX00zLXBZSXUzT0cxX0lkWThGT3VlWlFOeXFxcnF2cFFjVm9jcFJJMVJFUkFWclFjTVRjUUlTOWFraUpwNjYxbFZySU9iTG8t?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-09-29T10:26:48Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข้อเสนอปรับปรุงเกณฑ์เยียวยา ยังไม่ได้อนุมัติ"
+    },
+    {
+      "id": "02f4ad49",
+      "title": "จะไม่มีการลดสวัสดิการค่าจ้างอื่นๆ เมื่อมีการปรับขึ้นค่าแรงขั้นต่ำตั้งแต่วันที่ 1 มกราคม 2560 เป็นต้นไป",
+      "summary": "ประกาศว่าการปรับขึ้นค่าแรงขั้นต่ำตั้งแต่ 1 มกราคม 2560 จะไม่มีการลดสวัสดิการค่าจ้างอื่นๆ",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRU1lTTkzdlcxa1d6QXM1Z3BqcVp1YUJGOHVDVGo0ZHEtNG5Jc1drUHY2RUtmSGV5Z2tOUC0xWFc4WXFFLTFFR0haYmZmQTVHbDZ5YlhtUG5COWZHeG1UTktEZ2FHeWo4eUR5bnNNTkt1eEE2MFM2dWV4MUtHMDdyaWVYc0VfZWkyQlM3VW1qMGktVmZDcTFKOFRaUmZTV0NlZGxZV0VIUQ?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-09-29T05:08:55Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับสวัสดิการแรงงาน แต่เป็นข้อมูลเก่า ไม่มีข้อมูลปัจจุบัน",
+      "first_seen": "2026-09-28"
+    },
+    {
+      "id": "b6d2dc49",
+      "title": "The Reporters. . LIVE: นายกฯ ให้สัมภาษณ์หลังประชุม ครม. ตอบปมเงินเยียวยาน้ำท่วม",
+      "summary": "นายกรัฐมนตรีให้สัมภาษณ์หลังประชุมคณะรัฐมนตรี เพื่อตอบคำถามเกี่ยวกับเงินเยียวยาน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxQRzVFaE5TM0Y2aHhQZXMzbFQ2WVFnbDljWTFYaGtLUGk4ZHFKVVBMLXNPVUR5TlBQd2VmOG1tZV9wc3NoY3lTZnJOakl0SU1NWDZmUTVQdEpkWnBJaDFnR1p5ZEE0dmx1QW1RSjhrRkp4N3lzZUZYaEN5OVZjdmsxVmlRZ3FEVnlnRTRyM3lQc2VZU29yLWdQOWlJMUZRYzZtVzFQY2xnVGtHUjZZQ0RjRFU5cjB6RGJ3VDZrNE1ZWUdfY2VSVVYyVS0wdW1iWDFpd29zNlBJOXdILUZpcXpGV0JjRVY4bnBYdXZYQTYyd3VQandWU0ZqMDRfcUI5cndtQ1F2ZzcxODhBd21paUR3andfbXFEeU5PT3dnQVJQUmFwTlA3OEFMTWw1Z0x2UThIMXFkZkZ3SWtUUEhrTm9ldEp0UGl5dmFiYVlpOE9zUXVweHoxU0xBMGlvZFU1X0xzUmN5MzlmTGd3d2JQOHNIY3RCQ1NmdmhaN1pKeHZOOGF0M2EyS2dGT0V4QWlZUnMwSXpqcW1HT01Tb0xFc0JyZDV3Q3hHYlJzaFdMYUx1VHVxVEJqWFp0UXlzSndwNU12MWF0TS1hVmZ2TENDR0N5M2pDNXJNTnVuRWpLcS1vUTZ4NHhPR0d1U1Jqc21RTWN6bkFxWUJoMmdMQnBIV1NiMC1ZdWc1X1laX3p5RmNxWmZVeGg2WFd6eTRJSDVHWjNMRGJLc1F0X1NDMjJIU3VMbWFWLW96VUdmTHFjYnBTXzljRU92VWxMNlRTOVJVWFlhY0NmRDNMQnIxd0ZPVzJ3V0lqdVpkaDB5N3BCOGwxeWhzcm9TQmZsZUg0UXFpS0p4VU56aE5BZjZHbGQyUTFsSmhhMFlTMklXM2NrVEY4dm5yZWtNZFBDd1Q0SWZCakg3SFhtTmItUFA0aXY1MnZncVdTQkx6c2t2WV9MYVRvZ1ZmVWJqTXBrNk9zUGh6UmRwMklSZkQ4VzU3cDNQNnc?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-09-29T06:22:27Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข่าวประชาสัยการสัมภาษณ์ ไม่มีรายละเอียดเนื้อหา"
+    }
+  ]
+}
