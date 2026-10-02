@@ -1,0 +1,719 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T01:13:46Z",
+  "window": {
+    "from": "2026-09-30T23:11:26Z",
+    "to": "2026-10-02T01:11:26Z"
+  },
+  "stats": {
+    "fetched": 297,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 19942,
+    "ai_output_tokens": 16302,
+    "cost_thb": 3.7,
+    "runs": 1,
+    "kept": 46,
+    "eastern": 4,
+    "national": 42,
+    "new": 41,
+    "followups": 5,
+    "sources": 25
+  },
+  "items": [
+    {
+      "id": "ccec9f1a",
+      "title": "เริ่ม 8.00 น. ลงทะเบียนเงินเยียวยาน้ำท่วม 2569 ผ่านแอปฯ “ทางรัฐ” รับเงิน 9,000 บาท",
+      "summary": "เปิดลงทะเบียนเงินเยียวยาน้ำท่วม 2569 ผ่านแอป 'ทางรัฐ' เริ่มเวลา 8.00 น. วันที่ 2 ตุลาคม ผู้ประสบภัยได้รับเงิน 9,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3S2M0dlY0Vm9PVFdQLUVUZkpJOTBmTl9lTktIYTZNS0phcnpmOTBURjN5eVlsUmlUZzQ0VERHLWJHWVFtYVNxR0Q0bzU4WGpROVpkMFA3OWRRUUU?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-01T23:00:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 93,
+      "why": "นโยบายเยียวยาระดับชาติพร้อมจำนวนเงิน วันเวลา และช่องทางลงทะเบียนชัดเจน"
+    },
+    {
+      "id": "5b511750",
+      "title": "ลงทะเบียนเยียวยาน้ำท่วม ปภ. เปิดวันนี้ 2 ช่องทาง มีเงื่อนไขอะไรบ้าง",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยเปิดระบบลงทะเบียนขอรับเงินช่วยเหลือผู้ประสบอุทกภัยตั้งแต่ 15 พฤษภาคม–30 กันยายน 2569 ครอบคลุม 65 จังหวัดและกรุงเทพมหานคร ผ่าน 2 ช่องทาง",
+      "url": "https://www.khaosod.co.th/breaking-news/news_10422167",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-02T00:31:14Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายช่วยเหลือแบบเงินสดจริง ขอบเขตกว้าง ระบบลงทะเบียนเปิดแล้ว"
+    },
+    {
+      "id": "11511d50",
+      "title": "บัตรสวัสดิการแห่งรัฐ ตุลาคม 2569 ผู้ถือบัตรคนจน รับวงเงินซื้อสินค้า 1,000 บาท",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐ ตุลาคม 2569 ได้รับวงเงินซื้อสินค้า 1,000 บาท เป็นการช่วยเหลือคนจนในการใช้จ่ายรายเดือน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hMEtsb2xicUZ6aWhtMjFtU05OQmV1dFVidHZBdmx5b3hNMk83eEU1aV9CQWJGQXY1X0dhenhpVUZ5bzA5cHZ3dXNiald6YUNSUUdWcEJUTmFGVldM?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-10-02T00:04:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสดเข้าบัตรโดยตรง 1,000 บาท ถึงผู้ถือบัตรคนจนทั่วประเทศ"
+    },
+    {
+      "id": "0142e569",
+      "title": "ประกาศผล welfare.mof.go.th คนผ่านบัตรสวัสดิการแห่งรัฐ รัฐจ่าย 1,830 บาท",
+      "summary": "ประกาศผลการผ่านการตรวจสอบบัตรสวัสดิการแห่งรัฐ โดยรัฐจ่ายเงินช่วยเหลือ 1,830 บาทต่อคนที่ผ่านการตรวจสอบสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRcUtXTGJFSDJhZGx0aVRBNkI3dnlZczJxVmlnNE1KdE1VWG5FQVV0RUpnejZQdjBES0pHT3QyYVBIcXI3dERzX1dSVEx3NnhRelA0ZVMtVldfbHlrR2s3WTVkbWFiZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-01T20:28:15Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินสวัสดิการแห่งรัฐเข้าถึงประชาชนจำนวนมาก",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "90e7390f",
+      "title": "เปิด 2 ช่องทางลงทะเบียนเยียวยาน้ำท่วม 2569 รับเงิน 9,000 บาท เริ่ม 8 โมง วันพรุ่งนี้",
+      "summary": "เปิดลงทะเบียนเยียวยาน้ำท่วม 2569 ผ่าน 2 ช่องทาง เริ่มวันที่ 2 ตุลาคม เวลา 8.00 น. ผู้ประสบภัยจะได้รับเงินเยียวยา 9,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yRVBoMmJjZGhrNkFyakgwSGduR1l4Q1B5YXAzNXhRekx2enRIY3VGSGRDUE1TYkR5LXR3Rk1vY0lyTE9ZaXpTeXVreUExNWluQnFzNU40M3Y4eVk?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-01T15:11:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายเยียวยาระดับชาติพร้อมจำนวนเงินและวันเวลาเริ่มลงทะเบียนชัดเจน"
+    },
+    {
+      "id": "04fc07c3",
+      "title": "“สวัสดิการแห่งรัฐ” รอบทบทวนสิทธิ ผ่าน 1.75 ล้านราย เริ่มใช้ 1 ต.ค.",
+      "summary": "บัตรสวัสดิการแห่งรัฐรอบทบทวนสิทธิผ่านการตรวจสอบ 1.75 ล้านราย เริ่มใช้สิทธิตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0RW5xV2lpd01xVHRQckhzc1BxbWpmTW9Idm5sNHdEeGlVelVSZW1ET29zTUtHTHdNcFFwYlNiM21Lb0NjMUZrek5MVEg1VTJQbVg2ODhJNXY1dWJmUk5US1RRbw?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-10-01T04:11:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 91,
+      "why": "จำนวนผู้ได้รับสวัสดิการแห่งรัฐมากและเริ่มใช้สิทธิจริง"
+    },
+    {
+      "id": "7f5bdfc3",
+      "title": "เบตงคึกคัก! ผู้ถือบัตรสวัสดิการแห่งรัฐออกใช้จ่าย หลังรัฐโอนเงินช่วยเหลือ 1,000 บาทเรียบร้อยแล้ว",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐในจังหวัดเบตงออกใช้จ่ายเงินช่วยเหลือ 1,000 บาทที่รัฐโอนเข้าบัตรแล้ว แสดงการใช้สิทธิสวัสดิการของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Mk0wM29vTGxfRjdOV0NzSHI3dFJ0SHNLd1lMOTlzWVpGNmM2VWlSRktNajExUjF1WnlIOEhhbW14OXVjR1lyZEhFMXM4NUxOWmpzVm1HRU0?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-01T12:10:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินสวัสดิการแห่งรัฐเข้าถึงประชาชนจริง"
+    },
+    {
+      "id": "8ba9961e",
+      "title": "เงิน 1,000 บาท เข้าบัตรสวัสดิการแห่งรัฐ 2569 แล้ว 1 ต.ค. 69",
+      "summary": "เงิน 1,000 บาท เข้าบัตรสวัสดิการแห่งรัฐ 2569 ตั้งแต่วันที่ 1 ตุลาคม 2569 เป็นการช่วยเหลือคนจนรายเดือน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ScGhCWUFWdk5TcGN2R2xjUF9QQnRnc0U4emlJY0swOTYyaGs2bVJZZFVkSkFNWUNPS0hRdGNqdnVnSnppNjdiMHY0Z1o?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T00:32:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินสดเข้าบัตรโดยตรง มีวันที่ชัดเจน ถึงผู้ถือบัตรทั่วประเทศ",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "4d888490",
+      "title": "เปิดลงทะเบียนรับเงินเยียวยาน้ำท่วม 2569 ผ่านแอปฯ ทางรัฐ แล้ววันนี้",
+      "summary": "เปิดลงทะเบียนรับเงินเยียวยาน้ำท่วม 2569 ผ่านแอปพลิเคชัน 'ทางรัฐ' ของรัฐบาล เพื่อให้ผู้ประสบภัยสามารถลงทะเบียนได้สะดวก",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XWVBfdENFckt2RkI2MllPMmN3b3VUYkhoT2xPVmx1bG1iUWQtV3VHYlZQSktONU5xalNia0hFMURLZHhYdlFuYk5hWWk?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T22:00:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ช่องทางลงทะเบียนเยียวยาอย่างเป็นทางการแต่ไม่ระบุจำนวนเงินในข้อมูลนี้"
+    },
+    {
+      "id": "9e67df69",
+      "title": "เงินเยียวยาน้ำท่วม กทม. เปิดยื่น 2 ต.ค. 69 เช็กรายละเอียด-เพดานเงินช่วยเหลือใหม่",
+      "summary": "กรุงเทพมหานครเปิดรับยื่นเงินเยียวยาน้ำท่วมตั้งแต่ 2 ตุลาคม 2569 พร้อมรายละเอียดและเพดานเงินช่วยเหลือใหม่สำหรับผู้ประสบอุทกภัย",
+      "url": "https://www.prachachat.net/news/news-2074859",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-01T11:32:24Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินช่วยเหลือแบบเงินสดชัดเจน มีวันเปิดรับสมัครและเพดานเงินระบุ"
+    },
+    {
+      "id": "e57b0b3a",
+      "title": "เริ่มใช้สิทธิได้แล้ว! โครงการลงทะเบียนเพื่อสวัสดิการแห่งรัฐ ปี 2569",
+      "summary": "โครงการลงทะเบียนเพื่อสวัสดิการแห่งรัฐปี 2569 เริ่มให้ประชาชนใช้สิทธิได้แล้ว",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VSW0tOVBPRFd3ZDFkSHUtZi12Ukh6Zi1SYkZiWDVCSTVlOWoxUW5SSDRQR0FPM0lad01aWTl6azV0dnJ1X0o2S0trZ25yMHoxU1BMZGlmeXVkaUdHa1JsSWRn?oc=5",
+      "source": "AEC10NEWS",
+      "published_at": "2026-10-01T08:09:05Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "โครงการสวัสดิการแห่งรัฐเริ่มใช้สิทธิจริง"
+    },
+    {
+      "id": "1d9f862b",
+      "title": "ไทยช่วยไทย พลัส (เพิ่มเติม) รายเก่า-ผู้ไม่ผ่านบัตรคนจน กดรับสิทธิผ่านแอปฯ เป๋าตัง ได้เลย",
+      "summary": "โครงการไทยช่วยไทยพลัส (เพิ่มเติม) เปิดให้ผู้ไม่ผ่านบัตรคนจนและรายเก่าลงทะเบียนรับสิทธิผ่านแอปพลิเคชันเป๋าตัง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ibHh0V2RwakVXdGZNeURFX0xnMHVWZVNUSUdRbk9nclBqQTI1cjV0aVVWcWNRUmcyS1dxd3c5SHo0Rkg4a0RXWjI3U2VmSlgzRlZyWlByTTk0YmM?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-01T03:18:36Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 86,
+      "why": "โครงการช่วยเหลือเงินสดเพิ่มเติมสำหรับกลุ่มเปราะบาง"
+    },
+    {
+      "id": "bc5fddc3",
+      "title": "เช็กเลย! ปฏิทินเงินเข้าบัตรสวัสดิการแห่งรัฐ เดือนตุลาคม 2569 โอนเข้าวันไหน",
+      "summary": "ปฏิทินการโอนเงินบัตรสวัสดิการแห่งรัฐเดือนตุลาคม 2569 เพื่อให้ประชาชนติดตามวันที่เงินเข้าบัตร",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYOXRRdU02azBTZXBRaHl1ZFcwd3Z4R1FpcEc4SXJrbkFXWjlhRTl4UWJkX3g2eFp4MXJ5VTdvMmh1dEZPOUlOM2V5SUI?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T14:47:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ข้อมูลปฏิทินการโอนเงินสวัสดิการที่ชัดเจน"
+    },
+    {
+      "id": "5f00ad53",
+      "title": "เช็กสิทธิเยียวยาน้ำท่วม ปภ. เปิดลงทะเบียนผ่านแอป \"ทางรัฐ\" 2 ต.ค. นี้ 8 โมงเช้า",
+      "summary": "สำนักปลัดกระทรวงการคลังเปิดลงทะเบียนรับสิทธิเยียวยาผู้ประสบภัยน้ำท่วมผ่านแอปพลิเคชัน \"ทางรัฐ\" ตั้งแต่วันที่ 2 ตุลาคม เวลา 8.00 น. เป็นต้นไป",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFbHdzckxualhlNjVBcHQzMFdrTS1rNDI3MFEzYmVTQWtJZEdlcUJya1RRRC1wY3hldkE3c2RxSWt4MnVHaUhjU0d4N2MteW00WW94LUx3?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-10-01T14:06:13Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาชัดเจน ช่องทางลงทะเบียนสิทธิเยียวยาแบบเป็นรูปธรรม"
+    },
+    {
+      "id": "e4adde91",
+      "title": "เช็กเกณฑ์เยียวยา “ประกันภัยพิบัติ” เริ่ม 1 ต.ค.น้ำท่วมจ่าย 10,000 บาท",
+      "summary": "เปิดลงทะเบียนประกันภัยพิบัติเริ่มวันที่ 1 ตุลาคม ผู้ประสบภัยน้ำท่วมจะได้รับเงินเยียวยา 10,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wWTNxcTBJdlloR2RYUmRKVjZXenFqSXhmYmFPY2NLX214UGhLazRReHRjNnVRRkQ0dDlfQ2l3V3dhWTYzempEb3pYc1Q5cmVRb1JSVnl4Mlk?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-01T04:39:05Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายเยียวยาระดับชาติพร้อมจำนวนเงินและวันเริ่มต้นชัดเจน"
+    },
+    {
+      "id": "593c5073",
+      "title": "ยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ 2569 คนใหม่ เพื่อรับสิทธิบัตรคนจน",
+      "summary": "ผู้ถือบัตรสวัสดิการแห่งรัฐ 2569 คนใหม่ต้องยืนยันตัวตนเพื่อรับสิทธิบัตรคนจน ซึ่งเป็นขั้นตอนสำคัญในการเข้าถึงสิทธิประโยชน์ของรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rc3F3R05EUW1aNXkwVXJhYkk2bTBTTHFRaHk3WUdkRTBKX1NHSnJMUXg4WHUxQkRlS2hjcUVBUmhFLUQ3VWhEYnlraHBKWnMyWHpRSkp5Y2JXWTVW?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-10-01T03:06:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการสวัสดิการสำคัญสำหรับคนจน มีกระบวนการยืนยันตัวตนชัดเจน"
+    },
+    {
+      "id": "d5cd6ddf",
+      "title": "เตือน! อย่าลืมกดยืนยันสิทธิ “ไทยช่วยไทย พลัส” ส่วนผู้ถือบัตรสวัสดิการแห่งรัฐไม่ต้องกดยืนยันสิทธิ",
+      "summary": "เตือนให้ผู้รับสิทธิไทยช่วยไทยพลัสกดยืนยันสิทธิ แต่ผู้ถือบัตรสวัสดิการแห่งรัฐไม่ต้องกดยืนยันสิทธิ เพื่อหลีกเลี่ยงการสูญเสียสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0VHllb204MVIxX3R0SUR1dDFvT1E3V1E5T3h1Y0RyZHJIcTMweVRYbHhDRVI0dG4yTC1pVERiMi1XamltQWd4QWlnVUNWVS1l?oc=5",
+      "source": "one31.net",
+      "published_at": "2026-10-01T05:25:30Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "คำเตือนสำคัญเกี่ยวกับขั้นตอนการยืนยันสิทธิ ป้องกันการสูญเสียสิทธิประโยชน์"
+    },
+    {
+      "id": "c50c94fc",
+      "title": "เซ่นน้ำท่วมแล้ว 8 ศพ! ผู้ว่าฯ สระแก้ว สั่งเร่งเยียวยาด่วน 9 อำเภอ ลุยแจกถุงยังชีพช่วยชาวอรัญประเทศ",
+      "summary": "ผู้ว่าราชการจังหวัดสระแก้วสั่งเร่งเยียวยาผู้ประสบภัยน้ำท่วมใน 9 อำเภอ และแจกถุงยังชีพให้ชาวบ้านในพื้นที่อรัญประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41WGhJT2kzcm9naW03QWI1TVZqTTRha3Y1N0tvS0VvcGszaHZYM2ZELXpQalU1eXY1UGMwQmxjeXlFTDYyMm16bHdKYkh0Zm1RemU4ZQ?oc=5",
+      "source": "thaich8.com",
+      "published_at": "2026-10-02T00:57:09Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 80,
+      "why": "มีการแจกสิ่งของช่วยเหลือโดยตรงแก่ผู้ประสบภัยในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "0dfb098f",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เริ่มใช้สิทธิได้แล้วผ่าน 2 ช่องทาง เช็กชัดๆ มีค่าอะไรบ้าง",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 เริ่มใช้สิทธิได้แล้วผ่าน 2 ช่องทาง โดยมีรายละเอียดเกี่ยวกับสิทธิประโยชน์ที่ผู้ถือบัตรสามารถเข้าถึง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yMWU5ZE5QQmNEdmxCTUxlNHBfSl9hUkpJOU1PQ0E0aWNlVWh6QjZMa1Q0c1ZiYzE5anhjcUpPMXRDMGlVdWVfZm0wUURNNVYzT29jWFFCLTBfWG8?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ข้อมูลการใช้สิทธิบัตรสวัสดิการ มีช่องทางการใช้งานชัดเจน",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "f5fcc2f8",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 คนใหม่ เริ่มใช้วันไหน หมดเขตยืนยันตัวตน เมื่อไหร่",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 คนใหม่มีวันเริ่มใช้และหมดเขตยืนยันตัวตนที่กำหนด ผู้สมัครใหม่ต้องทำตามกำหนดเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wOHp1SVNqRkxTSDJkQjdOdFdOVzBIQmhwSUpudmVaT2JSeHMxQ1RWLXgxeV9oa1Y2S2NiUU5OM2k2QkhSay1uRVVtaFc?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T04:08:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 79,
+      "why": "ข้อมูลกำหนดเวลาสำคัญสำหรับผู้ถือบัตรคนใหม่"
+    },
+    {
+      "id": "000cf67a",
+      "title": "อย่าลืม!! กดรับสิทธิ์ \"ไทยช่วยไทยพลัส เพิ่มเติม\" 1-15 ต.ค.นี้ #ไทยช่วยไทยพลัส #ลงทะเบียน #ร้านค้า #ค่าครองชีพ #มนุษย์เงินเดือน",
+      "summary": "เตือนให้ประชาชนรีบกดรับสิทธิ์โครงการ \"ไทยช่วยไทยพลัส เพิ่มเติม\" ในช่วงวันที่ 1-15 ตุลาคม 2569 สำหรับผู้มีรายได้น้อยและผู้ประกอบการรายย่อย",
+      "url": "https://news.google.com/rss/articles/CBMiuwdBVV95cUxQS0t2YXhOTU5aT3h2ZWxxanNidGxxdU5ybDhIQ0NKRnFBNmdEZUgzSzNRRWI3RjZ3ZWJKbXB6TktqcHZiVDhKUWV3VXBIVzdSSWRMRlBHcGFaQVczekNzVC1pMFpMMTI3a0pLbGcwVTdSekFQRk1kNE8yZXdxWjluY1I0VzBFc24xeVluY1RoVGxJT1JsZzE1Mjd0MkJtdVR0QnM3THBhZkUtaGNESlZNY19ieUZHNFJ1TXpfM1hISnh1MDVSQ215c0lRVElRVXgyRmMzWGlaajNickdpQVVsN2NseHhSd0VVRlByaFBKb1VXcTdHR185cjlhWE4zaEwwXzQyWnJpSmE4alB1U1hsMGNFaVo5ZEliR3NRSEZIbUpueTY5cElveXoybkVSMkU2ek9ubVlwdEQtaFA4TmtoaEFySFR1bTgxdl9vbERtMzJ2VEd6bXA2TGxtc0NHbC0zOVJ3T2xlYWpLeWUxeWYwamRoTDhPVjBMOUQzcHQzY2lVeTBQUGYybVFjM2ZEeEhLdHJ2OTJJaWM4dUMxYWdwOVp3QXZ1QXNOelhDRjJxNXVWckFyYTcwMW8wdXJOS1dnVWI5WE55OHVLbHBlaUlkNnByN1NMRU5UM0J1dG1VdDZ6NGdjdC1GYjZhNENuRDJPTUpjMnRwQng1b2Npb1A3Z2d4LUdEY3VDbkFMTk53WHBDTUpaaVhJYVprNFJQVDlfWVhGbnBGcEhtaEZWTmx1VEtwLVM3ZWhpVlNYNzhaV0Y3U09mNDMyYmo1V1lIcFBSSzN2VUc1NXVvRGZFOHJsWHVCSGFCbmVDMEJwM3dXUDdEMmh6R1dZOVkyNlpUQ3h0S3Rac25idHhDYUZsV1pNSWpxbnhIblFvelhRRzJjZExzcG1IZGFsSEtiN2J6bjlwNEw3bjJUYVRwZnMxZWhJVXpTaUgtNy1CUzNHcTFmNVM0SzF3UXd6RVdwYjdIdDUzMjJybGhRdFpkVEZ4VWM2c2NLSXJueHRpdmp5bTFWa2FVZU1BekFsODlsNDh6TElvWW56WFlJSmZVZHlOeWw4ak5pME0wMDF3WEJTdjJwekg2Qk5FZkJQR1BUT3lfb0pIVUc0cTFMR09jd0RMZEVHSUJKNXd3Vml6YTI0ZkRlU1BXdjk1WXk4NXFzSHpJSjRXUWZNVFBwRzFabHduSTVlc3lGcWRvSklzME82aWEwUGpuajA3dDFLMS1oN3ItWE9vazF4R3ZhYzNDdU5pOEFzVWRfSEE1dy0tN3pn?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-10-01T07:32:20Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีกำหนดเวลาชัดเจน เป็นการเตือนการรับสิทธิ์เงินสดช่วยเหลือ"
+    },
+    {
+      "id": "95705f37",
+      "title": "จัดเครือข่ายใหม่รองรับผู้ป่วยบัตรทองกว่า 6.1 หมื่นคน หลังหน่วยบริการปฐมภูมิ 4 แห่งหยุดบริการ 1 ต.ค.",
+      "summary": "สำนักอนามัยกรุงเทพและสปสช.เขต 13 จัดเครือข่ายใหม่รองรับผู้มีสิทธิบัตรทองกว่า 61,876 คน หลังหน่วยบริการปฐมภูมิ 4 แห่งหยุดให้บริการตั้งแต่ 1 ตุลาคม 2569",
+      "url": "https://www.hfocus.org/content/2026/10/39718",
+      "source": "Hfocus",
+      "published_at": "2026-10-01T06:22:05Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีการจัดระบบสุขภาพใหม่เพื่อรองรับผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "1526278c",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เช็คสิทธิ์รายชื่อคนผ่าน-ไม่ผ่าน ได้แล้ววันนี้",
+      "summary": "ผู้สนใจสามารถเช็คสิทธิ์รายชื่อบัตรสวัสดิการแห่งรัฐ 2569 ว่าผ่านหรือไม่ผ่านการคัดสรร เพื่อทราบสถานะการได้รับสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VRldTRE5jQTBZXy10RUhBUnVpU0NqUkRhOFowWXdTMWw1YkdhVTY5eUpjdTF2ZTdRYWh2czRsOV9heHdlMlNXZEY5M04?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T04:03:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ข้อมูลการตรวจสอบสิทธิบัตรสวัสดิการ ช่วยให้ประชาชนทราบสถานะ",
+      "first_seen": "2026-09-30"
+    },
+    {
+      "id": "2151fa89",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 รูดซื้อของ-ใช้บริการผ่าน 2 ช่องทางไหนได้บ้าง",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 สามารถรูดซื้อของและใช้บริการผ่าน 2 ช่องทาง ให้ผู้ถือบัตรเลือกใช้ตามความสะดวก",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XSVV1ZW9kbUFmeG9ob2Y5VHczOHZJc3NDTWJ5QW8tazlTNUI1UUF5NXlBQ0dfelprV3NtUVpMUTVsSWd2ZVQ1X3MtZ04?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T01:10:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "ข้อมูลช่องทางการใช้บัตรสวัสดิการ มีความสะดวกในการเข้าถึงสิทธิ"
+    },
+    {
+      "id": "b8b9f8bc",
+      "title": "รมว.พม.เกาะติดน้ำท่วมกรุง กำชับการเคหะแห่งชาติ เร่งบายพาสระบบประปา ทำแผนฟื้นฟู-เยียวยา บรรเทาความเดือดร้อนกลุ่มเปราะบาง-ปชช.หลังน้ำลด",
+      "summary": "รัฐมนตรีพัฒนาสังคมติดตามสถานการณ์น้ำท่วมกรุงเทพ สั่งการเคหะแห่งชาติเร่งแก้ไขระบบประปา และจัดแผนฟื้นฟูเยียวยาบรรเทาความเดือดร้อนกลุ่มเปราะบางและประชาชนหลังน้ำลด",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Y25QeHNyYkd3S0FfQWwzbnNDVG5ha1FjSWpydFhfbnFraTB4d2J1YnYtRkV5dllVS2Mwd3lSTnZXMWNsak16R3JyVGtYck5zbTNRMENOamY?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-10-01T08:59:26Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการสั่งการเฉพาะเจาะจงเพื่อบรรเทาความเดือดร้อนกลุ่มเปราะบาง"
+    },
+    {
+      "id": "98977ee0",
+      "title": "‘ชนก จันทาทอง’ ผู้ช่วย รมว.พม. ลงพื้นที่คลองจั่น มอบถุงยังชีพ ดูแลผู้สูงอายุติดเตียงใกล้ชิด . เมื่อวันที่ 30 กันยายน 2569 นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ มอบหมายให้ นางสาวชนก จันทาทอง ผู้ช่วยรัฐมนตรีประจำกระทรวงการพัฒนาสังคมแ",
+      "summary": "ผู้ช่วยรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมลงพื้นที่คลองจั่นเพื่อมอบถุงยังชีพและดูแลผู้สูงอายุติดเตียง ตามนโยบายของรัฐมนตรีว่าการกระทรวง",
+      "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxOeTFuYVVqUGc1N1d1aHhOWWQtQnhxcHBERDNlZFdIS0NBdTZwQ0ozcnpreUppNzM2VlM3OGZ0Y0ZRbG9TclE1NWFsNTJyMXR6dDliQ292bndpVHV3NEdEUUZsb3FLckxVdDNCcGtfN2E4OG1qRXNqSnphcWFDMmJFY2xpb0JzLXRJLVA3ZUcxRGp0aEdzNTBzelp4MGM4VGY2azFySDR2Rzk5d1FVZENvOTFCdzJtWEl2bXR2ZFp2Qks2UHozdjR0dFJBUGc1NGM3VFVHbG9HVkVMSHBCckRYUTVmOVFTeDhSME1JeTl2d2x1X0VJbjR6TkMxSDhlNHBNMkdLRkU4eTlqUWZkVGRiM2o5WjFnQ0t1eENhVjRvX3NEeDJuaUxrOG5vWUVGbXY1cXNBbVMyZkV2WWl2cVltWU5PMl9fVWJmRkJUblVGOHhxWnF5bEoyUzN5ZFRhcUxzelV2SUpaa2xzZVVjTzV6VkZHaTR4OFR5c2M4NUdCZXA1VWtxLU9jVWh2MjNKUXNkdlJwT241V1lLZWFMUl9aZm1hVTFhU1p4SzBDYXFwejItaDdULVVNcGFGQVdsV0VTY21MX3JEYy1yTnVhOFlLVEdBMTA0T0R5WmVzZ29STE0zUHFZWHNuZlJiYU1hbWdqdHNNUnZ6SVlFYmVJU1M1LU5uZUtxREplV1FQeWhIbkszQTByT0lpWEpqb0FDbTktNE9oMGhxWTM3UVduam9EeVI5VzUtSlZlaDN0dXlDcFFqNUY0ZjhVU28wSW40RzJVa1prcnRJd3MyWEp5Zm9Gd01VdGx1U0x1N3VPWVlfSWZlSzRUX1pVbEU5ZDVWSXdUWGhTMFBZc3VPOFREay0tMnVhQWdfUTBYV3p0NV9OdWFQdmUzOFFuX2NyeTBhaUk1VS1MZXdqcEFsdkFEV2x2ejBrSVM3WDF3dmNqb3VPM1NtRVRtS0JZTDN4SzVFT2tBanZGOGJOVXZCcE1CZEEzZHQzRVYwcDN3QVVWVWVOLURINVZVQ0tfZkRKOERFbERMenEyWlI3akVTWDc1LVFtTzBJbEhLemlJcVdsYzhEeWVGUTVPNmg0N28wUFZSMHFLUlF2TGZZWVF5MC1HcGtQczJEdkpCTTRKaWUwNnlIN3B3d2xONHhrREliUzIzOU1iQzBHYWRzaGNFVDBib1NqM0R5U2RGMW5jOThmVzhocmVEalhGei1PR2JneGJEekFBT19iVjM0amhob0RCaHdidTRydjZMN3U0UmZzZXN0cW5nS2FIV09Gb2pHTzlkSkdzUkZjTEF4emgwM3ZwcnlEZ0wzTzYxQ1E3Y0VvLU9UYks?oc=5",
+      "source": "facebook.com",
+      "published_at": "2026-10-01T07:59:47Z",
+      "category": "elderly",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการมอบสิ่งของช่วยเหลือโดยตรงแก่ผู้สูงอายุในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "7a48673a",
+      "title": "เช็กเงินเยียวยาน้ำท่วม 9,000 บาท ปี 2569 ใครได้บ้าง น้ำท่วมกี่วันถึงมีสิทธิ ลงทะเบียนที่ไหน ?",
+      "summary": "ข้อมูลเกี่ยวกับเงินเยียวยาน้ำท่วม 9,000 บาท ปี 2569 รวมถึงเงื่อนไขการได้รับสิทธิ ระยะเวลาน้ำท่วม และวิธีการลงทะเบียน",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BbDFtczZORWhybHROVWVJRzhBbVFtem5EN1p6T1lZSmNqSE5Ealh6NmQ4Mi0xeHRLYlhnbGJZd2hOcVlHYUxPbXl3ZjdWekZDY2c?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-10-01T04:37:20Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เงินช่วยเหลือแบบเงินสดชัดเจน แต่เป็นข้อมูลอ้างอิงไม่ใช่ประกาศใหม่"
+    },
+    {
+      "id": "716f6a4d",
+      "title": "ครม. เคาะ 1.2 พันล้าน เติมสภาพคล่อง กยศ. ปี 70 รับเงินอีก 9 พันล้านบาท",
+      "summary": "คณะรัฐมนตรีอนุมัติงบประมาณ 1.2 พันล้านบาท เพื่อเติมสภาพคล่องกองทุนเงินกู้ยืมเพื่อการศึกษา ปีงบประมาณ 2570 และเพิ่มเติมอีก 9 พันล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jWjI2NFJiWkxGcnZLOHp4Y0pubk4xRVRiR09EVjRPNWZKU2FWSlJwalBJbDZoRmtRUFhTV3FBUG5KQ0tKeFFHeUdWN3NZR0plcE13?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-10-01T02:48:57Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีจำนวนเงินชัดเจน เกี่ยวข้องกับการศึกษาของเยาวชนรายได้น้อย"
+    },
+    {
+      "id": "5b57fe97",
+      "title": "เยียวยาน้ำท่วม รอบนี้ยัง 9 พันบาท | เนชั่นทั่วไทย | 1 ต.ค. 69 | PART 1",
+      "summary": "รายการข่าวรายงานเกี่ยวกับเงินเยียวยาน้ำท่วมรอบนี้ยังคงอยู่ที่ 9,000 บาท สำหรับผู้ประสบภัยน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UTFJsX3pLZ0dKWk14b1R2amEwbk9sY2FBakhXWmJ6UVFNNjlvX3BxeXg1YnhxZTRrb2o1MnZCTm9VWFVFQ1BudWFaUUF1R1lpTGY2d2hCbllXWVZwUWp2QnQ5YkQ?oc=5",
+      "source": "nationtv.tv",
+      "published_at": "2026-10-01T02:38:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ข้อมูลเกี่ยวกับจำนวนเงินเยียวยาแต่เป็นรายการข่าวทีวี"
+    },
+    {
+      "id": "5b9d365a",
+      "title": "ไทยช่วยไทยพลัส กดรับสิทธิผ่านเป๋าตัง ถ้ามีบัตรสวัสดิการแห่งรัฐต้องทำยังไง?",
+      "summary": "โครงการไทยช่วยไทยพลัส สามารถกดรับสิทธิผ่านแอปพลิเคชันเป๋าตัง ผู้ถือบัตรสวัสดิการแห่งรัฐมีขั้นตอนการใช้งานเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YX09JSTVGdU92ZjQtZXFPdmZDbkVocVYzTXhESWVkNnJodlJ4UUVsaS1XdEVXYjluSms1cm9wWktiZTloZEhvdmxhbkFTRE05Z2R3?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-01T02:19:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการสวัสดิการเพิ่มเติม มีช่องทางดิจิทัลสำหรับการเข้าถึงสิทธิ"
+    },
+    {
+      "id": "ad101750",
+      "title": "บัตรคนจนเริ่มใช้วันแรก แห่เข้าคิวรอเช็กสิทธิ ชาวบ้านน้ำตาซึมโอดหลุดเกณฑ์ กลายเป็นคนรวย",
+      "summary": "บัตรคนจนเริ่มใช้วันแรก ประชาชนแห่เข้าคิวตรวจสอบสิทธิ บางคนไม่ผ่านเกณฑ์การได้รับสวัสดิการ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMGczejhxdTdmeXJPSjNGZ0NjaS15UUZQOEctTEc2Y0ZQR3BWTVk3bFp4eUw1YnBiU3Z2cklTcEp5RnBYTEIxaVYwei1yZkpncWozQ214dmFJdw?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-01T06:21:38Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข่าวการใช้บัตรคนจนแต่มีประชาชนไม่ผ่านเกณฑ์"
+    },
+    {
+      "id": "c2abf57c",
+      "title": "ชาวมหาสารคามแห่เช็กสิทธิ-ยืนยันตัวตน ‘บัตรสวัสดิการแห่งรัฐ’ แน่นธนาคาร",
+      "summary": "ชาวมหาสารคามแห่เช็กสิทธิและยืนยันตัวตนบัตรสวัสดิการแห่งรัฐ ธนาคารแน่นไปด้วยผู้มาทำรายการ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUakhTX2o4c1daV0ZONFNJRHd5OFpXSjFxTlE4R2F1UGNfQXprX1ZyeDFsbjN4NHliMTlRbUdza1paRWU1c0c1Y09qclJaUDhJNlZF?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-01T05:15:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "มหาสารคาม"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อมูลการใช้บริการในพื้นที่เฉพาะ แสดงความสนใจของประชาชน"
+    },
+    {
+      "id": "5e8c27c6",
+      "title": "ภราดร เล็งรื้อโครงสร้างดอกเบี้ย กยศ. แยกผู้กู้มีวินัย-ผิดนัดชำระ อุดรูรั่ว รับรองความจน",
+      "summary": "รองนายกรัฐมนตรีเสนอปรับปรุงโครงสร้างดอกเบี้ยกองทุนเงินกู้ยืมเพื่อการศึกษา โดยแยกผู้กู้ตามวินัยการชำระหนี้ และเพิ่มการรับรองความจน คณะรัฐมนตรีอนุมัติงบประมาณ 1,206 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13aE45RzhXcGZsNGpvQ3UyX2x2RnRZOVAtdlZZLXIxWUstMEZCbG9LQ3h3a09MZHdDRnNGUXFPMmtITlR6MlloVFNhS1hPYk94aG1EZmczdHotUFo3?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-01T04:14:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีมาตรการปรับปรุงสิทธิประโยชน์ แต่เป็นข้อเสนอที่ยังอยู่ในระหว่างพิจารณา"
+    },
+    {
+      "id": "17b5ee8f",
+      "title": "ผู้ว่าฯ ชัชชาติ ยัน กทม. ไม่ได้ยกเลิกแก้มลิง ย้ำเงินเยียวยาน้ำท่วมตามหลักเกณฑ์ ปภ.",
+      "summary": "ผู้ว่าฯ ชัชชาติ ยืนยันว่ากรุงเทพฯ ไม่ได้ยกเลิกแก้มลิง และเงินเยียวยาน้ำท่วมจะจ่ายตามหลักเกณฑ์ของสำนักปลัดกระทรวงมหาดไทย",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yMkJ5QjFoZE02UGpSbzFNd3JaSzNpY3d0c2wwOFRBV2d1MFlxcVhRc3BwVV9kSkpZdTJsOUcyN3kxS1ZzN0pSazRISElKeEl5WVBIZFZxSXZIeU9RSHpv?oc=5",
+      "source": "springnews",
+      "published_at": "2026-10-01T02:00:01Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การชี้แจงนโยบายเยียวยาน้ำท่วมแต่เป็นการตอบโต้ข้อมูลข่าวสาร"
+    },
+    {
+      "id": "694afad7",
+      "title": "สธ.เสนอร่าง พ.ร.บ.อสม. 65 มาตรา ยกระดับสิทธิ-สวัสดิการ คุ้มครอง อสม. เดิม",
+      "summary": "กระทรวงสาธารณสุขเสนอร่างพระราชบัญญัติอสม. ที่มี 65 มาตรา เพื่อยกระดับสิทธิและสวัสดิการ รวมถึงการคุ้มครองอสม.เดิม ก่อนเสนอคณะรัฐมนตรีและรัฐสภา",
+      "url": "https://www.hfocus.org/content/2026/10/39722",
+      "source": "Hfocus",
+      "published_at": "2026-10-01T07:37:13Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เป็นร่างกฎหมายเพื่อปรับปรุงสิทธิสวัสดิการ แต่ยังอยู่ในขั้นเสนอ"
+    },
+    {
+      "id": "b3098968",
+      "title": "น้ำท่วม 2569 ประกันสังคมช่วยอะไรบ้าง? เช็ก 4 มาตรการเยียวยา ผู้ประกันตนต้องรู้",
+      "summary": "ข้อมูลเกี่ยวกับมาตรการเยียวยาจากประกันสังคมสำหรับผู้ประสบอุทกภัย 2569 รวม 4 มาตรการที่ผู้ประกันตนควรทราบ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtZ3BKeUUyUUx3Y1lXRjUtSnRLZldOYVNVTTRzX01rUFo2LW5SemVpWDM0eHJzaFpSdEd2MGh0cnFUUnNZbUlMOEJpN2g?oc=5",
+      "source": "Sanook.com",
+      "published_at": "2026-10-01T06:08:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องกับสวัสดิการแรงงาน แต่เป็นข้อมูลอ้างอิงไม่ใช่ประกาศใหม่",
+      "first_seen": "2026-10-01"
+    },
+    {
+      "id": "528cd028",
+      "title": "ร้านยาบัตรทอง ‘DD health store’ ด่านหน้าดูแลสุขภาพเบื้องต้น ช่วย ‘ผู้ประสบภัยน้ำท่วม’",
+      "summary": "ร้านยา DD health store ใช้บัตรทองเป็นช่องทางให้บริการสุขภาพเบื้องต้นแก่ผู้ประสบภัยน้ำท่วม 16 หมู่บ้านในตำบลตะพง จังหวัดระยอง พร้อมขอเพิ่มโควตาการให้บริการ",
+      "url": "https://www.hfocus.org/content/2026/10/39724",
+      "source": "Hfocus",
+      "published_at": "2026-10-01T08:32:50Z",
+      "category": "disaster",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "เป็นการให้บริการสุขภาพแก่ผู้ประสบภัย แต่เป็นการดำเนินการของหน่วยบริการเดี่ยว"
+    },
+    {
+      "id": "3bff4bf2",
+      "title": "ถ่ายรูปเก็บหลักฐาน น้ำท่วมวันนี้ รับเงินเยียวยาน้ำท่วม 1 แสนบาท",
+      "summary": "ผู้ประสบภัยน้ำท่วมควรถ่ายรูปเก็บหลักฐานความเสียหายเพื่อใช้ในการขอรับเงินเยียวยาน้ำท่วมสูงสุด 100,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDejc1alFFYWhMS2t4WlRXampsVEFQWDFFT2MwMnktdHN2Q3NmNnZvOUZDYWR1SjlZQVVKU1lubV9PSElHbnJ2alo5LWNPelBCdHB2dFpFQXdtZVd3SU9GdUU5R09rUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-01T03:42:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข้อมูลเกี่ยวกับเงินเยียวยาแต่เป็นคำแนะนำขั้นตอนเท่านั้น"
+    },
+    {
+      "id": "58aeb29e",
+      "title": "\"มดดำ\" สงสัย \"บัตรคนจน\" คนจนจริง แต่ถูกตัดสิทธิ์ | 1 ต.ค. 69 | ข่าวใส่ไข่",
+      "summary": "มีข้อสงสัยเกี่ยวกับการตัดสิทธิ์บัตรคนจนสำหรับผู้ที่มีรายได้ต่ำจริง ๆ ซึ่งเป็นปัญหาในการบริหารจัดการสิทธิประโยชน์ของรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWmR3VTZUcU85SVhCS0RVaUZlc0tBOE14SkVPTmZyYTZHVmp2Uk5sWmJqS0tOSEN1UmxVOEFCaXd5MlB5RFFDMDRBTUZKSzRRcHZiT2NNS1JkUQ?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-01T14:12:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับบัตรคนจน แต่เป็นข้อสงสัยไม่ใช่นโยบายชัดเจน"
+    },
+    {
+      "id": "3f5c5989",
+      "title": "แรงงานฉะเชิงเทรา รวมพลัง 5 หน่วยงาน เยี่ยมผู้ประสบภัยน้ำท่วม พร้อมมอบของบรรเทาความเดือดร้อน",
+      "summary": "หน่วยงาน 5 แห่งในฉะเชิงเทรารวมตัวเยี่ยมผู้ประสบภัยน้ำท่วมและมอบสิ่งของบรรเทาความเดือดร้อน เพื่อช่วยเหลือผู้ได้รับผลกระทบจากภัยพิบัติ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xdFF1YjVUT0NVSXlUbEk0Nmxzelhrd0hvOFhTcEE4SGJManVPN3NtTlgzcVAwTmVVR0JHYS1SVWtrbEZzMjY4c2hGV09OczQ?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-10-01T13:17:45Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 65,
+      "why": "การช่วยเหลือผู้ประสบภัยแต่ไม่ระบุจำนวนเงินหรือรายละเอียดชัดเจน"
+    },
+    {
+      "id": "b0ceec2e",
+      "title": "กมธ.ติดตามงบฯถกปมกยศ. \"ไอซ์\" ซัดรมต.ขี้โม้จัดงบไม่พอหวั่นเด็กหลุดระบบ แฉม.เอกชน \"N\" สวมสิทธิ์ผันเงินหมุนอุ้มมหาวิทยาลัย",
+      "summary": "คณะกรรมการติดตามงบประมาณพูดคุยเรื่องปัญหากองทุนเงินกู้ยืมเพื่อการศึกษา โดยมีความกังวลว่าเด็กอาจหลุดออกจากระบบการศึกษา และมีข้อสงสัยเกี่ยวกับการจัดสรรเงินของสถาบันเอกชน",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80YnZPM3N3LWozMFBXc3I1c1ZOdDFSclprMklJOGxyRU1XQ1ZDeHpNa2w1TEFXWldDSW5ha3VBbFBKSE45anotRk1aUmR1VE50M3dTMFE1YnQ4akthNVh1dQ?oc=5",
+      "source": "mgronline.com",
+      "published_at": "2026-10-01T07:47:00Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นการถกเถียงปัญหา แต่ไม่มีมาตรการหรือการตัดสินใจชัดเจน"
+    },
+    {
+      "id": "d554f066",
+      "title": "พลิกฟื้น ‘รพ.เปือยน้อย’ ใช้ ‘บัตรทอง’ สร้างการเติบโต จัดบริการกึ่งเอกชนในราคา รพ.รัฐ",
+      "summary": "โรงพยาบาลเปือยน้อยใช้บัตรทองเพื่อสร้างการเติบโต โดยจัดบริการกึ่งเอกชนในราคาเดียวกับโรงพยาบาลรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xcFVYdjhUR0JFaHJYdmFTa2Yxd3BzTTI1TThIUlFxLTI2cG5MMjMyZ3lfQlkzUk9lLVc0OHp2RGhLYlppRUVQdEVLUThfOWRlQXRmTl9HNTh0bWc?oc=5",
+      "source": "thecoverage.info",
+      "published_at": "2026-10-01T04:33:43Z",
+      "category": "health",
+      "provinces": [
+        "เพชรบูรณ์"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบัตรทองและสวัสดิการสุขภาพแต่เป็นเรื่องการบริหารโรงพยาบาล"
+    },
+    {
+      "id": "1e4e4368",
+      "title": "การปรับขึ้นค่าแรงขั้นต่ำในระดับภูมิภาคจะเป็นพื้นฐานให้คนงานสามารถเจรจาต่อรองเพื่อขอค่าจ้างที่สูงขึ้นได้",
+      "summary": "การปรับขึ้นค่าแรงขั้นต่ำในระดับภูมิภาคเป็นพื้นฐานให้คนงานเจรจาต่อรองเพื่อขอค่าจ้างที่สูงขึ้น แต่ข้อมูลมาจากแหล่งข่าวต่างประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0JKMmVaeEZuYVRaLWVFcjNicnc4NWctdWktTnRHOHY5aERHdUJYU2t4YnprM09BY2stX1JUOUpIRlFpVkY2dUM1cU9IU1JVbDNwSmVYb2pnUXBZV1I4bFZKNjFhMzZJX2VGUnBBRzhqWjUzcXdpQlVMUHJGMklwdTVBX251Z3BKdDR6eUJPT0lEZHBLblFYa0FQa25hUG5aZDA3TkRkaTJaNHpsM293?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-01T02:41:03Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องค่าแรง แต่ไม่ชัดเจนว่าเป็นนโยบายไทยหรือต่างประเทศ"
+    },
+    {
+      "id": "d803b19c",
+      "title": "ลงทะเบียนไม่ทันก็ไปเลือกตั้งบอร์ดประกันสังคมได้! ทำไมประกันสังคมสำคัญต่อแรงงานทุกคน?",
+      "summary": "ข้อมูลเกี่ยวกับการลงทะเบียนประกันสังคมและการเลือกตั้งบอร์ดประกันสังคม พร้อมอธิบายความสำคัญของประกันสังคมต่อแรงงาน",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xQlkyVDBzTURYZUZlb2RpS3pJVWNGZTB3RFRzNjlzQ2NaNnYtUVNZQUhrTTJIWlVCME9NcjBwZzRkTE9nWU13MEdyZGZNbjhlTmVsTjdvaWpQeER0SWVNeEFXaDhzZXJRQ1RB?oc=5",
+      "source": "springnews",
+      "published_at": "2026-10-01T09:55:28Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องสวัสดิการแรงงาน แต่เป็นข้อมูลทั่วไปไม่ใช่นโยบายใหม่"
+    },
+    {
+      "id": "83c6a306",
+      "title": "“ไอซ์” ฉุนสื่อถามน้ำท่วม อยากดันประกันสังคม-กยศ.",
+      "summary": "ข่าวเกี่ยวกับการตอบสนองต่อคำถามเรื่องน้ำท่วมและการช่วยเหลือจากประกันสังคมและกยศ. แต่ไม่มีรายละเอียดเนื้อหา",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55aVBwbjBfdUYyZGlrbzNzdGhTcHRTVER5SHhqTXF4cFdNS3JIWUVSSVJKbXhaMlJOS2l4YmRXMzhjNXJNYzY0QTAyazNnSFNv?oc=5",
+      "source": "one31.net",
+      "published_at": "2026-10-01T07:19:21Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องสวัสดิการ แต่ข้อมูลไม่ชัดเจน เป็นข่าวเกี่ยวกับปฏิกิริยา"
+    },
+    {
+      "id": "11b03005",
+      "title": "น้ำท่วมเสียหาย 22 ล้าน ‘อมตะ ชลบุรี’ หยุดผลิต 34 โรงงาน เร่งพักหนี้- เติมทุน",
+      "summary": "น้ำท่วมเสียหาย 22 ล้าน ‘อมตะ ชลบุรี’ หยุดผลิต 34 โรงงาน เร่งพักหนี้- เติมทุน bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiWGJ3TDZoZkNBUnlmenJ4SkN1a2xVYXZ5U0NkeE9JUldyUEJkM2ZUS29yTS01LVJWSFVtbkhQTXpzVXktZGVjTHdmbDNETDhTb2xBbHZMRzhSSkZC?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-01T11:07:00Z",
+      "category": "debt",
+      "provinces": [
+        "ชลบุรี"
+      ],
+      "eastern": true,
+      "score": 40,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
