@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "date": "2026-10-06",
-  "fetched": 294,
+  "date": "2026-10-07",
+  "fetched": 271,
   "kept": 56,
-  "eastern": 4,
+  "eastern": 13,
   "runs_today": 1,
-  "ai_input_tokens": 17595,
-  "ai_output_tokens": 12946,
-  "cost_thb": 3.0,
-  "generated_at": "2026-10-06T01:13:22Z",
+  "ai_input_tokens": 20779,
+  "ai_output_tokens": 13548,
+  "cost_thb": 3.23,
+  "generated_at": "2026-10-07T01:15:23Z",
   "errors": [
     "ไทยรัฐ: HTTPStatusError"
   ]
