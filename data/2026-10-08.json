@@ -1,0 +1,689 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T01:15:49Z",
+  "window": {
+    "from": "2026-10-06T23:13:20Z",
+    "to": "2026-10-08T01:13:20Z"
+  },
+  "stats": {
+    "fetched": 273,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 22511,
+    "ai_output_tokens": 15667,
+    "cost_thb": 3.68,
+    "runs": 1,
+    "kept": 44,
+    "eastern": 7,
+    "national": 37,
+    "new": 43,
+    "followups": 1,
+    "sources": 27
+  },
+  "items": [
+    {
+      "id": "227bb799",
+      "title": "“อนุทิน” เร่งจ่ายเยียวยาน้ำท่วม 9,000 บาท โอนแล้วกว่า 94 ล้านบาท",
+      "summary": "อนุทินเร่งจ่ายเงินเยียวยาน้ำท่วมจำนวน 9,000 บาทต่อครัวเรือน โอนเงินแล้วกว่า 94 ล้านบาท ถึงผู้ประสบภัยทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ESzFRTUNwaFhjM1RTLWdfWUxWbVNXSGlUTURIVnZFZFFVZmh5aGluanZteWNrNk5PUU4yYXB4eHBmSEJVODBsMDFleTROV2I0ZDk1S3Fn?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-10-07T08:47:52Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินเยียวยาจำนวนมากถึงผู้ประสบภัยโดยตรง มีตัวเลขชัดเจน"
+    },
+    {
+      "id": "e304e612",
+      "title": "นายกฯ เร่งจ่ายเงินเยียวยาน้ำท่วม อนุมัติจ่ายแล้ว 10,400 ครัวเรือน สั่งภาคใต้เร่งเตรียมการรับมือ",
+      "summary": "นายกรัฐมนตรีเร่งจ่ายเงินเยียวยาผู้ประสบน้ำท่วม อนุมัติจ่ายแล้ว 10,400 ครัวเรือน สั่งภาคใต้เตรียมการรับมือเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT3NMaUd2cDN6Zm9sWkgzeHNvRnpoWVIwWE9iN3pJT1FyeXpldi1iVnN0NTltVThZZ2pyRkh2SlZBYW1uRF9TMkpTbHVCRTJjTDUyT3l3YlFubEJBZFBrMEQyQlBSb2RTRlFaYnQtLTd5UFloeEtrcnp4M21tZDB0Q0NjY3pNNzg?oc=5",
+      "source": "efinanceThai",
+      "published_at": "2026-10-07T05:21:40Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินเยียวยาจริงถึงประชาชน จำนวนครัวเรือนชัดเจน"
+    },
+    {
+      "id": "58152f4d",
+      "title": "เช็กด่วน! ปภ.โอนเงินเยียวยาน้ำท่วมแล้ว 10,453 ครัวเรือน",
+      "summary": "สำนักปลัดกระทรวงมหาดไทยโอนเงินเยียวยาน้ำท่วมให้แล้ว 10,453 ครัวเรือน ประชาชนสามารถตรวจสอบสถานะการรับเงินได้",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ldmZiR21Oa2p6QUg5bENJMWtNbk1QQkxoUjhxa2JyZ2V1Z1JtS3BTQzNaYXZCN1lwcWJOaE01UlMya2lrTGFMeUZmLWxvcjNsTmdYNUNjWGI?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-10-07T04:35:57Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาจริงถึงมือประชาชนจำนวนมาก"
+    },
+    {
+      "id": "7cb5a3dc",
+      "title": "รัฐจ่ายไว เงินช่วยกลุ่มเปราะบาง เงินผู้สูงอายุ คนพิการ เงินเด็ก",
+      "summary": "รัฐจ่ายเงินช่วยเหลือกลุ่มเปราะบาง ได้แก่ เงินผู้สูงอายุ เงินคนพิการ และเงินเด็ก อย่างทันเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NVFZTC0wYzBtSHoxdDdDRjVOMVlGTk9DV0EyLU95R0tjbTlLV1ZGU3UxQk05YkZvYzdaclRuZWcwNHgtd0JDZDNFdV9Za2ctc0tEdDFnQWFPd2l2TmZYRGdnTk1jUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-07T21:21:08Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "การจ่ายเงินสวัสดิการแก่กลุ่มเปราะบาง มีผลโดยตรงต่อประชาชน"
+    },
+    {
+      "id": "1bcd1796",
+      "title": "ไขข้อสงสัยเงินเยียวยาน้ำท่วม คนกรุงเทพ VS ต่างจังหวัดได้รับเงินต่างกันอย่างไร?",
+      "summary": "อธิบายความแตกต่างในการรับเงินเยียวยาน้ำท่วมระหว่างคนกรุงเทพและต่างจังหวัด ประกันสังคมโอนเงิน 94 ล้านบาทให้ 10,453 ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tM2hhODlNRUphcmN1RWk2Sm5mb0EwUWVXcnpGVGtrWEJpRG9sb25uY2VqUmtUcEluWnRLVGVJU0k1Z0pfNXpEM1ZaQlZOTks3NFRqaWRLSkg?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-07T10:14:24Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ชี้แจงเงินเยียวยาน้ำท่วมกับตัวเลขการจ่ายเงินชัดเจน"
+    },
+    {
+      "id": "0adb16ae",
+      "title": "เงินเยียวยาน้ำท่วม 2569 ปภ. เตรียมโอนเงินให้คนผ่านเกณฑ์ 9 ต.ค. 69",
+      "summary": "กรมป้องกันและบรรเทาฯ เตรียมโอนเงินเยียวยาน้ำท่วม 2569 ให้ผู้ผ่านเกณฑ์ วันที่ 9 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhcmhHQk1hakRiZ3dTQVlDNktuWWhuV0dFbkx6R3dpUWhpbHoyUDVPV2xqc19jeGdJdV9ZaFJBSEQxOFZxZTBGVHFjTFI?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-10-07T06:03:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาจะจ่ายจริง มีกำหนดวันที่ชัดเจน"
+    },
+    {
+      "id": "81951590",
+      "title": "“นายกฯ อนุทิน” ห่วง 3 พื้นที่! จับตาปราจีนฯ-ฉะเชิงเทรา-ปริมณฑล สั่งใต้รับมือฝน จี้เงินเยียวยา 9,000 บาทต้องถึงมือเร็ว",
+      "summary": "นายกฯ อนุทิน สั่งเร่งมาตรการรับมือฝนในปราจีนบุรี ฉะเชิงเทรา และปริมณฑล พร้อมจี้เงินเยียวยา 9,000 บาทต้องถึงมือผู้ประสบภัยอย่างรวดเร็ว",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DRkV4ZG1xajlZWWM1TmFHVUFfLVBGRUYtRUxqOEVCNmlTZjNFVEExU09rMHF1a1hYdHhob3BuOWdRR1RXdnEybzFubXlVMmM?oc=5",
+      "source": "www.topnews.co.th",
+      "published_at": "2026-10-07T04:43:20Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี",
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 88,
+      "why": "นโยบายระดับสูง เงินเยียวยาชัดเจน 9,000 บาท"
+    },
+    {
+      "id": "e153b0eb",
+      "title": "บอร์ด สปสช. เคาะโอนงบ OP–PP ปี 70 ล่วงหน้า 25% ช่วยหน่วยบริการเดินหน้าจัดบริการปชช.",
+      "summary": "บอร์ด สปสช. อนุมัติโอนงบประมาณ OP-PP ปี 2570 ล่วงหน้า 25% ให้หน่วยบริการสาธารณสุข เพื่อดำเนินการบริการประชาชน",
+      "url": "https://www.hfocus.org/content/2026/10/39808",
+      "source": "Hfocus",
+      "published_at": "2026-10-07T12:42:34Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การตัดสินใจจัดสรรงบประมาณสุขภาพล่วงหน้า มีผลต่อการให้บริการประชาชน"
+    },
+    {
+      "id": "0b5204ac",
+      "title": "\"เจเศรษฐ์\" ยืนยัน \"แฟลตคลองจั่น\" เข้าเกณฑ์น้ำล้อม 7 วัน ได้เงินเยียวยา",
+      "summary": "เจเศรษฐ์ยืนยันว่าแฟลตคลองจั่นเข้าเกณฑ์น้ำล้อม 7 วัน และมีสิทธิได้รับเงินเยียวยาจากรัฐ ตามเงื่อนไขการช่วยเหลือผู้ประสบภัยน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qSlAwYTRaeDd6eEhOY2tCa3pGdGhUcWxVUzIwLVl3QzRhT0VxWS00aE1PSThCS2ItZzdXLWZUZ3dqU2Zuek8tbkNIdmx1OFRoNDh0cFN1cUo?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-07T07:41:48Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาน้ำท่วมถึงผู้ประสบภัยโดยตรง"
+    },
+    {
+      "id": "77590628",
+      "title": "FLOOD: ‘เจเศรษฐ์’ ยัน แฟลตคลองจั่นเข้าเกณฑ์น้ำล้อม 7 วัน ประชาชนได้รับเงินเยียวยาทุกราย ขออภัยหน่วยงานสื่อสารคลาดเคลื่อน เร่งเคลียร์ระบบลงเบียนแอปทางรัฐ วันนี้ (7 ต.ค. 69) นายเจเศรษฐ์ ไทยเศรษฐ์ รัฐมนตรีช่วยว่าการกระทรวงมหาดไทย ในฐานะผู้กำกับดูแลกรมป้องกันและบรรเทา",
+      "summary": "รัฐมนตรีช่วยว่าการกระทรวงมหาดไทยยืนยันแฟลตคลองจั่นเข้าเกณฑ์น้ำล้อม 7 วัน ประชาชนได้รับเงินเยียวยาทั้งหมด เร่งเคลียร์ระบบลงทะเบียนแอปพลิเคชัน",
+      "url": "https://news.google.com/rss/articles/CBMisgdBVV95cUxQbzdPNHNIaFBCdUswdHd6Zm5CbGVhbjVmMUtxR3UyVTBMSHI3WklLdXFLSkdqMmxtRGRTam1pVUlEaHVybnF3N3owOV9kRTJxX0tOeUcyTWdBR0FBUVZNVy1faFVuN2o2SWF1Rng3cXQ5bEV1aTljbzV1TGhCM2VxcFVkMk9TdE5IRVNRNFJ5NXJScGk2Z0lVZUNuYm1mSmJrQjc1b25fNnFUSEhhZ043UE9iMjVEVkVlS0RleklmaDhpQjlxaDNpX2JscklTc3c5dHZxQWVMUXJOaFB4aUgxYzJIV25KNmctVHowMnh6NmFabk5BX3NPVElWenNZdUhvNF9ESUI4MDBrUzgyX0k3TUFQT0F1SjhHUTFKdHd4b0k2Q3pKeDlZLS14elpjQ0pKbnVxNUtKM3RUSVRKS0dMR054ZlZ2TWFIR1NxTmZhT05aZG5IR0tHY1ZZZzVlSGVubXkxZWViU2d3NldCWmdvU1JZRVNkNzdFcHRCSFBmcThLZUdDMDh6UmFuZ0JWTGZYdFBMdF9HbHpEdVZvMTFlcnNoMjlxTjFBREU5Zi1lZDVkYzZ1SWMyNzI2R0lTVnp2ZllfM0dIUm1JZHNRWmUwYWJyeXBEVUljN3NtbEtGaWI4ajFaUW5TWGtDRmVMTlVSYVI4ZmVGMXhFa1FaNHFGTXJOQzg5dndQTktfQ0JReFJCNVVWbEtZUEc4LVRzd19vWlRTRjlENHFDb1l4ZGY0UU1SR2REcEZCT3J0bXdkZWlsandQT3FiMllSenk3TFVYQkJIeDZKMENHN3c3eFZPWkxyZVpYRHFMd2JJWVFaNDg3ZXVabGJ6THg4T0tXUHg4dnprMGNuVDNobHZsSDA3U1Nnd1BRbWk1WFgyLWtnRnVOYWlPa2cyVk5MdV9uYlVPN0tBM0JtS0N2VUJ1OUNPN1U5Q08xVmVNOF9UYUtMQXhKLXU2VU80aGNRcm9IYVlLNE1weXJ3UnpudG95QkdrcEMxcU5FVWJJSVRTc1hNdmZYRlczTi1iQW1HOTZCZEhfYnNjM0hfaGFiNUVmWjVQaUJUMDNOcm16cUVZTUdRTjdqZDRRV1VKUUlaLUxnUGM5WDJ3cmVFNkp2bW9XT0lnd3BmbXNudWJKM0V5cjc2R3kzRVZzbUlKVFFqd3c0SkEwWmd2cGpLaWVVWkpBZG9jbTF1c2k4MjBYN0FtdGZJeGpJRUdMX2lKTmJmY3FiLVI1bVlRZllOckw1bkZMYUxZVlNR?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-07T07:33:31Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาจะจ่ายให้ทั้งหมด มีการเร่งดำเนินการ"
+    },
+    {
+      "id": "e90bc87c",
+      "title": "ออมสิน ขานรับนโยบายรัฐ ช่วยลูกหนี้น้ำท่วมตั้งหลัก พักหนี้ ไม่คิดดอกเบี้ย 3 เดือน",
+      "summary": "ธนาคารออมสินขานรับนโยบายรัฐช่วยลูกหนี้น้ำท่วม พักหนี้ไม่คิดดอกเบี้ย 3 เดือน และยกระดับสินเชื่อซ่อมบ้านฟื้นอาชีพดอกเบี้ย 0% ใน 6 เดือนแรก",
+      "url": "https://thaipublica.org/2026/10/gsb-pr-07102026/",
+      "source": "ThaiPublica",
+      "published_at": "2026-10-07T05:07:08Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีมาตรการช่วยเหลือลูกหนี้ผู้ประสบภัยน้ำท่วมจากสถาบันการเงิน"
+    },
+    {
+      "id": "8bbed403",
+      "title": "FLOOD: อธิบดี ปภ. เผยเร่งช่วยน้ำท่วมปราจีนฯ-ฉะเชิงเทรา ระดมเรือผลักดันน้ำปากแม่น้ำบางปะกง 50 ลำ เพิ่มเป็น 80 ลำ หวังระบายมวลน้ำให้เร็วที่สุด ยอมรับชาวแฟลตเคหะคลองจั่นไม่เข้าเกณฑ์รับเงินเยียวยา เหตุน้ำท่วมไม่ครบ 7 วัน ชี้ ยังมีช่องทางช่วยเหลือตามระเบียบ ปภ.-กทม. วันนี้ (7 ต.",
+      "summary": "อธิบดีสำนักปลัดกระทรวงมหาดไทยเร่งช่วยเหลือน้ำท่วมปราจีนบุรีและฉะเชิงเทรา ระดมเรือ 80 ลำระบายน้ำ ยอมรับชาวแฟลตคลองจั่นไม่เข้าเกณฑ์เยียวยาเนื่องน้ำท่วมไม่ครบ 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQdGhnbHNnYzdGN2VHa1A4NXBVMTZTMVRpUVo2d1ZOVlNkUU43UF9hQXYtNC1QX0FjdWZrdFRaRUN6WExZMFA2ZDBxWFhiMWlCRW5VRTBMSm1mTHFkZEF0UndOcElsbFJUWUZQQTVfT1NRR2RRQ1dENWFoYi02WnRTZWEzaTVPc2V0WGV5SnpZUU9VQmlPaVdRdlBKdFRrZ0d5VEpXUU93MU1tdFQ1bjFoVjRZWlZpUWh1RFdLWml6TUVWNm1YYTJuNWt3VDdRZWNadUdTdnUzQi1wNENqajZaTldIRlVrR3h1NC0yUTl4LTRMUmlkYnRGanphVnhCc3RtNDB6TU9jTkRkMjBPUktzSTA4aGxwNjBheWs2a1Vhc01LSHg0ZjAwSjhpSnU4bGFYMFBMZnI3V0VGMUZkaVRKS2VKemRUR1AydnI3d3hpUWl4Y2tPcXoxcERyVXJnR0I2SXlRU000b1NRVUt3SThpVmQzT0Z1WGw4Ny1aUldlZ2xxczl2T2FldWw3QXVEWmtUeEZObmZjNVJqazEtUFpSTTFwblI2by1USVJLT1ZHVE5SLXhWY1FFNDFBbWtDMUZYYWxISkE3XzREVVB1b1RKbU9TOGR3bDdwcTBUdUtxRUdDOEFRNEZnSnNIbEVQN3pIQjBBbWlHa3l0SXJRa25NcExBWFg4Nkw0bFlGeE51ek9pT2VJd3RXOFFRWV9USGd0MzE3ZFVKa1FfTndtYUxxU0ZIZlJwcUEyUWREdXVFY2dWYlB5aS1LWGtaY1JCQ01LaVc2MGVfcGsxVEl3QXZ6UGxpMDZ3ZHlOdWRiM01rSUFkMUowajVUWGlEYU9RSnVsTkM4X1d2S1U2Nl9KTkxOeEpiX1hrVG9VOVFFWXhfc2NzcFZua01rR0F1bFBkWC1iYlh2eDhYTzlJVDJ6TDFhdjBSNUFBaFJ4QV9nMW05VVVMY055RFVpOXdrM3NDaENsendTWDE0T2RXZ3pfUzdMTzNjVnozWVZiMnFTTnpXb08yb1RqZkVfRjNORDZlQnJNSndiWjA3dEhmbzZpVDBzbW02S0VJZWU2X1hkdkc3SVBUaXlrSWxtNlJDZXRkbEc3NnVTUDBuS2NOMlJOa2VyZUdYdjdUWU94UFNsMTJVZkJxbV96UTB1VUx6OUJXT2pzcGc2dWlJZzhUSWFhRUxDamY5SDlHbkpzbDVYUldaMEdkc1k0TmR5dEtTV0M4d2hrQVlJV3pmRFNzVmtDVmFmc1hqS2hZNktHeVFpTHVyTVJ5YW1aV2hV?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-07T04:36:51Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี",
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 85,
+      "why": "มีการดำเนินการช่วยเหลือและชี้แจงปัญหาการเข้าเกณฑ์เยียวยา"
+    },
+    {
+      "id": "d1d6bcd7",
+      "title": "ลดท่วมฉะเชิงเทรา-ปราจีนบุรี เร่งติดตั้งเรือผลักดันน้ำบางปะกง 80 ตัว ย่นเวลาโอนเยียวยาเหลือ 1 วัน",
+      "summary": "เร่งติดตั้งเรือผลักดันน้ำบางปะกง 80 ตัว เพื่อลดน้ำท่วมในฉะเชิงเทรา-ปราจีนบุรี ย่นเวลาโอนเยียวยาเหลือ 1 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uWDYzSlN6QmdGUmE0b0NIN3U2MEhSa2NnREU4bzlESlBBOFV0QnVnY3l2QllEb3BXZDFnUTdoMHdzSFpQTzZoSWY3UmhZeU1zNUZUbDYzRzl2M0hW?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-07T04:19:40Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา",
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 82,
+      "why": "การเร่งเยียวยาผู้ประสบภัยน้ำท่วม มีการลดเวลาการโอนเงินเยียวยา"
+    },
+    {
+      "id": "cd5339ac",
+      "title": "“ป้าเพ็ญ”สะอื้น แทบสิ้นเนื้อประดาตัวน้ำท่วมละลายนาเกลือหายวับ สิ้นหวังเงินทุนหมดต้องนับหนึ่งใหม่ วอนรัฐเร่งเยียวยาอุ้มต่อชีวิต",
+      "summary": "เกษตรกรท่าใหม่ จันทบุรี ประสบความเสียหายจากน้ำท่วม นาเกลือจมมิด เกลือหายวับ ต้องนับหนึ่งใหม่ วอนรัฐเร่งเยียวยาอุ้มต่อชีวิต",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10429334",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-07T12:00:29Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 80,
+      "why": "ผลกระทบจากอุทกภัยต่อเกษตรกรรายย่อย มีการวอนเยียวยาจากรัฐ"
+    },
+    {
+      "id": "812c233b",
+      "title": "รัฐบาลแจงเงินเยียวยาน้ำท่วม 9,000 ช่วยบ้านเช่า ลืมรหัสใช้บ้านเลขที่แทน",
+      "summary": "รัฐบาลแจงเงินเยียวยาน้ำท่วม 9,000 บาทสำหรับบ้านเช่า และชี้แจงว่าผู้ไม่มีรหัสสามารถใช้บ้านเลขที่แทนได้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TeGNwVG5BMUZ0S2dWVmM2T09uTzZnZkV1RG9vb0lFTlJvajltNk5ocTRmRzFYOUNOMWExb0dBMzB1ZWRRRTZMNUNES3l6dXkzdDR3NXd3?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-07T05:16:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ชี้แจงจำนวนเงินเยียวยาและวิธีการยื่นขอสำหรับบ้านเช่า"
+    },
+    {
+      "id": "c1f7b82c",
+      "title": "เงินเยียวยาน้ำท่วม! รัฐบาลแจงชัด บ้านไม่มีรหัสใช้ “บ้านเลขที่” ได้",
+      "summary": "รัฐบาลแจงชัดว่าผู้ยื่นขอเงินเยียวยาน้ำท่วมที่บ้านไม่มีรหัสสามารถใช้บ้านเลขที่แทนได้ เพื่อให้ประชาชนสามารถเข้าเกณฑ์รับความช่วยเหลือ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96NU9teE5HVFZDSTZTX09yaVFQTkU5UjM1SGpLY0tQMmhLQkdZQ3BOcjRiSkppWk1vYU9ralVJQkN2bzlDYlp2cTNXVHJtcV9KclNzSw?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-10-07T05:05:38Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ชี้แจงวิธีการยื่นขอเงินเยียวยาให้ประชาชนสามารถเข้าถึงได้"
+    },
+    {
+      "id": "fc91f626",
+      "title": "บอร์ด สปสช. ไฟเขียวหนุน “นวัตกรรมการแพทย์ไทย” เข้าระบบบัตรทอง วางงบล่วงหน้า 3 ปี",
+      "summary": "บอร์ด สปสช. อนุมัติสนับสนุนนวัตกรรมการแพทย์ไทยเข้าระบบบัตรทอง จัดทำแผนความต้องการและกรอบวงเงินล่วงหน้า 3 ปี",
+      "url": "https://www.hfocus.org/content/2026/10/39809",
+      "source": "Hfocus",
+      "published_at": "2026-10-07T13:00:26Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "นโยบายเพิ่มการเข้าถึงผลิตภัณฑ์การแพทย์ผ่านบัตรทอง มีกรอบเวลาชัดเจน"
+    },
+    {
+      "id": "047fd2d7",
+      "title": "กทม. เร่งช่วยผู้ประสบภัย หารือ ปภ. ผ่อนเงื่อนไขกรณีน้ำล้อม 7 วัน อ่านข่าวคลิก : https://fm91bkk.com/newsarticle/80071 #เยียวยาน้ำท่วม #น้ำท่วม2569 #ข่าวสวพFM91",
+      "summary": "กรุงเทพมหานครเร่งช่วยผู้ประสบภัยน้ำท่วม หารือกับประกันสังคมเพื่อผ่อนเงื่อนไขการรับเงินเยียวยาในกรณีน้ำล้อม 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxPYzRVT1Y2VnpyTC0waUNpcEl2WjVzbGcwWHphTzhvbGFCSkVOT2hXZ2RDX3dnNl9qUVI3WU9rVUo0ZkJQMlNmVEs1TUFaa2ZpOGg2WVBzNVJvWTNTbndISGFpNjB4U2hFRy00cTNqNmV3V1dWVEtObTJtVFhaWm9KbXhiTXBxUm10OG5OazNPNUdZUFRXZ2hJdXpTYncxZk5uazR2ajBTRk5qSjltb0RHQnVmbDZ1OEVhUDhWV194UDV1dmtSTWZSbXZpQlltR2N4RW5WWU5oelRSUkU1VjBPdjhJUURJdVNLTTRwRnZIUExuTHIzNU9OeDhUdGEzVXZWeENDdHJDMnZOZXQxSEJyb19UajJVMTZ0M2VZYWRwdU1TNmxIMkJGcno5OUFybDJ0dzVuc25od2RBR2F3VUN0RjZyTjdGcS03bUJBM25ySGZfVk05REI0c3hkVWgwNHV0V0R0SlBXaTR0VXlXa21IbGpna0FFUzFndEFVRUw3S0Q2clo3QmxZbU1ScHhYT1dUUjZCWmxwNk1qMjBXS3UwVmJ5dGFYWEdQOURXdjB6ZHQ0amM0OVVqY21heGRIV3pSNjlsTDg2NEUxMVpJRVVMXzlGN2xDT1I1bjNCS29fQVFDd2diR2hyVm1TR1QzaW5jQUJpR3JJS3FWS2huOFVCaXQ2YzJDWkxHb2FqSkR1TXRpb1FOMDZzeGpfblhuaEhNZ25vdy1jTUFaY3QwZ25YaEZpUjNlYzZWVUFOYjhRU1Z2X0h1N0xLYlBPZVNXRWdiZi14cjlQTlZxaHZfdWxYMVE4cVZsTHY1WWRjcmhXcDVCYWtReGNuVkRKYmxnWTdGNmxEOUUxc0xWRWdRX2l1VDhFcTdIS2x1aWpBbFlPSVEwZDRBc1hVMWZYcWUwX0NhQ2tfLWdYdV8xLXI2OHFmdElicWVoQUFkcVFMTDcyeUFmQm9nRGk3V0RGNXRhelZtN2MtLTFsSF93S1V0N3B1LTA2U2Q4VW1yQXY2NXNwR3RkbG43Zk9qSWpyWkhzZ19sZzdIQTYwdE5EWmNTT21DTDIyRW1CSGsxaF9ZWVBWTVpDVUxFckFfa0QtLTlNNk5HWlFEeXpBT25WWEFsdG9aRURXQTI5WEEzalNmRU1VQUl0SVp1OExUemhtY2dGTG1uakctWVY4Z0hISnhqNzZ1LUtDUmlnZGpRUjZxZlZBa01hN0ZXeFBzTk9la3BNMzNlQnVRZUJFQ1g0WmJoUDRoTHEwTUV3Rks3RWtrU3BkTkRweGZEbkpUWlhYcmd6NlhQOUgyUDNrNmRVdFYt?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-07T08:08:09Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการช่วยเหลือผู้ประสบภัยที่มีการเจรจาปรับเงื่อนไข"
+    },
+    {
+      "id": "2df29c00",
+      "title": "กรุงเทพมหานคร. . เร่งช่วยผู้ระสบภัย หารือ ปภ. ผ่อนเงื่อนไข \"น้ำล้อม 7 วัน\" #claimbangkok #ทางรัฐ #ช่วยเหลือผู้ประสบภัย #เงินเยียวยาน้ำท่วม #กรุงเทพมหานคร",
+      "summary": "กรุงเทพมหานครเร่งช่วยผู้ประสบภัยน้ำท่วม หารือประกันสังคมเพื่อผ่อนเงื่อนไขการรับเงินเยียวยาในกรณีน้ำล้อม 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMizgZBVV95cUxNV01oYTdtd3VDTDJuei1tMkx0TzQwbW5rME9pUVB2RGs2WmNVZkJUQl9iWHFNQUM3cTY2akVFcXRlYWxIcmhEV1VhSnd0dElHa1ZlZUZyM3NMQWVjTDd1UTM1R2NwcVc4MnN4ejRFdE9TOEMybkhXVWtpbUJVLVNJdTU0NXJHOC1fNTNRbEhHZkFuVVoydGJfVGx5dFVIcFNfTVoteG96ZHBYMkdUbk8zZjZmay0wSlM2N2lNTVF6Q3gxUnpzUmFQWGJWMWVJWEp0RWFFVlJMZlItZlo3QjA1TmJKWDRHWUNJRGhmMWxNcHNEWE9MeVhxMVpoTC1XcklWb2c3S2lIbGJtWWN2YVlZM0dveTk4VTVOMHJFTUZ4U2JVNkRBQ1NHalFsNkJvVnUzMnRJUnUtc19jQzd4RkRSc3VpcThTMFNyUXJlSk9OMGRQLUVzejJucXN2a2pXdGpOaWpGM3R6NHJVOWZaOFlLNGw4Z3dya1dBNG90RFNQTkQ5bFMzbHFEbWlsa1llZUtCbm5zbmt3STRHY1NnN2RUeEFWUXhETktGbE93bFNGRmM1ZTJvT0VicEFsMm1MTHM3YlNJZWxqSkt6SWQ4akVNNFhjVmdOSzJ0ZXdxcWRkeHZuZ2k0ZWkwTThXQzRoeTB0eWYzeG8ySjhSZV9uWWlSdVZvcldMN0REdVJOZmVfaVhtOFExVVZrUURQNnd4LVRQUjlYaWNZNnhWWV9XZERnODFTX0RlX3hLZ0hvbW1wWHRqTlY2eFIyZWV4cjloRGlfNm1xYzFsODNqZ3VRbVhxZWRSdFZvbFVWZmpXWTZzVTRKUWpkZ2lVN2RCaHU5bWVsTlpXWnlvaWxBRFBSME5wNTBsRlVIWTBTWEg3MjN4bUV1THdmSm9MSnRtVVluY0NacjlOdDQ3NWQ5TGpCd0F4dHhwMXRPcFRkMm9zZWlLUjdqaU96alV5bW9pMEQ2OEViV3VKREthU3UzYXN3SmlnNjREMkF0YUFaM1ZrRGY0Q0JDd2xzZTJxN1FEY1hocVhZLXVTOTd2UGlSdFZGcVJfc1YxelRtNFExVkw5bzBOVUJOSy1ITExpVmtKTmRIYWRWY2RJel8tQm02ZEdTTHc?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-07T08:58:50Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "มาตรการช่วยเหลือผู้ประสบภัยที่มีการเจรจาปรับเงื่อนไข"
+    },
+    {
+      "id": "e7c3e50e",
+      "title": "กทม. จ่อถก ปภ. ผ่อนเงื่อนไขเยียวยาน้ำท่วมกรณีโดนน้ำล้อมไม่ถึง 7 วัน : อินโฟเควสท์",
+      "summary": "กรุงเทพมหานครจะหารือกับประกันสังคมเพื่อผ่อนเงื่อนไขเยียวยาน้ำท่วมสำหรับผู้ที่โดนน้ำล้อมไม่ถึง 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92MG9BLW9KclM4eEYtS05RVnBvN21NNjdQc1BERmw4VXhPMGpzbGYzN2VUN1lQdWFlX0NZUTNkNWZWeURMb2VkMXlvNHlIWURx?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-10-07T08:48:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การปรับเงื่อนไขช่วยเหลือผู้ประสบภัยเพิ่มเติม"
+    },
+    {
+      "id": "f1740490",
+      "title": "หมอวรงค์ จี้ อนุทิน ทบทวนสิทธิบัตรสวัสดิการแห่งรัฐ ลั่น 300 บาทยังช่วยพยุงชีวิต แต่กลับถูกตัดสิทธิ์",
+      "summary": "หมอวรงค์ เรียกร้องให้อนุทิน ทบทวนสิทธิบัตรสวัสดิการแห่งรัฐ โดยชี้ว่าเงิน 300 บาทยังช่วยพยุงชีวิตได้ แต่ประชาชนบางส่วนถูกตัดสิทธิ์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iT3pJdko2bjBFWTYwei1QY0V3OUFCOExMSjdPQ1djcjJRNFIyQlVOa2RXUmppX25JNWJRc0J1Wlk3dF9zekNWei1tOVJLYUlmclZ3?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-10-07T06:37:21Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เรียกร้องทบทวนนโยบายบัตรสวัสดิการ แต่เป็นความเห็นไม่มีการตัดสินใจรัฐบาล"
+    },
+    {
+      "id": "c306bb7e",
+      "title": "ไม่เลื่อน! จุลพันธ์ ยันเลือกตั้งบอร์ดประกันสังคม 11 ต.ค. ลุ้นใช้สิทธิมากกว่าครั้งก่อน",
+      "summary": "ประกาศยืนยันการเลือกตั้งบอร์ดประกันสังคม วันที่ 11 ตุลาคม 2569 เพื่อให้สมาชิกใช้สิทธิเลือกตั้ง",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByM29LazdsZjNnYjhXZERJRVMwbDFGaXBVQ0Nfd3BCanRpY2xFcVU4bDA3ek4tODNDVmR0M0QzbkcwcXI0WURfamdCcTQ5cmNzeDY2TlVRZTJWenpT?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-07T06:22:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นการเลือกตั้งบอร์ด"
+    },
+    {
+      "id": "ccfb3da3",
+      "title": "กทม.เร่งปลดล็อกเยียวยาน้ำท่วม กรณีน้ำล้อมไม่ถึง 7 วัน ทวิดาชี้ต้องตรวจระดับน้ำ-ความเสียหาย ก่อนสรุปแนวทางกับ ปภ.",
+      "summary": "กรุงเทพมหานครเร่งปลดล็อกเยียวยาน้ำท่วมสำหรับกรณีน้ำล้อมไม่ถึง 7 วัน ทวิดาชี้ต้องตรวจระดับน้ำและความเสียหายก่อนสรุปแนวทางกับสำนักปลัดกระทรวงมหาดไทย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNFRLb1J2Qy1DR1lfSjVnS0dLNVNRMmZtYmFmX3NKQktjZ091UFpOeGZ5dkJxTnZ1anhwbk43RWNuWjI5d0Zodks4WWJUYkZCay1YVTVrY20ybVE?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-07T04:51:05Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีการพยายามแก้ไขปัญหาเกณฑ์เยียวยาสำหรับผู้ประสบภัย"
+    },
+    {
+      "id": "04f325b6",
+      "title": "‘อัครนันท์’ ส่งครู สกร.ช่วยยื่นเยียวยาน้ำท่วม 9,000 บาท ย้ำใช้คอมพิวเตอร์ไม่เป็นต้องไม่เสียสิทธิ",
+      "summary": "อัครนันท์ส่งครู สกร. ช่วยยื่นเยียวยาน้ำท่วม 9,000 บาท และย้ำว่าผู้ยื่นไม่ต้องใช้คอมพิวเตอร์เป็นจึงไม่เสียสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyNmZSbHY5SEVkUHhzLXZJSS16SC1uYUJ4YWNaVG1nOURYWmFoZlh3Y2lfOENmb2lVRXV4bnc5NFRWc2pVeVlOc1k4TEJpdkdvVm5YcDNlalNpNkZu?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-07T03:48:29Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เงินเยียวยา 9,000 บาท ชัดเจน มีการอำนวยความสะดวก"
+    },
+    {
+      "id": "6ca91ea4",
+      "title": "วิริยะประกันภัย สนับสนุน พม. ส่งต่อถุงยังชีพดูแลกลุ่มเปราะบางจากสถานการณ์อุทกภัย",
+      "summary": "วิริยะประกันภัยสนับสนุนกระทรวงมหาดไทยส่งถุงยังชีพดูแลกลุ่มเปราะบางจากสถานการณ์อุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1seGE1c1ZyZmNHWU5TSVJVV1B3ZFlvcG0tMHZ5OVIxZHE3d0JzckdseWxzS19JZGxFd29QOFpSU3NUbmFxQnRZdmc2ZUFhZw?oc=5",
+      "source": "สวพ.FM91",
+      "published_at": "2026-10-07T11:03:09Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ความช่วยเหลือกลุ่มเปราะบางจากภัยน้ำท่วม"
+    },
+    {
+      "id": "aff8388d",
+      "title": "‘เดชรัต’ เสนอรัฐเพิ่มเกณฑ์เยียวยาน้ำท่วมเกษตรกรให้สอดคล้องความเสียหายจริง",
+      "summary": "เดชรัต เสนอให้รัฐเพิ่มเกณฑ์เยียวยาน้ำท่วมสำหรับเกษตรกร เพื่อให้สอดคล้องกับความเสียหายที่เกิดขึ้นจริง",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WLWxzcF9FVVpDMDFQR2tER0l1ZE9DVEFEOWMwMTV5WnphcVVGcGVZWENKTXJEdzB1UkhwMkE5bjFFWHRKMzBDMGJtTVhubDdRSnNUc3d3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-07T11:02:06Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อเสนอปรับปรุงเกณฑ์เยียวยา แต่ยังไม่ใช่นโยบายสุดท้าย"
+    },
+    {
+      "id": "5b968709",
+      "title": "เลือกตั้งบอร์ดประกันสังคม วันที่ 11 ตุลาคม 2569 นี้ เช็กสิทธิที่ไหน ~ ลงคะแนนอย่างไรไม่ให้บัตรเสีย?",
+      "summary": "ข้อมูลการเลือกตั้งบอร์ดประกันสังคม วันที่ 11 ตุลาคม 2569 รวมวิธีการตรวจสิทธิและการลงคะแนน",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BU1NIRjlwenlzYjFueW5SUG1ST29SQkJkSWRveXBKeUdqZW00VHB4ME1xR21UWXVJZGVyWWVnQnA5MVVnVm45eUN2RU9Lbng2T0tTanMwQURHQ21FNldxcTVQMEd6XzljaWdZVEM4YWViZG1WZFJF?oc=5",
+      "source": "Inzpy",
+      "published_at": "2026-10-07T07:30:14Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องประกันสังคมแต่เป็นข้อมูลวิธีการเลือกตั้ง"
+    },
+    {
+      "id": "9e321b37",
+      "title": "อธิบดี ปภ.เผย \"แฟลตคลองจั่น\" ไม่เข้าเกณฑ์เยียวยาน้ำท่วม น้ำล้อมไม่ถึง 7 วัน",
+      "summary": "อธิบดีกรมป้องกันและบรรเทาฯ ชี้แจงแฟลตคลองจั่นไม่เข้าเกณฑ์เยียวยาน้ำท่วม เนื่องจากน้ำล้อมไม่ถึง 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMWc5Z0tnV3gteVprWkM5SVhYV2tmQkZMSjJkTVF4YkZtY3NaOWN3ZHlzYkFOV2ZmbXJrdm5JTGR3M3ZTaVRpSE9yd0JyaFphYmdWR2hfOW0?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-07T06:02:41Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องเงินเยียวยาแต่เป็นการแจงเกณฑ์ไม่ได้รับ"
+    },
+    {
+      "id": "0da499ba",
+      "title": "สปสช.เขต 3-4-5 ทำงานเชิงรุก ดูแล ‘ผู้ป่วยไต-กลุ่มเปราะบาง’ เฝ้าระวังพื้นที่เสี่ยง-เตรียมบริการรองรับ",
+      "summary": "สปสช. เขต 3-4-5 ดำเนินการเชิงรุกดูแลผู้ป่วยไต และกลุ่มเปราะบาง เฝ้าระวังพื้นที่เสี่ยง เตรียมบริการรองรับ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0YVRSZDBtMGVlOXJ0S21CTzlwRE1CMEc3Q2c0M0RqQ1VrMVpYTnJPSVBEN2t5YXowWVVCTDRnbzhwdVJmNkVIeHMzRFNubXJaVTRoNEkwS19EUGc?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-07T03:10:46Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การดูแลสุขภาพกลุ่มเปราะบาง แต่เป็นการดำเนินการปกติของหน่วยบริการ"
+    },
+    {
+      "id": "9613af32",
+      "title": "กทม. ถก ปภ. เล็งผ่อนเกณฑ์เงินเยียวยาน้ำท่วม ช่วยบ้านเจอน้ำล้อม 7 วัน",
+      "summary": "กรุงเทพมหานครและกรมป้องกันและบรรเทาฯ ถกเรื่องผ่อนเกณฑ์เงินเยียวยาน้ำท่วม สำหรับบ้านที่เจอน้ำล้อม 7 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51VDBVcHpPdlFMTHRmcFBFN3hvNmthWkIwdGJuVGJPbVFkV0d5aVNzZ3V1UEdUZFEzNFNkVkZnNzR4eGhBWDFRWGxRRkhaT2xzSEhWdUx3QVE1VUdJ?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-07T07:11:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องเงินเยียวยาแต่ยังอยู่ในขั้นการถกเรื่อง"
+    },
+    {
+      "id": "445302cc",
+      "title": "ปภ. แจงแล้ว ผู้เช่าบ้าน ลงทะเบียนเยียวยาน้ำท่วม ไม่รู้รหัสบ้านทำอย่างไร",
+      "summary": "ปภ. แจงวิธีการลงทะเบียนเยียวยาน้ำท่วมสำหรับผู้เช่าบ้านที่ไม่ทราบรหัสบ้าน เพื่อให้สามารถเข้าถึงสิทธิเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1YlJKMlNXTHUxck5PZXRwRlRfUXN3X2t5SE0wTUU0dlozeWJxbFl4R0tqWU9XX3lVaWZiYUw4bjJLSm05UkJPZjA4Z0Jyai0wZlJraEtmM2paNjNNUlU5cE5pTDNyQQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-07T06:47:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "แนวทางปฏิบัติเยียวยาน้ำท่วม ช่วยเหลือผู้ประสบภัย"
+    },
+    {
+      "id": "a5409a66",
+      "title": "หมอวรงค์ จี้ อนุทิน ทบทวนสิทธิบัตรคนจน ชี้รัฐบาลรังแกประชาชน ซ้ำเติมวิกฤตท่วม-ค่าครองชีพสูง",
+      "summary": "หมอวรงค์ จี้อนุทิน ทบทวนสิทธิบัตรคนจน ชี้ว่ารัฐบาลรังแกประชาชน ซ้ำเติมวิกฤตน้ำท่วมและค่าครองชีพสูง",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBucDBrOEx4cGJmR3dacUo2dzRfZUM2ZTJjdUhGalZlSUFES3dKaHZxajFlMnZQWWh5OFIwd18tNDlqLXBpVVNjYkhOVlhDbzhPUkxTZlNkSDZPUWhv?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-07T05:30:31Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เรียกร้องทบทวนบัตรคนจน เชื่อมโยงกับวิกฤตปัจจุบัน แต่เป็นความเห็นการเมือง"
+    },
+    {
+      "id": "d9c5e9ba",
+      "title": "The Reporters. . LIVE: อธิบดี ปภ. ให้สัมภาษณ์ถึงหลักเกณฑ์เยียวยาน้ำท่วม ปัญหาไม่เข้าเกณฑ์แฟลตคลองจั่น",
+      "summary": "อธิบดีสำนักปลัดกระทรวงมหาดไทยให้สัมภาษณ์เกี่ยวกับหลักเกณฑ์เยียวยาน้ำท่วม และปัญหาผู้อยู่อาศัยแฟลตคลองจั่นที่ไม่เข้าเกณฑ์",
+      "url": "https://news.google.com/rss/articles/CBMi3AdBVV95cUxQVWVES1JmY1dhMEFDU0swME5IenZwS2xCLTNTMVZ4OWFmT2dJQVNhNTVBalFIM1NDMDFGRHppaldlZkxuVHptN2lBT1FVSm80M3lFdmlxeC1ydHFmdUdjWlhfdVRiMGJsSl9xNnl3cUNEX0NiTmowUDRidGJnaGdiWDlIZVEwaGNlUTdUQ2FfOTZzZUdkUnhRMy05YlBXN2ZWb2Raakg1S2E2aTc4Sk5rV0VWUUhQRk5zUXE4bk1BUEdZMkpFVmVnTlFYc1d0LV9IWHMxdjJDZFJoSENlVXRNWUNjMUdJVjlmZllQd016M3EyMTdRZTRnSEM0V0w4SDN1Q2xtU01KbjlncElFMUZ3MFFGSkg2UzVHR1JVZjZaT183TkVzSWNNbnZ1NjRwR0U1TFBZdDNrdWRmOTd3bldMVm9ZZ0tZUmtuMHhPMXozU1ZVdDlzeXhWMTFmaGwwcWh5RGNsLVdZandVaVlZa2c4eGI0a3lRTFNyN29DanVOMTRvRFo3UDR3cmp2c3QtNXpQMm5jWGc0MzNsUEVhRnlmX0dFMEREUDR2RlI1aHJLdWZvcFlKclV5RkUyWUhneDFHNExfVE4xS3dKd2ZyOGFnWUVoQmF1bS1oZ3JHUnhkM1JvNFBkVmRkT1h1VGN2a0c5d1lUZXNidXZSaEs3UU1sRmVGRTBzSUE2b2MyU0NtbzRWQkxHaU9zaS1GLUo2WDU1dlZIZHlqSWNQR0RsUXRWZkRjRHFDb3dqMV82LUFaR0pFaXM3bkRDSWFiYnRKSU4zc3hpVGhOMFdxSl9MWUl6dHJxbWU0MVlQZDg3SHQ5WUNVX1g4UW1yVURlN0drbGlHRVNPWUt3RGxQUjFGN1o0ZXNsd1lMaENUcVE0Q0cyS2Y1amZFanhaeU51THVCS3ZoQ0kzMk5CMjJjcFdTdTRKR2RpajFRZG5yOFpPQVlISnJCNXJaU1ZieDVnbHhhY0VsSTNJYmR1OVd3c2NfUnF0SXkwWFhWbzVyTk5JbmNRYUcxZ2dwSHdlU2lVNzA2S0E0WFNocHliSldWeE42T2hjRDN5eER5aVhCYzVNdkc5b0l0N2VKVzJUZTNXT19UN0JlOGJIOTZSUmU0MDA5a1BGdjRPakkwRGEtRncwRFUtRmhUS0R6YmxjY2VBQjZVXzc3aXA0T1BZVU5FMzdEZ3phWTZWTmRDX2ZIaWtsLTNRUkwtNEVRYmxQLVVfejhaY09OaFVFU1N6TEd4Z0owd0Jfc1dsNVAyb1R3VkdKQ05oUmZCc016cTZuQjNtY213djAzTmI0OGFZY09lWkEt?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-07T03:08:16Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ชี้แจงหลักเกณฑ์เยียวยาน้ำท่วมและปัญหาการเข้าเกณฑ์ของประชาชน"
+    },
+    {
+      "id": "5af6a2c7",
+      "title": "\"พศิน\" เดือดแทนชาว \"สวนทุเรียนระยอง\" กู้หนี้ยืมสินลงทุน 6 ปีพังพินาศเพราะน้ำท่วม จี้รัฐชดเชยเยียวยาเป็นธรรม",
+      "summary": "พศิน แสดงความเห็นแทนเกษตรกรสวนทุเรียนระยอง ที่ประสบความเสียหายจากน้ำท่วมหลังลงทุนกู้หนี้ 6 ปี จี้รัฐชดเชยเยียวยาอย่างเป็นธรรม",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51eDlmZC1NaWFKNGUyLXd5dERSTy1aQ1VfeC02WjdGUWZPMmpDeEc5ZTJ1RDNRR05tdjd3d2s4N2lOQjRMX0tUU3BYUjFHUWRJZ2RLb1dVTXVFMDVub1lWRm5n?oc=5",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "published_at": "2026-10-07T12:53:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "เกี่ยวข้องเยียวยาน้ำท่วม แต่เป็นการร้องขอ ไม่ใช่นโยบายสุดท้าย"
+    },
+    {
+      "id": "2abfd3f2",
+      "title": "ภราดรเข้าแจง กมธ.งบฯ แก้ปัญหา กยศ. ขาดสภาพคล่อง เล็งแบ่งอัตราดอกเบี้ย 2 ระดับ-อุดรอยรั่วใบรับรองความจน",
+      "summary": "ภราดรแจงคณะกรรมการงบประมาณแก้ปัญหากยศ.ขาดสภาพคล่อง เล็งแบ่งอัตราดอกเบี้ย 2 ระดับและอุดรอยรั่วใบรับรองความจน",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcUhneUhhS0JHRVNPWDVwZEVDQ0labVV1eUp1ZG9MTW5XV1dLa1oxLXFmSTRoeF8tX3NEV1pIVnd2QTR5OFFFdW5yS2t4blo3NEFjd0FqeEdURlYtQXlPQUFOYjVKa01hZ1hLZnhB?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-07T12:20:28Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "มาตรการแก้ปัญหาหนี้กยศ.สำหรับผู้มีรายได้น้อย",
+      "first_seen": "2026-10-05"
+    },
+    {
+      "id": "a9462f82",
+      "title": "“วรงค์” บี้ทบทวนปมตัดสิทธิบัตรคนจน จวก “รัฐบาลอนุทิน” รังแกคนจน ซ้ำเติมวิกฤต",
+      "summary": "วรงค์ วิจารณ์การตัดสิทธิบัตรคนจน กล่าวหารัฐบาลอนุทิน รังแกคนจนและซ้ำเติมวิกฤต",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FR09UWnpUUWY1eGs0amJ2allyN2RDdUhjZ2JmNUM5dDRJUzNZUUVGaVg3OUdXX1VsYVNsWU40UW9mYUhvbHFTazJ1cGUwejRWZERUc1h2N2NKZTg?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-10-07T07:55:48Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "วิจารณ์นโยบายบัตรคนจน เป็นการแสดงความเห็นทางการเมือง"
+    },
+    {
+      "id": "e1d286ea",
+      "title": "\"พัฒนา\" ฉุนดึงงบ สสส.ไม่ได้อุดปัญหา รพ.อย่าตั้งคำถามชวนทะเลาะ",
+      "summary": "เจ้าหน้าที่สาธารณสุขอภิปรายการจัดสรรงบประมาณ สสส. 400-500 ล้านบาท เพื่อสร้างตัวชี้วัดร่วมกับกระทรวงสาธารณสุข",
+      "url": "https://www.hfocus.org/content/2026/10/39802",
+      "source": "Hfocus",
+      "published_at": "2026-10-07T05:58:17Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องสวัสดิการสุขภาพแต่เป็นการอภิปรายภายใน"
+    },
+    {
+      "id": "a7ed4419",
+      "title": "\"หมอวรงค์\"เรียกร้องรัฐบาลทบทวนบัตรสวัสดิการแห่งรัฐ",
+      "summary": "หมอวรงค์ เรียกร้องให้รัฐบาลทบทวนบัตรสวัสดิการแห่งรัฐ เพื่อแก้ไขปัญหาการตัดสิทธิ์ของประชาชนกลุ่มเปราะบาง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wbUpJWmJhZnhFcHEtSlVWZnhVdktDVjRHQkZiaGxxS3ZDMEZyLTZnVXJLbXBjS3BxWVNqQXZPLTI5YTI1ZVNDQjg0QzF5LXRCaUxDTG9Qaw?oc=5",
+      "source": "INN News",
+      "published_at": "2026-10-07T05:20:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ข่าวเรียกร้องนโยบาย ไม่มีรายละเอียดเฉพาะหรือการตัดสินใจ"
+    },
+    {
+      "id": "89b60593",
+      "title": "อธิบดีปภ. รับแฟลตคลองจั่นไม่เข้าเกณฑ์เยียวยา เร่งระบายน้ำท่วมฉะเชิงเทรา-ปราจีน",
+      "summary": "อธิบดีปภ. ยืนยันแฟลตคลองจั่นไม่เข้าเกณฑ์เยียวยา และเร่งระบายน้ำท่วมในพื้นที่ฉะเชิงเทราและปราจีนบุรี เพื่อลดความเสียหายต่อประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wQkt4VVdCWkRsMW5UTUpVTDBCN3h5dGFXOXZpN2F4UkNsQXpuaXR0UFliOFVtWHBRb004Q0V3ZjdOcGpmLTZ6MXJBWkxsMm5jdXNyQ1gzdlN4b0J2OVV3LUk0RQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-07T04:28:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา",
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 65,
+      "why": "เกี่ยวข้องเยียวยาน้ำท่วม แต่เป็นการปฏิเสธเกณฑ์"
+    },
+    {
+      "id": "6701f326",
+      "title": "โฉนดที่ดิน ต้องใช้ยื่นเยียวยาน้ำท่วมไหม? กทม. เฉลยแล้ว",
+      "summary": "กรุงเทพมหานครชี้แจงเรื่องการใช้โฉนดที่ดินในการยื่นเยียวยาน้ำท่วม เพื่อให้ประชาชนทราบขั้นตอนและเงื่อนไขการรับความช่วยเหลือ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMzQ1STJwOUxsWFIxZVc5Y0pHQnY4ZFRJWGFMY1hEQ0M0eVVLUDZERlZRUDhsOHN2QTJlVFl2dEJUa2tMcDJZUlBRN3A?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-10-07T03:00:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับการเยียวยาน้ำท่วมแต่เป็นข้อมูลเพิ่มเติมเท่านั้น"
+    },
+    {
+      "id": "f521a48a",
+      "title": "เดินหน้า มติสมัชชาสุขภาพเฉพาะประเด็น ผลักดันสู่ ครม. หนุนธุรกิจดูแลสุขภาพผู้บริโภค",
+      "summary": "สมัชชาสุขภาพเฉพาะประเด็นพิจารณามติระบบนิเวศวิสาหกิจสร้างเสริมสุขภาวะ เพื่อหนุนธุรกิจดูแลสุขภาพแรงงานและชุมชน",
+      "url": "https://www.hfocus.org/content/2026/10/39804",
+      "source": "Hfocus",
+      "published_at": "2026-10-07T07:04:57Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "เกี่ยวข้องสุขภาพแต่เป็นการประชุมวางแนวทางนำร่อง"
+    },
+    {
+      "id": "44c8a835",
+      "title": "พม. กาง 3 แนวทางเร่งด่วน กรณีศูนย์พักพิงฯผู้สูงอายุ จ.กาญจนบุรี",
+      "summary": "พม. กำหนด 3 แนวทางเร่งด่วนเพื่อแก้ไขปัญหาศูนย์พักพิงผู้สูงอายุในจังหวัดกาญจนบุรี",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JV2FPbUxqdldEeVppNVc5RXU3WC1TLXBhVm5MTlpNVzJiQTV1SkZhNml4blNyQ1E3X3Vtd2lWREVJM3NJQjQzaFA1VXd3b2FvVDBJ?oc=5",
+      "source": "thainewsonline",
+      "published_at": "2026-10-07T13:31:00Z",
+      "category": "elderly",
+      "provinces": [
+        "กาญจนบุรี"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องผู้สูงอายุ แต่ข้อมูลรายละเอียดไม่ชัดเจน"
+    },
+    {
+      "id": "9ef006a5",
+      "title": "นักวิชาการชี้ไทยติดกับดัก “ตั้งรับ-เยียวยา” ถึงเวลาปฏิรูประบบจัดการน้ำ",
+      "summary": "นักวิชาการชี้ว่าไทยติดกับดักการตั้งรับและเยียวยาน้ำท่วม เสนอให้ปฏิรูประบบจัดการน้ำของประเทศ",
+      "url": "https://www.prachachat.net/news/news-2077680",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-07T11:34:37Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "วิเคราะห์นโยบายเยียวยาน้ำท่วมแต่เป็นความเห็นวิชาการ"
+    },
+    {
+      "id": "9bc38947",
+      "title": "‘นิมิตร์’ มั่นใจ ‘อนุทิน’ ทำตามที่พูด เชื่อไม่แก้ กม.บัตรทอง-ไม่เอาร่วมจ่าย แนะพูดในสภาฯ ตอกย้ำเจตจำนงรัฐบาล",
+      "summary": "นิมิตร์มั่นใจว่าอนุทินจะดำเนินการตามที่สัญญา เกี่ยวกับการไม่แก้ไขกฎหมายบัตรทองและการไม่เอาร่วมจ่าย แนะให้พูดในสภาเพื่อตอกย้ำเจตจำนงรัฐบาล",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UVUt5SS11ejdyYWlsQV8zLWc2em5VaVBPR2lKanpsbEhyWUNTajJMQVF4alY2UlY2SnV5TFY0WllpZ0trVXktUExRZXlrSnpwdHBYYjNlYw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-10-07T03:01:54Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบัตรทองแต่เป็นข้อมูลการเมืองมากกว่าการบริหารจริง"
+    }
+  ]
+}
