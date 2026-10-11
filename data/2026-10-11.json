@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T01:12:38Z",
+  "window": {
+    "from": "2026-10-09T23:12:30Z",
+    "to": "2026-10-11T01:12:30Z"
+  },
+  "stats": {
+    "fetched": 255,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 15,
+    "eastern": 4,
+    "national": 11,
+    "new": 13,
+    "followups": 2,
+    "sources": 11
+  },
+  "items": [
+    {
+      "id": "cae6cc1f",
+      "title": "โพสต์อ้างเพิ่มเงินบัตรสวัสดิการแห่งรัฐ 1,150 บาท พ.ย.- ธ.ค. 69 แท้จริงยังไม่มีประกาศจากรัฐบาล",
+      "summary": "โพสต์อ้างเพิ่มเงินบัตรสวัสดิการแห่งรัฐ 1,150 บาท พ.ย.- ธ.ค. 69 แท้จริงยังไม่มีประกาศจากรัฐบาล Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aOU8xUmlBdk5UNlcxWmRZMm16UEtpMzlobEJPdDlIREppSjFqdEY0OWZiMGIwb2Y0LV80N242VS0yTUZNMllyNVZVSngxSGJneEZXV3cweDRjdw?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-10T05:26:32Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a49beede",
+      "title": "POLITICS: ‘กรณ์’ จี้รัฐบาล เร่งช่วยเหลือเยียวยาผู้ได้รับผลกระทบจากอุทกภัย ชี้ มาตรการไม่ชัดเจน-ล่าช้า จนชาวบ้านต้องกู้หนี้นอกระบบ เสนอ กทม. ตั้งศูนย์ลงทะเบียนเยียวยาถึงพื้นที่ วันนี้ (10 ต.ค. 69) นายกรณ์ จาติกวณิช รองหัวหน้าพรรคประชาธิปัตย์ และ สส.บัญชีรายชื่อ พร้อมด้วย ร.อ.ดร.น",
+      "summary": "POLITICS: ‘กรณ์’ จี้รัฐบาล เร่งช่วยเหลือเยียวยาผู้ได้รับผลกระทบจากอุทกภัย ชี้ มาตรการไม่ชัดเจน-ล่าช้า จนชาวบ้านต้องกู้หนี้นอกระบบ เสนอ กทม. ตั้งศูนย์ลงทะเบียนเยียวยาถึงพื้นที่ วันนี้ (10 ต.ค. 69) นายกรณ์ จาติกวณิช รองหัวหน้าพรรคประชาธิปัตย์ และ สส.บัญชีรายชื่อ พร้อมด้วย ร.อ.ดร.น Facebook",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxOZUNyNEx1Q242TkQ2RVhxSkxkclp5ZlBDTDZtclYxblNyQTd1RUV1TUVIQUZDUHdjRjVNZW51MFRDVHVKc1BqS010OUFlU3NqWU8xSERQd3NZcFcxb3BxWEJrclRKdHlHWERkZmhaMmJUS3ZkX041OW1fbjZkcS1PZ2dEdzNwU25RQ1JBMkNFUjh3aXhZSDgzMlNuUXQ1Qkt2Yk04VUoySV84T0V2TkF0SUEtd3gxX1BEdGFNdVRpS19LVmsyTmR3Ymt3ejdDV1BDMlJIX3BQWWtRbnhkNnozb2pjRHZuRDNZRG5SZG84bEhXZlh0SmFSYVZZOU12ZFlwSkNaRWpmRVBVYTF6c1g0emNIUDh4Q0J2b21vRFNfQUdvSUxpcHRpTFgxTF9xQlctSjQzNTk1ZkdCejBzcGRBWWhJLWktUmt2bnVJVDFlcXY1bXFsVi05cTlSXzdnY0ZMODNlT1dPVl9uTWUzRy1mZ2ppNzQ3dGZoNDZfdGU1dXNKYldfT0lKbmQ4dEZUVl8tM3VrOVhMUWdNd05VM0VUMTVUMjllSFhnc0h3NXBuV3NPRXBaMlF4RkQwT3hqYnkxZS01aXYzcDNNdi1HSDhxR3hDZndfMElwVUxfaG9Fd2Z1LWxyc2xwNUtINTMxXzVsU3VpM04yS0VweFI3MXVWZlVxZzBXanVET3NyQk1KQVFua05aaGtySGstTWFERUtoX3pURWVmUnNtU0p0VlhiNDZaTnZnc1pGMzdDdFpNZEt4Q09uazl1cnNoamNlYlBacVh3dWJqVXdBeWJKb0pBeWdOM2ZMRXljRTB6SW4yUVRlNGZkTFJGb1ZKc3V2QlZPbG5jVTA2U1NjZ2ZHb1dxWnBPcXdNRjJtcHlzN1pTcVp6SXZ3NkZGNzVDa0R3bHJVcHdOSHdiMGFtYzBCSTFvaFlFY0V0VnppRy1Ba09VU0ZvZ00wdk1ycEc0YkFjOGJBN2k5bWoyQS1jMUhSS3FoMm9acDBJV0ZGdmNndDNITEl0NEtaQjRjZ3Q2c3VNcFc0eXp0NFAyZjlhTzNrYUQyNUlpeTRKeGdPemZsaFdiWUp2c0pNZktKN0ZQQnNqdkx6SUtIUEhqbWxiRjhoZUdEV2o1MGt3WFBRMGRGY0dfNFA3UFNQSXlTdVF3T3lPMkFEZExhRFAxb2dHeWJWVmJwZlB3NFZRZWd3QUdGS1VfYUtwWW12Nm9ONmJTYlNrRVQ1TnR3NmZCQQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-10T06:16:02Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "9dadb677",
+      "title": "กรณ์ ลุยแฟลตคลองจั่น เสนอ 4 มาตรการเยียวยา เหตุรัฐช่วยช้า จนชาวบ้านต้องกู้หนี้นอกระบบ",
+      "summary": "กรณ์ ลุยแฟลตคลองจั่น เสนอ 4 มาตรการเยียวยา เหตุรัฐช่วยช้า จนชาวบ้านต้องกู้หนี้นอกระบบ Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40aFloOXp5LVMzbUVfSnlLYU1JdWczcVZJbWVDNkNRd0N6ZzZTWHBjNHFvVkVkdFVJdk05QnA3TTBWc1V6a1JkVDZ6ZllzdXB0Wkx4ZEh3Z3BJRnFM?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-10T05:49:17Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "7cb5a3dc",
+      "title": "รัฐจ่ายไว เงินช่วยกลุ่มเปราะบาง เงินผู้สูงอายุ คนพิการ เงินเด็ก",
+      "summary": "รัฐจ่ายไว เงินช่วยกลุ่มเปราะบาง เงินผู้สูงอายุ คนพิการ เงินเด็ก bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5NVFZTC0wYzBtSHoxdDdDRjVOMVlGTk9DV0EyLU95R0tjbTlLV1ZGU3UxQk05YkZvYzdaclRuZWcwNHgtd0JDZDNFdV9Za2ctc0tEdDFnQWFPd2l2TmZYRGdnTk1jUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-10T04:37:43Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-08"
+    },
+    {
+      "id": "5c40ca93",
+      "title": "กลาโหม-ทส.-มหาดไทย ลงพื้นที่ฉะเชิงเทรา เร่งระบายน้ำ-เยียวยา สั่งตรึงราคาสินค้าเกษตร-ค่าขนย้าย",
+      "summary": "กลาโหม-ทส.-มหาดไทย ลงพื้นที่ฉะเชิงเทรา เร่งระบายน้ำ-เยียวยา สั่งตรึงราคาสินค้าเกษตร-ค่าขนย้าย thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5d0EtZUtOc3pVNHRwb19FRlV0U0IzVVVWOTNvVFU5Ry1IOXNtek40LUxlTW1IY1lsRGVpWWtRZVI0U01zYjhTWGpxTTQzRHZPd1o0eFlReDNWaDFkTk84RTRyLS1TTXk2VVplc3RXQQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-10T22:22:01Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-06"
+    },
+    {
+      "id": "834c0880",
+      "title": "ยายวัย 80 เลี้ยงลูกป่วย 2 คน พึ่งเบี้ยผู้สูงอายุ วอนช่วยแพมเพิส-ข้าวสาร",
+      "summary": "ยายวัย 80 เลี้ยงลูกป่วย 2 คน พึ่งเบี้ยผู้สูงอายุ วอนช่วยแพมเพิส-ข้าวสาร banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9temE0YWcxenNkYmJ0Z2RZOVJOcGNuRjloYy0yb0VDcjA3UU1reGl4WU1QOE1LS1ItNE43UF9XcXpuV0FTUG5laW11ZXladl9uU3FoNUxNc3g?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-10T14:21:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "e2f98839",
+      "title": "เบี้ยชรา 800 ไม่พอประทังชีวิต แม่วัย 80 รับภาระดูแล 2 ลูกชายพิการไม่ผ่านเกณฑ์ช่วย วอนผู้ใจบุญอยากได้แพมเพิส",
+      "summary": "หญิงชราวัย 80 ยังต้องรับภาระดูแล 2 ลูกชายพิการ รายได้มีเพียงเบี้ยผู้สูงอายุเดือนละ 800 บาท ไม่พอประทังชีวิต เบี้ยพิการลูกก็ไม่ได้ จนท.แจ้งไม่เข้าเกณฑ์ ทั้งที่มีเอกสารรับรองจากแพทย์แล้ว วอนผู้ใจบุญ อยากได้แพมเพิส วันที่ 10 ต.ค.2569 ผู้สื่อข่าวได้รับแจ้งจากชาวบ้าน มีหญิงชรา อายุ 80 ปี ต้องรับภาระดูแลล",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10433191",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-10T14:19:23Z",
+      "category": "elderly",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "dd0c4c0d",
+      "title": "สธ.เดินหน้าระบบ Long Term Care ชู Caregiver 1.35 แสนคน ดูแลผู้สูงอายุ",
+      "summary": "สธ.เดินหน้าระบบ Long Term Care ชู Caregiver 1.35 แสนคน ดูแลผู้สูงอายุ กรมอนามัย เดินหน้ายกระดับระบบดูแลระยะยาว ปัจจุบันมี Caregiver 1.35 แสนคน ดูแลผู้ที่มีภาวะพึ่งพิง-ผู้สูงอายุ เตรียมพัฒนาแพลตฟอร์มออนไลน์ ระบบ 3C PLUS เชื่อมกับ สปสช. ในปี 70 เมื่อวันที่ 10 ต.ค. 2569 นพ.ธิติ แสวงธรรม อธิบดีกรมอนามัย",
+      "url": "https://www.hfocus.org/content/2026/10/39855",
+      "source": "Hfocus",
+      "published_at": "2026-10-10T11:43:24Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1ada94bc",
+      "title": "เช็กสถานะเงินเยียวยาน้ำท่วม 2569 ล่าสุดโอนเงินครั้งที่ 3 ให้ผู้ประสบภัย 8 จังหวัดแล้ว",
+      "summary": "เช็กสถานะเงินเยียวยาน้ำท่วม 2569 ล่าสุดโอนเงินครั้งที่ 3 ให้ผู้ประสบภัย 8 จังหวัดแล้ว Thairath.co.th 2 ช่องทาง เช็กสถานะเงินเยียวยาน้ำท่วม 2569 แบบเรียลไทม์ Sanook ปภ.แนะ 2 ช่องทางเช็กสถานะเงินเยียวยาน้ำท่วมปี 2569 Thai PBS เช็กเงินเยียวยาน้ำท่วม เปิดอีก 1 ช่องทางในการเช็กที่พิเศษและรวดเร็ว kapook.c",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HcUt2NTktVEp5VE9fUkpBWVpvaEhpU1dMMTVQTDU5VVRtNHVNY1RTMFEzSDdDWFZBMkJoOFhhOFNUOEVlMG52TmRLYlJVdTdRY3VyanRLcnRaWEk?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-10-10T08:30:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "e5966d7b",
+      "title": "LABOUR: ‘จุลพันธ์’ พร้อมเลือกตั้งบอร์ดประกันสังคม 100% เพิ่มหน่วย 5,233 ทั่วประเทศ มั่นใจคนใช้สิทธิมากกว่าครั้งก่อนแต่คงไม่ถึงครึ่ง จดเลขใส่ฝ่ามือ-กระดาษได้ แต่ห้ามนำเอกสารหาเสียงเข้า วันนี้ (10 ต.ค.69) นายจุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน และหัวหน้าพรรคเพื่อไทย",
+      "summary": "LABOUR: ‘จุลพันธ์’ พร้อมเลือกตั้งบอร์ดประกันสังคม 100% เพิ่มหน่วย 5,233 ทั่วประเทศ มั่นใจคนใช้สิทธิมากกว่าครั้งก่อนแต่คงไม่ถึงครึ่ง จดเลขใส่ฝ่ามือ-กระดาษได้ แต่ห้ามนำเอกสารหาเสียงเข้า วันนี้ (10 ต.ค.69) นายจุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน และหัวหน้าพรรคเพื่อไทย Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AZBVV95cUxNZWNabU5fbzZkUFdjeV9SQ3ZsZ3FLN0tqTTFxeTJXVHJWOUNOSXk1MDNSdEpvNUhtQm1XV1FZa0JPUjR5cTBrMkxiVHNRTTBRT29FdUVldDBwcFhCNXgzRHZKMExGOXVLNHFqQlBoSlZFeHUyLUJWSktfY3FoZmYyZC1BRU9yNWg2ZHN1dTY5QUZCTEZyZ1QxVVh2Zm5BWnlMVU1EWXdhM1dSYlAwSFFhdDBtSVNKaFZGNDB4YjB6N0c5TlZUazV3V09ZRTgxb2N2VnFfZ0Q4d2JoWEdNUmIxMUZtbXJaWWo1VDFGbVJFNkdqVUM3NnlLSklRWU52akFZcTV6QUItQ3lFaXNOUk9GSEJyVTJfQXNqWDBWN3dpUU5IVktGYXkzU1VJb1hVbDl3dWQ3QnBvOW9JcmpKQy1wWjRXSDlRODl4QW5DQkdvbTFwZUNsNzJhQkxsdUV4Y3NHSHBhb0dEUVJpXzBXNkgzLVA2dHh4TjhKTGludS1ZVUFoM0NsWmtGVzNHa25TRjZvSHlNRTJzVXFQa01YT1JkYVRRSnBaREZ5RHpDZFJ5QmhFZlB4dDFVRlpEazFHQVlucm9KcERaTnlKRE1QR0Y5Uy1DWjc3bU1RX2lDR01tYUJCNnVLY0ttMUlpdTBDb3NTTTJmRVdyNG1Za1RvcmhSQlhnb2NtUGI1cmRlTWZCZ2g0cHdMSl9kcUdCOGVBdGp0SkxpOVMtMjJONWo5N0w3TUtCY1BMVUhMdWh5eWpNbVBfSk1MbThJUF9tSjgxT0EwQUFYNGtONUhLS1I5RlNfdG91QmRJU2JORHVoN2R3WnRBTzg0a0ZVOUZjWVhkVmdUbVBnYlJOdWctXzN1ODhpdTFhNXdqbWVRNlBDeE5LMEliMlRLOWhpbUZ3SjNubU9HbXNNNXNraW93YkV5QVlRSkxJZ2ZCaWQtbFZJeGJLMDBGZTdIY3FQYUxkZUtibHVWN3lPaFZNUC1ZMXJaMUt6ZW9zZkt1eDlkeW9wRnFZNzFFMHBremZsZW9NVXhSZnRPUzdCSnl6UWFLZ05YUG9RM2FhczRmUEV2YXZpYU5tb2ppbXctcE10ZVdpUWtobHNHWGVtVkpHWWZ0dzBLVDAzMERod2FpVUlQN1ZUUg?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-10T04:49:42Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "072d5eab",
+      "title": "ทุกจังหวัดเตรียมรับฝนระลอกใหม่ กำชับ 4 ข้อสั่งการรับมือ \"น้ำท่วม\"",
+      "summary": "ทุกจังหวัดเตรียมรับฝนระลอกใหม่ กำชับ 4 ข้อสั่งการรับมือ \"น้ำท่วม\" นายกฯ กำชับ 4 ข้อสั่งการรับมืออุทกภัย เร่งฟื้นฟู–เยียวยาประชาชน ให้ทุกจังหวัดเตรียมรับฝนระลอกใหม่ ดูแลกลุ่มเปราะบางใกล้ชิด เผยโอนเงินช่วยเหลือแล้ว 48,600 ครัวเรือน เมื่อวันที่ 10 ต.ค. 2569 นายอนุทิน ชาญวีรกูล นายกรัฐมนตรีและรัฐมนตรีว่",
+      "url": "https://www.hfocus.org/content/2026/10/39850",
+      "source": "Hfocus",
+      "published_at": "2026-10-10T04:31:59Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "fb5aa79a",
+      "title": "นายกฯ สั่งเร่งฟื้นฟู-โอนเยียวยา กำชับฉะเชิงเทรา-ปราจีนฯ ระดมกำลังเต็มที่ช่วยน้ำท่วม",
+      "summary": "นายกฯ สั่งเร่งฟื้นฟู-โอนเยียวยา กำชับฉะเชิงเทรา-ปราจีนฯ ระดมกำลังเต็มที่ช่วยน้ำท่วม Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Nm9EdlMtczVOZThfYlBkUFlzY1BFUDdtdUNxbV9yYXg2NHlUWmZBdTBrR3cydFNZZ0dMRzdkZUhocDFsUVhlTnJTSWhuNEhjMDQxcmYwT21EVVk?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-10-10T03:41:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "782db739",
+      "title": "แรงงานสิ่งทอกัมพูชายอมรับ ขึ้นค่าแรงขั้นต่ำราว 67 บาทต่อเดือน ดีกว่าไม่ขึ้นเลย",
+      "summary": "แรงงานสิ่งทอกัมพูชายอมรับ ขึ้นค่าแรงขั้นต่ำราว 67 บาทต่อเดือน ดีกว่าไม่ขึ้นเลย ประชาไท Prachatai.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SaThoRzN0WXE2OWhNTTFxb1JPV3Z6aFNhR0ZRWUFHTnI0LV9FYzF0ZHRKdnlNMkZVdE5ZT2UxMmpEbUJ5aXkyeGs1TmxjdTZGaE52UU1xSQ?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-10-10T03:15:45Z",
+      "category": "employment",
+      "provinces": [
+        "เลย"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "01020136",
+      "title": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้",
+      "summary": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้ thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dGhQdHVWUHFUNFlHeXlGRFA3NFpnRDQwWmR1VGRWaVJFdy0xYlhBRTBGWTN3UkJCbHJlQnZLR0FIMUhGbEE1bWxKU2VLS2dqZ1RoeTVYeFc3RzhqX3lZYTdvX29NUQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-10T03:12:08Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "9217e75f",
+      "title": "สระแก้วอนุมัติเงินเยียวยาน้ำท่วมแล้ว 4,090 ครัวเรือน ยอดลงทะเบียนทะลุ 3.8 หมื่นรายการ",
+      "summary": "สระแก้วอนุมัติเงินเยียวยาน้ำท่วมแล้ว 4,090 ครัวเรือน ยอดลงทะเบียนทะลุ 3.8 หมื่นรายการ เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55ejlyMUtxZFNwZW85TlB1UHVveXE1RlZhdFdoYnNLelJXR0EwdVZBRnRHQmhad01BTXRON2ZOTHJqdkdKaHg3akZGdnFBS2hiNGU0?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-10T07:03:00Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 40,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
