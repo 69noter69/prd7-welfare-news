@@ -1,0 +1,384 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T06:59:22Z",
+  "window": {
+    "from": "2026-10-11T04:59:14Z",
+    "to": "2026-10-12T06:59:14Z"
+  },
+  "stats": {
+    "fetched": 315,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 24,
+    "eastern": 5,
+    "national": 19,
+    "new": 24,
+    "followups": 0,
+    "sources": 17
+  },
+  "items": [
+    {
+      "id": "6f7846f2",
+      "title": "นายกฯ สั่งผู้ว่าฯ ช่วยลงทะเบียน \"บัตรสวัสดิการแห่งรัฐ\" เลี่ยงคำว่า \"บัตรคนจน\"",
+      "summary": "นายกฯ สั่งผู้ว่าฯ ช่วยลงทะเบียน \"บัตรสวัสดิการแห่งรัฐ\" เลี่ยงคำว่า \"บัตรคนจน\" ch7.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DMEVTQlJWMGRnOVNXa0dtbVk2VnEyRGpNV2UxMFpVS1I0WTA3eF9DUzJoSU56S1BHZjhDUUFXWHFfOE1TQWNrclRNbw?oc=5",
+      "source": "ch7.com",
+      "published_at": "2026-10-11T10:33:01Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 100,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "398190db",
+      "title": "ระทึก ! ถือมีดทวงสิทธิ์บัตรสวัสดิการแห่งรัฐ",
+      "summary": "ระทึก ! ถือมีดทวงสิทธิ์บัตรสวัสดิการแห่งรัฐ ช่อง 7",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mZzFxbHdCV04zbEJNRTF5bnREaUVXUTNMaVhsVmFNRzkwOERJSVJuZ0l1NmstN3c3bnNGNEIwQmYzaXd5YjVoUTlQMA?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-10-12T02:57:32Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1a2bf714",
+      "title": "10 ปีคนไทยไร้สิทธิ พา 9,301 ราย ผ่านการพิสูจน์สถานะ เข้าถึงสวัสดิการรัฐ-สิทธิบัตรทอง",
+      "summary": "10 ปีคนไทยไร้สิทธิ พา 9,301 ราย ผ่านการพิสูจน์สถานะ เข้าถึงสวัสดิการรัฐ-สิทธิบัตรทอง The Coverage",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LTGdiVjNtc2tPRUd1Q3FJQVFfb2hIR25UaHdXVC1YUTVSaVJOUE4xNUwzNENyVnlRdWtFTzZtZmFpVW0zWkpDLWZmd29DNkNxZDJKdVlZNW1XM1k?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-11T07:48:16Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "46abd6f9",
+      "title": "“หมอเอก” ยันรัฐบาลช่วยน้ำท่วมครบทุกมิติ ทั้งเงินเยียวยา ประกันภัยพิบัติ พักหนี้–เติมทุน ปภ.–ออมสินโอนเงินแล้ว 75,000 ครัวเรือน",
+      "summary": "“หมอเอก” ยันรัฐบาลช่วยน้ำท่วมครบทุกมิติ ทั้งเงินเยียวยา ประกันภัยพิบัติ พักหนี้–เติมทุน ปภ.–ออมสินโอนเงินแล้ว 75,000 ครัวเรือน MGR Online",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54TEFLOVAxbVdjX3ZlOTBWSFdPZURmYXgtVmFhTFN6YjRBaXFuRVJxOThlaG5jMkh4OXBxSkNCVmh0eXhqdnZPTG5ydWJ6aDlhSDFoUzc0VkJNcno5bThBUA?oc=5",
+      "source": "MGR Online",
+      "published_at": "2026-10-12T01:51:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "b291183f",
+      "title": "‘พัฒนา’ เผยงบบัตรทองปี 70 สธ.-สปสช. เดินหน้าบริหารร่วมกัน มั่นใจลดวิกฤติการเงิน รพ.",
+      "summary": "‘พัฒนา’ เผยงบบัตรทองปี 70 สธ.-สปสช. เดินหน้าบริหารร่วมกัน มั่นใจลดวิกฤติการเงิน รพ. The Coverage",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ULWVyOXNpd1RkdG9XSVQwV19mWkdvQzU0LWppNUxMYnpNYTQzSmdfelhpSDMyb3pkelg2TGE0MmlVeEJaYjJ3Ymp5Z1I0LWs5TGdza2ZjbVdvRFU?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-11T11:03:55Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "0a8e3c64",
+      "title": "หยุดผลักดัน ‘แก้ กม.บัตรทอง’ เพื่อเปิดทาง ‘ร่วมจ่าย’ หวั่น ‘คนจนเลือกไม่ไปรักษา’",
+      "summary": "หยุดผลักดัน ‘แก้ กม.บัตรทอง’ เพื่อเปิดทาง ‘ร่วมจ่าย’ หวั่น ‘คนจนเลือกไม่ไปรักษา’ The Coverage",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZV9UQUVBLWZQcUljSWpPMFJ1WjZKVVdKUFMzck84OTNYdThDNkFoMnk4b0dFTG56MFRlTGFHLUphNFdwWmJCLVJ5ang4c3E2YW9Mc1VSTFVrTE0?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-12T05:56:25Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "245cfd07",
+      "title": "UPDATE: จุลพันธ์ ยินดีผลเลือกตั้งบอร์ดประกันสังคม ยอดใช้สิทธิพุ่ง คาดแตะ 1 ล้านคน พร้อมร่วมมือบอร์ดประกันสังคมชุดใหม่ ย้ำยึดกลไกไตรภาคี วันนี้ (12 ตุลาคม) จุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน เปิดเผยถึงภาพรวมการเลือกตั้งคณะกรรมการประกันสังคม (บอร์ดประกันสังคม)",
+      "summary": "UPDATE: จุลพันธ์ ยินดีผลเลือกตั้งบอร์ดประกันสังคม ยอดใช้สิทธิพุ่ง คาดแตะ 1 ล้านคน พร้อมร่วมมือบอร์ดประกันสังคมชุดใหม่ ย้ำยึดกลไกไตรภาคี วันนี้ (12 ตุลาคม) จุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน เปิดเผยถึงภาพรวมการเลือกตั้งคณะกรรมการประกันสังคม (บอร์ดประกันสังคม) Facebook",
+      "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxQcGdWcVg5My12TTc0R3hiYjNQT1pKbk5lY3VRbFdZV080ZW04QndkbWJYYVBLbnBCNlBmT3FNMDd1U2hVaHFRVUJsTnNOV28ydFZLekdLQXNJTFlWbllWUjNub3o3NFp0TUNXTVRfRGVsSGQ0S0tDODlxcjgzNnlBYnpySHJlQjk3RzU1TW96TWxDMXNjSTh5MFNpdEhDbTFBM0N5VEtCNkdpeVJFdHNvb0JOY0JPZ3luWDhDZVpxY3BSbjhwSnBFbGJpY093VnlhcEZyUWVIZHZNWFJWSVdja281X3F3RC1rT0RzRDN4YUVuVHFQcFhscFNWV2VJOV9ndjJwdVppRzV4S3dWQlhkc2d5bW00MFgtNHNJOU15MDhpVGhOejdOUHpLMVpyV2hlQXJ4X0h0QWI2TXBPS0N4cWJzOTVlWjczaUxfTnZiUTR2djdweDZuam44T2l5UG9JQmYxSHhZRVN4ak1OMXA1bFdTb3NXRXJMTFVMb1pBTnlEellGOGNncC1RTDFBNTRrT2I0cjByTzRjR2dDU3pyNmFjOFdLSDczQ0ZRLXRjMEc1cnlwQXAtamQyMEpEM3hSRkUzUXhScThmbVNlM0VXTTJWTW5ScWd5TmlkbVdmT25KdS1Qa180VnloalVpOXVrOUpxN21KT2t5dmxVSGswWFFEZVVhWjZyclRwZmVNMjdvdkVoZkh2bzlvS2UyLUtBUmtXUFVHZy1xREc0akxLM050cGdDQm0ydmZKWEhCQjA1ZHFnR3RMSGlNc1hSeXB5YzIybkprbE1XYlVMUjc4M2FZWDRHYmx0YlFPUG9udEE1cFpjNkxJajZiRTlrV21tX1lfOGQ5NFZCLUFrN3NvT21jbmlDZUtmXzdRRjE1MlROLVd3NTFOeDRYaVVmMkhJajN5VW42cTN3VGlmc01FRk5BMmd6REEzQndsU3ZmaldiRnVpeHY3UW94NVpfQ3l0S1hjLVFvWVp1c2hyS0RkMUdzVVJwU3kzRkt4ZzlRTnBaWVF1WjFheTBva1lHRjc5NlpYVXRqV2hXUkdPMDdpMzhTQndBNTRCbHFiN1dTTjBjV3NidnVyMFNSU3U0di1BOWhQdnZoeFVzQkt0WUw2REQ2Ty12cDZ6R1Q4dmxrSF9xNC1MdC1PdU1PXzdTVWN2TURodTJmN2pjMjRadHBoTWF5djhHMHZXMExRa0VEUzJwa1N1MDFDQVUwcXJhcVl6bzZ5RlNB?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-12T05:49:14Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "fe81513a",
+      "title": "‘พนัส’ รับแพ้เลือกตั้งบอร์ดประกันสังคม จวกแรงงานรับปากแต่ไม่ไปใช้สิทธิ นัดถกสรุปบทเรียน 18 ต.ค.",
+      "summary": "‘พนัส’ จวกแรงงานไม่สนใจเสื้อ-หมวกวันแรงงาน ลั่น ‘หัวมึง [&#8230;]",
+      "url": "https://www.matichon.co.th/local/news_5928994",
+      "source": "มติชน",
+      "published_at": "2026-10-12T04:48:31Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "18347cc3",
+      "title": "บูรณการมหาดไทย-กองทัพ-คมนาคม !“พลพีร์” ผนึก “พลโท.อดุลย์–สิริพงศ์” ลงพื้นที่ \"ปราจีนบุรี\" เร่งเยียวยาน้ำท่วม จี้ตรวจโรงงานสารเคมีรั่ว–บริษัทนอมินี 7 วัน",
+      "summary": "บูรณการมหาดไทย-กองทัพ-คมนาคม !“พลพีร์” ผนึก “พลโท.อดุลย์–สิริพงศ์” ลงพื้นที่ \"ปราจีนบุรี\" เร่งเยียวยาน้ำท่วม จี้ตรวจโรงงานสารเคมีรั่ว–บริษัทนอมินี 7 วัน banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1heG1mN3FJNjJSVWd1MVZBamRrcmc4SWh3dS1SaTlVYjBpdUNua3pKcHN6TkVRSFN1QUFoWlF3LVpISWpkREdjNFBOVzdOcF9VcDdEZ3dWUENlUjJHNy1lLVM5OA?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-12T02:41:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "46e7a06d",
+      "title": "คนใช้สิทธิประกันสังคม วอนปรับระบบ ‘สิทธิวิ่งหาคน’ ครอบคลุมทุกกลุ่มแรงงาน",
+      "summary": "คนใช้สิทธิประกันสังคม วอนปรับระบบ ‘สิทธิวิ่งหาคน’ ครอบคลุมทุกกลุ่มแรงงาน มติชนออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85aERyb1VBbXhjR0dqLWlyVXItRjl4TnFhRHdoR24zbGZvUVZRR214cjNIamh5WXU0V2staV9WZlpoMUVuZkNha1d6UVVJQmtlcmNmNU05YTBXelhwdVBEMk5ZRzRfbVhhcHc?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-12T02:00:45Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "3874bddd",
+      "title": "‘IMFชี้‘มาตรการมุ่งเป้า’รับ‘วิกฤติค่าครองชีพ’ ถึงมือกลุ่มเปราะบาง- ประหยัดต้นทุนการคลัง",
+      "summary": "‘IMFชี้‘มาตรการมุ่งเป้า’รับ‘วิกฤติค่าครองชีพ’ ถึงมือกลุ่มเปราะบาง- ประหยัดต้นทุนการคลัง bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50cmx2dmpQR00wX1pra2pMel82aXoxV3JPV2JYSU1jMk5LRzhlZlVCVThBZ1dFSEhBTXlZSE85OEtOcURqb2x1MEZsRVVaN0J2eXktWkJ5YnJLQ3A3?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-11T18:34:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "27b6a157",
+      "title": "เลือกตั้งประกันสังคม! ใช้สิทธิ์เพิ่มขึ้น 331% เปิด Dashboard ติดตามผลไม่เป็นทางการ",
+      "summary": "เลือกตั้งประกันสังคม! ใช้สิทธิ์เพิ่มขึ้น 331% เปิด Dashboard ติดตามผลไม่เป็นทางการ เลือกตั้งประกันสังคมล้นหลาม! ยอดแห่ใช้สิทธิ์เพิ่มขึ้น 331% ปลัดแรงงานขอบคุณ “นายจ้าง – ผู้ประกันตน” ตื่นตัว เปิด Dashboard ( https://www.sso.go.th/sbe2/ ) ติดตามผลคะแนนได้อย่างโปร่งใส ตรวจสอบได้ ล่าสุดผลการนับคะแนนไม่",
+      "url": "https://www.hfocus.org/content/2026/10/39863",
+      "source": "Hfocus",
+      "published_at": "2026-10-11T13:33:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "bf57c501",
+      "title": "เลือกตั้งบอร์ดประกันสังคม: เริ่มนับคะแนนแล้ว ปลัดแรงงานเผยยอดผู้ใช้สิทธิเลือกตั้งเพิ่มจากเดิม 331%",
+      "summary": "เลือกตั้งบอร์ดประกันสังคม: เริ่มนับคะแนนแล้ว ปลัดแรงงานเผยยอดผู้ใช้สิทธิเลือกตั้งเพิ่มจากเดิม 331% BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRaGJXOFItNDlYVkhRMS0zSXBwUjFFcEtZWDhDRm9uQU5DS2lpakN2UEk1WF9tLVNaRFMxZGUtVEZvazA2T1QtRnBzUWFvdUhkYjNEMmZ6UjAtd3fSAWBBVV95cUxPR2t5UmdNLXlCU1VzamNqUDRjd3Q1cUlJZTVBZzNWVmlUZWVadV85UlZDRzRvYXotUUZtWjhrUjZGNk9BSjVleG9fbU1sU0VkUGdCV1V4N01lRlNuRmV4b2o?oc=5",
+      "source": "BBC",
+      "published_at": "2026-10-11T12:59:42Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a70d9b7b",
+      "title": "แรงงานตื่นตัว! เลือกตั้งบอร์ดประกันสังคม ผู้ประกันตน-นายจ้างแห่ใช้สิทธิ์พุ่ง 331% เร่งนับคะแนนก่อนรับรองผล",
+      "summary": "แรงงานตื่นตัว! เลือกตั้งบอร์ดประกันสังคม ผู้ประกันตน-นายจ้างแห่ใช้สิทธิ์พุ่ง 331% เร่งนับคะแนนก่อนรับรองผล LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tNWhXZ2RNaFVSeEQzeFVNT3BpQVU5eXRmR1pZR3lqRDVCc0dYdXYtZHpWQmF4akhIUmJhdzhCLVpJZ3VNU0JfS0xvOWtfc0RseG5qUmdn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-11T12:17:20Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "7939474e",
+      "title": "เลือกบอร์ดประกันสังคมคึก ใช้สิทธิ์พุ่ง 331% นายจ้างทะลุ 500%",
+      "summary": "ปลัดแรงงาน เผยเลือกตั้งบอร์ดประกันสังคมปี 69 คึกคัก ยอดใช้สิทธิ์พุ่ง 331% ส่วนนายจ้างทะลุ 500% ภาพรวมราบรื่น ยันไร้ปัญหาใหญ่ พันตำรวจโท วรรณพงษ์ คชรักษ์ ปลัดกระทรวงแรงงาน แถลงภาพรวมการเลือกตั้งผู้แทนฝ่ายนายจ้างและฝ่ายผู้ประกันตน เพื่อเข้าดำรงตำแหน่งก &#8230; อ่านข่าวต้นฉบับ: เลือกบอร์ดประกันสังคมคึก",
+      "url": "https://www.prachachat.net/news/news-2079548",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-11T11:54:42Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "caeff609",
+      "title": "ข้อกังวลเกี่ยวกับการให้สินเชื่อเพื่อซื้อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย",
+      "summary": "ข้อกังวลเกี่ยวกับการให้สินเชื่อเพื่อซื้อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5seTd2MmNkYWtPQzJWY3A1RWYyNXlJOWc4RWx2MnVzWTQxUENBNnR5MFFkd2VyRzl5ZkFCRjRza0F6Um4wMkJhOGZtdHdSUE5NTWs0Ym5od05XU3BwclZ4SE0wMmVhNXo4cVE?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-11T11:20:10Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "72035693",
+      "title": "3 รัฐมนตรี ลงพื้นที่ปราจีนบุรี ให้กำลังใจผู้ประสบภัยน้ำท่วม เร่งช่วยเหลือ–เยียวยากว่า 5 หมื่นครัวเรือนส",
+      "summary": "3 รัฐมนตรี ลงพื้นที่ปราจีนบุรี ให้กำลังใจผู้ประสบภัยน้ำท่วม เร่งช่วยเหลือ–เยียวยากว่า 5 หมื่นครัวเรือนส ผู้จัดการออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HTmZnNHlVWFh1bWRuVFdpZUt3UUpOR3NBS0NNNGJYVmIzRkJhZW95MEc1NE5ERVpkdEJHTVhOcjlrX0VGbFk2ekJxRDBvYV81dmFaTXVZRm1kR21W?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-10-11T09:27:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "6be29302",
+      "title": "📌 เขตลาดกระบัง อนุมัติเงินเยียวยาในระดับเขตแล้วกว่า 10,000 ราย ยอดลงทะเบียนช่วยเหลือเยียวยาตามมติครม. ทะลุกว่า 100,000 ราย รายละเอียดเพิ่มเติมที่โพสต์ต้นทาง 👇🏻👇🏻",
+      "summary": "📌 เขตลาดกระบัง อนุมัติเงินเยียวยาในระดับเขตแล้วกว่า 10,000 ราย ยอดลงทะเบียนช่วยเหลือเยียวยาตามมติครม. ทะลุกว่า 100,000 ราย รายละเอียดเพิ่มเติมที่โพสต์ต้นทาง 👇🏻👇🏻 Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiwgdBVV95cUxNTjdkeUFjUGJraDEweEhpS1JLWHNVWnJ3M0M3RWxwNWQtOXRCNGU3UjNkNk9QLXBFX21pVWJ6SE4tWTRFU3oyancyMDN1eWJzUmg5WnVWSjVHc3dLU1ExU0ZIdTFUb2VkZTZxOVdHVDFPRlpoLXJuY3FzVV9XdmJfR2RUMEw5TmhxSzFyMDMxaVRKRVVkM1ZLV1JhRVZBZTNOMG5KM2pLcFE5REZ3aU00cVNCMVFOVkx5R3lTUU5KT3k1ZHYyYklGczdHZFZudU5JQlZaYUdTRzNOOERiTThiNWZBSlRpbFJwNW9GMTZJbGVpNF9rU29yQ05ONkdjYjI5MzdrZWEzaDhtclVjQVo1ZjVlNF9wZ1dGUnZ3QVNxQ05UNWhuVmZLMDF1T3hFQUpYeWJCLU9vMzJKOUlXaEpqMFQyYkYyamUxZERLc3ZJZ1AwMDlod0NtMEpacDd3ZU1HaFdIN2VweFc2TEJxdlJmOV81TFBuQUdUODB2cmUyNEVIT1pFallTZjJ0anZxR1QtSlhYRE9PV0pDR09RbU9fSWxpY3Y1OG5HX01NRE1UZjhuWjh5VW9ZSldEdnVEY0d5UXVfWDJ4T0h4TzItc19qUWZLdmxnYmRYYTg2V3hsSHRucWpwYkk2NFd3azlpbTZTVTJZOUZBWjVVZU1MMmtEdGhaQVlTZi1ocDJUR3p5MVBnZ0RpV1laNEdfeEowbnJwTm5xZElHQzZ4THFPZEdzcEllVHR2aWtKeWx2eHJjT3JHSFlNMHpxZVFsZ1dxU3Z6eXotUnVVb2ZCa3dzTEp2T2ZaWmp1aDhsZGwyU2o0ZXE2eXJBWmFIdExlSnBlcm5aR3FEY3p3bGRtVmtfWEFWM1JEMHY1dm50UGtvUk1WaF9YOUFoY25SWENmTG9ZTTd4cGNUUW04dWRnU2duZjFwSTFIUEJVbDJTY0thcVZLWjZyZk56bkZxZ09TYkNYY3BKeFJaNTg3S0RsX1I1VHpINzk3d2YyWXlPSmVXdm1hbFF6ZGN0dktWbkh2MG9fTlBnTVlsV2VOcE01ZV9mcWtpM0dYLTJvM2FTc3RDQ1h3SDJSTlBPa0lGS2tfYWpnak1ONWJuRDdwX25ZbWVXWE96ajNFZG5XTWdVUzViX2tsemJLOWZsS3dqazZ6QTdhWXJYcWJFem5CRWsycFYzampnZExTLU5ldG50QXNkSTZ6dDhPeGhzX1UtTlNzT2ZvanpzQjd2VEJHQTNPMUVtZmRVT2djLXo5a0tHT0NGN0FUQkUydw?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-11T09:10:05Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "ca83e72e",
+      "title": "ที่อยู่อาศัยสำหรับผู้มีรายได้น้อยต้องมีราคาที่คนทำงานสามารถซื้อได้",
+      "summary": "ที่อยู่อาศัยสำหรับผู้มีรายได้น้อยต้องมีราคาที่คนทำงานสามารถซื้อได้ Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iZkJkbVY5bmZMbzUzamxXZXpNSnJnUjk5QWZScEZ3MTUxeV9Nc1pnSFJ1bWlqRllIQlNLOUlEMk51YmdfdE5mSDdqWnFlYnM5MzdmcGU0OGZZUW1PWm1ibm9nUVUzMWNiT2pibHJQQk82M1lfUDB3THlaWQ?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-11T06:43:01Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "d599a0eb",
+      "title": "พนัสนั่งรถเข็นใช้สิทธิเลือกตั้งบอร์ดประกันสังคม บอกเจ็บใจต้องสู้กับพรรคการเมือง หวั่นกินรวบ สปส. วันนี้ (11 ตุลาคม) ที่โรงเรียนสมุทรปราการ พนัส ไทยล้วน อดีตกรรมการประกันสังคม 8 สมัย และประธานสภาองค์การลูกจ้างสภาแรงงานแห่งประเทศไทย นั่งรถเข็นมาใช้สิทธิเลือกตั้งบอร์ดประกันสัง",
+      "summary": "พนัสนั่งรถเข็นใช้สิทธิเลือกตั้งบอร์ดประกันสังคม บอกเจ็บใจต้องสู้กับพรรคการเมือง หวั่นกินรวบ สปส. วันนี้ (11 ตุลาคม) ที่โรงเรียนสมุทรปราการ พนัส ไทยล้วน อดีตกรรมการประกันสังคม 8 สมัย และประธานสภาองค์การลูกจ้างสภาแรงงานแห่งประเทศไทย นั่งรถเข็นมาใช้สิทธิเลือกตั้งบอร์ดประกันสัง Facebook",
+      "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxPdGxIYm5leENjSVJGQVBXRlpIR0FCOUtiV2M5SUJscjVKaDlfTzJfQlU1bGNrNXhfT2VaZDdnMG1sbzRKdWV0T3ctNGl2eE93WjJ0MmU1cVQtWGtRVjRYQ1drMkpiQ3dhYWNfWmFvOGRldkViTXVtWW0yWHhpaFlabmJkMThmcHhsY3lObHFDRnloMk5Sb192OUV1NWVZUHBRUTNWY29wUHE1SHMxNHBoYm51UUtPclpXV2lmS3FLLWFNU1BLeHFhU2E1Y2ZTVGhCSDRuUXN6Z1M5LVlBc3lDT3ppaWpXNEZ4Tnk0cC1TdTVUVWxjQmdsWXlodThrcWVYbmplX2g3SFJ2dmRKTWtTMEt4WTZzYUlvZnk0QXg1TUNMYS1ncHEtU0JITmRES09xQlBnZzh4TjlreTdfUUdxWUR6Nk5kRnQ2dFZZdHl1Qmt4RVloU3ZPUG1WVzZuekVwUUlCc014dkJocWlCZ2xmbzRRakxYYTFtc1hOc180My1GODlGR041M21YRUQydmZiNVBhTWZPTnd1X2xVUXllNVpEM0JzRmJGendFOXFqTXJpaGVUZ0N3ODFkY1NZZDBXcWtINmRGcU0xSVB1eENYTG9vTjZPZ0Vwb1lTVHBuOUN5WUk1bjJrMzdjMmpqUVFFZkw2NGdUY01rYjV0WlhlN0xtU3dNZS1qZ0pXNkNFQ2hsSkwtSFNZdUxYYXdJSmtaSl8taEFEY0FHaElna1V3N01BQ3dKR3Q4aXZySWZsclZHbW4xeWoxc0k2eXM0VTQtbUNSUUFpWFF6UXZBLWh2bE1sS0hKZlJYTDZiSFdEM0RSbHFpeWlhNTEwUzNmTnprb1RqZ0s2UGhydndtbWg1Sm41TGxTRVhyRFY5UmJCekVYR3FJVW5Pc3VpRWp0TlgtdVhLSUs0a2IwTlBteE9vSzlfOWRqMFhyOHZlWWdTM0lrdmZRclRuOFhPb3drVVo2RGNfMF9kblZ2ZHlhSjBMeE9DTGVldWNsZ1lzNk5NUnZpNjB1czNLVFdBTWJfZ2xqMnRlbTJ6X2RZekxtWjI1WkJNbmdwd2RQVlNwaHJGZXBCc2VRcFZMOHYyRnd2S3dyd3pEN0V5THFSOHg4eG9QZUpWbkpvdHN2Tzl6ZDRyYnlPai1jT2RUYTdSSnhJVkQ0RFBLdXMzblJTMlpjTWF2TWRkYjN0MWd2MG94SzBDZU5OcFdrWk84S0E4ZjJNNmFQMGFSMUdjVURPSzR3WXJodGduQ1g0aFlBVGUzLUg1RE9XWjVDOFZDLThmU2d2dlRiamp1UG9INnZqZ1pSSXVkQ0w5NDY0NTFwaVBOZVB4djdRUzF6QnF6M2V1YTRsM0psLU9ZVzJNd0JzQ3NOXzNmd2plWTVpQU5wX3Y0?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-11T05:58:47Z",
+      "category": "health",
+      "provinces": [
+        "สมุทรปราการ"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "2cc9393a",
+      "title": "3 กระทรวงลงปราจีนบุรี เร่งเยียวยา–เตรียมฟื้นฟูน้ำท่วม",
+      "summary": "3 กระทรวงลงปราจีนบุรี เร่งเยียวยา–เตรียมฟื้นฟูน้ำท่วม ททบ. 5",
+      "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNWDJtZEZpN19YcWRCT19pVHhTV3B0OXdQbzNoTGZnOUFsQmNTNWNod2VGMWR5UFdUNUNlWWg1dmI4bWN4dkVPR1hUTVBLejMtSDdBUzRYVVhFVzMyeWVLUk9CQkFVakdzMmFwQUw0cEZPNU4ybkkzSEk1LV91TnNmRUd3Uk5vcFE5eHlOVFlSUlE3WjN1RFJVRjllS3ZNSUZsRDFBekctWE8tQlZxbHFyRF9qQWI3SGc5NGdycDYxOGRmcmljRm4wai1obl9UOVBGek5zM2x5amdRdl9qWTNUa1Z4djZRZ3pvN2ZJTG1XODUzdEszb2wyMXJ6c1E5WVo4blVuTTJWUERWVXRjcG52YTNVc25sanF6TXFmU0VJNWVLWl94eERTYm91MEE3ZmRMb3hYOThPV0VNWDloRWR1MGFkTlhIQ3gyQi1nbzVKU00tVXEtNkxMbXEzcEJFODBUN1VUV1l2OV9kck1ySUlKRVlRNW9ackV5WjhCNTYtdmZUUWYxRnZ0c0pfNHZ6QTVvNVhMQjBRZmFpalgxNzhtMlctLXpxZEtPR1lCT1RYdjZ1bG03QTdOeGhkc1pfcHFFVV9qZ1p6N2dfOVlXbUE1MVRHa2ZFQkdzbnhlVGxiS09YaVNBNTNMMnprV1BhU1IxT2hGTHBiZUtIb0ZCSHQ3Vko2TUJINEN0cHJXNUc4TWJVbUtsQ1FzSDk2QlZwWWw0dlBGOGhVSUpaZTRPbk42cm1KbjZ4VmIzMURrVFNtaXNkRHE5Sm1kbHUtVWJMcTBQZTdqR2kwVVVkU0FRbXBRYkstamZrbEJfbFlHTmhIQ3pMWnJfS2tjenBnVURrQWlBOTN2Vno1VUw4SHFQYWE5TmNCWHhDRV9sWjAyNTRXTQ?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-10-11T05:41:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "48089c55",
+      "title": "ASEAN Roundup มาเลเซียเปิดตัว 6 มาตรการหลัก ดึงบริษัทข้ามชาติ แรงงานทักษะสูง",
+      "summary": "ASEAN Roundup ประจำวันที่ 4-10 ตุลาคม 2569 มาเลเซียเปิดตัว 6 มาตรการหลัก ดึงบริษัทข้ามชาติ แรงงานทักษะสูง มาเลเซียขึ้นค่าแรงขั้นต่ำปี 2570 มาเลเซียเตรียมคลอดกฎหมาย AI ฉบับแรกปี 2027 ธุรกิจสิงคโปร์ใช้ AI พุ่ง ดันสัดส่วนเศรษฐกิจดิจิทัลใน GDP กว่า 19% เวียดนามเล็งแยกงานสายส่ง-กิจการจ่ายไฟ-ค้าปลีกไฟฟ้า ",
+      "url": "https://thaipublica.org/2026/10/asean-weekly-roundup-375/",
+      "source": "ThaiPublica",
+      "published_at": "2026-10-11T05:37:41Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "245dff90",
+      "title": "POLITICS: ก.แรงงาน เยียวยาผู้ประสบภัยน้ำท่วมแล้วกว่า 1.6 หมื่นราย ผ่าน “ศูนย์ซ่อมสร้างสุข” ‘จุลพันธ์’ สั่ง ช่วยต่างจังหวัดต่อเนื่องจนกว่าสถานการณ์จะคลี่คลาย วานนี้ (10 ต.ค. 69) กระทรวงแรงงาน โดยกรมพัฒนาฝีมือแรงงาน เดินหน้าลงพื้นที่ช่วยเหลือประชาชนผู้ประสบอุทกภัยอย่างต่อเนื่อง",
+      "summary": "POLITICS: ก.แรงงาน เยียวยาผู้ประสบภัยน้ำท่วมแล้วกว่า 1.6 หมื่นราย ผ่าน “ศูนย์ซ่อมสร้างสุข” ‘จุลพันธ์’ สั่ง ช่วยต่างจังหวัดต่อเนื่องจนกว่าสถานการณ์จะคลี่คลาย วานนี้ (10 ต.ค. 69) กระทรวงแรงงาน โดยกรมพัฒนาฝีมือแรงงาน เดินหน้าลงพื้นที่ช่วยเหลือประชาชนผู้ประสบอุทกภัยอย่างต่อเนื่อง Facebook",
+      "url": "https://news.google.com/rss/articles/CBMihwdBVV95cUxPOVU0Yk9UYzlpa3JvOUJmXzAtSVh2aWJoLU9aQXdxQlRpVkgxcnlnaW96MkU1M2RpaWM3NjZSM3pIQ1FKdUVxY3l1LTI2bHRNZ0VGdVNsZU5Pb1JwRVJCV3FjcUVkZVhscTVvWTM5MEZ0bWRGTm9xLWowcC0xeVZ1RDk1VXJJMEFLOC0xWFE5V19mVHVaVlg2RUtjaWttRFV6M0Ixcmp1SjlFMTQ2eXhxZTRJdmNEcEU3NnhVYi1wb29aRHpRNEpRSTBzeFZ1VGo4NFlJS0lRRGRsY21tLWdVazlpRXBJV0d3WG1jVmF0ekpDdEtFblFtT3FsTnBmdHJYcUpxWkxlaGV4a0pHY2FtOHF4S0ROLS11bDd2Q08zRDhRbHB1WUhvVVhXNWZJUUNYeGdEb0N5VmJCaTkyYjVQOHJTWk9Oa1JCRjlDN1Atd2FaSjZFdEd1YmpEZ1BOT3lFWkYxOThVWHBVZTdWbXFidkJSOUV1Wmo3UzZCZ2pvVy1rWmZEMjJDdU4zUnNoMkZnSkhDOFY5aGRjUTJIT1NLelJYRVVqeUcwNFIyM3pMSUJCOHlaUUhJUEhXRXZ4U3V2RWMxclNjbS1wajg4M0dpZ2QzdXU2UHVYTWN2QThwSDZ6emFxN2lJcDZ6SEdWTFgyYWx1WERZMkFsNDFvVkdFMWRITzhKcUg3Qjc2eHBVZXdsVW9iWlpMQ28wS3Y1T3BaQTktTlpTM195dEN2N2pQdThHX05IMzlQT2xOM2hIb1lJVkgwU2NVSGpsdVAxV1lmWHRka0J4SW9PTEFFTF9lRkhCckpGenU3RFkwWkl1VVNaNlo5SjJfRnhwSjdMSUIzbkp0RGo4OHRUSmlUVFRPS1Z6ZXc3Ylo1SVNsNGV5dXdKVHRDcTdyaUprNTdDY0paX3FWdE9LMWp1UjRjdWpuaU16MWJ3OWRYNVJENVZYa0dMRzI3Qy1xcnBWb0ZnWnlUUS1TbVk3YzBTTWJST0p5RV83OHVaVUU0cUprazJteHdwVGFGSVA1MWgzeGM1eTZpTmhKTjRWVlN1UE00VGloekpGSVI1NElDd1pZOGMxVV9Iclk4M0dqa1k4ZkFUdHFOcDk1Z2pVSG5VZ3BZcUVvc2hTUnFpYnN6MHRibFBGLXhrNFVmM1dwRE53NHBXdVRqdFMzNXRMSlhUSkQxVXNfM0l2NV8xWG8?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-11T05:36:16Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "211948a8",
+      "title": "จั๊ก ษัษฐรัมย์’ นำทีมประกันสังคมก้าวหน้า แถลงชัยชนะ ผลคะแนนเลือกบอร์ดประกันสังคมนำโด่งหลายจังหวัด ขอบคุณ ผู้ประกันตน-นายจ้างตื่นตัว แห่มาใช้สิทธิ์ พบความผิดปกตินับคะแนนจังหวัดสมุทรปราการ คะแนนผู้สมัครทีมประก้าวหน้าหาย 2 คน อาสาพบ เจ้าหน้าที่ปิดไฟกลับบ้านแล้ว ย้ำจุดยื",
+      "summary": "จั๊ก ษัษฐรัมย์’ นำทีมประกันสังคมก้าวหน้า แถลงชัยชนะ ผลคะแนนเลือกบอร์ดประกันสังคมนำโด่งหลายจังหวัด ขอบคุณ ผู้ประกันตน-นายจ้างตื่นตัว แห่มาใช้สิทธิ์ พบความผิดปกตินับคะแนนจังหวัดสมุทรปราการ คะแนนผู้สมัครทีมประก้าวหน้าหาย 2 คน อาสาพบ เจ้าหน้าที่ปิดไฟกลับบ้านแล้ว ย้ำจุดยื Facebook",
+      "url": "https://news.google.com/rss/articles/CBMigwhBVV95cUxNVTliUVg1VDg5STk4VlVqNkd2dWNScGRfcG9RQWdOaHhubWExTE5sOUw1UjhWdktjdzhvZ3c1aHBiZk5CZDl1SGdyYWFZMVRWcHFRMHpKSXlsLUZnUjNHaEJwOVl2U05HRHRsM3dkWjNlOFRCbG52WTB4LThEeUJCMHFGeVNRWHV4cGFkQTJLU1F6TEZweWRUc1RYTEszZnp0blJOU0FtYXZyd2lqNk5aY2VDN2VYeGpaZUdOcFd3UlhjSnlMUE5lMjVqd05OZlJfQlRNaTR4OUhtWWRBQ0pRanc3ZkdTSUpZS0kxY0tEUndhSzl4RWt6em1aRkt2a1pwV1N5bHI4UEVrdXFZcDEwUXhleHlXT0taZEVfa01PQ1NydXVVdjV4Sks0UnBvMUZCb0tlc0VBT01hbUU2bDhIZzQzdnlCTVdDd0dZYmhKVElETHZrQXlHdEZDN3VjRzR3eVhELXhlamI2bi02aTdTYkM4a294djJ0NWxucjhYZjBLY1lKeURQTG9HUUFZY0VJNTdLSTJoVldSQmcxcnUwT0t1WUU0NHVJUkJtdGEwZ3h6dkVlTXlRRDVGUzFneXBWQzVMa2dlVDVjcmJEZHN2dlFyaGxIdmx3LTc2R1lJU2k5YWE2VG9HWWY3eHh5cmZQT1JKM24yQ3ZRQzVRSXpMcFNacGZwbFo0dHFjVUZpdEhaS1NoVVNXdGRjN0c1VDhVWTVVSXJJMUFMYk9sSFdwMlNfNFdaWGR2LTFMTjhmQlBEdmd0MlJFalFJMnNmWkxKSUxIREJWaUJVQ1pSRm1admRTZTNGRHpoX20tQ2VPenB4SEtNYTlWWnQyMjU3ZHFUdGduMGplVDhVYUhCckdSeHpyZ2IySFcxTWV3RXNhQmNJTnRZem9WcEZSRnRzVGdMY2VMcy12cFkwWE5vQ3B2RkpnenE4amJpZjU5NWxVcUtKcndkcTQwMTNhVi1QTjV1MC1XTGNJR2t6M1dIWXEzbWtSczZvWFBfZGQ5ZFhoYTJ6ZzQ4TjdZSDlNQ0J3aHlEMjhwYk0wODBaSTE5NW1EWkg1em0tNjlvRE9BeWtEa1ZGZDMzYjVHQ2VHOEpmR005RG03NUdKcjluZHFwZDhSU3FWRGhOdE14cl96bkVXYkdsS2pmend6M0dKaXJvMUdxM1RlcDdDRzFvcFl3UEdhRnoyVERLNTV2dnh6ZFZUTkFaRzcyYjBveS1sdkh2a0FQdlVvVWlLN2VRWGxPZXNVck1mSDRMUndyeUJVMTBMX1R4cWpRRW0wa1pVT0g0VHN1YU1YVloxbzNrVWh0R2RwN2VuWlRYOUFEUlM3aVU4WUM3OFF0TGtQa3dubXcxdzU5OWJz?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-11T15:58:05Z",
+      "category": "health",
+      "provinces": [
+        "สมุทรปราการ"
+      ],
+      "eastern": true,
+      "score": 30,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
