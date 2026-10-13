@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T07:23:21Z",
+  "window": {
+    "from": "2026-10-12T05:23:13Z",
+    "to": "2026-10-13T07:23:13Z"
+  },
+  "stats": {
+    "fetched": 280,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 19,
+    "eastern": 1,
+    "national": 18,
+    "new": 19,
+    "followups": 0,
+    "sources": 12
+  },
+  "items": [
+    {
+      "id": "39a96be8",
+      "title": "บอร์ด สปสช.เห็นชอบบริหารงบ OP กทม. ปี 68 จัดสรรเงินคงเหลือ 320.85 ล้าน",
+      "summary": "บอร์ด สปสช.เห็นชอบบริหารงบ OP กทม. ปี 68 จัดสรรเงินคงเหลือ 320.85 ล้าน บอร์ด สปสช. เห็นชอบแนวทางบริหารงบผู้ป่วยนอกบัตรทอง กทม. ปีงบประมาณ 2568 จัดสรรเงินจ่ายตามผลงานบริการที่คงเหลือประมาณ 320.85 ล้านบาทคืนให้หน่วยบริการตามจำนวนประชากรที่ลงทะเบียนสิทธิ พร้อมจ่ายค่าบริการส่งต่อผู้ป่วยนอกตามวงเงินที่กั",
+      "url": "https://www.hfocus.org/content/2026/10/39881",
+      "source": "Hfocus",
+      "published_at": "2026-10-13T03:11:38Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "8a2c7606",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 ยืนยันตัวตน 4 ธนาคาร ถึง 14 ต.ค.",
+      "summary": "บัตรสวัสดิการแห่งรัฐ 2569 ยืนยันตัวตน 4 ธนาคาร ถึง 14 ต.ค. Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jcmFwcjVvVUxPdWpyMkZnX3hnQXhuNXJOVWVqVjdaZHVSclYtSW9QMmdMQmVJUVdYSFIyZEduaTJsM2tvQWphY2lyLVMyd2kzOHphNDVORlFKZzIt?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-13T01:18:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "34f31e47",
+      "title": "รัฐบาลเปิดเวที IMF ชำแหละศก.ไทย ปลดล็อกหนี้-ผลิตภาพต่ำ ปั้นเครื่องยนต์ใหม่",
+      "summary": "“เอกนิติ–วิทัย” ร่วมถกผู้บริหาร IMF วางทางรอดเศรษฐกิจไทย แก้หนี้ครัวเรือน สังคมสูงวัย ปั้น AI-การเงินดิจิทัล ยกขีดความสามารถแข่งขัน สู้ผันผวน นางสาวลลิดา เพริศวิวัฒนา รองโฆษกประจำสำนักนายกรัฐมนตรี เปิดเผยว่า รัฐบาลเตรียมใช้โอกาสการเป็นเจ้าภาพการประชุมประจำปีสภาผู้ว่าการกองทุนการเงินระหว่างประเทศและก",
+      "url": "https://www.khaosod.co.th/economics/news_10435593",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-13T03:27:44Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "4e9dc3aa",
+      "title": "‘นิกร โสมกลาง’ รมว.พม. เร่งขับเคลื่อนมาตรการช่วยผู้ประสบอุทกภัย สั่งการการเคหะแห่งชาติดูแล 6,927 ครัวเรือน ปลอดค่าเช่า–พักชำระค่าเช่าซื้อ 2–4 เดือน พร้อมลดค่าปรับ 100% ตามเงื่อนไข มุ่งลดภาระประชาชนและฟื้นฟูความมั่นคงด้านที่อยู่อาศัย . นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวง",
+      "summary": "‘นิกร โสมกลาง’ รมว.พม. เร่งขับเคลื่อนมาตรการช่วยผู้ประสบอุทกภัย สั่งการการเคหะแห่งชาติดูแล 6,927 ครัวเรือน ปลอดค่าเช่า–พักชำระค่าเช่าซื้อ 2–4 เดือน พร้อมลดค่าปรับ 100% ตามเงื่อนไข มุ่งลดภาระประชาชนและฟื้นฟูความมั่นคงด้านที่อยู่อาศัย . นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวง Facebook",
+      "url": "https://news.google.com/rss/articles/CBMihghBVV95cUxNWmxmNGw3eHVtRThseXVVeGF6MHNRY0RsREszQ21lRmloMnNxRUJEbHVnNnVHVHRRczhYSkw5RjRxdFlHUl9JWEZZUWlYdVoyU3c5NjJYRUljR0dKdDl0VVF3RlRaaTI3cFVLZnpqX1Y4YzRSWFBoQlpMWV9kdkcwVG5yTnNwUGRVODZHdXJ3WjV3b1hlT0tWdVZBckpfaEwtMW1NZEFQUEdHank3VmhacVJzSXlPbGtSdzFRdHhYRzFHakdvcW9MZktDQVFsS2pEWnE0WkJFMVpseGZaVDBXc01QcURaekh2ZlBiampBTXQwM3JJRXdUMHNJT1ZFVklJTWs4cW5vZ0lHcHcyZGpLNXhELUhkZ2RTTEVEdkY0LVEtV3V1SEtqTFNsNUNOM0ZCN0NhYlZzcTVHb0s5ME1acG9pUDdpcm9uUVhad1Q0R3F1VEQxVVcxUXNPR0JXeklxQTFoc3VITXBtSFVBRnprNF9MTFdNY0tjNGpOeFNyY1d1aVF6ZGhvbHV0RU51RHVGY1ZPTmJ1QXVnTElLdW54eWJlbDNxR0l6ckF6SWxMcnBHU1lxdVo1UnhRVkM5em5zRHdLc1hqRUlRYjlrM3hrb2VzWDRLMEd4T2puNHQ2TjRjUUxhOURxbkdCdU9Pay1RMU04LWh0RzVPU2M5dHRrdDlzWk53ckJNT2s5NDlva2txT1M2V2pUbXdIOVFGemI0ZW5WUjlWd0FQNy1LQUFwTENlMzQybEF2dG44U2hYY0xsYVNHNW1NVUVZQnBhODkxZzR4YzcwTDdtTXZhYndOOF9tYlJ1WGFnXzdBWlFkMnloUmVLaHZFOXNjS3VkTnlsYkpQYmpNQ0ZPYWpaYzJCTHRuOGxFVFFWQ2lrMEVubTNDZ1l1bW8xRE1wMVZGNkljSmJ0Ml9PU0JveU9HUkVIVm5oWlRnNlAyVnNjZjFhX1pPRFdHVVVkY0JwNFRKd0h5VExHaEo1dlVFU2ZEcjRMOGkwQzRPOHlIejY3TW1SYVFpX3JXaVprOHNxc3RmS1NvYkUxeFY5YlUzUXROUTIwOW9iQ2JfQ1pSd0lPNmNiUVd1N3NWdmNKcWQyQnhvLW1Hb29EclhST1VqYlI3RHRIQVpyRDhiVDRyNVhSU09FSGNJaF9yUUpPOXhYMWNPZ3NLSjFTWXVQcXhSY1R2cVpncVVsdThOMXJtRWZCYmp4X0puaFBMVXpKNGEyZUl1UjhRX2N5UjBhTTFuRlptbVBnaVgydFJ4X1dWWUhsOWdjM0NqNld4NzRXY0c3MnJUdE5kOWFkOWtCMUhENjcyNXV0NEpmay1sWjhxYlowX0hVYnlfTDhYQXFpV01zMFBMNVgxMTRYZGJR?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-13T03:00:22Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "446dbbef",
+      "title": "การเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักหนี้สูงสุด 4 เดือน",
+      "summary": "การเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักหนี้สูงสุด 4 เดือน ประชาชาติธุรกิจ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52ekJ0eVBuTy1tTjZlY2M5dy14NEc5b2t1bE84TDF5UlBreEpjbUJCblBLR3J3c081SjFpQ19aU2F5Qk1FWkMxOGZpVlh0UWxEQ0YyQlNWUQ?oc=5",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-12T12:32:08Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "68e721b7",
+      "title": "ช่วยคนไทยตั้งหลักหลังน้ำท่วม! พม. ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน",
+      "summary": "ช่วยคนไทยตั้งหลักหลังน้ำท่วม! พม. ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน ไทยโพสต์",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SSTg3R1UtOWFLbkE3aGJKajN6OHhQN05LMTFMTThrNWYzVlZEbURGU1BCazJGcE45SHZxOEM1d0ZOSTVCNlVZejdWNlVuT0hxMm5oUmkxeEZkZw?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-13T05:04:27Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "0e8a1cf9",
+      "title": "กระทรวงการคลังเร่งดำเนินมาตรการช่วยเหลือผู้ประสบอุทกภัยผ่านสถาบันการเงินเฉพาะกิจ . รัฐบาล โดยกระทรวงการคลัง เผยว่าจากสถานการณ์อุทกภัยในช่วงฤดูฝน ปี 2569 ส่งผลกระทบต่อประชาชน เกษตรกร และผู้ประกอบการในหลายพื้นที่ จึงได้มอบหมายให้สถาบันการเงินเฉพาะกิจเร่งให้คว",
+      "summary": "กระทรวงการคลังเร่งดำเนินมาตรการช่วยเหลือผู้ประสบอุทกภัยผ่านสถาบันการเงินเฉพาะกิจ . รัฐบาล โดยกระทรวงการคลัง เผยว่าจากสถานการณ์อุทกภัยในช่วงฤดูฝน ปี 2569 ส่งผลกระทบต่อประชาชน เกษตรกร และผู้ประกอบการในหลายพื้นที่ จึงได้มอบหมายให้สถาบันการเงินเฉพาะกิจเร่งให้คว Facebook",
+      "url": "https://news.google.com/rss/articles/CBMitAhBVV95cUxQWFUyc1UxZHZvcnA0Y0hXMHktYmMxRW1FMl82alRqZDVTQkF4SjZUbThpcGpLYmphUHpJWXppcm5KYm90NWZwUmxlZzRVTk1WSjM3eDh3VGVuMHpmVXpNX3JGVVhZNllCbHBGUlE0SXZIczF6Uzhjd2xWb1o3OWh5TVJzODRoSVF1UFBsWXdRai11Z19lZXIwUzBOemNNWkZMNk80Q1NZOE9NbnNtSWpiVGxGWEh5M1g4QlVJVVlhUWtEaEQxWk5JUjRjaVJ6STBoWE5IOTdMUUo3VEo3dHRuZ3d5c21FLXRtNlZNcDE1aDZHbUI4cVNkbEtSNzlXM2xWS2hlM0c3YzQybnVWVmVoQ2dwaXZsVUtFOHJsRS1TQzI0YS0yRG1waWQ4bWZPODZTV1dhLXJIUHRuZkJFMkpfTjRYYkdYejE4LWdXc2tmSER2Tk9ZeE9HLTR0Mmk5Tm5aRGZuMmw5YjVfX3VOLUNBYWdJYVdOYzVlNjZXT3phYy04QmN6Rnp4S0xLN0RWelVibkxKR3A5bUJ1M3ZZU09UWDVTalJBdG84blFxUWRpRzliX2FLcHpEcXdPczZJSWMzMnNPWkhXVkJYWkQxSXN5RnZNNVlDSk5abGxwbkdHdXMza19uNkdZRnJLQ1h1LXRpSC05RnZNNWRqdHh6bDJpMkg2ZEZYRFZpblQ1R3RuY01SWVhtRWI2Z2NheDIwd2RHQlBraERZVG5pTWV2Zmt1dzFtbmkwQ3NKWlFiMExNYm1nTTdXeHJlRHZDUVdWTnZEeVVjVDhQWGdGb3lfdVhQV2JEbUJ0MlpwRTVPY0xCa0lJMkVTc2pzYW5OSUEtbVRTTnoxNnd6aU1LRTF1YjdmUFdPWGFMeWtTaWtMWThwbXQxajVCNXhSYjhlMW1WaGVuVHR1cEJOai05eVJtb1JNaEQ0eExkUjhOMmhGc2FZcUdzWFd2cEE5ck5wVE1EbXA1NWpuelkxRHJXb3JrME1GRmxtTlJ4S2c0MlpidzhUMndFa18wNGMzanlYRlRJS0tyUU9Eb0dqNmFWbkNfa05PdXR1U1JSSmRlTDVSOEhkampNT2ZVY3FpZkUtem0tNWNnTkMzWE5GX1NRVVFscktQRHJpUjBtX1plMmp1UTNtbDl4VkFMWDZjVE52bGF2N0lUcHB0ZGkzejJOdE9VQ1ZLYzNaMGdMTmt5N3N5d3U4X25xemNBUmFyM3E1V0g5bnlkazcyMVF3ZzJNcGYzWHZVQk4tQTJXTzVGSGpNVWdjQTVfZGdfRGRoSzZOZURlY1V0VGM0VU52akZEX0JSZ3loWmwwREdqeVdQWGRIaEFoR2tGblJjUkhTQWlQRF8yV2MyTy1LcExqcEhCb0RlUloyZ05yNWlNOFJHWFVYUmdvdzRHaGlNNUNsYUpFUHNleWt5UzM2dg?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-13T04:25:13Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "e036cb88",
+      "title": "\"รมว.พม.\" กำชับการเคหะฯ เร่งเยียวยาผู้ประสบภัยน้ำท่วม แยก 2 กลุ่ม 6,927 ครัวเรือน โดนผลกระทบ \"พักชำระค่าเช่า 2-4 เดือน\" พร้อม ลดค่าปรับ 100% ผู้ค้างชำระหนี้!!",
+      "summary": "\"รมว.พม.\" กำชับการเคหะฯ เร่งเยียวยาผู้ประสบภัยน้ำท่วม แยก 2 กลุ่ม 6,927 ครัวเรือน โดนผลกระทบ \"พักชำระค่าเช่า 2-4 เดือน\" พร้อม ลดค่าปรับ 100% ผู้ค้างชำระหนี้!! topnews.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NQ2lMSGw2dGRUOXAtZjR5YkFxSk5aWExSdTZNaDljS0tnNDNVSF95dFJMdGw2STVrd3BXVm9zVU1sc3hFa042aS1CSk5YWlE?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-10-13T03:18:02Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "c08a7556",
+      "title": "“พม. – การเคหะฯ” เยียวยาน้ำท่วม ยกเว้นค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน ลดค่าปรับ 100%",
+      "summary": "“พม. – การเคหะฯ” เยียวยาน้ำท่วม ยกเว้นค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน ลดค่าปรับ 100% ช่อง 7",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5VDNzUmo1TTZNLUZNSDhBeEtYQmdCX3hzczNpZzdvcE4wT2ZTTjFNa3BFbEVhdDBFb092aHc1aTd0SEkxUWp1eFJkTQ?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-10-13T02:27:53Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1dd46d22",
+      "title": "รับเบี้ยยังชีพผู้สูงอายุ 600-1,000 บาท กู้เงิน 30,000 บาท เช็กสิทธิปี 2569",
+      "summary": "รับเบี้ยยังชีพผู้สูงอายุ 600-1,000 บาท กู้เงิน 30,000 บาท เช็กสิทธิปี 2569 Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SRmtqX3lJWW0zVVo0dmUwRVBpYjktaXRmcVlzUnRCd0g0QnZicmx0VXRzREp1TWhUU1poc0FaNHdZdWRSd254RGRuSU1HQ2xaWmZtMkYtYllmcF9p?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-13T00:13:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a14dbc37",
+      "title": "พม. ผนึกการเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66 โครงการ",
+      "summary": "พม. ผนึกการเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66 โครงการ เดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVGpmVVFETmxEcUdhT0NFYWVUTi1sR0RqQzNNOFVqd2FNNXNQbDd0Tm1FQm1oTnVZM0RoMGpWbmMwZ2tIYmt6OTM0cjFBMmVmQmdR?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-12T11:34:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "0b8cd43b",
+      "title": "เรื่องใหญ่ต้องขยาย : เยียวยาชาวสวนทุเรียนจากพิษน้ำท่วม จ.จันทบุรี",
+      "summary": "เรื่องใหญ่ต้องขยาย : เยียวยาชาวสวนทุเรียนจากพิษน้ำท่วม จ.จันทบุรี ช่อง 7",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HOGtVLXV0Z1JxeTRuYTgtUFZGOEpWeFoxSE5vZVZSeVpjY2pTZXpXYWw1T2g1RGxXM0JsU041UlFOYV9CVHZZOVhQNA?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-10-13T06:33:12Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "50ee6fe6",
+      "title": "“สุริยะ” เปิดปีงบ’70 ลุย 5 นโยบายเกษตร เร่งเยียวยาน้ำท่วม 48 จังหวัด ดัน Big Data-AI",
+      "summary": "“สุริยะ” เปิดฉากปีงบประมาณ 2570 สั่งกระทรวงเกษตรฯ ขับเคลื่อน 5 นโยบายหลัก ภายใต้วิสัยทัศน์ “ยกกำลังประเทศไทย” และ “เกษตรกรยกกำลัง 2” พร้อมกำหนด Quick Win ให้เห็นผลใน 90 วันแรก เร่งเยียวยาเกษตรกรประสบอุทกภัย 48 จังหวัด กว่า 21,000 ราย พื้นที่เสียหายกว &#8230; อ่านข่าวต้นฉบับ: “สุริยะ” เปิดปีงบ’70 ลุย",
+      "url": "https://www.prachachat.net/economic/news-2080127",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-13T06:23:37Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a59977f4",
+      "title": "การเคหะฯ เยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน",
+      "summary": "การเคหะฯ เยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWNhVnRYM2dfQmprUHpwTXg2am5JZEVKTGFET0ZQVXBDUm9WZGYzdlJZem9fV0d5OVhvNUtvM05Tc3VRQWthdmc1a2Z4TEFoY21CbzFFTTBDLW9j?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-13T04:15:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "e5867482",
+      "title": "“เอกนิติ–วิทัย” หารือ IMF เปิดหนี้ครัวเรือน ชู AI การเงินดิจิทัล | The Better",
+      "summary": "“เอกนิติ–วิทัย” หารือ IMF เปิดหนี้ครัวเรือน ชู AI การเงินดิจิทัล | The Better LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vSmtPZzBkcXRuUEp2SzdTX2dmUWlpTndaQ3VWWmlkamxlVzVrWTRKdmU0a2ZsaXpJMV8zd29PYmZFcXlMY0lLajBXTEdPVTFfVV90VExR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-13T02:15:44Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "2398503e",
+      "title": "รัฐบาลเตรียมเปิดเวทีหารือ IMF ถกแก้หนี้ครัวเรือน ชู AI และการเงินดิจิทัลขับเคลื่อนเศรษฐกิจไทย",
+      "summary": "รัฐบาลเตรียมเปิดเวทีหารือ IMF ถกแก้หนี้ครัวเรือน ชู AI และการเงินดิจิทัลขับเคลื่อนเศรษฐกิจไทย สำนักข่าวบริคอินโฟ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JVTdFLXl5NTk2ZVMyLVlDWFBhTEt6QWRQNGFraXR6aVgxVV9rakdhb1dCRmctTnlFc3dPMHBnSndQZEd3SXd6RTdHUQ?oc=5",
+      "source": "สำนักข่าวบริคอินโฟ",
+      "published_at": "2026-10-13T01:05:28Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "2be7a52c",
+      "title": "น้ำท่วมปราจีนฯ ยังวิกฤต สังเวยแล้ว 25 ศพ 7 อำเภอจมบาดาล 'ศุภมาส' สั่งเร่งเยียวยาด่วน คุมเข้มราคาสินค้า",
+      "summary": "น้ำท่วมปราจีนฯ ยังวิกฤต สังเวยแล้ว 25 ศพ 7 อำเภอจมบาดาล 'ศุภมาส' สั่งเร่งเยียวยาด่วน คุมเข้มราคาสินค้า ข่าวสด",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tSVMtczU5TXlzb0ZDbnBtOGJ3NWhiWUNMRDNoc1p4YkdqdjJTT1ZBRW1ZbWcwY1pVMXFQcEQ3T010NXJVRzFDMUNMeXZ4VjlIRldBN3ZXWHNXYWtScDhOMnUtOEczUQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-12T17:22:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "0e580829",
+      "title": "กทม. เปิดตัวเลขเยียวยาน้ำท่วม ‘ทางรัฐ’ ผ่านเกณฑ์ 8.8 หมื่นหลังคาเรือน ทะลุ 649 ล้าน",
+      "summary": "กทม. สรุปจ่ายเงินเยียวยาผู้ประสบอุทกภัยผ่านแอป ‘ทางรัฐ’ อนุมัติแล้ว 88,198 ครัวเรือน วงเงินกว่า 649.4 ล้านบาท ขณะที่ ปภ.-ออมสิน เร่งโอนเงินเข้าบัญชีแล้วเสร็จกว่า 30,492 ครอบครัว รวม 221.8 ล้านบาท ส่วนระบบ claim.bangkok ยื่นขอรับสิทธิ์อีกเกือบ 8.8 หมื &#8230; อ่านข่าวต้นฉบับ: กทม. เปิดตัวเลขเยียวยาน้",
+      "url": "https://www.prachachat.net/news/news-2080014",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-12T15:13:21Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "d0abd40a",
+      "title": "เตือนค่าแรงขั้นต่ำ 300 บาทจูงใจแรงงานต่างด้าวทะลักเข้าไทย",
+      "summary": "เตือนค่าแรงขั้นต่ำ 300 บาทจูงใจแรงงานต่างด้าวทะลักเข้าไทย Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KSXQxR2MtcGQ0N2ZZbjZZZnAtU1VVUC1sZmVMYU1uUWJqX1QtbW13LVhOY1NmSlVsNGdsaC1SempvLXVCbVM3VWpuY2llanFMSU15ejJIaw?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-12T12:50:24Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
