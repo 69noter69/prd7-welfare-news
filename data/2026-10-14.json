@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T05:50:50Z",
+  "window": {
+    "from": "2026-10-13T03:50:43Z",
+    "to": "2026-10-14T05:50:43Z"
+  },
+  "stats": {
+    "fetched": 253,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 21,
+    "eastern": 6,
+    "national": 15,
+    "new": 16,
+    "followups": 5,
+    "sources": 15
+  },
+  "items": [
+    {
+      "id": "7a2c2aa7",
+      "title": "วันสุดท้าย ยืนยันตัวตน บัตรสวัสดิการแห่งรัฐ 2569 ผ่าน 4 ธนาคารใหญ่",
+      "summary": "วันสุดท้าย ยืนยันตัวตน บัตรสวัสดิการแห่งรัฐ 2569 ผ่าน 4 ธนาคารใหญ่ bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQXJoMmlLd0NLUUsxR25IQnlJbUVmN29SVWp5bGtpTV9qNmZBTTVWWmZ5SjZZX3h4V2V5THRDSVJpU2g1QzdfM1g1UGtsQVZva18tYzhTaUpwN0QyMTBnQUtsN0U2QQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-14T01:45:17Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "344e361d",
+      "title": "พม.ผนึกการเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66โครงการ ปลอดค่าเช่า–พักหนี้สูงสุด 4 เดือน",
+      "summary": "พม.ผนึกการเคหะฯ ออกมาตรการเยียวยาน้ำท่วม 66โครงการ ปลอดค่าเช่า–พักหนี้สูงสุด 4 เดือน จส. 100",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lbVBMX0YtT051MTJpdkpQTl90dF9GcTBRSHo0NkRlZlBJdHRHaGdMSkpkVDczeXY4eVdpa0ZUN0dmVW92Ykd0SXNvYVQ4TE1wZ0MzV1Y5dGNsZw?oc=5",
+      "source": "จส. 100",
+      "published_at": "2026-10-13T07:30:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "07e36b35",
+      "title": "สุริยะลั่น เกณฑ์ เยียวยาเกษตรกรจากน้ำท่วม เข้าครม.ภายใน 2 สัปดาห์ได้",
+      "summary": "สุริยะ สั่งเกณฑ์ช่วยเหลือเยียวยาเกษตรกรจากน้ำท่วม คาด ภ [&#8230;]",
+      "url": "https://www.matichon.co.th/politics/news_5931859",
+      "source": "มติชน",
+      "published_at": "2026-10-14T04:39:41Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "3d1e6887",
+      "title": "ข่าวดีเกษตรกร! ชง ครม. เยียวยาน้ำท่วม อนุมัติงบช่วยใน 2 สัปดาห์",
+      "summary": "ข่าวดีเกษตรกร! ชง ครม. เยียวยาน้ำท่วม อนุมัติงบช่วยใน 2 สัปดาห์ อมรินทร์ทีวี ช่อง 34",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SZzYtMlFBM3ZxSXFENGxHUDVNa1J1eFBTampPUE5XcFU1dFJWUGQ1cDVvNzJtTlRWOE54ZjFNOHlqclVOUUc1TlQ1eW1iVTFSalFib1kxRQ?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-10-14T04:20:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "489b9394",
+      "title": "งามไส้! ชาวนาขาดทุนจนต้องทิ้งนาเกือบทั้งหมู่บ้าน ต้นทุนพุ่ง–ข้าวราคาตก จี้รัฐบาลจริงใจแก้ปัญหา วิกฤตชาวนาไทยน่าเป็นห่วง หลังเกษตรกรหลายพื้นที่เผชิญต้นทุนการผลิตสูงสวนทางราคาข้าวที่ตกต่ำ จนบางแห่งต้องตัดสินใจหยุดทำนา เพราะยิ่งปลูกยิ่งขาดทุน ขณะที่มาตรการช่วยเหลือจาก",
+      "summary": "งามไส้! ชาวนาขาดทุนจนต้องทิ้งนาเกือบทั้งหมู่บ้าน ต้นทุนพุ่ง–ข้าวราคาตก จี้รัฐบาลจริงใจแก้ปัญหา วิกฤตชาวนาไทยน่าเป็นห่วง หลังเกษตรกรหลายพื้นที่เผชิญต้นทุนการผลิตสูงสวนทางราคาข้าวที่ตกต่ำ จนบางแห่งต้องตัดสินใจหยุดทำนา เพราะยิ่งปลูกยิ่งขาดทุน ขณะที่มาตรการช่วยเหลือจาก Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiighBVV95cUxPX3NMb01OLXJmUE9MX01vYUNjbmFQR09FcTE2WDY1QnExNjRLNDBkZHBvOXlYZlNmWTk5YW1fUHkwaVhnVlJuWUxCdVFQMkwxT0FEYVpzR1hCZkpTWUdWcTZpT2J2ZnFya3R2a2I0VV95amt1Ul82ZHA0STQ1VTF2MVU5YjRDOFJvUlhQZHRpdVhUTDFCU3RBWFc1TG11QmRxU09IcGo1M0JpM3lXZ2tueVNnaHJtSXZBeXlESmVLZ2JQYTh6d3lDckVfblJFVDNPVmtCcUZNN3hWOXR0UXFnZUkzQ01EOWl4anVERHAzeFpZQ2RVWlVDZGZqZno1ZFZ1c3p5WGdhdHlFc3c3X25YMVNQTHltaUFwdWpndDB5SlJQdXFNR3g2dHlqa25QbzFSS1U5MUhLTFNNMjFEQ0xLQXd2cTVQU2k4MEd5X2tQN0RnVV9QX0llVE9IS2dKSFkwcXVSeWVqNWl0N2YwRE1Ud2pKMUdXbWduQTlvQW1IdURLV21lclBGNHJiQXBpOG1wYWJvdkpIQXUxVG5VQk5FYWhhZTljTlh1OHN3R0ZDeVRyZzhGclJRRDM2Y25ZZU84RkhsM0pjYjZDS3JBRXFLc0huUHRvN255Z3g2TnJFbGNFbjV6TFBDNFFfX3hieTBDNXVJemhaT2k2OG5RTklDY0dRYVl1Zl8tVVVjVk1Ubnl1dm11Rjk4WjZaUDZmZnp2U25DU1czaG1aUC1xdGY1SEhaRzUxSUtYTUw4T2RQNU5FS1FZNVlZWTBKdDlCNC1NOWsxWmJvcURsVVlnbWZHQmJMQ05IVVpwWFJ5Rk9saTIteS1PYUJTWjNtWWZiUG5pbi1RSnFvT1dBMVpEdnRObk5CaTFqdWMxR2JmbVdLTGhQNUtLdWZIMHJidmcyM0ZjMGVjR2Q2by12ODA4Rk85dlJYaTF2REJvNHlOQWE3aXQtQkgyT2Nod255SUR1TkI5RHN3YW1HY1h6Y0I3XzNobVRpVjlIYUZxalZXa284cTQ1YlJJM2hvT1NmclZQRkpENVV2LWd2Z3NZRFJLQkZkMnN4Q3AxSTZmc1Y3V2FUR185Rmh0aWhUSXkwOG90NXQ1bDhUTUZPekx2dVlQYXZVZzhIV1N5d1o3WkNrdGdnVFZKYk91MGd6VlJTZUJEQ2U2SzRRV2NabVZwdDh0NDFmZ2UwVmsxWXVMS01TUEgzcEN2ZVN4OEhmaUVXUlF1cnlCanNrRFJJVk5nempfR2NuNFNpR0VBNHFuWUstTWRYRlJuTWhQMlRNM01WVElITGgzcWhGQVZqWUo0M3VaUC1SZEtfZldrTXY0bF9RbEpBeGRjcTBfT01CR01oMTUzY3RUdU9xVHA5NHVqdw?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-14T00:01:54Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "28232931",
+      "title": "พม.ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน ครอบคลุมกว่า 2 หมื่นคน ยกเว้นค่าเช่า-พักชำระค่าเช่าซื้อสูงสุด 4 เดือน ลดค่าปรับ 100%",
+      "summary": "พม.ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน ครอบคลุมกว่า 2 หมื่นคน ยกเว้นค่าเช่า-พักชำระค่าเช่าซื้อสูงสุด 4 เดือน ลดค่าปรับ 100% แนวหน้า",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pWEhHSWRzcGFUZlRvb285TFNZclJOM2EzeTR2SzdxNDdFMWhOTVFBUGV5cXZhYnJBQWlCVldGbWtDOWUtbmdDMkpQdjZEOFVGRGdLaUR5aTYxdw?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-10-13T08:04:07Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "68e721b7",
+      "title": "ช่วยคนไทยตั้งหลักหลังน้ำท่วม! พม. ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน",
+      "summary": "ช่วยคนไทยตั้งหลักหลังน้ำท่วม! พม. ผนึกการเคหะฯ เยียวยา 6,927 ครัวเรือน ไทยโพสต์",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SSTg3R1UtOWFLbkE3aGJKajN6OHhQN05LMTFMTThrNWYzVlZEbURGU1BCazJGcE45SHZxOEM1d0ZOSTVCNlVZejdWNlVuT0hxMm5oUmkxeEZkZw?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-13T05:04:27Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "0e8a1cf9",
+      "title": "กระทรวงการคลังเร่งดำเนินมาตรการช่วยเหลือผู้ประสบอุทกภัยผ่านสถาบันการเงินเฉพาะกิจ . รัฐบาล โดยกระทรวงการคลัง เผยว่าจากสถานการณ์อุทกภัยในช่วงฤดูฝน ปี 2569 ส่งผลกระทบต่อประชาชน เกษตรกร และผู้ประกอบการในหลายพื้นที่ จึงได้มอบหมายให้สถาบันการเงินเฉพาะกิจเร่งให้คว",
+      "summary": "กระทรวงการคลังเร่งดำเนินมาตรการช่วยเหลือผู้ประสบอุทกภัยผ่านสถาบันการเงินเฉพาะกิจ . รัฐบาล โดยกระทรวงการคลัง เผยว่าจากสถานการณ์อุทกภัยในช่วงฤดูฝน ปี 2569 ส่งผลกระทบต่อประชาชน เกษตรกร และผู้ประกอบการในหลายพื้นที่ จึงได้มอบหมายให้สถาบันการเงินเฉพาะกิจเร่งให้คว Facebook",
+      "url": "https://news.google.com/rss/articles/CBMitAhBVV95cUxQWFUyc1UxZHZvcnA0Y0hXMHktYmMxRW1FMl82alRqZDVTQkF4SjZUbThpcGpLYmphUHpJWXppcm5KYm90NWZwUmxlZzRVTk1WSjM3eDh3VGVuMHpmVXpNX3JGVVhZNllCbHBGUlE0SXZIczF6Uzhjd2xWb1o3OWh5TVJzODRoSVF1UFBsWXdRai11Z19lZXIwUzBOemNNWkZMNk80Q1NZOE9NbnNtSWpiVGxGWEh5M1g4QlVJVVlhUWtEaEQxWk5JUjRjaVJ6STBoWE5IOTdMUUo3VEo3dHRuZ3d5c21FLXRtNlZNcDE1aDZHbUI4cVNkbEtSNzlXM2xWS2hlM0c3YzQybnVWVmVoQ2dwaXZsVUtFOHJsRS1TQzI0YS0yRG1waWQ4bWZPODZTV1dhLXJIUHRuZkJFMkpfTjRYYkdYejE4LWdXc2tmSER2Tk9ZeE9HLTR0Mmk5Tm5aRGZuMmw5YjVfX3VOLUNBYWdJYVdOYzVlNjZXT3phYy04QmN6Rnp4S0xLN0RWelVibkxKR3A5bUJ1M3ZZU09UWDVTalJBdG84blFxUWRpRzliX2FLcHpEcXdPczZJSWMzMnNPWkhXVkJYWkQxSXN5RnZNNVlDSk5abGxwbkdHdXMza19uNkdZRnJLQ1h1LXRpSC05RnZNNWRqdHh6bDJpMkg2ZEZYRFZpblQ1R3RuY01SWVhtRWI2Z2NheDIwd2RHQlBraERZVG5pTWV2Zmt1dzFtbmkwQ3NKWlFiMExNYm1nTTdXeHJlRHZDUVdWTnZEeVVjVDhQWGdGb3lfdVhQV2JEbUJ0MlpwRTVPY0xCa0lJMkVTc2pzYW5OSUEtbVRTTnoxNnd6aU1LRTF1YjdmUFdPWGFMeWtTaWtMWThwbXQxajVCNXhSYjhlMW1WaGVuVHR1cEJOai05eVJtb1JNaEQ0eExkUjhOMmhGc2FZcUdzWFd2cEE5ck5wVE1EbXA1NWpuelkxRHJXb3JrME1GRmxtTlJ4S2c0MlpidzhUMndFa18wNGMzanlYRlRJS0tyUU9Eb0dqNmFWbkNfa05PdXR1U1JSSmRlTDVSOEhkampNT2ZVY3FpZkUtem0tNWNnTkMzWE5GX1NRVVFscktQRHJpUjBtX1plMmp1UTNtbDl4VkFMWDZjVE52bGF2N0lUcHB0ZGkzejJOdE9VQ1ZLYzNaMGdMTmt5N3N5d3U4X25xemNBUmFyM3E1V0g5bnlkazcyMVF3ZzJNcGYzWHZVQk4tQTJXTzVGSGpNVWdjQTVfZGdfRGRoSzZOZURlY1V0VGM0VU52akZEX0JSZ3loWmwwREdqeVdQWGRIaEFoR2tGblJjUkhTQWlQRF8yV2MyTy1LcExqcEhCb0RlUloyZ05yNWlNOFJHWFVYUmdvdzRHaGlNNUNsYUpFUHNleWt5UzM2dg?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-13T04:25:13Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "4f78d379",
+      "title": "เช็กสถานะ เงินเยียวยาน้ำท่วม 2569 เผย ช่องทางตรวจสอบล่าสุด",
+      "summary": "เช็กสถานะ เงินเยียวยาน้ำท่วม 2569 เผย ช่องทางตรวจสอบ ยื่นคำร้องผ่านแอปฯ &#8220;ทางรัฐ&#8221; &#8211; ยื่นคำร้องด้วยตนเอง ตรวจสอบสถานะล่าสุดได้ที่นี่ วันที่ 14 ต.ค.2569 นายนิรัตน์ พงษ์สิทธิถาวร อธิบดีกรมป้องกันและบรรเทาสาธารณภัย กล่าวว่า ปภ. และ ธนาคารออมสิน ได้ส่งข้อมูลและโอนเงินเยียวยาอุทกภัยให้กับ",
+      "url": "https://www.khaosod.co.th/special-stories/news_10436473",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-14T04:27:25Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "8896882c",
+      "title": "เช็กสถานะการได้รับเงินเยียวยาน้ำท่วมได้แล้ว ผ่านแอปทางรัฐ . สำหรับประชาชนที่ยื่นขอรับเงินเยียวยาผู้ประสบภัยตามมติ ครม. ผ่านแอปทางรัฐ สามารถเช็กสถานะความคืบหน้าได้แล้ววันนี้ 📱 . เปิดแอปทางรัฐ → แบนเนอร์ ‘ลงทะเบียนเยียวยาน้ำท่วม ปี 2569’ ที่หน้าแรกของแอป → จากนั้นเลือก",
+      "summary": "เช็กสถานะการได้รับเงินเยียวยาน้ำท่วมได้แล้ว ผ่านแอปทางรัฐ . สำหรับประชาชนที่ยื่นขอรับเงินเยียวยาผู้ประสบภัยตามมติ ครม. ผ่านแอปทางรัฐ สามารถเช็กสถานะความคืบหน้าได้แล้ววันนี้ 📱 . เปิดแอปทางรัฐ → แบนเนอร์ ‘ลงทะเบียนเยียวยาน้ำท่วม ปี 2569’ ที่หน้าแรกของแอป → จากนั้นเลือก Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiowhBVV95cUxPQzIxZU1vLWlUdkJuOTd6b3B6b2lfRG11QjhZdEVmZkZTMnhpOEdRQ2sxdzBxLUYyMmUzdlVTTE9uYmM5YnAyUDEydlZmb0hRU2VSWTZLeGtGME9lTS1GUHppWVhTQ1NLMnNCMDJWSDdMVnc5Q3kxRHZsYkUzMjliSUU3TktVR1gyakRQSmZGQ2szTjJQV0lIVGl0NlJlbl9yWUlMSHlaMXlPQ0l5VDI1NkR2d2FhQTljbHRuTTFYdHpESldFalZYQ2hqSXJrYTdoUWFrZ0FISDRiNjIxbk0yMmxDZkFJX0liZW1HM01Sd1pjX3o4aDNxWE5tQ3paNTA3U1VjNkM3RFc3cnprNDgtQzRHMTN1Tm11b3dVbE0ycFpZWTJtVkdmbEF1cWhhYk1mb0EzcDJrc3BZcmwzakRQc041UmFqYVM5Qzh6MERvTWg3QUFqMWdXVm40RC1ZTjg5bEhEVUQ3YUxhZFpGaG5BX1llY1JGaHc5cDN2YkR4dFgzY3JmVVBobUd5eG1vNld1VnFibk9zNnRMRDVnNDdPQ2tVTmVzYVRzUUlyb2wzQmJ3am9yZUE4ZlpDdi1BSUlFVlhEV0pCYWE3YkdCdk9jOEhYYlJ2STd3T1RuWGNZaVlIUk5IWC1VaEljTmZDeXlUaDJOVDNkMU5aQ2ZTQURfSGtiY0hLSkNvWmpCSXpId3YtcTBvSG1pQm40ZmEwSUhrVGJWOTZ1Y0hFeEJPRFlJS0VLdDI4VjVlMTRqdldJeTFSNktFQXd1ZFAxVzBFQUtRaDN6c3FWLVgxOHVjeGtIUXJvQ29JNmRJdlhGQTA0VFQ5YmpjZEtvQ19nVDJxX1ZSWi1CNF9fTThWaVhrWGRWWlpWbENUU3lxS0Z1Q2RkRVViTGQ5SXB5dmRPbWNoQVVMRnNya29sNmg4QWhCYTM2RmJjZVVuVzVKakRzZXRNdm1CTlN6a3Fzem9DVkFuVFktNmJWTTY0WFlSbmVQLWJOSTg5dk1Sc0lTdFpnbEFlSDdQOUhzbnRSRHpudUt5LXU0ekZqU2k1OC1STW54Y091VjBwLVRhZnh3V1otLWNlTlB2U0NQY3E1bjJFelVmcjFRSFhVcGI4eVM5cnpDcGhKalhLam5EUlNsMmdVQlYyeEdHQWI0MVh6bWlxWmFicGthUHZIbDh1YUxwWEtEcUJrTHBpb0xxTnJBRDdRWVhHcHdKVUFnNVB4SEIwanRJY2FzUVdvRUhQLVk3b3BtbnlUdV9WaWtRcVJqcVpZLWs0UHFyb2drQ202M0NRSnUtU0xzU1MzcHJmSUJrUzdVOTFSd01VajU0c0VvVzNtX3hndnBya29mZFlrNHdYWU1oRWNrX25LMEVRTkdBOURYdVJiTGNGN2hRWFVzVi1yc194aWlaLTA?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-14T02:33:13Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "03257b0c",
+      "title": "ฉายหนังกลางแปลง เยียวยาจิตใจผู้ประสบภัยน้ำท่วมฉะเชิงเทรา",
+      "summary": "ฉายหนังกลางแปลง เยียวยาจิตใจผู้ประสบภัยน้ำท่วมฉะเชิงเทรา www.ch7.com",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MQW5YSjV6ajktU2RfVUdiRzh5TXdSZ0R5RXhvMjVDanpDbndYR1o3cjJRNzlEbjB3MVFrMGIzSmMtYXdMTnpR?oc=5",
+      "source": "www.ch7.com",
+      "published_at": "2026-10-14T01:06:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "01020136",
+      "title": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้",
+      "summary": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้ thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dGhQdHVWUHFUNFlHeXlGRFA3NFpnRDQwWmR1VGRWaVJFdy0xYlhBRTBGWTN3UkJCbHJlQnZLR0FIMUhGbEE1bWxKU2VLS2dqZ1RoeTVYeFc3RzhqX3lZYTdvX29NUQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-14T00:36:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "7f3bbabb",
+      "title": "ฮานอยจัดสรรที่ดิน 3 แปลงสำหรับการก่อสร้างที่อยู่อาศัยเพื่อผู้มีรายได้น้อย",
+      "summary": "ฮานอยจัดสรรที่ดิน 3 แปลงสำหรับการก่อสร้างที่อยู่อาศัยเพื่อผู้มีรายได้น้อย Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1ljMzh3WGRhb0Q2Rk5uX0tzZ2M3UHJrRENfRjFEWkMzWURPUFJVZ2hsX0htTEpodTZIQjhoMFA2R2xJWV9qQm9oT3FSYnR1TXp6MWdlOG1NOVZrZlZrNTJEYzVFN2JIOHY0dnZfWWN0anpPWldrVlZBUTEtWENoZ0p3?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-14T00:01:27Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "2fd1816d",
+      "title": "แค่เยียวยาไม่พอ “พลพีร์” ยันต้องดำเนินคดีบริษัท ปล่อยให้สารเคมีรั่ว จ.ปราจีนบุรี",
+      "summary": "แค่เยียวยาไม่พอ “พลพีร์” ยันต้องดำเนินคดีบริษัท ปล่อยให้สารเคมีรั่ว จ.ปราจีนบุรี The Active",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qS21ab3ZYbzlKLWswYmVFb2tRMHBhVm9VX1RFZERyM29zQU1TXzVBWUN3ZVFlMFc2dFBCRVV6TTFXazVfYVdUV2V4M0E0TF8yU19lQlYxd0d3ai13eTZ3OThMNFRuVmJ5?oc=5",
+      "source": "The Active",
+      "published_at": "2026-10-13T11:22:56Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a004c80d",
+      "title": "ยอดสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อยเกิน 153,000 ล้านดอง แรงกดดันในการกู้ยืมเพื่อซื้อบ้านยังคงสูงอยู่",
+      "summary": "ยอดสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อยเกิน 153,000 ล้านดอง แรงกดดันในการกู้ยืมเพื่อซื้อบ้านยังคงสูงอยู่ Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkNVVDU2bzBRbXEzbktLOWR0LXFWNm5jamQyczhNeWVjZzhNdXhLMW01anJqYmRzRXNGSy11OTU5QzNVVXJpenp0ZXN0Ni0tcS1pSmZfNC1FZThOR29yLWRCb2g1VzdqNEFONVd1RjhNXzduZk1BaEZ2anRNcTNpemw0WnlLXzUtSGxFTE5LNzRhZGd0MW16VlZQMA?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-13T10:54:09Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "0b8cd43b",
+      "title": "เรื่องใหญ่ต้องขยาย : เยียวยาชาวสวนทุเรียนจากพิษน้ำท่วม จ.จันทบุรี",
+      "summary": "เรื่องใหญ่ต้องขยาย : เยียวยาชาวสวนทุเรียนจากพิษน้ำท่วม จ.จันทบุรี ช่อง 7",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HOGtVLXV0Z1JxeTRuYTgtUFZGOEpWeFoxSE5vZVZSeVpjY2pTZXpXYWw1T2g1RGxXM0JsU041UlFOYV9CVHZZOVhQNA?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-10-13T07:58:42Z",
+      "category": "disaster",
+      "provinces": [
+        "จันทบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "1ebe3f7e",
+      "title": "เงินเยียวยา 9,000 บาททยอยเข้า แต่หลายครอบครัวในปราจีนบุรียังอ่วม บ้านพังทั้งหลัง",
+      "summary": "เงินเยียวยา 9,000 บาททยอยเข้า แต่หลายครอบครัวในปราจีนบุรียังอ่วม บ้านพังทั้งหลัง ช่อง3",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrT0FRUEE4ajgzaGZmSHV0bmIwU1I0ZzNfNTJBcU5JTEdVajkzSXIwbVB0aE1CZWJFeDdkd1pxdF96eXRzWlBpRkZQdlh1dENhRmdva2VrU3UxZw?oc=5",
+      "source": "ช่อง3",
+      "published_at": "2026-10-13T07:37:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1b80b199",
+      "title": "จังหวัดเตย์นิงขอให้ลดโควตาที่อยู่อาศัยสำหรับผู้มีรายได้น้อย เนื่องจากประสบปัญหาในการหาผู้ซื้อ",
+      "summary": "จังหวัดเตย์นิงขอให้ลดโควตาที่อยู่อาศัยสำหรับผู้มีรายได้น้อย เนื่องจากประสบปัญหาในการหาผู้ซื้อ Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1FTSGpTM21VVnpadEVjck1wRUxlYzdWS2F5SlJGa1c0aU15TGFqUWZWR3RVaV9QQmR5ck9aQnBZYWFaRkMtVzRaem13b0FfY21kWXg3NkJtUFNoQnZMTmVfX1o2VnYzcC1PZkJlOFB5cjVoLWFhTVF3Rk5TdUM3NHlKR1J3U19yZEVGWTgza0g?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-13T07:36:06Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "72570041",
+      "title": "ประกาศราคาที่อยู่อาศัยสำหรับผู้มีรายได้น้อย สำหรับอาคาร 1A-1B ของโครงการอพาร์ตเมนต์คอมเพล็กซ์ Thanh Tan ในเขต Di An",
+      "summary": "ประกาศราคาที่อยู่อาศัยสำหรับผู้มีรายได้น้อย สำหรับอาคาร 1A-1B ของโครงการอพาร์ตเมนต์คอมเพล็กซ์ Thanh Tan ในเขต Di An Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmhCc2VlRktrNk42OWNjWWJneG40UU9iWUtKYjFyNXJFNkRKNlFHTjE0M2ZDNlYyQWdKRzloNFl5amlrUWxGTVl3LWZVX3NuQnFrM0dXcWNqWUw5NkFjWG5LbDZJOXprb3lhSzgwM2VfdW5tRHV4LWJBeHhHU1lGYXFfZHQyc0JwYkkycUZvVTJrNjBGYi1mSE1YMWdFNGlrUmRMMWFTWFpDSU9zb0ZKX2ZJS0lNTGVIZi1BWGMyaTJJSjdq?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-13T05:12:42Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "a59977f4",
+      "title": "การเคหะฯ เยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน",
+      "summary": "การเคหะฯ เยียวยาน้ำท่วม 66 โครงการ ปลอดค่าเช่า–พักชำระค่าเช่าซื้อสูงสุด 4 เดือน Thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pbWNhVnRYM2dfQmprUHpwTXg2am5JZEVKTGFET0ZQVXBDUm9WZGYzdlJZem9fV0d5OVhvNUtvM05Tc3VRQWthdmc1a2Z4TEFoY21CbzFFTTBDLW9j?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-10-13T04:15:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "8eaf8df2",
+      "title": "FLOOD:หมู่บ้านไม้ดอกไม้ประดับ คลอง 15 ระทมเสียหายกว่าพันล้านบาท น้ำท่วมหนัก 15 วันแล้ว อบต.คลองใหญ่ อ.องครักษ์ จ.นครนายก วอนรัฐบาลเร่งระบายน้ำ หามาตรการเยียวยาพื้นที่เกษตร ล่าสุด กรมชลประทาน เปิดประตูระบายน้ำคลอง 12 เพิ่มขึ้นแล้ว วันที่ 13 ต.ค.69 The Reporters ล",
+      "summary": "FLOOD:หมู่บ้านไม้ดอกไม้ประดับ คลอง 15 ระทมเสียหายกว่าพันล้านบาท น้ำท่วมหนัก 15 วันแล้ว อบต.คลองใหญ่ อ.องครักษ์ จ.นครนายก วอนรัฐบาลเร่งระบายน้ำ หามาตรการเยียวยาพื้นที่เกษตร ล่าสุด กรมชลประทาน เปิดประตูระบายน้ำคลอง 12 เพิ่มขึ้นแล้ว วันที่ 13 ต.ค.69 The Reporters ล Facebook",
+      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxQZWpWQlF0TVNfRFVCNHFlQVAzSXVReW1DWU5VeWhPSGFlejdGZDN3Wi01Y01xZm9hMU5ibGFoWW42RUJnN1RaVV8xVHBoR1BsNHZBSmxQN25pekdnWjU1RXMxd0ZCRVBTclVWa3hUSUVQa04xQ19aY0xRZ1FUbXlYcEc5dHhEZjQxZENnTUo4UEt6VGdsbGpiME9nbzMtMGxhTEkyZklpOTliWlVQcW9JcmVhbndyckhFUndabGItSHNaaVUwU2F3UlpGTVZJTkVvZ0hNekxJNFUxU0hxd3IzQ0dkTndjQjdPS043Z3VRODk1UElUcDctT1ZpdzJjQzUwb3lHcXlGMnhWbjhrbWY4VlduSXFOOUt3M2tiRG5tVDJBU1lEalA4LXZTUVhiZWFPNHBtRE9QUDVHR1I2V19INzNvT1pzZWkxYmFyY2VpZG1pM1NTWFFZQ0NmYktXeGsyQkQwUHNzNVFFRGpuRkN2cjVGdEx3TnFxc05jWk9PSG1TZFhpSWtMcE1jeElvZXc0MzNCOTNfcmFOMTFNR1RYT3RfZC0za1JRbHZXNWRnbVJraGM3VDFqSVpEVjJZZU52cThCdUROeGM4bWRFQjVjeEJ2TWJnQXo0S2k3R0F1MnZQSG9aSGo0THhqNGwzcHh5d1RmTXljNXB1T095UVJtTXVvSzhTWFZoeUpHMTdUcThRZVpLa205RWV3UkRmRUlTaE9jc0psZ2tPU0NxYVdoX01Pd0hSb2hKUjVpUXlYZFlWYm5Kak5ueERIT0NGa3Qwa1NaMGVCaDFfYi1ybnFNb0RLVFJvbzlhLUJkOFAyQkJXT1BBS0d2UjByemROMDdWNHYyYUtsWDBtbEV2ZVNNMkJpdEZCWmc0Z0o5QU5ycDM0NWlObW5lYm9Gcl9tejhiUE15VnU4UUZaN2gwcUVaQUU1dlRnd0wtWWxXZEpQdlZWVXc3TGxWV052OHdzVE5RS29FYnBDQTczMWY5OFVsN0p4amRsclJYd3dNajkzdmJzaTc0MTlyUGZ1dGRhTGNMQzVkZWpsV0hCZjdtUURwTGtza0lJbGdvdzNMVGRHSWhzeVU5dm4xczlTeUpYS2FIT1A2djlfVTNhb05sdEhjd2w1MlcxOXAzZzZwMWtxZFM2dXBWeTg5WFp1Z0RvYkg0NHhPbHhkbjNwZDlSa2xuZUNHQTNGYWJhNnA4NWRrQ3J4UQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-13T13:37:56Z",
+      "category": "disaster",
+      "provinces": [
+        "นครนายก"
+      ],
+      "eastern": true,
+      "score": 30,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
