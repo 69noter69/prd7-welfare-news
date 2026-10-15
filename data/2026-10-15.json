@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T05:35:00Z",
+  "window": {
+    "from": "2026-10-14T03:34:53Z",
+    "to": "2026-10-15T05:34:53Z"
+  },
+  "stats": {
+    "fetched": 274,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 16,
+    "eastern": 6,
+    "national": 10,
+    "new": 14,
+    "followups": 2,
+    "sources": 14
+  },
+  "items": [
+    {
+      "id": "9e5330d5",
+      "title": "มูลนิธิหนังสือเพื่อเด็ก จับมือ สปสช. เล่า ‘สิทธิบัตรทอง’ ผ่านนิทาน ให้เด็กจำ 1330 บอกต่อถึงครอบครัว",
+      "summary": "มูลนิธิหนังสือเพื่อเด็ก จับมือ สปสช. เล่า ‘สิทธิบัตรทอง’ ผ่านนิทาน ให้เด็กจำ 1330 บอกต่อถึงครอบครัว The Coverage",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVU9jMnhkRURzeDhnc0xNdmwxdURSV3ItZUgwVS13VHpDc1J3UEtTNGpuc3NLdUZaZDgyelZJUzkzMWRHLXhTSlVZYWxWYzNQMWkwUnpYcTNLSVk?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-15T03:55:16Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "acdaff85",
+      "title": "สปสช.แจงงบบัตรทองปี 70 กว่า 2.89 แสนล้าน รุกหมอครอบครัว-แก้โรงพยาบาลขาดสภาพคล่อง",
+      "summary": "สปสช.แจงงบบัตรทองปี 70 กว่า 2.89 แสนล้าน รุกหมอครอบครัว-แก้โรงพยาบาลขาดสภาพคล่อง thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Tall2MUtBN3RtTXNwc3JCMzhkY0pyNnNSa0Nsa2JUcXZEYVJYNzhRRHF1ZGlnT2RmYmU5M3FGczFsRG1YNkg2UFdCRTM1VFR6UXVITEJaek5FbXNHek5saEpWeDQwUHc?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-10-15T02:04:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "26798467",
+      "title": "นายกฯสั่ง รมต.เตรียมรับศึกซักฟอก 27-30 ต.ค.นี้-ไฟเขียว ‘สินเชื่อบ้านคนละหลัง พลัส’ 5 หมื่นล้าน ผ่อน 40 ปี",
+      "summary": "นายกฯ จ่ายค่าสินไหม 2 ล้าน ให้ทายาทผู้เสียชีวิตน้ำป่าไหลหลาก เชียงใหม่ - สั่ง รมต.ทุกคนเตรียมรับศึกซักฟอก 27-30 ต.ค.นี้ - ปลื้มผู้เข้าร่วมงาน IMF-World Bank ชื่นชมประเทศไทย - เปิด ‘งานพืชสวนโลก’ พร้อมจัด ครม.สัญจร 2-3 พ.ย.นี้-มติ ครม.เวนคืนที่ดิน 3 จว.สร้าง ‘ไฮสปีด เทรน’ นครราชสีมา-หนองคาย - เลื่อนเ",
+      "url": "https://thaipublica.org/2026/10/anutin-cabinet-14-10-2569/",
+      "source": "ThaiPublica",
+      "published_at": "2026-10-14T12:11:11Z",
+      "category": "health",
+      "provinces": [
+        "เชียงใหม่",
+        "นครราชสีมา",
+        "ปราจีนบุรี",
+        "หนองคาย"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "c5ba30c7",
+      "title": "ผู้ว่าฯ ระยอง ปล่อยแถวจิตอาสา Big Cleaning Day ฟื้นฟูหลังน้ำลด เผยลงทะเบียนเยียวยา 8 หมื่นราย อนุมัติแล้ว 1.3 หมื่นราย",
+      "summary": "ผู้ว่าฯ ระยอง ปล่อยแถวจิตอาสา Big Cleaning Day ฟื้นฟูหลังน้ำลด เผยลงทะเบียนเยียวยา 8 หมื่นราย อนุมัติแล้ว 1.3 หมื่นราย MGR Online",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBMVprdFd2dm5UMGVTUHRGODc0UUl4Si1RZmZZVFpsTmZiV0prUmlNeFR4TlA5eVVPb1lnMjE0MTFCYkIwektRekZwajB5T1Y2QzRtb0VaQ1V3dE9R?oc=5",
+      "source": "MGR Online",
+      "published_at": "2026-10-14T11:22:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "83d0f3a6",
+      "title": "สปสช. กางแผนบริหารกองทุนบัตรทองปี 70 วงเงินกว่า 2.89 แสนล้านบาท จับมือ สธ. ยกระดับบริการและระบบตรวจสอบ",
+      "summary": "สปสช. กางแผนบริหารกองทุนบัตรทองปี 70 วงเงินกว่า 2.89 แสนล้านบาท จับมือ สธ. ยกระดับบริการและระบบตรวจสอบ thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qQ3ctV2hWekJHRW1DdzY3WmdpVkdyU1k0RzVVdVlkS04tekNILWlpMmZVbW0xYmJ0cDhtVXZTcW42d3hoblYwRWhuNWRNWEE2OUF4OU02M2ozaFNjeVJJ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-14T10:19:30Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "82d1f3d6",
+      "title": "สปสช. กางแผนบริหารกองทุนบัตรทองปี 2570 กว่า 2.89 แสนล้าน",
+      "summary": "สปสช. กางแผนบริหารกองทุนบัตรทองปี 2570 กว่า 2.89 แสนล้าน ประชาไท Prachatai.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95bER3OGJ1VDJsQk1sZnZEc2V2OUROdHdSa3p1eHV2N084VVN5NC1jYkdYcTYzel9jcUo1Y21xSFN6NElHd010YXZTNE90OE12TkpwQ1k1cw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-10-14T10:06:46Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "ed4841a1",
+      "title": "สปสช.ชูแผนบริหารงบบัตรทองปี 70 ไร้รพ.วิกฤติการเงินระดับ 7 -จัดทีมแคชโฟลว์ ช่วย รพ.-คลินิก",
+      "summary": "สปสช.ชูแผนบริหารงบบัตรทองปี 70 ไร้รพ.วิกฤติการเงินระดับ 7 -จัดทีมแคชโฟลว์ ช่วย รพ.-คลินิก Hfocus.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85cXVxWEFVb2o3aHRMdFdKUVdTak9zSjNaX2lTR2hocGtncEc5VkRDeE9qYTdRdlR3bHlnUnI2T21jemtxZnEzV3NWcGJDNUdJdDBXUWYzTQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-10-14T10:01:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "df23c3b7",
+      "title": "เลขาสปสช.ลั่นงบฯบัตรทองปี 70 กว่า 2.89 แสนล้าน จะใช้ให้คุ้มค่า เน้นตรวจสอบ ใช้AI ช่วย",
+      "summary": "เลขาสปสช.ลั่นงบฯบัตรทองปี 70 กว่า 2.89 แสนล้าน จะใช้ให้คุ้มค่า เน้นตรวจสอบ ใช้AI ช่วย ไทยโพสต์",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SYkhSbTdyZG9QeUhiQjhmNTFVTTVwOG1PMWtsS3RiaFZsaENGNnBseGxNRVBQV3VDZnRFRENtZUZ3NDc4eEhrMjg3RExXeFJyUzBfalVldF8?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-14T09:34:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "ae90fce3",
+      "title": "สปสช.เผยงบบัตรทองปี 70 กว่า 2.14 แสนล้าน เน้นสมดุล จับมือ สธ.แก้สภาพคล่อง รพ.",
+      "summary": "สปสช.เผยงบบัตรทองปี 70 กว่า 2.14 แสนล้าน เน้นสมดุล จับมือ สธ.แก้สภาพคล่อง รพ. มติชนออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROU5Ga2FxY1hBNFVORERUblBHa3RMWndmZmNYRWR5QmhNNWhUSDZ1NFE2ODY3TXAxTFo2TUxBeWhWdWJsOS0tSDBuOXRYZnpXOHRRR2hRa3VQamhyS2dZREpTeDVPY3F0Zmc?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-14T09:13:37Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "3a5f6552",
+      "title": "รอเลย! ปภ. โอนงบเยียวยาวันนี้เพิ่มอีก149,911ครัวเรือน จ่ายไปแล้ว3.03พันล้าน",
+      "summary": "ปภ. เผยยอดโอนเงินเยียวยาน้ำท่วมสำเร็จ 3.03 พันล้านบาท ครอบคลุม 42 จังหวัด 390,366 ครัวเรือน วันนี้รอโอนเพิ่มอีก 149,911 ครัวเรือน เมื่อวันที่ 15 ต.ค.2569 นายนิรัตน์ พงษ์สิทธิถาวร อธิบดีกรมป้องกันและบรรเทาสาธารณภัย (ปภ.) เปิดเผยว่า ปภ.และธนาคารออมสิน ได้ส่งข้อมูลและโอนเงินเยียวยาอุทกภัยให้กับพี่น้องป",
+      "url": "https://www.khaosod.co.th/special-stories/news_10437945",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-15T04:07:15Z",
+      "category": "disaster",
+      "provinces": [
+        "เลย"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "6722ba88",
+      "title": "แปดริ้วอ่วม! น้ำท่วมใหญ่กระทบโรงงาน 200 แห่ง สภาอุตฯฉะเชิงเทราเตรียมหาช่องเยียวยา",
+      "summary": "แปดริ้วอ่วม! น้ำท่วมใหญ่กระทบโรงงาน 200 แห่ง สภาอุตฯฉะเชิงเทราเตรียมหาช่องเยียวยา banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xNjF6eEtkN0ZoYTlTUnVwY0lfcHA5R0pYaXdkcm91MGhhX2RtWVZaZWlJbEpFQ1lRZjNWYllQX084al9jREpndjFzaTVvMW5ER0lmNFVDbEk?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-15T04:00:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "01020136",
+      "title": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้",
+      "summary": "นายกฯ สั่งเร่งฟื้นฟู ‘ปราจีนฯ-ฉะเชิงเทรา’ จี้จ่ายเยียวยาน้ำท่วมด่วน พร้อมเฝ้าระวังฝนระลอกใหม่ 14 จังหวัดใต้ thestandard.co",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0dGhQdHVWUHFUNFlHeXlGRFA3NFpnRDQwWmR1VGRWaVJFdy0xYlhBRTBGWTN3UkJCbHJlQnZLR0FIMUhGbEE1bWxKU2VLS2dqZ1RoeTVYeFc3RzhqX3lZYTdvX29NUQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-15T02:36:01Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-11"
+    },
+    {
+      "id": "4bc53ad9",
+      "title": "ครม.เห็นชอบ! เลื่อนหักเงินเข้า กองทุนสงเคราะห์ลูกจ้าง เริ่ม! 1 ม.ค. 70",
+      "summary": "ครม.เห็นชอบ! เลื่อนหักเงินเข้า กองทุนสงเคราะห์ลูกจ้าง เริ่ม! 1 ม.ค. 70 ครม.อนุมัติหลักการ เลื่อนเก็บเงินกองทุนสงเคราะห์ลูกจ้าง ออกไปอีก 3 เดือน เปิดรายละเอียด 5 ปีแรก ลูกจ้าง-นายจ้าง ส่งเงินในอัตราฝ่ายละร้อยละ 0.25 ของค่าจ้าง เริ่ม! 1 ม.ค. 70 ก่อนปรับเป็น 0.5 ในปี 75 เมื่อวันที่ 14 ต.ค. 2569 คณะรัฐม",
+      "url": "https://www.hfocus.org/content/2026/10/39905",
+      "source": "Hfocus",
+      "published_at": "2026-10-14T13:25:35Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "af9ed0d7",
+      "title": "ธ.ก.ส. มอบถุงยังชีพพร้อมมาตรการช่วยเหลือผู้ประสบอุทกภัย ในพื้นที่จังหวัดปราจีนบุรี ฉะเชิงเทรา และระยอง",
+      "summary": "ธ.ก.ส. มอบถุงยังชีพพร้อมมาตรการช่วยเหลือผู้ประสบอุทกภัย ในพื้นที่จังหวัดปราจีนบุรี ฉะเชิงเทรา และระยอง สำนักข่าวบางกอกทูเดย์",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNjlqOG1PemJ6dEc1M2wwYUNzdjRjbUdvdVdCTjFEZnBWM2FqUThzMGhGUnByeUJSTGFpeWU0MlRzVnhGeXhMdGlQUlNBXzdhX2U1aEZFUVJDdHZGQ0NxLXE1c2hXNkRFbl9aUTBSM1dUZ0NxYXRhYWR5ek5LeFlidXRWbXlNVDNkUV9lSDlEZnNOZzdHUFBpQkFlWW42blZ3ajJwSVplTW93QmxvWDRvRzNSNndlSG02VWZzUnFSOThodXBuWGNvMGlVUFF4a0VIM2Rma2VxMDdVMnhwR29JZW5WQjU2Smo1ZUx4RkZKU0FCV3RPem9RaWdwczFuYXFxb3dPLXRNR1gyUHZmOGp1dUFyWFhBS01GUzZRdWlBcS0wSzdTd3VlSVBGMy1JY0FaUVNHbklaSXlVblY1Ym1DQw?oc=5",
+      "source": "สำนักข่าวบางกอกทูเดย์",
+      "published_at": "2026-10-14T13:14:10Z",
+      "category": "other",
+      "provinces": [
+        "ฉะเชิงเทรา",
+        "ปราจีนบุรี",
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "d0abd40a",
+      "title": "เตือนค่าแรงขั้นต่ำ 300 บาทจูงใจแรงงานต่างด้าวทะลักเข้าไทย",
+      "summary": "เตือนค่าแรงขั้นต่ำ 300 บาทจูงใจแรงงานต่างด้าวทะลักเข้าไทย Thai PBS",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KSXQxR2MtcGQ0N2ZZbjZZZnAtU1VVUC1sZmVMYU1uUWJqX1QtbW13LVhOY1NmSlVsNGdsaC1SempvLXVCbVM3VWpuY2llanFMSU15ejJIaw?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-14T13:10:02Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "id": "6b9edcba",
+      "title": "ผู้ว่าฯระยอง เปิดกิจกรรม \"Big cleaning Day รวมพลังจิตอาสา ฟื้นฟูหลังน้ำลด\" อนุมัติเงินเยียวยา แล้ว 13,000 ราย",
+      "summary": "ผู้ว่าฯระยอง เปิดกิจกรรม \"Big cleaning Day รวมพลังจิตอาสา ฟื้นฟูหลังน้ำลด\" อนุมัติเงินเยียวยา แล้ว 13,000 ราย banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWlhfa1h2RVNaUV9IR1pjTWZLSmJSM2U4XzhiaUtYdjNhTFlrOXBFeWFxTHBUTTZGZVdzSHMyMDFHQktac28tX3lDZHVib29HWHZpTnBxc3k?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-14T10:31:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
