@@ -1,21 +1,30 @@
 {
-  "generated_at": "2026-10-16T05:28:38Z",
+  "generated_at": "2026-10-17T05:19:57Z",
   "totals": {
-    "fetched": 9552,
-    "kept": 1496,
-    "eastern": 114,
-    "runs": 38,
+    "fetched": 9801,
+    "kept": 1508,
+    "eastern": 117,
+    "runs": 39,
     "ai_input_tokens": 546076,
     "ai_output_tokens": 388691,
     "cost_thb": 90.87,
     "since": "2026-09-10",
-    "days": 37,
-    "unique_items": 1386,
-    "last_success": "2026-10-16",
-    "success_streak_days": 37,
+    "days": 38,
+    "unique_items": 1396,
+    "last_success": "2026-10-17",
+    "success_streak_days": 38,
     "last_failure": null
   },
   "days": [
+    {
+      "date": "2026-10-17",
+      "total": 12,
+      "eastern": 3,
+      "runs": 1,
+      "fetched": 249,
+      "new": 10,
+      "followups": 2
+    },
     {
       "date": "2026-10-16",
       "total": 11,
