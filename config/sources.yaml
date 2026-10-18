@@ -16,13 +16,13 @@ summary_words: "40-70"        # ความยาวสรุปที่สั
 batch_size: 10                # ส่งให้ AI ทีละกี่ข่าว
 first_seen_lookback_days: 7   # ย้อนดูกี่วันเพื่อติดป้าย "ตามต่อจาก..."
 
-model: claude-haiku-4-5       # ตรวจชื่อรุ่นล่าสุดได้ที่ docs.claude.com
+model: claude-haiku-5-5       # ตรวจชื่อรุ่นล่าสุดได้ที่ docs.claude.com (เปลี่ยนจาก 4-5 เมื่อ 18 ต.ค. 2569)
 
 # ---------- ราคา (ไว้คำนวณค่าใช้จ่ายโดยประมาณ) ----------
 # ดูราคาจริงที่ console.anthropic.com ถ้าใส่ 0 ระบบจะไม่คำนวณและแสดง "-" แทน
 pricing:
-  input_per_mtok_usd: 1.00
-  output_per_mtok_usd: 5.00
+  input_per_mtok_usd: 0.10
+  output_per_mtok_usd: 0.50
   usd_to_thb: 36.5
 
 # ---------- พื้นที่รับผิดชอบ 9 จังหวัด ----------

@@ -79,42 +79,106 @@ def _batch_payload(batch: list[dict]) -> str:
     return "Items:\n" + json.dumps(rows, ensure_ascii=False)
 
 
+# รุ่นสำรอง: ถ้ารุ่นที่ตั้งไว้ใน config ใช้ไม่ได้ (เช่น ถูกปลด) ระบบจะลองรุ่นถัดไปเอง
+FALLBACK_MODELS = ["claude-haiku-5-5", "claude-haiku-4-5-20251001"]
+
+# สถานะ AI ของรอบล่าสุด — main.py นำไปเขียนลง data/last_run.json ให้ตรวจจากเว็บได้
+LAST_STATUS: dict = {}
+
+
+def _model_candidates(cfg) -> list[str]:
+    out = []
+    for m in [cfg.model, *FALLBACK_MODELS]:
+        if m and m not in out:
+            out.append(m)
+    return out
+
+
+def _short_error(exc: Exception) -> str:
+    msg = str(getattr(exc, "message", "") or exc).replace("\n", " ")
+    return f"{type(exc).__name__}: {msg[:220]}"
+
+
+def _call(client, model: str, prompt: str, payload: str, extra: dict | None):
+    kwargs = dict(model=model, max_tokens=4000, system=prompt,
+                  messages=[{"role": "user", "content": payload}])
+    # ไม่ส่ง temperature — รุ่น Haiku 5.5 ขึ้นไปจะปฏิเสธ (400) ถ้าตั้งค่าอื่นนอกจากค่าเริ่มต้น
+    if extra:
+        kwargs["extra_body"] = extra
+    return client.messages.create(**kwargs)
+
+
 def classify(items: list[dict], cfg, api_key: str, log=print) -> tuple[list[dict], int, int]:
     """คืน (รายการที่ AI ประมวลผลแล้ว, token ขาเข้า, token ขาออก)"""
+    LAST_STATUS.clear()
+    LAST_STATUS.update({"ok": True, "model": None, "batches": 0,
+                        "failed_batches": 0, "error": None})
     if not items:
         return [], 0, 0
 
-    from anthropic import Anthropic
-    client = Anthropic(api_key=api_key)
+    import anthropic
+    client = anthropic.Anthropic(api_key=api_key)
     prompt = system_prompt(cfg)
     size = cfg.batch_size
     in_tokens = out_tokens = 0
     results: list[dict] = []
 
+    models = _model_candidates(cfg)
+    model_i = 0
+    # ปิด "การคิดก่อนตอบ" ของรุ่นใหม่ เพื่อประหยัด token งานนี้ไม่ต้องคิดลึก
+    extra: dict | None = {"thinking": {"type": "disabled"}}
+    fatal = None                     # ข้อผิดพลาดที่ลองใหม่ก็ไม่หาย (เช่น key ผิด)
+
     for start in range(0, len(items), size):
         batch = items[start:start + size]
         by_id = {it["id"]: it for it in batch}
         parsed = None
+        n = start // size + 1
+        LAST_STATUS["batches"] += 1
 
-        for attempt in range(2):
+        attempts = 0
+        while fatal is None and attempts < 2 and model_i < len(models):
+            model = models[model_i]
             try:
-                res = client.messages.create(
-                    model=cfg.model,
-                    max_tokens=2500,
-                    temperature=0,
-                    system=prompt,
-                    messages=[{"role": "user", "content": _batch_payload(batch)}],
-                )
+                res = _call(client, model, prompt, _batch_payload(batch), extra)
                 in_tokens += getattr(res.usage, "input_tokens", 0) or 0
                 out_tokens += getattr(res.usage, "output_tokens", 0) or 0
-                parsed = _extract_json_array("".join(
-                    b.text for b in res.content if getattr(b, "type", "") == "text"))
+                text = "".join(getattr(b, "text", "") for b in res.content
+                               if getattr(b, "type", "") == "text")
+                if getattr(res, "stop_reason", "") == "max_tokens":
+                    log(f"  ! ชุดที่ {n}: คำตอบยาวเกิน max_tokens")
+                parsed = _extract_json_array(text)
+                LAST_STATUS["model"] = model
                 break
+            except (anthropic.NotFoundError,) as exc:
+                log(f"  ! รุ่น {model} ใช้ไม่ได้ ({_short_error(exc)}) — ลองรุ่นถัดไป")
+                LAST_STATUS["error"] = _short_error(exc)
+                model_i += 1
+            except anthropic.BadRequestError as exc:
+                err = _short_error(exc)
+                LAST_STATUS["error"] = err
+                low = err.lower()
+                if extra and ("thinking" in low or "extra" in low):
+                    log(f"  ! ชุดที่ {n}: รุ่นนี้ไม่รับการตั้งค่า thinking — ส่งใหม่แบบไม่ตั้งค่า")
+                    extra = None
+                elif "model" in low:
+                    log(f"  ! รุ่น {model} ใช้ไม่ได้ ({err}) — ลองรุ่นถัดไป")
+                    model_i += 1
+                else:
+                    attempts += 1
+                    log(f"  ! ชุดที่ {n} ล้มเหลว ({err})")
+            except (anthropic.AuthenticationError, anthropic.PermissionDeniedError) as exc:
+                fatal = _short_error(exc)
+                LAST_STATUS["error"] = fatal
+                log(f"  ! API key ใช้ไม่ได้ ({fatal}) — ข้ามการใช้ AI ทั้งรอบนี้")
             except Exception as exc:        # noqa: BLE001 — AI ล้มต้องไม่ทำให้ทั้งระบบล่ม
-                log(f"  ! ชุดที่ {start // size + 1} ล้มเหลว ({type(exc).__name__})"
-                    + (" — ลองใหม่" if attempt == 0 else " — ใช้โหมดสำรอง"))
+                attempts += 1
+                LAST_STATUS["error"] = _short_error(exc)
+                log(f"  ! ชุดที่ {n} ล้มเหลว ({_short_error(exc)})"
+                    + (" — ลองใหม่" if attempts < 2 else " — ใช้โหมดสำรอง"))
 
         if parsed is None:
+            LAST_STATUS["failed_batches"] += 1
             for it in batch:
                 results.append({**it, **fallback_item(it)})
             continue
@@ -129,12 +193,16 @@ def classify(items: list[dict], cfg, api_key: str, log=print) -> tuple[list[dict
             seen.add(item["id"])
             text = f"{item.get('title', '')} {item.get('snippet', '')}"
             category = str(row.get("category", "other"))
+            try:
+                score = int(row.get("score") or 0)
+            except (TypeError, ValueError):
+                score = 0
             results.append({
                 **item,
                 "category": category if category in CATEGORIES else "other",
                 "provinces": _clean_provinces(row.get("provinces"), text),
                 "summary": str(row.get("summary") or item.get("snippet") or "")[:600],
-                "score": max(0, min(100, int(row.get("score") or 0))),
+                "score": max(0, min(100, score)),
                 "why": str(row.get("why") or "")[:200],
                 "relevant": bool(row.get("relevant", True)),
             })
@@ -144,6 +212,11 @@ def classify(items: list[dict], cfg, api_key: str, log=print) -> tuple[list[dict
 
         log(f"  อ่านแล้ว {min(start + size, len(items))}/{len(items)} ข่าว")
 
+    LAST_STATUS["ok"] = LAST_STATUS["failed_batches"] == 0
+    if LAST_STATUS["failed_batches"] == LAST_STATUS["batches"]:
+        log("  !!! AI ใช้งานไม่ได้ทั้งรอบ — ข่าววันนี้เป็นโหมดสำรอง (ดูสาเหตุใน data/last_run.json ช่อง ai.error)")
+    elif LAST_STATUS["ok"]:
+        LAST_STATUS["error"] = None
     return results, in_tokens, out_tokens
 
 

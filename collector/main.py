@@ -89,6 +89,8 @@ def run(cfg, date: str | None, no_ai: bool, log=print) -> int:
         "eastern": stats["eastern"], "runs_today": stats["runs"],
         "ai_input_tokens": in_tok, "ai_output_tokens": out_tok,
         "cost_thb": stats.get("cost_thb"), "generated_at": generated_at,
+        "ai": ({"ok": True, "model": None, "mode": "no-ai"} if no_ai
+               else dict(classify.LAST_STATUS)),
         "errors": errors[:40],
     }, DATA_DIR)
 
@@ -118,7 +120,7 @@ def backfill(cfg, days: int, no_ai: bool, log=print) -> int:
 
 
 def main(argv=None) -> int:
-    parser = argparse.ArgumentParser(prog="collector", description="ระบบเก็บข่าวสวัสดิการ สปข.7")
+    parser = argparse.ArgumentParser(prog="collector", description="ระบบเก็บข่าวสวัสดิการ สปท.7")
     sub = parser.add_subparsers(dest="command", required=True)
 
     p_run = sub.add_parser("run", help="เก็บข่าวประจำวัน")
