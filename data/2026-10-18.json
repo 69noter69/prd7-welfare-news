@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T05:27:34Z",
+  "window": {
+    "from": "2026-10-17T03:27:26Z",
+    "to": "2026-10-18T05:27:26Z"
+  },
+  "stats": {
+    "fetched": 221,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 0,
+    "ai_output_tokens": 0,
+    "cost_thb": 0.0,
+    "runs": 1,
+    "kept": 13,
+    "eastern": 1,
+    "national": 12,
+    "new": 12,
+    "followups": 1,
+    "sources": 9
+  },
+  "items": [
+    {
+      "id": "14b7c28a",
+      "title": "สปสช. หนุนยา “Risdiplam” รักษา SMA วางแผนดูแลผู้ป่วยบัตรทอง 5 ปี งบปีแรกไม่เกิน 142 ล้าน",
+      "summary": "สปสช. หนุนยา “Risdiplam” รักษา SMA วางแผนดูแลผู้ป่วยบัตรทอง 5 ปี งบปีแรกไม่เกิน 142 ล้าน บอร์ด สปสช. เห็นชอบสนับสนุนโครงการยา “Risdiplam” สำหรับผู้ป่วยโรคกล้ามเนื้ออ่อนแรง SMA สิทธิบัตรทอง เมื่อผ่านการอนุมัติบัญชียาพิเศษ R1 วางกรอบดำเนินงาน 5 ปี เชื่อมการคัดกรอง วินิจฉัย รักษา และติดตามผล เตรียมปรับ",
+      "url": "https://www.hfocus.org/content/2026/10/39939",
+      "source": "Hfocus",
+      "published_at": "2026-10-18T02:39:43Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "2be64cc1",
+      "title": "สปสช. จับมือราชวิทยาลัยกุมารแพทย์ฯ เสนอทบทวนระบบส่งต่อ–ดูแลทารกวิกฤต มุ่งเพิ่มคุณภาพการดูแล",
+      "summary": "สปสช. จับมือราชวิทยาลัยกุมารแพทย์ฯ เสนอทบทวนระบบส่งต่อ–ดูแลทารกวิกฤต มุ่งเพิ่มคุณภาพการดูแล สปสช. จัดรับฟังความคิดเห็น “ราชวิทยาลัยกุมารแพทย์แห่งประเทศไทย” พัฒนาสิทธิประโยชน์และบริการสุขภาพเด็กในระบบบัตรทอง เสนอทบทวนระบบส่งต่อ รับบริการที่ร้านยา ปรับการจ่ายชดเชยค่ารักษาทารกแรกเกิดวิกฤต และเพิ่มสิทธิ",
+      "url": "https://www.hfocus.org/content/2026/10/39934",
+      "source": "Hfocus",
+      "published_at": "2026-10-17T07:41:23Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "5b4a11ee",
+      "title": "ดันบ้านเขียว ลดค่าไฟ–ค่าครองชีพ ผนึก UNEP–กฟผ. พัฒนาต้นแบบที่อยู่อาศัยยั่งยืนนครสวรรค์",
+      "summary": "ดันบ้านเขียว ลดค่าไฟ–ค่าครองชีพ ผนึก UNEP–กฟผ. พัฒนาต้นแบบที่อยู่อาศัยยั่งยืนนครสวรรค์ thansettakij",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcnJleFh0b3M2X0gtWHVYdzdKYVlhS2ZUVzZYMjBFY0xpM09IOTNtNjdWVlIzdlY1RkYzc2NxTk53RTlZQTNTOEwtcWxBbVFzSE9EanRpV2g0TWVQQ3BLOEZsUUVIMU55OVJJ?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-10-17T13:51:00Z",
+      "category": "housing",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "16510f1e",
+      "title": "ธ.ก.ส. มีโครงการดอกเบี้ยคนละครึ่งช่วยเหลือเกษตรกร รายไม่เกิน 1 แสนบาท เวลา 12 เดือน",
+      "summary": "ธ.ก.ส. มีโครงการดอกเบี้ยคนละครึ่งช่วยเหลือเกษตรกร รายไม่เกิน 1 แสนบาท เวลา 12 เดือน Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SFhyb045MmlCZWtrQzVYS0RHaTBpc0IwSFM4dnJHd3Jka1Y5dmdYRlJvV2t1Z3gtNENQaWxwcng0ZzRYWENXRER0aVpCQU9WMGhvaDdxSFpQUQ?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-17T09:59:04Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "1103a553",
+      "title": "สปสช. เปิดรับฟังความเห็น ‘ร่างประกาศกองทุนบัตรทอง ปี 70’ มีปรับเปลี่ยนหลักการ 10 ประเด็น",
+      "summary": "สปสช. เปิดรับฟังความเห็น ‘ร่างประกาศกองทุนบัตรทอง ปี 70’ มีปรับเปลี่ยนหลักการ 10 ประเด็น The Coverage",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nbFhpd01TOG9Vc3RuN2hwOHA0eWNsQWtKU2FRQjBqc09kb3lkYVdRYkViUEtVaUtqWU9mUTEweGRMZ0J3Uk9JZGJ3aEM3Qmx2OE1wSkIxSE1xb0k?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-10-17T03:53:34Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "AI ไม่พร้อมใช้งาน",
+      "first_seen": "2026-10-17"
+    },
+    {
+      "id": "5d6fcec4",
+      "title": "น้ำท่วมปราจีนฯเริ่มคลี่คลาย! สลดสังเวย 26 ศพ-เกษตรพังยับแสนไร่ \"รองผู้ว่าฯ\" นำทีมเร่งเยียวยาด่วน",
+      "summary": "น้ำท่วมปราจีนฯเริ่มคลี่คลาย! สลดสังเวย 26 ศพ-เกษตรพังยับแสนไร่ \"รองผู้ว่าฯ\" นำทีมเร่งเยียวยาด่วน banmuang.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Nc0tVM2F5eTNKdFNDMFdMVF9uSG1jSU1TdlhCVUtwNV9jZmcyQm5mVzF3QzlDa0ZtT18tTGJMT19vS3Nlb0RHUHNXRE5lVDFSOHFKV09XcWQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-18T04:56:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "b47a3b78",
+      "title": "รัฐบาล ชู “บ้านสีเขียว” ลดภาระค่าครองชีพระยะยาว พม. ผนึก UNEP–กฟผ. นำร่องนครสวรรค์ 341 หน่วย ปั้นต้นแบบบ้านประหยัดพลังงาน ขยายผลทั่วประเทศ",
+      "summary": "รัฐบาล ชู “บ้านสีเขียว” ลดภาระค่าครองชีพระยะยาว พม. ผนึก UNEP–กฟผ. นำร่องนครสวรรค์ 341 หน่วย ปั้นต้นแบบบ้านประหยัดพลังงาน ขยายผลทั่วประเทศ สยามรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TMFZ2T0pIUGhaaWtNdWhLYldrdDN6ZzdhWDBBWDNlenNnTk9hV3hTUVBwSEVvTlFueDhYN2ZuRElqQVludGZBSWI4bVQ4TG8?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-10-18T03:23:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "077a52db",
+      "title": "มาตรการสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย: เงินทุนหลายสิบล้านล้านดองถูกจัดสรรแล้ว และมีการเบิกจ่ายไปแล้ว 11.44%",
+      "summary": "มาตรการสินเชื่อเพื่อที่อยู่อาศัยสำหรับผู้มีรายได้น้อย: เงินทุนหลายสิบล้านล้านดองถูกจัดสรรแล้ว และมีการเบิกจ่ายไปแล้ว 11.44% Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmZYWnFXOWxoMVgyeXVCVXhmbGEwRzBaSW1aaHdSbkNGeDgyb3Zhd2ZfZXJZYmdGelhqZkMwVFp2dnNSZWRGQjQ2YjRtUDNaYXkwWWl0Zkl6cVJja1g2SnJSVmE4ZmJ1Mno3Nzd2OXFuRWNISTlIRnQzRjNGY0FwT0Q4RE1XSVoyeFhBUWFKTEF0UnI4X2VkNlg2SEFvUjA?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-18T02:04:57Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "d61c0b40",
+      "title": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด",
+      "summary": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด Matichon Online",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzQU1NWHlEWmZHUHAwSThjZ2FEaU1zcTBfRW53a1R3d0JCS1hYMFJUekR2NHFmN0hzeUgwUE80aHpXaGpLeEU3bVJjejU2bGJvdmRmWG5aSnFweXBm?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-17T11:38:31Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "80cd0659",
+      "title": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน",
+      "summary": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน Matichon Online กรมป้องกันและบรรเทาสาธารณภัย เปิด 3 แนวทางเยียวยาน้ำท่วม 2569 | The Bangkok Insight LINE TODAY งงเงินเยียวยาน้ำท่วม! ยื่นก่อนใครเพื่อนยังไม่ได้สักบาท อมรินทร์ทีวี ช่อง 34 ‘ปภ.-ออมสิน’ โอนเงินเยียวยาน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OS1MMXMzeFNDTi1Vd2JKQU96THlvbVVLSDN1am1ZMDdNMjlBd3lQUDVfQUdfTHdJR1lOWENDRXdseEtPUkRxWFNjOExDWHNGbWlPQi10ODBTczMt?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-17T09:38:04Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "d7199da4",
+      "title": "'นิกร' นำทีม พม. ขับเคลื่อนคุณภาพชีวิตกลุ่มเปราะบางที่นครสวรรค์ คณะกรรมการ-ผู้บริหารระดับสูงการเคหะแห่งชาติร่วมภารกิจ",
+      "summary": "'นิกร' นำทีม พม. ขับเคลื่อนคุณภาพชีวิตกลุ่มเปราะบางที่นครสวรรค์ คณะกรรมการ-ผู้บริหารระดับสูงการเคหะแห่งชาติร่วมภารกิจ ไทยโพสต์",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EX0RZeURCajVfUTJ3ejg4TVVQbXpqdkpjVElYM3Y1UDZkdjFab1BRbFJLZlhvdXF5UVRLdXlNc0Y2VGt1QVhvMUhsSm1LS1lKT3NOdlZKMGl3M1ZRWjAzMkJpdE1jQQ?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-17T06:18:51Z",
+      "category": "housing",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "ab5bde5f",
+      "title": "เมื่อจ่ายค่าที่อยู่อาศัยสำหรับผู้มีรายได้น้อยไปแล้ว 95% ของราคาทั้งหมดแล้ว การปล่อยให้เช่าต่อเป็นสิ่งที่ถูกต้องหรือไม่?",
+      "summary": "เมื่อจ่ายค่าที่อยู่อาศัยสำหรับผู้มีรายได้น้อยไปแล้ว 95% ของราคาทั้งหมดแล้ว การปล่อยให้เช่าต่อเป็นสิ่งที่ถูกต้องหรือไม่? Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFWTk5BOGRhWXJjTlNkMkNMT0pOUEx3N3pWNEJuZ0hjTTQyMExjcnoydFhzTXlEaDJFYUVJSkFDWXZqSzdqS0lHblVaUkVGVEVYNFMwVzdsY2tWVUVCbHVCQWtDQ1hjMUNPMUpPTlA4cDQ1TFFEOFA2Wi1Za05lZTY1R0Q?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-10-17T04:38:34Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "77626bd5",
+      "title": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา",
+      "summary": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา MGR Online",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hal9DWWFwdnh3aWxmX1Rvb29Ham50Z1FsQjNMQk1IWTc4b292ZkhUdXEzWWlvWmU0aTVVZE1nNjQwRjNONG1MelBITkZzOTlYMmZJaWFUcFBHaHhy?oc=5",
+      "source": "MGR Online",
+      "published_at": "2026-10-17T04:43:00Z",
+      "category": "disaster",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 30,
+      "why": "AI ไม่พร้อมใช้งาน"
+    }
+  ]
+}
