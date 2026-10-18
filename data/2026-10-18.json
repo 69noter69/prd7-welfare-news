@@ -1,29 +1,180 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T06:04:28Z",
+  "generated_at": "2026-10-18T06:13:16Z",
   "window": {
-    "from": "2026-10-17T04:04:22Z",
-    "to": "2026-10-18T06:04:22Z"
+    "from": "2026-10-17T04:12:17Z",
+    "to": "2026-10-18T06:12:17Z"
   },
   "stats": {
-    "fetched": 254,
+    "fetched": 251,
     "excluded_by_blocklist": 0,
-    "ai_input_tokens": 0,
-    "ai_output_tokens": 0,
-    "cost_thb": 0.0,
-    "runs": 2,
-    "kept": 15,
-    "eastern": 1,
-    "national": 14,
-    "new": 14,
-    "followups": 1,
-    "sources": 11
+    "ai_input_tokens": 18729,
+    "ai_output_tokens": 13994,
+    "cost_thb": 0.32,
+    "runs": 3,
+    "kept": 55,
+    "eastern": 3,
+    "national": 52,
+    "new": 53,
+    "followups": 2,
+    "sources": 34
   },
   "items": [
     {
+      "id": "58668652",
+      "title": "กทม. อัพเดตเงินเยียวยาท่วม อนุมัติแล้ว 3.2 แสนครัวเรือน คำร้องค่าดำรงชีพ พุ่ง 8.8 หมื่นเคส",
+      "summary": "กรุงเทพมหานครรายงานความคืบหน้าการเยียวยาน้ำท่วม โดยอนุมัติแล้ว 3.2 แสนครัวเรือน และมีคำร้องขอค่าดำรงชีพ 8.8 หมื่นเคส ข้อความไม่ระบุจำนวนเงินต่อครัวเรือน",
+      "url": "https://www.matichon.co.th/local/news_5937530",
+      "source": "มติชน",
+      "published_at": "2026-10-18T05:28:25Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาถึงมือประชาชนจำนวนมาก พร้อมตัวเลขชัดเจน"
+    },
+    {
+      "id": "6222fecf",
+      "title": "“เงินเยียวยาน้ำท่วม”เตรียมชงครม.ขอเพิ่ม 1.5 หมื่นล้าน ล่าสุดโอนแล้ว 6.8 แสนครัวเรือน",
+      "summary": "รัฐบาลเตรียมเสนอ ครม. ขอวงเงินเยียวยาน้ำท่วมเพิ่มอีก 1.5 หมื่นล้านบาท ล่าสุดมีการโอนเงินเยียวยาให้แล้ว 6.8 แสนครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKMEFFQmJMNWV0aVdwdkxHY3lSS1d4X3ZYTHZRS0RQRkNrcDhGd3luM0ZrMl9Xb1JPQzdIYTBmb1JQN0hmUW5ic1MyNDZjaURQZU9Zdk93?oc=5",
+      "source": "TrueID",
+      "published_at": "2026-10-17T08:49:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือถึงมือประชาชนจำนวนมากและมีการขอวงเงินเพิ่ม"
+    },
+    {
+      "id": "a789e3ac",
+      "title": "ปฏิทินจ่ายเงินอุดหนุนบุตร เบี้ยเด็กแรกเกิด ปี 2570 เช็กวันโอนครบ 12 เดือน",
+      "summary": "มีการเผยแพร่ปฏิทินการจ่ายเงินอุดหนุนบุตรและเบี้ยเด็กแรกเกิดประจำปี 2570 เพื่อให้ผู้รับทราบวันโอนเงินครบ 12 เดือน ข้อความไม่ระบุจำนวนเงินเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Wamt0OW51V2ZGU1lwQ0lJeWFBN0UwS2ZhdWszNzJOVUZ0M1M1OHZlUG5iSnp4VG1OSjQxekJBS1RkVlE5aF81Z25JUDR6blh5SGNSRFMtWTZQbEtBelhJdFZ6YUZBQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-18T04:24:34Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "สวัสดิการเด็กที่มีกำหนดการโอนเงินชัดเจน",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "2ce6b7a8",
+      "title": "โอนครบแล้ว! ปภ. - ออมสิน จ่ายเยียวยาน้ำท่วม 5.2 พันล้าน จ่อชงรัฐขยายวงเงินเพิ่ม",
+      "summary": "ปภ. และธนาคารออมสินโอนเงินเยียวยาน้ำท่วมครบแล้ว วงเงิน 5.2 พันล้านบาท ขณะที่ ปภ. เตรียมเสนอรัฐบาลพิจารณาขยายวงเงินเพิ่มเติม เพื่อให้ผู้ประสบอุทกภัยได้รับการช่วยเหลือต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Y3ZKNVNvVVBxazJsQ3ZXNnMzZzR1a19SNVdxZDlsb0h3cHQtWi1BOC1jbkN5eFNjR0w0S0xYWGItZF83U2RlTXlrLUFCaHBOUWhrY1hNcC1ac0JlNU1HZGpNVU9xZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-17T09:19:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงประชาชนแล้วและมีการขยายวงเงิน"
+    },
+    {
+      "id": "cbde810e",
+      "title": "“ปภ.-ออมสิน” โอนเยียวยาน้ำท่วม 5.2 พันลบ. จ่อชง ครม. เพิ่ม 1.05 หมื่นล้านบาท",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยและธนาคารออมสินโอนเงินเยียวยาอุทกภัยแล้ว 5.2 พันล้านบาท และอยู่ระหว่างเตรียมเสนอคณะรัฐมนตรีให้เพิ่มงบเยียวยาอีก 1.05 หมื่นล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KZmZJLUpsVHR4bEZsWHRUQ3BTd1dZODBuV2p3YnVBYjFEUG1Ed2twdF9TckRKak1oZFNMZzlScm5PM2dDYXNMTkhaYnA0VFd6Y1VSaWpFaDdiMVhmV25ReVVGSHN3MnI2dDdBb3FGUHk?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-17T09:03:22Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนและงบเพิ่มระดับชาติ"
+    },
+    {
+      "id": "86e9f8aa",
+      "title": "ปภ.โอนเยียวยาน้ำท่วมครบวงเงิน 5,225 ล้าน จ่อชง ครม.ขอเพิ่ม 10,508 ล้าน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาน้ำท่วมครบตามวงเงิน 5,225 ล้านบาทแล้ว และเตรียมเสนอ ครม. ขอวงเงินเพิ่มอีก 10,508 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOFJFUkk5VlAxb0w3MjdzS2lVMUswQ19Zc1hXOWx6U2FEaERkcU81Z085bnRMUWFvRUx6Z0xfeHZRUTV5TGV5Wm5ZbGVRQkpxcGFEblVYaWI?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-17T06:53:10Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนแล้วและมีการขอวงเงินเพิ่ม"
+    },
+    {
+      "id": "59986405",
+      "title": "ศุภณัฐ เผยยอด 5.2 พันล้าน ใกล้หมดแล้ว เงินเยียวยาน้ำท่วม อัดมท.ประเมินต่ำเกิน ด้านโฆษกรบ.โต้ทันที",
+      "summary": "นายศุภณัฐ เปิดเผยยอดงบเยียวยาน้ำท่วมจำนวน 5.2 พันล้านบาทใกล้หมดแล้ว และกล่าวหากระทรวงมหาดไทยประเมินงบต่ำเกินไป โฆษกรัฐบาลได้ออกมาชี้แจงโต้ตอบทันที",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4cU9UNXcxLVc1Mk5lZWhIc0ZicUkteXhWRUNGOFVHdk82N1c0aS1EV1UxOHJ0TkxvbXFpTW5rVjAweGFrYW5remFiUWRncWlkZXJSWVBvbzdEWkhf?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-10-17T05:13:53Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "งบเยียวยาน้ำท่วมจำนวนมาก"
+    },
+    {
+      "id": "a7836f7f",
+      "title": "ปภ.-ออมสิน โอนเงินเยียวยาน้ำท่วมตามวงเงินจัดสรรครบแล้ว จ่อเสนอรัฐบาลขยายวงเงินเพิ่ม",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ร่วมกับธนาคารออมสิน โอนเงินเยียวยาน้ำท่วมตามวงเงินที่จัดสรรครบแล้ว และอยู่ระหว่างเสนอรัฐบาลพิจารณาขยายวงเงินเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91QzJ2VXI0M3dOeDdCci1lTDJkMFFTRF81bUQ2S1hsUXBCQ0hRTWtnZThEZjN6NThuOGtfOUt3MXJfcS1GQmJrWEtFVFhIbVFpZkpZTHBmOGRFTHc?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-10-17T08:21:41Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 86,
+      "why": "เงินเยียวยาโอนถึงผู้ประสบภัยแล้ว"
+    },
+    {
+      "id": "a3e8bf6d",
+      "title": "รัฐบาลแจง 3 แนวทางเยียวยาน้ำท่วมปี 69 ยืนยันผู้เข้าเกณฑ์ได้รับสิทธิทั่วถึง",
+      "summary": "รัฐบาลชี้แจงแนวทางเยียวยาอุทกภัยปี 2569 จำนวน 3 แนวทาง และยืนยันว่าผู้ที่เข้าเกณฑ์จะได้รับสิทธิอย่างทั่วถึง",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwYkNuUHRkMWRCamdWMk5tQXpZZFBvcTRHVU9YWWRxSl8tQXBuWDJSRGphZVJfc0ZveXZFalpKUkUyOUhCSUFDeTJ1WWdkYXdiTC1nQw?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-10-18T06:03:32Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเยียวยาที่ประชาชนได้รับสิทธิ"
+    },
+    {
+      "id": "a90ab720",
+      "title": "รัฐบาลแจง 3 แนวทาง เยียวยาผู้ประสบน้ำท่วม ยัน ผู้ที่เข้าหลักเกณฑ์ได้รับการเยียวยาอย่างทั่วถึงแน่นอน",
+      "summary": "รัฐบาลชี้แจงแนวทางเยียวยาผู้ประสบอุทกภัยไว้ 3 แนวทาง และยืนยันว่าผู้ที่เข้าหลักเกณฑ์จะได้รับการเยียวยาอย่างทั่วถึง รายละเอียดจำนวนเงินและวันจ่ายไม่ปรากฏในข้อความ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11NkxObVFhRGtuVzQ2SVZCZVk5ZHpyWFhGYkhzd0xvUE14Z2pfbzNEVWRnbGNYNExYWmh5ZTU4U2cxbEhZbWtXaFRDSjV3OEhV?oc=5",
+      "source": "ไทยแทบลอยด์",
+      "published_at": "2026-10-18T04:13:18Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเยียวยาน้ำท่วมที่มีการยืนยันการจ่าย"
+    },
+    {
       "id": "14b7c28a",
       "title": "สปสช. หนุนยา “Risdiplam” รักษา SMA วางแผนดูแลผู้ป่วยบัตรทอง 5 ปี งบปีแรกไม่เกิน 142 ล้าน",
-      "summary": "สปสช. หนุนยา “Risdiplam” รักษา SMA วางแผนดูแลผู้ป่วยบัตรทอง 5 ปี งบปีแรกไม่เกิน 142 ล้าน บอร์ด สปสช. เห็นชอบสนับสนุนโครงการยา “Risdiplam” สำหรับผู้ป่วยโรคกล้ามเนื้ออ่อนแรง SMA สิทธิบัตรทอง เมื่อผ่านการอนุมัติบัญชียาพิเศษ R1 วางกรอบดำเนินงาน 5 ปี เชื่อมการคัดกรอง วินิจฉัย รักษา และติดตามผล เตรียมปรับ",
+      "summary": "บอร์ด สปสช. เห็นชอบสนับสนุนโครงการยา Risdiplam สำหรับผู้ป่วยโรคกล้ามเนื้ออ่อนแรง SMA ในสิทธิบัตรทอง เมื่อผ่านการอนุมัติบัญชียาพิเศษ R1 โดยวางกรอบดำเนินงาน 5 ปี ครอบคลุมการคัดกรอง วินิจฉัย รักษา และติดตามผล งบปีแรกไม่เกิน 142.0104 ล้านบาท และจะทบทวนเมื่อดำเนินงานครบ 2 ปี",
       "url": "https://www.hfocus.org/content/2026/10/39939",
       "source": "Hfocus",
       "published_at": "2026-10-18T02:39:43Z",
@@ -32,13 +183,103 @@
         "ทั่วประเทศ"
       ],
       "eastern": false,
-      "score": 70,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 85,
+      "why": "ยาจำเป็นและงบประมาณระดับชาติสำหรับผู้ป่วยบัตรทอง"
+    },
+    {
+      "id": "916813e8",
+      "title": "ลุยธงฟ้า90วัน ช่วยผู้ประสบอุทกภัย โอนเยียวยา2แสนคน",
+      "summary": "รายงานระบุว่ามีโครงการ “ลุยธงฟ้า 90 วัน” ช่วยเหลือผู้ประสบอุทกภัย โดยโอนเงินเยียวยาให้ผู้ได้รับผลกระทบประมาณ 200,000 คน ยังไม่ปรากฏรายละเอียดจำนวนเงินต่อราย",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aME9XeTdmQ0Rmc3VzV0JXWmIxTFlyZU1sSjVJUlRwRWU3d0ZVNlY0RjJUQ0tiTHNIcjdnWTJRU3oxOXRuWnRPM1BoWFotZzJ3b1Jv?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-10-17T23:08:12Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีการโอนเงินเยียวยาถึงประชาชนจำนวนมาก"
+    },
+    {
+      "id": "9cb3f337",
+      "title": "ปภ. เล็งขอวงเงินเยียวยาน้ำท่วมเพิ่ม 10,508 ล้าน คาดเข้า ครม. 20 ต.ค.นี้ แจงก้อนเดิม 5 พันล้านใกล้หมด",
+      "summary": "ปภ. เตรียมขอวงเงินเยียวยาน้ำท่วมเพิ่ม 10,508 ล้านบาท คาดเข้าคณะรัฐมนตรีวันที่ 20 ต.ค. นี้ เนื่องจากวงเงินเดิมประมาณ 5 พันล้านบาทใกล้หมดแล้ว",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CYU5QbGVzajRUVEhORW5HQXZaOGhCZHRpMmtCTFZjTWF1cERWcm1PdWlXMDVtWElfQkVSa0JkRVdabGxFaEdlUkJ2SFg4ZTRISkF1YmxSaDI?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-17T13:23:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเข้าครม. และวงเงินเดิมใกล้หมด"
+    },
+    {
+      "id": "660adda9",
+      "title": "โฆษกรัฐบาลโต้ศุภณัฐ ปมงบเยียวยาน้ำท่วม 5,290 ล้านบาท ยันยังมีงบช่วยเหลือเพิ่ม",
+      "summary": "โฆษกรัฐบาลตอบโต้ข้อกล่าวหาของนายศุภณัฐเกี่ยวกับงบเยียวยาน้ำท่วมจำนวน 5,290 ล้านบาท พร้อมยืนยันว่ายังมีงบช่วยเหลือเพิ่มเติมสำหรับผู้ประสบภัย",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUV2dm1GVDJ5RVppVm1GSTVMUTYzN1hmODVwTHJJTFNkLTl6ZEhsUFR4cWRTaHduRVBHOWttQk9DXzFacVhvazRncDZJa3JTV3NFLTViOUt2bkVyQVROblNIZ3pGbGVTc1lyY1ZmbThLSXBVRk5lUzgyMVhaS2tzVHAzTQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-17T06:54:26Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ยืนยันมีงบช่วยเหลือเพิ่ม"
+    },
+    {
+      "id": "ba143d51",
+      "title": "'ศุภณัฐ' ซัดรัฐบาลคำนวณงบเยียวยาน้ำท่วมพลาด 4 เท่า จี้เพิ่มอีก 1.2 หมื่นล้าน",
+      "summary": "นายศุภณัฐวิพากษ์รัฐบาลว่าคำนวณงบเยียวยาอุทกภัยคลาดเคลื่อนถึง 4 เท่า และเรียกร้องให้เพิ่มงบอีก 1.2 หมื่นล้านบาท เพื่อดูแลผู้ได้รับผลกระทบจากน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14aXF5SXRCTXpWcTFHS3dWVTR2a3RqdUpHdEdudnJzTW9lMjZFeE1yaVp5LTFra3U4cFByX2hsRGVydjlBaklaN1ZkQnpSeS11TjFLbjRZWVZiRkE?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-17T06:10:24Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เรียกร้องเพิ่มงบเยียวยาน้ำท่วม"
+    },
+    {
+      "id": "d4f27bc5",
+      "title": "UPDATE: ศุภณัฐชี้งบเยียวยาน้ำท่วม 5,290 ล้านบาทใกล้หมด จี้ ครม. เพิ่มวงเงินด่วน หลังประเมินต่ำกว่าความเสียหาย 4 เท่า วันนี้ (17 ตุลาคม) ศุภณัฐ มีนชัยนันท์ สส.กรุงเทพมหานคร เขต 9 พรรคประชาชน เปิดเผยว่า ตามมติคณะรัฐมนตรี (ครม.) ที่อนุมัติกรอบวงเงินเยียวยาน้ำท่วมที่ผ่านมา 2 รอ",
+      "summary": "นายศุภณัฐ มีนชัยนันท์ สส.กรุงเทพมหานคร เขต 9 พรรคประชาชน ระบุว่า วงเงินเยียวยาน้ำท่วม 5,290 ล้านบาท ตามมติ ครม. ใกล้หมด และประเมินต่ำกว่าความเสียหายจริงราว 4 เท่า จึงเรียกร้องให้ ครม. เพิ่มวงเงินโดยด่วน",
+      "url": "https://news.google.com/rss/articles/CBMi-wZBVV95cUxNM3hjSlFncktaaGNoZVN6MFo1b1RlN3hkelA1TXk0OVNTUGdzbXMxSmNRT0Y2dkl6ZmdZTUZPbUVQU3YwbXpQaGRnUDhCSXdWS3dnQjRsZzEtc1pXT2ZOZmtVLVhTUUswSFE1Q3A5SEZscmUwQWU0bjNqVVJKSkhXTWVTZG5yVmU5V3lyMDFqNnB0NldrT0p3aG9vRXhXcFlnbU9Fc203YkZncFpXYmZxU2NnQ3dKS2psTi1pWE5wQlIyUGZ0THJQNGFJRmUtU1hucnB5QnQ1X0dXc3VQNF85cWhZSXJ1NHZIbnl6MnMwMWJWd0hQc0hodkhpMUZ1TkctSTE0dlQtbEk4cmMxQkpSMW5pc1piTkVYeVVyM212YVlsa3dxb2w3Y2RXd2RjN1NYZFlVUG5SbEkxRjYxS0lRMUJ5N2RxR21hdmZCZ0lIU01ZaU5XeDdvVUUxTmhINVlPRzdtbllrcDlGX2tfN1RWWnd5LUl0OXRMVGUyeG1uQVktQi1QOEg1bm8yWDZWWWJreE4yMDBHd0Z3M1NpdTF0cURxU0VrbF9nOGFmN0NMQVFxQjBLRmJ1ZHU0R2FfR2ZFNXd2dmItX1Z2WUxDU18wMHgtN2NCbTUwaVUzUTBxRHJ0dHNSTHpCNUctVG14aEJTcG1URC0yem11VFhfcmRiTmIwRjNEalNPOUtqaXpITURyQTBDQlJOWm1VbUM2QUJNdmhLWS1xVGg4YVZCYlFQb2hpelhmM0J1Z3FNUTV0VWJybDhLMkI1ckdxczhibmxnQ2Q5Mmp3b2NpN0tpR3IxY2RrRU1uREdlNzI3NkRKOTVWc2JCbEtwZmJUb0NIRDhXZmFwanQ4N1JuaTVOZ0l6YldiaTlIdFZPLWpLQmRBOUo1Z0FTSHluYmRZbk5peG1wTnI3Q1l2NnRfdjd2S1Y2Z2o2ZUlFUUYySVgwRkx2aGVTSzM3aklSZUlkR243RHBPZ2hIYm1JbDkxdU54ZDBLdFJ5MGdYcUdITVFjXzc5RnVlXzd2aFdzbENKcWRmdHBrTkR2WVBmeDY4eXRRNTVyazVOb3U0bEhoLU9fa2hUc0dfX2FMd29KMjJOd1FPWUJOZHdQTU96Q3c1cVZONHBXb3k2eng4ZFpBMUc2S25hT09uemdWajRFZGcyUk9sdm43MVpudkVLZ3RuV1E?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-17T05:38:54Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "วงเงินเยียวยาผู้ประสบภัยจริงและใกล้หมด"
+    },
+    {
+      "id": "31eac2cc",
+      "title": "ศุภณัฐ เผยเงินเยียวยาน้ำท่วมใกล้หมด รัฐประเมินพลาด 4 เท่า",
+      "summary": "นายศุภณัฐ สส. เปิดเผยว่างบเยียวยาอุทกภัยใกล้หมดแล้ว และรัฐบาลประเมินความต้องการต่ำกว่าความเป็นจริงถึง 4 เท่า ประเด็นนี้กระทบการช่วยเหลือผู้ประสบภัยน้ำท่วมโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VZndnTXVTUDF3OHVTUkdlZmZzN1NiSjdScmUtYkRKcDNvaWJOSnlOQmNSWXFCT25HamtVY0JmVS1IT0I0dW9keUNib3hraW1rdUxfZF9YTQ?oc=5",
+      "source": "Teenee.com",
+      "published_at": "2026-10-17T05:04:05Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาน้ำท่วมถึงประชาชน"
     },
     {
       "id": "80cd0659",
       "title": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน",
-      "summary": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน Matichon Online เช็กเกณฑ์ช่วยเหลือ เยียวยาน้ำท่วม ปี 2569 ยันเข้าตามเงื่อนไขได้รับทั่วถึงแน่นอน Thairath.co.th กรมป้องกันและบรรเทาสาธารณภัย เปิด 3 แนวทางเยียวยาน้ำท่วม 2569 | The Bangkok Insight LINE TODAY เช็กสิทธิ",
+      "summary": "อธิบดีกรมป้องกันและบรรเทาสาธารณภัยชี้แจงการคำนวณงบเยียวยาอุทกภัย ยืนยันว่าคำนวณตามข้อมูลจริง และอยู่ระหว่างเสนอคณะรัฐมนตรีเพิ่มงบอีก 1.05 หมื่นล้านบาท มีการรายงานความล่าช้าและข้อสงสัยในการเข้าถึงเงินเยียวยาจากบางสื่อ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OS1MMXMzeFNDTi1Vd2JKQU96THlvbVVLSDN1am1ZMDdNMjlBd3lQUDVfQUdfTHdJR1lOWENDRXdseEtPUkRxWFNjOExDWHNGbWlPQi10ODBTczMt?oc=5",
       "source": "Matichon Online",
       "published_at": "2026-10-17T09:38:04Z",
@@ -47,13 +288,238 @@
         "ทั่วประเทศ"
       ],
       "eastern": false,
-      "score": 70,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 84,
+      "why": "ชี้แจงเกณฑ์และงบเยียวยาที่กระทบประชาชนโดยตรง"
+    },
+    {
+      "id": "77626bd5",
+      "title": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา",
+      "summary": "น้ำท่วมในจังหวัดสระแก้วทำให้พื้นที่การเกษตรเสียหายกว่า 2.4 แสนไร่ และความเสียหายด้านประมงกว่า 15 ล้านบาท ทางการเร่งสำรวจเพื่อจ่ายเงินเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hal9DWWFwdnh3aWxmX1Rvb29Ham50Z1FsQjNMQk1IWTc4b292ZkhUdXEzWWlvWmU0aTVVZE1nNjQwRjNONG1MelBITkZzOTlYMmZJaWFUcFBHaHhy?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-10-17T04:43:00Z",
+      "category": "farmers",
+      "provinces": [
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 83,
+      "why": "เกษตรกรและประมงได้รับผลกระทบโดยตรง"
+    },
+    {
+      "id": "a3cbef33",
+      "title": "อยุธยาหลายพื้นที่ยังจมน้ำ ชาวบ้านปลื้มได้เงินเยียวยาเร็วกว่าปีอื่นทำสัปดาห์เดียว",
+      "summary": "พื้นที่หลายแห่งในจังหวัดพระนครศรีอยุธยายังคงถูกน้ำท่วม ขณะที่ชาวบ้านระบุว่าได้รับเงินเยียวยาเร็วกว่าปีที่ผ่านมา โดยดำเนินการภายในหนึ่งสัปดาห์ ข้อความไม่ระบุจำนวนเงิน",
+      "url": "https://www.matichon.co.th/region/news_5937657",
+      "source": "มติชน",
+      "published_at": "2026-10-18T05:27:57Z",
+      "category": "disaster",
+      "provinces": [
+        "พระนครศรีอยุธยา"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ผลกระทบน้ำท่วมและการจ่ายเงินเยียวยาในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "f917469a",
+      "title": "ชาวสายไหม แห่จองคิวสำนักงานเขต รอลงทะเบียนรับเงินเยียวยาช่วยเหลือน้ำท่วม",
+      "summary": "ประชาชนในเขตสายไหมแห่จองคิวที่สำนักงานเขตเพื่อลงทะเบียนรับเงินเยียวยาช่วยเหลือจากอุทกภัย โดยเป็นการรอลงทะเบียนตามขั้นตอนการช่วยเหลือของทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GdzIyUHVQdEpvUy01U0xia3hyWktKaGxqSTZNaEQxUjJCbUZVelJ2dGpUNWFCUGY3S1Z2VVN2T0hDYnVPR1pOR09SS3oxVzBIX1pscENLQVpTZw?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-10-18T04:08:24Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ประชาชนต้องลงทะเบียนรับเงินเยียวยาในพื้นที่"
+    },
+    {
+      "id": "a2d01403",
+      "title": "รัฐบาลลดภาระซ่อมบ้าน – เครื่องใช้ไฟฟ้า – รถยนต์ พาณิชย์จับมือเอกชนจัดส่วนลด–บริการตรวจเช็กฟรี พร้อมเดินหน้าธงฟ้าลดค่าครองชีพ 90 วัน",
+      "summary": "รัฐบาลร่วมกับกระทรวงพาณิชย์และภาคเอกชนจัดส่วนลดและบริการตรวจเช็กฟรีสำหรับการซ่อมบ้าน เครื่องใช้ไฟฟ้า และรถยนต์ พร้อมเดินหน้ามาตรการ “ธงฟ้าลดค่าครองชีพ” ระยะเวลา 90 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4MjAzYkdZNzdaakVlb21QbEhyQTJ3aVhKa285NDk4ei1EdmF3YkhIdVMtMVZ6RWtvYzFkRUNGTURXU3oxT0pwX2w2MmxQUzV3anJB?oc=5",
+      "source": "สว พ. FM 91",
+      "published_at": "2026-10-17T05:45:15Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการลดค่าครองชีพมีระยะเวลาชัดเจน"
+    },
+    {
+      "id": "e5a0d4f2",
+      "title": "‘รัฐบาล’ขออย่ากังวล เยียวยาผู้ประสบภัยน้ำท่วมตามเงื่อนไขแน่นอน",
+      "summary": "รัฐบาลยืนยันว่าการเยียวยาผู้ประสบภัยน้ำท่วมจะดำเนินการตามเงื่อนไขอย่างแน่นอน และขอให้ประชาชนไม่ต้องกังวล ข้อความไม่ระบุรายละเอียดเงื่อนไขหรือจำนวนเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QR0ctUTdFSTQzd3N0VzU5YWFFRk5NaUlqZEFUdm1YWGptamwxV0tQM1BtbG5Oa2VnQ05pMS1NQnF6bzY1VnFRckVXMTVCUEZsdWpF?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-18T05:34:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ยืนยันการเยียวยาตามเงื่อนไขกับประชาชน"
+    },
+    {
+      "id": "5d6fcec4",
+      "title": "น้ำท่วมปราจีนฯเริ่มคลี่คลาย! สลดสังเวย 26 ศพ-เกษตรพังยับแสนไร่ \"รองผู้ว่าฯ\" นำทีมเร่งเยียวยาด่วน",
+      "summary": "สถานการณ์น้ำท่วมในจังหวัดปราจีนบุรีเริ่มคลี่คลาย มีผู้เสียชีวิต 26 ราย และพื้นที่เกษตรได้รับความเสียหายหลายแสนไร่ รองผู้ว่าราชการจังหวัดนำทีมเร่งดำเนินการเยียวยาผู้ประสบภัย",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Nc0tVM2F5eTNKdFNDMFdMVF9uSG1jSU1TdlhCVUtwNV9jZmcyQm5mVzF3QzlDa0ZtT18tTGJMT19vS3Nlb0RHUHNXRE5lVDFSOHFKV09XcWQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-18T04:56:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 80,
+      "why": "ผลกระทบต่อประชาชนและเกษตรกรในพื้นที่"
+    },
+    {
+      "id": "2bdfa9ab",
+      "title": "ชาวสายไหม กทม. แห่จองคิวแน่นสำนักงานเขต ตั้งแต่ตี 3 รอยื่นเอกสารเยียวยาน้ำท่วม",
+      "summary": "ประชาชนในเขตสายไหม กรุงเทพมหานคร จองคิวที่สำนักงานเขตตั้งแต่เวลาตี 3 เพื่อรอยื่นเอกสารขอรับเงินเยียวยาน้ำท่วม แสดงให้เห็นถึงความต้องการเงินเยียวยาที่สูงในพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vaHhEOGVQMUhpZnAwYkFQcTFVdENieTExUEpGZzk0UzJjTlVHQnVGMHZ6eHJtSzBmem1fd3VkU1lIN3VzdmpIQmpRWS1iTDdF?oc=5",
+      "source": "ไทยแทบลอยด์",
+      "published_at": "2026-10-18T04:35:54Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ประชาชนแห่ยื่นเอกสารขอรับเงินเยียวยาในพื้นที่"
+    },
+    {
+      "id": "7e379a14",
+      "title": "‘ศุภณัฐ’ เตือนงบเยียวยาน้ำท่วม 5,290 ล้านใกล้หมดแล้ว ซัดรัฐบาลประเมินตัวเลขพลาดกว่า 4 เท่า | The Reporters",
+      "summary": "นายศุภณัฐเตือนว่างบเยียวยาน้ำท่วมจำนวน 5,290 ล้านบาทใกล้หมดแล้ว และวิจารณ์ว่ารัฐบาลประเมินตัวเลขความเสียหายผิดพลาดกว่า 4 เท่า ซึ่งอาจกระทบการเยียวยาผู้ประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWFFvMFh4M3F1NnlhQldUNUVDLUwwS0diN1RiaVpLcmNTS09iRkJveUlPS01VdjQ3dkpwbW84RXluTFdubnZIWEd2ZUVEYmF4RVFEU2VB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-17T15:11:55Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบเยียวยาน้ำท่วมกระทบประชาชนโดยตรง"
+    },
+    {
+      "id": "369fafd1",
+      "title": "วันเดียว 1,800 คน ยื่นเอกสารขอเยียวยาน้ำท่วมเขตสายไหม",
+      "summary": "มีผู้ยื่นเอกสารขอรับเงินเยียวยาอุทกภัยในเขตสายไหมจำนวน 1,800 คนภายในวันเดียว แสดงให้เห็นถึงผลกระทบโดยตรงต่อประชาชนในพื้นที่ และความต้องการการช่วยเหลือที่สูง",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IN1JEZ3dhQ19SbF9oTy1PV3h4X25qMjRob3Z5aFZGTzZhaEI2WDRSeGJqVXM0RGUzSm5BUHRPWXp2WjdBQUt1YjcxUHRxN0F2S050RHoxSXc?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-17T10:15:48Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มีผู้ยื่นขอเยียวยาในพื้นที่จริง"
+    },
+    {
+      "id": "8ee78ac7",
+      "title": "“อธิบดี ปภ.” โต้ “ศุภณัฐ” ยันงบเยียวยาน้ำท่วม คำนวณตามข้อมูลจริง จ่อชง ครม.ขยายวงเงินอีก 10,508 ล้าน",
+      "summary": "อธิบดี ปภ. ยืนยันว่าการคำนวณงบเยียวยาอุทกภัยอิงข้อมูลจริง หลังถูกตั้งคำถามจากนายศุภณัฐ และจะเสนอคณะรัฐมนตรีเพื่อขยายวงเงินอีก 10,508 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zWHVVS3NBTzI0Z20tVzZMaTNJTkNyb3NNVDdTYzFYMEJHb1lMOXI2Ui0yeHVhZ3A3M0s1dV8yVXNZenlTTEJsMW9LcEJvRE1YcDhRWGJWNUFkLUtuS3c?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-10-17T09:49:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ยืนยันการคำนวณงบและเสนอวงเงินเพิ่ม"
+    },
+    {
+      "id": "9464b98b",
+      "title": "อธิบดีปภ.โต้ สส.พรรคประชาชน แจงปมงบเยียวยาน้ำท่วม จ่อเสนอครม.ขยายวงเงินอีก 10,508 ล้าน",
+      "summary": "อธิบดีกรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ชี้แจงกรณีสส.พรรคประชาชนตั้งข้อสงสัยเรื่องงบเยียวยาอุทกภัย และระบุว่าจะเสนอคณะรัฐมนตรีขอขยายวงเงินเพิ่มอีก 10,508 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tUEkzeWx1Mk9iNHJGRkpoS2ltVzVLRFZnbFRveHE2MUVUZ09KYzF3akFXVTFxenlNRWhpblJ5QTNlZlh6RlJLRElyYzV1eEpsTW5iQ20tVDJ4UFpL?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-17T09:28:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการเยียวยาและวงเงินเพิ่มเติม"
+    },
+    {
+      "id": "dbec60c1",
+      "title": "ศุภณัฐ ซัดแรงภราดร เป็นรมต.ไม่รู้หน้าที่ หลังปภ.รับงบเยียวยาท่วมไม่พอ ขอเพิ่มหมื่นล้าน",
+      "summary": "ศุภณัฐ ได้วิจารณ์นายภราดร รัฐมนตรี หลังสำนักงานป้องกันและบรรเทาสาธารณภัย (ปภ.) ได้รับงบเยียวยาผู้ประสบอุทกภัยไม่เพียงพอ และมีการขอเพิ่มงบประมาณอีกหลายหมื่นล้านบาท ประเด็นนี้เกี่ยวข้องกับการเยียวยาประชาชนที่ได้รับผลกระทบจากน้ำท่วม",
+      "url": "https://www.matichon.co.th/politics/news_5937567",
+      "source": "มติชน",
+      "published_at": "2026-10-18T04:01:34Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "งบเยียวยาน้ำท่วมระดับชาติ มีการขอเพิ่มงบ"
+    },
+    {
+      "id": "b47a3b78",
+      "title": "รัฐบาล ชู “บ้านสีเขียว” ลดภาระค่าครองชีพระยะยาว พม. ผนึก UNEP–กฟผ. นำร่องนครสวรรค์ 341 หน่วย ปั้นต้นแบบบ้านประหยัดพลังงาน ขยายผลทั่วประเทศ",
+      "summary": "รัฐบาลผ่านกระทรวง พม. ร่วมกับ UNEP และ กฟผ. นำร่องโครงการ “บ้านสีเขียว” ในจังหวัดนครสวรรค์ จำนวน 341 หน่วย เพื่อพัฒนาต้นแบบบ้านประหยัดพลังงาน ลดภาระค่าครองชีพในระยะยาว และมีแผนขยายผลทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TMFZ2T0pIUGhaaWtNdWhLYldrdDN6ZzdhWDBBWDNlenNnTk9hV3hTUVBwSEVvTlFueDhYN2ZuRElqQVludGZBSWI4bVQ4TG8?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-10-18T03:23:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการลดค่าครองชีพที่มีผลพื้นที่ชัดเจน"
+    },
+    {
+      "id": "edaf675e",
+      "title": "รัฐบาล ชู “บ้านมั่นคงชายแดน” พม. ผนึกกลาโหม สร้างบ้าน สร้างอาชีพ ยกระดับชีวิต 5 จังหวัด 4,563 ครัวเรือน อ่านข่าวเพิ่มเติม >> https://www.fm91bkk.com/newsarticle/80595",
+      "summary": "รัฐบาลประกาศโครงการ “บ้านมั่นคงชายแดน” โดยกระทรวงพัฒนาสังคมและความมั่นคงของมนุษย์ร่วมกับกระทรวงกลาโหม เพื่อสร้างบ้านและสร้างอาชีพ ยกระดับคุณภาพชีวิตของ 4,563 ครัวเรือนใน 5 จังหวัด",
+      "url": "https://news.google.com/rss/articles/CBMixwdBVV95cUxNTzhPRGdqWFF4aU1peWs0Y2FyYmNKSGR3UlVuR1A1Tmo1VHM4dEhyaUR5Q0MxY1FsaDJnOEt1UFoyUHJCZnRlLW5yTHB3S1M2eGh2RnBIX3E1dXRnYmZRZHVzaWptY25GdEhYVEFJTHJqRmpOZUZCVEpTWURhaU1ETHlBSTMtMTkwRnhWcE40YVNhTm95YTNjM294cWlwX2RIR0ZXWVZ0a2RfXzNkeHZQd3A0Uk5OZUJqZmRwcE43bjlXN0llbVc1RzhmQXVabHU5NHlPT1p6MDM3QWd6bVRQLTVNQTdNeGt4TFAwSkJwYnVXRWtScW02RTNCYmZnYjAyMTRKMFBPLTFaYldENlBnQlpURlRSS3BSVHlReVlwS00yWDJFTXRWUXpVeFNWcmtZdkEzY29ZbDZoeHBYWnB1c1RQTlN0cTVfa0R5dmNFejBzWjIwRTdiV05hdjZOTFVWa1JDazBhdjlUNkF4YUNVQmlDZURrUm5VVFpieHppNTAtTGNQd0ZoenNvZ3lXbGN5RUIwVXhjdHBsZVhiY2VhVVhJallOVUNreFRYQTlJRjJlZ2FzZndkWGZsbTlpYm5CRDlqQmlTV1NvSHFZNjZvQUQwMWZFYmdBVEFueml4Snd0UFdPNVlCNE1YcjVBeWRGWko5ckVCQTFkN2NVSElRdW9QSEZMMVpmbl9BcE4ta1EwbFVUcE1nWlVVNzJKVUx2aXZmN2lGOEZmZmtFRFJZbm1uZGRIYTFzc1h4Z2l3Z2p3dF95OFdoMkJmcHhqVjFJN2lqU0xTQlBtV3ZYdWxxb1Q1R19YUUxLN3lXVWV4TEI4Sy14OU1ta2owb25qZXlhdkh5ZHNMTGtpcENkOWw3ZkZCMlBfWHRfT1ZIZVBkVUNsWlRYTUlFdmhIWVBVb1U3ZDdRNHJWRG1RQ1Q0T3hlYjFFS1JyTm1FTmRNcHE5RHJTTGRKOVdsMVhlS0tMbmxJVlF2Q0VMM01hSmlCOTNScGZyc3JzcHd1Q1VBTnM0T2VOR1M1emo5RXR3bFgxd2ZNVjY3UVNuamhmbjBac1dQR1JRbTZCRmtjaHVCU1FDZjJyUUEzeXhOR0k2aFBKcUdpdUNOeVRXOFNMUkRPR1FhQ1V3allFdTI1WldiMjdYdkF6Ym1EbmVqTHZpblY4bDdvdFJRWllXV1AwQ1ZWZkJFTmZ5Ukh6ZmtUb1pHMm1DcDZTSGtJQkMzYnJDalctU0lUUlFBcExvTUNEN3RheWlxODdTRk01ZkFrOW81bkR6NF80V1pMMDZN?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-17T17:52:33Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "โครงการที่อยู่อาศัยให้ครัวเรือนเป้าหมายชัดเจน"
+    },
+    {
+      "id": "4e54a442",
+      "title": "ปภ. แจง ‘งบเยียวยาน้ำท่วม’ ไม่ผิดพลาด จ่อชง ครม. เพิ่ม 10,508 ล้านบาท",
+      "summary": "ปภ. ชี้แจงว่างบเยียวยาน้ำท่วมไม่มีความผิดพลาด และจะเสนอคณะรัฐมนตรีเพิ่มวงเงินอีก 10,508 ล้านบาท เพื่อช่วยเหลือผู้ประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQTjIwTWg2RW90eE1pZTFGWTVjMHBrajg5M1BYSlItU0FKM1JoRWVHT0V5VUVIeWtaMF80N2tKRFo1a0t2UzlFNnJ4SzdpTkRnOVplRVQzakhYUW5SZlU2RkIzZFAwbklJSTNWVEJLdVVhMFBPXzVsVGpxLVM?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-10-17T11:57:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ชี้แจงงบเยียวยาและเสนอวงเงินเพิ่ม"
     },
     {
       "id": "2be64cc1",
       "title": "สปสช. จับมือราชวิทยาลัยกุมารแพทย์ฯ เสนอทบทวนระบบส่งต่อ–ดูแลทารกวิกฤต มุ่งเพิ่มคุณภาพการดูแล",
-      "summary": "สปสช. จับมือราชวิทยาลัยกุมารแพทย์ฯ เสนอทบทวนระบบส่งต่อ–ดูแลทารกวิกฤต มุ่งเพิ่มคุณภาพการดูแล สปสช. จัดรับฟังความคิดเห็น “ราชวิทยาลัยกุมารแพทย์แห่งประเทศไทย” พัฒนาสิทธิประโยชน์และบริการสุขภาพเด็กในระบบบัตรทอง เสนอทบทวนระบบส่งต่อ รับบริการที่ร้านยา ปรับการจ่ายชดเชยค่ารักษาทารกแรกเกิดวิกฤต และเพิ่มสิทธิ",
+      "summary": "สปสช. ร่วมกับราชวิทยาลัยกุมารแพทย์แห่งประเทศไทยจัดรับฟังความคิดเห็นเพื่อเสนอทบทวนระบบส่งต่อและดูแลทารกวิกฤต รวมถึงการรับบริการที่ร้านยา การปรับการจ่ายชดเชยค่ารักษาทารกแรกเกิดวิกฤต และการเพิ่มสิทธิประโยชน์ตรวจสุขภาพเด็กก่อนเข้าเรียนในระบบบัตรทอง โดยมุ่งยกระดับคุณภาพการดูแล",
       "url": "https://www.hfocus.org/content/2026/10/39934",
       "source": "Hfocus",
       "published_at": "2026-10-17T07:41:23Z",
@@ -62,28 +528,43 @@
         "ทั่วประเทศ"
       ],
       "eastern": false,
-      "score": 70,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 78,
+      "why": "สิทธิประโยชน์บัตรทองสำหรับเด็กระดับประเทศ"
     },
     {
-      "id": "5b4a11ee",
-      "title": "ดันบ้านเขียว ลดค่าไฟ–ค่าครองชีพ ผนึก UNEP–กฟผ. พัฒนาต้นแบบที่อยู่อาศัยยั่งยืนนครสวรรค์",
-      "summary": "ดันบ้านเขียว ลดค่าไฟ–ค่าครองชีพ ผนึก UNEP–กฟผ. พัฒนาต้นแบบที่อยู่อาศัยยั่งยืนนครสวรรค์ thansettakij",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcnJleFh0b3M2X0gtWHVYdzdKYVlhS2ZUVzZYMjBFY0xpM09IOTNtNjdWVlIzdlY1RkYzc2NxTk53RTlZQTNTOEwtcWxBbVFzSE9EanRpV2g0TWVQQ3BLOEZsUUVIMU55OVJJ?oc=5",
-      "source": "thansettakij",
-      "published_at": "2026-10-17T13:51:00Z",
-      "category": "housing",
+      "id": "48473a4e",
+      "title": "สนง.เขตสายไหม ระดม จนท.เร่งแก้ปัญหายื่นเอกสารเงินเยียวยาน้ำท่วม",
+      "summary": "สำนักงานเขตสายไหมระดมเจ้าหน้าที่เพื่อแก้ไขปัญหาการยื่นเอกสารขอรับเงินเยียวยาน้ำท่วม เพื่อให้ประชาชนดำเนินการได้สะดวกยิ่งขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pcVY0eW5ES3R3WVI4UndFMS1ybVRkbnZLWnUweDhyWjJHbTZPOTRmT25scG15eEFhVHVCYTJRTW9kOGZCelJWbE9LUzlXY2hEM1UyS1pBX0M?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-18T01:08:44Z",
+      "category": "disaster",
       "provinces": [
-        "นครสวรรค์"
+        "กรุงเทพมหานคร"
       ],
       "eastern": false,
-      "score": 60,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 75,
+      "why": "มาตรการช่วยเหลือการยื่นเรื่องรับเงินเยียวยาระดับพื้นที่"
+    },
+    {
+      "id": "2d6260ef",
+      "title": "เต็มเร็วมาก! คิวเยียวยาน้ำท่วมเขตลาดกระบัง600 คิว ตั้งแต่ 6 โมงครึ่ง",
+      "summary": "ประชาชนแห่รับคิวลงทะเบียนรับเงินเยียวยาน้ำท่วมที่เขตลาดกระบังจนคิวเต็มอย่างรวดเร็ว โดยเปิดให้จองคิวตั้งแต่เวลา 06.30 น. และมีจำนวนคิว 600 คิว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5a2RtdmJuYTNGUEQtZ1k4NHRTOTNpdGd3WERfT1h2Tkh1RTJtdE5oQlpDNHF3V3hJNEl0TDFXYTV6UjctZmVFVUlVWE81VnNHbG1UTzF3?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-10-18T03:17:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีการเข้าถึงเงินเยียวยาจริงในพื้นที่"
     },
     {
       "id": "16510f1e",
       "title": "ธ.ก.ส. มีโครงการดอกเบี้ยคนละครึ่งช่วยเหลือเกษตรกร รายไม่เกิน 1 แสนบาท เวลา 12 เดือน",
-      "summary": "ธ.ก.ส. มีโครงการดอกเบี้ยคนละครึ่งช่วยเหลือเกษตรกร รายไม่เกิน 1 แสนบาท เวลา 12 เดือน Matichon Online",
+      "summary": "ธ.ก.ส. มีโครงการดอกเบี้ยคนละครึ่งช่วยเหลือเกษตรกร วงเงินกู้ไม่เกิน 1 แสนบาท ระยะเวลา 12 เดือน ข่าวต้นฉบับมีรายละเอียดจำกัด ยังไม่ระบุเงื่อนไขคุณสมบัติและวิธีการสมัคร",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0SFhyb045MmlCZWtrQzVYS0RHaTBpc0IwSFM4dnJHd3Jka1Y5dmdYRlJvV2t1Z3gtNENQaWxwcng0ZzRYWENXRER0aVpCQU9WMGhvaDdxSFpQUQ?oc=5",
       "source": "Matichon Online",
       "published_at": "2026-10-17T09:59:04Z",
@@ -92,8 +573,114 @@
         "ทั่วประเทศ"
       ],
       "eastern": false,
+      "score": 72,
+      "why": "มาตรการช่วยเหลือเกษตรกรที่มีวงเงินและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "7329532c",
+      "title": "‘นิกร’ ผนึก UNEP-กฟผ. พัฒนาต้นแบบ ‘บ้านเขียว’ นำร่องนครสวรรค์ ลดค่าไฟ-ค่าครองชีพ",
+      "summary": "นายนิกร ร่วมกับ UNEP และ กฟผ. พัฒนาต้นแบบ “บ้านเขียว” นำร่องที่จังหวัดนครสวรรค์ เพื่อช่วยลดค่าไฟและค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmhfTDZqR1kxdTNkd0ZIMV92RnYxX2N5X2tIOEs0emw2WjZ0UDBDVkVKUDBFek53cDl1UGlRNnZZMnJMeGxtcS1LemZCNWE5VEk0RHJnbW5WdUdvUHVSWjNtOS1TYjg2Y1R1b0NuOHg5c0ZEWkJ0cjY3bnpiUVJ4THln?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-10-17T04:37:28Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการลดค่าไฟและค่าครองชีพ แต่เป็นรายงานซ้ำซ้อนกับข่าวอื่น"
+    },
+    {
+      "id": "d61c0b40",
+      "title": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด",
+      "summary": "ศิริกัญญา ตันสกุล ลงพื้นที่น้ำท่วมปราจีนบุรีและฉะเชิงเทรา วิจารณ์รัฐไม่มีแผนระบายน้ำ ระบุงบท้องถิ่นถูกตัดจนเหลือการแจกข้าววันละมื้อ และการเยียวยาสะดุด",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzQU1NWHlEWmZHUHAwSThjZ2FEaU1zcTBfRW53a1R3d0JCS1hYMFJUekR2NHFmN0hzeUgwUE80aHpXaGpLeEU3bVJjejU2bGJvdmRmWG5aSnFweXBm?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-17T11:38:31Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี",
+        "สระแก้ว"
+      ],
+      "eastern": true,
+      "score": 70,
+      "why": "ผลกระทบน้ำท่วมและการเยียวยาในพื้นที่ แต่เป็นการวิจารณ์การเมือง"
+    },
+    {
+      "id": "90f439af",
+      "title": "‘SCB EIC’ชี้‘หนี้ครัวเรือน’Q2/69 ต่ำสุดรอบ 25 ไตรมาส-‘น้ำท่วม’ซ้ำเติม‘แรงงาน’รายได้สะดุด",
+      "summary": "ศูนย์วิจัยเศรษฐกิจ SCB EIC ชี้ว่า หนี้ครัวเรือนไตรมาส 2 ปี 2569 อยู่ในระดับต่ำสุดในรอบ 25 ไตรมาส ขณะที่อุทกภัยซ้ำเติมแรงงานและทำให้รายได้สะดุด",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUUdUdy01MlA4OHBJcEpZSGduMlVTWF83S2ZvZjFvM0RVQ19kOUJtYmxUa0xFNmJLcVF0dkZjck53OWZYUm5xZF9XcGtibEl5TXRINDdaUU1TcTlnRWp1RHd5ank3VHhEUGRuaV9neUtKaUhtWFprRUVGbWFBMUhERkhBNXpXRzdVcUZ4dlpOUEVWZ3VHRWRVNTZ3QmlRZmxJX3FhQ1VhLUJFSHZKc3gzY094bC1DQXpxNFVQY3RMRFo?oc=5",
+      "source": "สำนักข่าวอิศรา",
+      "published_at": "2026-10-17T05:15:49Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "สถานการณ์หนี้ครัวเรือนและรายได้แรงงาน"
+    },
+    {
+      "id": "5d1bf632",
+      "title": "เจาะลึกงบบัตรทอง EP.3: ทำไมบาง รพ. เงินติดลบ บาง รพ. มีเงินเหลือ?",
+      "summary": "เป็นตอนที่ 3 ของชุดข้อมูลงบประมาณบัตรทอง ซึ่งอธิบายสาเหตุที่โรงพยาบาลบางแห่งมีเงินติดลบ ขณะที่บางแห่งมีเงินเหลือ ข้อความไม่ระบุตัวเลขเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUnhJV3BiZVRnTG8zX3ZSSUJsU2hpa3ljV1RoSVAybVk4X2hUdDZkM2xDX0FzRFdWU250M21EZjExNG1RendQQWsxUmRrekRHSy1hamh5aFR1QTBCQWp3?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-10-18T06:04:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
       "score": 60,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "why": "ระบบหลักประกันสุขภาพและความเหลื่อมล้ำงบ รพ."
+    },
+    {
+      "id": "34ad89ee",
+      "title": "หนี้ครัวเรือนต่อ GDP ลดลง แต่ความเสี่ยงไม่ได้ลดตาม ตลาดแรงงานอ่อนแอ น้ำท่วมซ้ำเติมความเปราะบางในการชำระหนี้",
+      "summary": "รายงานระบุว่าหนี้ครัวเรือนต่อ GDP ปรับลดลง แต่ความเสี่ยงยังไม่ลดลงตาม ตลาดแรงงานยังอ่อนแอ และอุทกภัยซ้ำเติมความเปราะบางของครัวเรือนในการชำระหนี้",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3h4UWhZY1lKczh3NkZCZkQxTFh2VkVPa1hkbzRaY1VwSmFkaG4tblFwWXZnNENpZkNDTVBYWjFMMjUtZkVKdHg0X01mS2hhaENCQnJra2s0WklyYVQwY2JpOEljM2tMVFNwNTFwczM1QnBPbXJLeHFfeURfdGxDbThkb244d9IBiwFBVV95cUxOaGVydnctWExYSWRZTjAwRGZ1SzliWDBFc1c3cV9uUFJ2Qms5TVhLQ0FEcUthUTlia2gwdXY1ckd2cllzcVhFTzd5V05OY0RrNFFtcXBsT25YWkJlQUZ5S1lvWDNGa1Q1a0pLR3BaUmt3elhHaWFIT0x3Z19jeWw3dG9Id3pmREI5RUNr?oc=5",
+      "source": "Online Newstime",
+      "published_at": "2026-10-17T16:19:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "วิเคราะห์ความเสี่ยงหนี้ครัวเรือน"
+    },
+    {
+      "id": "947f349a",
+      "title": "ระทึก! ปีหน้า กยศ.อาจถังแตก นร.แสนคนอดเรียน ลูกหนี้เก่าเท ค่าบริหารองค์กรสูงลิ่ว เจ๊งกับเจ๊ง เพจเฟซบุ๊ก “เฮียหนุ่ม นักลงทุนสายโหด” เผยแพร่คลิปเตือนวิกฤตกองทุนเงินให้กู้ยืมเพื่อการศึกษา หรือ กยศ. หลังมีลูกหนี้ผิดนัดชำระประมาณ 2.6 ล้านคน ส่งผลกระทบต่อเงินหมุนเวียนของกองทุน พร้",
+      "summary": "มีการเผยแพร่คลิปในเฟซบุ๊กเตือนว่ากองทุนเงินให้กู้ยืมเพื่อการศึกษา (กยศ.) อาจประสบปัญหาทางการเงินในปีหน้า เนื่องจากมีลูกหนี้ผิดนัดชำระประมาณ 2.6 ล้านคน ข้อมูลนี้มาจากแหล่งที่ไม่เป็นทางการและยังไม่ได้รับการยืนยันจากหน่วยงานที่เกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMi6gdBVV95cUxObFowaWZNSDA3bDUtVUV4QUJ1ZVVaSkhvNHEwSXJRM3QtYWVIR04zcTBQOXJjQWw2YU5zLVN1VnliaWRCUkdBY1RvemJONlhpTGgzMWltRnBRTjNkZ1o4dXBIbTE5aW5ld3ZQcTdodGs5WEFLTXVlMDh0S3pTQndzeDhoVUx1Y2dUaGRnR2h2TUZXQ3VIZm9hZ3gyNHVweGVaN0FjUTJGSnZJWmxielJJcEYtLTFyc1ZXbndsUnZBUGcwejltaWFQUkg4VlFWUDB5Y1JBc1dwU3FWNERoSGo2OHpndU9Bbk43d2UxdGowSGs4VER6QjRvM085aTR5SFQ4ZmRWYmZtbWxINHU2SWZzN3Uzby1mTmVzc2ozMGtuTjRfUWd2eUtENDRFb21qeHRPRjVkRU9uTGR6N3YzVHludGhkTDBxWEZWOFJFLUd4b0tHRnRKX0cyTkR4NHZzVXZpVlUxUmw1V1BCN1R1TzJ3SXVTcElYQnMxWk40WHM4V2trMFRzd2ZfV284RDVmU0wtbHZGa1hLTWNDaENmS2Q0TG9HZS1QZkhpNFpFMjJqcjE4M1RoM2s2eEpKOXZmWWVDQkg4NlFqQmtsVWhSNWJQd2xPT0FuWEZDaTR6M0d2aGlERjlMeWdMMUhnQnZKaGU0NVlBNUE5WTdNTXg4bUQ4UVlFZEdPalJqWTBxTlZBWDJJVUN3N3JWYTdtNjFmVVFHOXh5VTFDbndmbURPQTdlb0RwX3ZnNVFPWTBndjN3UnZ0YkxkWW5lNWlyektVZXliSEdvNVRHaU5zSDlwbGsxcVZYUVhWVVh6aGFKY3c2MmhSVXhqZUVBaUtkVHhVdkpDVGR4WE4zX1pKOWJrWTNVaUV5aXBjS2czcWxUbHVaOWpNZUpyVHNMQTBXRHo1QmJEbUgwaDRfeTgzeVptV25GUzZsVWV6UXhsOXZudmhZV3RGdXF1LTFiQUkybDJJcnlqU1BFVzR2LTN1Nktna1ZNemtlZWVBQUdoS3NoQ3JxMVdtd1hBNmdmbWZNUGVDakZfX2hsTlk5Nm9NQ0RXWElTU0lFRTY1azJ6SHh6ekxEOFh3NUhBN3ZOMlRDT3dWWndOVWFkajBlY1BWRFRHaEhjZGtKN0UzZWc0bktHUENxa2pyQWY2akE4b0tpSDJZQmMtdzNTX3FIR244NWRmVWFuQV96Y0t4cjdPVXJjQVZoS2ttNklFWnU4Rmx4SHcybmIxbUtiYWZUM1dXdEoxYUxMdDdCUE1nOHBYc1BXbXN3MXN3MkpnZHhjX1JkN1RRNUdkcmRyclNlLTFKMnNxamJXX0hpUlkzNEhnSkE?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-10-17T07:08:50Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข่าวลือจากโซเชียล เกี่ยวกับกองทุนกู้ยืมการศึกษา"
+    },
+    {
+      "id": "d7199da4",
+      "title": "'นิกร' นำทีม พม. ขับเคลื่อนคุณภาพชีวิตกลุ่มเปราะบางที่นครสวรรค์ คณะกรรมการ-ผู้บริหารระดับสูงการเคหะแห่งชาติร่วมภารกิจ",
+      "summary": "รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ นำคณะกรรมการและผู้บริหารการเคหะแห่งชาติลงพื้นที่นครสวรรค์เพื่อขับเคลื่อนคุณภาพชีวิตของกลุ่มเปราะบาง ข่าวต้นฉบับไม่ระบุมาตรการหรือจำนวนผู้ได้รับประโยชน์ที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EX0RZeURCajVfUTJ3ejg4TVVQbXpqdkpjVElYM3Y1UDZkdjFab1BRbFJLZlhvdXF5UVRLdXlNc0Y2VGt1QVhvMUhsSm1LS1lKT3NOdlZKMGl3M1ZRWjAzMkJpdE1jQQ?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-17T06:18:51Z",
+      "category": "other",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ภารกิจลงพื้นที่ช่วยกลุ่มเปราะบาง รายละเอียดจำกัด"
     },
     {
       "id": "1103a553",
@@ -112,34 +699,49 @@
       "first_seen": "2026-10-17"
     },
     {
-      "id": "5d6fcec4",
-      "title": "น้ำท่วมปราจีนฯเริ่มคลี่คลาย! สลดสังเวย 26 ศพ-เกษตรพังยับแสนไร่ \"รองผู้ว่าฯ\" นำทีมเร่งเยียวยาด่วน",
-      "summary": "น้ำท่วมปราจีนฯเริ่มคลี่คลาย! สลดสังเวย 26 ศพ-เกษตรพังยับแสนไร่ \"รองผู้ว่าฯ\" นำทีมเร่งเยียวยาด่วน banmuang.co.th",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Nc0tVM2F5eTNKdFNDMFdMVF9uSG1jSU1TdlhCVUtwNV9jZmcyQm5mVzF3QzlDa0ZtT18tTGJMT19vS3Nlb0RHUHNXRE5lVDFSOHFKV09XcWQ?oc=5",
-      "source": "banmuang.co.th",
-      "published_at": "2026-10-18T04:56:00Z",
+      "id": "d881d422",
+      "title": "ปลัดแรงงานยันรักษาการบอร์ดประกันสังคมประชุมตามปกติ 19 ต.ค. ชี้ยังมีอำนาจเต็มตามกม.",
+      "summary": "ปลัดกระทรวงแรงงานยืนยันว่าการประชุมคณะกรรมการประกันสังคมที่มีรักษาการประธานจะจัดขึ้นตามปกติในวันที่ 19 ต.ค. โดยระบุว่ายังมีอำนาจเต็มตามกฎหมาย",
+      "url": "https://www.matichon.co.th/local/quality-life/news_5937115",
+      "source": "มติชน",
+      "published_at": "2026-10-18T01:00:31Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับการบริหารกองทุนประกันสังคม"
+    },
+    {
+      "id": "6ce29995",
+      "title": "‘อนุทิน’ นัด รมต. เพื่อไทยกินข้าว ติดตามเยียวยาน้ำท่วม-เตรียมพลิกเวทีซักฟอกแจงผลงาน",
+      "summary": "นายอนุทินนัดรัฐมนตรีจากพรรคเพื่อไทยรับประทานอาหารร่วมกันเพื่อติดตามการเยียวยาผู้ประสบอุทกภัย และเตรียมการอภิปรายซักฟอกเพื่อชี้แจงผลการดำเนินงานของรัฐบาล",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FR2x5eTFYQUtTcXlWMzQzbDU5LTNWRGVOTDRvM0dXMFJDdTc3UjZPUWFBOHZyTV9saXZkc3dBNU83MTFmVzZWZDdKcnpjTFJpdDU3SFFmQy1QQjFzSUVmaDF6MkhLa216dFNlbHZ3UUdlUQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-17T19:53:12Z",
       "category": "disaster",
       "provinces": [
         "ทั่วประเทศ"
       ],
       "eastern": false,
-      "score": 50,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 55,
+      "why": "เกี่ยวกับการเยียวยา แต่เป็นประเด็นการเมืองเป็นหลัก"
     },
     {
-      "id": "b47a3b78",
-      "title": "รัฐบาล ชู “บ้านสีเขียว” ลดภาระค่าครองชีพระยะยาว พม. ผนึก UNEP–กฟผ. นำร่องนครสวรรค์ 341 หน่วย ปั้นต้นแบบบ้านประหยัดพลังงาน ขยายผลทั่วประเทศ",
-      "summary": "รัฐบาล ชู “บ้านสีเขียว” ลดภาระค่าครองชีพระยะยาว พม. ผนึก UNEP–กฟผ. นำร่องนครสวรรค์ 341 หน่วย ปั้นต้นแบบบ้านประหยัดพลังงาน ขยายผลทั่วประเทศ สยามรัฐ",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TMFZ2T0pIUGhaaWtNdWhLYldrdDN6ZzdhWDBBWDNlenNnTk9hV3hTUVBwSEVvTlFueDhYN2ZuRElqQVludGZBSWI4bVQ4TG8?oc=5",
-      "source": "สยามรัฐ",
-      "published_at": "2026-10-18T03:23:00Z",
-      "category": "cost_of_living",
+      "id": "5b4a11ee",
+      "title": "ดันบ้านเขียว ลดค่าไฟ–ค่าครองชีพ ผนึก UNEP–กฟผ. พัฒนาต้นแบบที่อยู่อาศัยยั่งยืนนครสวรรค์",
+      "summary": "การเคหะแห่งชาติ กฟผ. และ UNEP ร่วมพัฒนาต้นแบบที่อยู่อาศัยยั่งยืนในจังหวัดนครสวรรค์ โดยมีเป้าหมายลดค่าไฟและค่าครองชีพของผู้อยู่อาศัย ข่าวต้นฉบับมีข้อมูลจำกัด ยังไม่ระบุกลุ่มเป้าหมายหรือจำนวนครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zcnJleFh0b3M2X0gtWHVYdzdKYVlhS2ZUVzZYMjBFY0xpM09IOTNtNjdWVlIzdlY1RkYzc2NxTk53RTlZQTNTOEwtcWxBbVFzSE9EanRpV2g0TWVQQ3BLOEZsUUVIMU55OVJJ?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-10-17T13:51:00Z",
+      "category": "housing",
       "provinces": [
         "นครสวรรค์"
       ],
       "eastern": false,
-      "score": 50,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "score": 55,
+      "why": "โครงการที่อยู่อาศัยระดับพื้นที่ที่เกี่ยวข้องกับค่าครองชีพ"
     },
     {
       "id": "077a52db",
@@ -172,21 +774,6 @@
       "why": "AI ไม่พร้อมใช้งาน"
     },
     {
-      "id": "d61c0b40",
-      "title": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด",
-      "summary": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด Matichon Online",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzQU1NWHlEWmZHUHAwSThjZ2FEaU1zcTBfRW53a1R3d0JCS1hYMFJUekR2NHFmN0hzeUgwUE80aHpXaGpLeEU3bVJjejU2bGJvdmRmWG5aSnFweXBm?oc=5",
-      "source": "Matichon Online",
-      "published_at": "2026-10-17T11:38:31Z",
-      "category": "disaster",
-      "provinces": [
-        "ทั่วประเทศ"
-      ],
-      "eastern": false,
-      "score": 50,
-      "why": "AI ไม่พร้อมใช้งาน"
-    },
-    {
       "id": "8f578f67",
       "title": "\"ปภ.-ออมสิน\" โอนเยียวยาน้ำท่วม 5.2 พันลบ. จ่อชง ครม. เพิ่ม 1.05 หมื่นล้านบาท",
       "summary": "\"ปภ.-ออมสิน\" โอนเยียวยาน้ำท่วม 5.2 พันลบ. จ่อชง ครม. เพิ่ม 1.05 หมื่นล้านบาท ข่าวหุ้นธุรกิจออนไลน์",
@@ -196,21 +783,6 @@
       "category": "disaster",
       "provinces": [
         "ทั่วประเทศ"
-      ],
-      "eastern": false,
-      "score": 50,
-      "why": "AI ไม่พร้อมใช้งาน"
-    },
-    {
-      "id": "d7199da4",
-      "title": "'นิกร' นำทีม พม. ขับเคลื่อนคุณภาพชีวิตกลุ่มเปราะบางที่นครสวรรค์ คณะกรรมการ-ผู้บริหารระดับสูงการเคหะแห่งชาติร่วมภารกิจ",
-      "summary": "'นิกร' นำทีม พม. ขับเคลื่อนคุณภาพชีวิตกลุ่มเปราะบางที่นครสวรรค์ คณะกรรมการ-ผู้บริหารระดับสูงการเคหะแห่งชาติร่วมภารกิจ ไทยโพสต์",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EX0RZeURCajVfUTJ3ejg4TVVQbXpqdkpjVElYM3Y1UDZkdjFab1BRbFJLZlhvdXF5UVRLdXlNc0Y2VGt1QVhvMUhsSm1LS1lKT3NOdlZKMGl3M1ZRWjAzMkJpdE1jQQ?oc=5",
-      "source": "ไทยโพสต์",
-      "published_at": "2026-10-17T06:18:51Z",
-      "category": "housing",
-      "provinces": [
-        "นครสวรรค์"
       ],
       "eastern": false,
       "score": 50,
@@ -232,19 +804,49 @@
       "why": "AI ไม่พร้อมใช้งาน"
     },
     {
-      "id": "77626bd5",
-      "title": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา",
-      "summary": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา ผู้จัดการออนไลน์",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hal9DWWFwdnh3aWxmX1Rvb29Ham50Z1FsQjNMQk1IWTc4b292ZkhUdXEzWWlvWmU0aTVVZE1nNjQwRjNONG1MelBITkZzOTlYMmZJaWFUcFBHaHhy?oc=5",
-      "source": "ผู้จัดการออนไลน์",
-      "published_at": "2026-10-17T04:43:00Z",
+      "id": "66c226a7",
+      "title": "รัฐบาลเดือดโต้ 'ฝ่ายค้าน' เงินเยียวยาน้ำท่วมมีพอ ย้อนเลิกทำตัวเป็นอินฟลู",
+      "summary": "รัฐบาลโต้แย้งฝ่ายค้านที่ระบุว่าเงินเยียวยาน้ำท่วมไม่เพียงพอ โดยยืนยันว่าเงินมีเพียงพอ ประเด็นนี้เป็นการโต้ตอบทางการเมืองต่อข้อวิจารณ์เรื่องงบเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSkw1d005SnFRcEVoQzFZU1F0aTUzTnRlOUl0Q01KVlltNjJyd3dZMmRzWXBHWHpZS29xQ1F2Tkw0NVkwUDdlT0pNSUIzY19MbVJYOEJn?oc=5",
+      "source": "SondhiX",
+      "published_at": "2026-10-18T04:31:00Z",
       "category": "disaster",
       "provinces": [
-        "สระแก้ว"
+        "ทั่วประเทศ"
       ],
-      "eastern": true,
-      "score": 30,
-      "why": "AI ไม่พร้อมใช้งาน"
+      "eastern": false,
+      "score": 45,
+      "why": "การโต้เถียงทางการเมืองเกี่ยวกับงบเยียวยา"
+    },
+    {
+      "id": "686382f4",
+      "title": "'ภราดร' ซัด 'ศุภณัฐ' เป็น สส. ไม่ใช่อินฟลู หยุดปั่นข้อมูลมั่วเรื่องงบเยียวยาน้ำท่วม",
+      "summary": "นายภราดรวิพากษ์นายศุภณัฐว่าเป็นสมาชิกสภาผู้แทนราษฎร ไม่ใช่อินฟลูเอนเซอร์ และขอให้หยุดเผยแพร่ข้อมูลที่ไม่ถูกต้องเกี่ยวกับงบเยียวยาน้ำท่วม เป็นการโต้แย้งทางการเมือง",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wTDV0dWZpUmpzbWJCdFRIVGNPZXN4TTItNkRGOEVCRW8zQncyenczV0lhcmwycVVPUmgyckF2V1hpWUZoM3Bud2VJeS1MY0E2dlFDWlhVZnExM00?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-10-17T10:38:08Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "โต้แย้งทางการเมืองเรื่องเยียวยา"
+    },
+    {
+      "id": "e1ce95dd",
+      "title": "โฆษกรัฐบาล สอนมวย สส.ปชน. ปมงบเยียวยาน้ำท่วม อย่าวิตกอยากได้แสง",
+      "summary": "โฆษกรัฐบาลตอบโต้สมาชิกสภาผู้แทนราษฎรพรรคประชาชนในประเด็นงบเยียวยาน้ำท่วม เป็นการโต้แย้งทางการเมืองที่เกี่ยวข้องกับประเด็นเยียวยาอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mWXJMYmx2TWloMEFabGxfVzBfdEhZR3haQW90NWtSQjdRdWxKREJoRy13UnZEQ2wyVGdKbmpaZTBQMUJYUW1DTm5IU3JzNk80M0psLTNablVBNnM?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-10-17T08:27:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "โต้แย้งทางการเมืองเรื่องเยียวยา"
     }
   ]
 }
