@@ -1,23 +1,23 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T05:27:34Z",
+  "generated_at": "2026-10-18T06:04:28Z",
   "window": {
-    "from": "2026-10-17T03:27:26Z",
-    "to": "2026-10-18T05:27:26Z"
+    "from": "2026-10-17T04:04:22Z",
+    "to": "2026-10-18T06:04:22Z"
   },
   "stats": {
-    "fetched": 221,
+    "fetched": 254,
     "excluded_by_blocklist": 0,
     "ai_input_tokens": 0,
     "ai_output_tokens": 0,
     "cost_thb": 0.0,
-    "runs": 1,
-    "kept": 13,
+    "runs": 2,
+    "kept": 15,
     "eastern": 1,
-    "national": 12,
-    "new": 12,
+    "national": 14,
+    "new": 14,
     "followups": 1,
-    "sources": 9
+    "sources": 11
   },
   "items": [
     {
@@ -28,6 +28,21 @@
       "source": "Hfocus",
       "published_at": "2026-10-18T02:39:43Z",
       "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
+      "id": "80cd0659",
+      "title": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน",
+      "summary": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน Matichon Online เช็กเกณฑ์ช่วยเหลือ เยียวยาน้ำท่วม ปี 2569 ยันเข้าตามเงื่อนไขได้รับทั่วถึงแน่นอน Thairath.co.th กรมป้องกันและบรรเทาสาธารณภัย เปิด 3 แนวทางเยียวยาน้ำท่วม 2569 | The Bangkok Insight LINE TODAY เช็กสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OS1MMXMzeFNDTi1Vd2JKQU96THlvbVVLSDN1am1ZMDdNMjlBd3lQUDVfQUdfTHdJR1lOWENDRXdseEtPUkRxWFNjOExDWHNGbWlPQi10ODBTczMt?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-10-17T09:38:04Z",
+      "category": "disaster",
       "provinces": [
         "ทั่วประเทศ"
       ],
@@ -142,6 +157,21 @@
       "why": "AI ไม่พร้อมใช้งาน"
     },
     {
+      "id": "0134284d",
+      "title": "โจทย์ใหญ่ ภัย AI – เงินดิจิทัล ชู บล็อกเชนโลก – แผนแม่บทกรุงเทพฯ",
+      "summary": "ประเด็นไฮไลต์หลักงานประชุมกองทุนการเงินระหว่างประเทศ และกลุ่มธนาคารโลก (IMF-World Bank Group Annual Meetings 2026) มีใจกลางอยู่ที่เรื่องของเทคโนโลยีปัญญาประดิษฐ์ (AI) ที่นอกจากกระทบระบบแรงงานแล้วยังกำลังส่งผลโดยตรงต่อระบบการเงินในโลกดิจิทัลมากขึ้น สิ &#8230; อ่านข่าวต้นฉบับ: โจทย์ใหญ่ ภัย AI &#8211;",
+      "url": "https://www.prachachat.net/tech/news-2081518",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-10-18T01:27:09Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "AI ไม่พร้อมใช้งาน"
+    },
+    {
       "id": "d61c0b40",
       "title": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด",
       "summary": "ศิริกัญญา ลุยน้ำท่วมปราจีน-แปดริ้ว ชี้รัฐไร้แผนระบายน้ำ งบท้องถิ่นตัดเหลือข้าววันละมื้อ เยียวยาสะดุด Matichon Online",
@@ -157,12 +187,12 @@
       "why": "AI ไม่พร้อมใช้งาน"
     },
     {
-      "id": "80cd0659",
-      "title": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน",
-      "summary": "อธิบดี ปภ. แจงงบเยียวยาน้ำท่วม ยันคำนวณตามข้อมูลจริง จ่อชง ครม. เพิ่ม 1.05 หมื่นล้าน Matichon Online กรมป้องกันและบรรเทาสาธารณภัย เปิด 3 แนวทางเยียวยาน้ำท่วม 2569 | The Bangkok Insight LINE TODAY งงเงินเยียวยาน้ำท่วม! ยื่นก่อนใครเพื่อนยังไม่ได้สักบาท อมรินทร์ทีวี ช่อง 34 ‘ปภ.-ออมสิน’ โอนเงินเยียวยาน",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56OS1MMXMzeFNDTi1Vd2JKQU96THlvbVVLSDN1am1ZMDdNMjlBd3lQUDVfQUdfTHdJR1lOWENDRXdseEtPUkRxWFNjOExDWHNGbWlPQi10ODBTczMt?oc=5",
-      "source": "Matichon Online",
-      "published_at": "2026-10-17T09:38:04Z",
+      "id": "8f578f67",
+      "title": "\"ปภ.-ออมสิน\" โอนเยียวยาน้ำท่วม 5.2 พันลบ. จ่อชง ครม. เพิ่ม 1.05 หมื่นล้านบาท",
+      "summary": "\"ปภ.-ออมสิน\" โอนเยียวยาน้ำท่วม 5.2 พันลบ. จ่อชง ครม. เพิ่ม 1.05 หมื่นล้านบาท ข่าวหุ้นธุรกิจออนไลน์",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQTBvY1hwM05sR1Y3N1c4SGtpRE54M2VwbXpaQjlrQk1ZSVB1ZDlQM2pzRVRXWkthSnNVNnZGTWJydVNWNjdCT0x6MA?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-10-17T07:58:12Z",
       "category": "disaster",
       "provinces": [
         "ทั่วประเทศ"
@@ -204,9 +234,9 @@
     {
       "id": "77626bd5",
       "title": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา",
-      "summary": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา MGR Online",
+      "summary": "น้ำท่วมสระแก้วอ่วม! พื้นที่เกษตรเสียหายกว่า 2.4 แสนไร่ ประมงสูญกว่า 15 ล้านบาท เร่งสำรวจจ่ายเยียวยา ผู้จัดการออนไลน์",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hal9DWWFwdnh3aWxmX1Rvb29Ham50Z1FsQjNMQk1IWTc4b292ZkhUdXEzWWlvWmU0aTVVZE1nNjQwRjNONG1MelBITkZzOTlYMmZJaWFUcFBHaHhy?oc=5",
-      "source": "MGR Online",
+      "source": "ผู้จัดการออนไลน์",
       "published_at": "2026-10-17T04:43:00Z",
       "category": "disaster",
       "provinces": [

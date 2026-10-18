@@ -1,14 +1,21 @@
 {
   "ok": true,
   "date": "2026-10-18",
-  "fetched": 221,
-  "kept": 13,
+  "fetched": 254,
+  "kept": 15,
   "eastern": 1,
-  "runs_today": 1,
+  "runs_today": 2,
   "ai_input_tokens": 0,
   "ai_output_tokens": 0,
   "cost_thb": 0.0,
-  "generated_at": "2026-10-18T05:27:34Z",
+  "generated_at": "2026-10-18T06:04:28Z",
+  "ai": {
+    "ok": false,
+    "model": null,
+    "batches": 6,
+    "failed_batches": 6,
+    "error": "AuthenticationError: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cg9CRj5ed6DoWGmhLb2Pd'}"
+  },
   "errors": [
     "ไทยรัฐ: HTTPStatusError"
   ]
