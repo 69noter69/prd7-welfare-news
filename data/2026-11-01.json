@@ -1,0 +1,587 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:09:39Z",
+  "window": {
+    "from": "2026-10-31T05:08:42Z",
+    "to": "2026-11-01T07:08:42Z"
+  },
+  "stats": {
+    "fetched": 218,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 19826,
+    "ai_output_tokens": 14659,
+    "cost_thb": 0.34,
+    "runs": 1,
+    "kept": 37,
+    "eastern": 0,
+    "national": 37,
+    "new": 29,
+    "followups": 8,
+    "sources": 23
+  },
+  "items": [
+    {
+      "id": "64be1b1e",
+      "title": "เช็กเงินเยียวยา วันนี้โอนอีก 168 ล้านบาท ถึงมือผู้ประสบภัย 24,359 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาเพิ่มเติมวงเงิน 168 ล้านบาท ให้แก่ผู้ประสบภัยจำนวน 24,359 ครัวเรือน ในวันที่ 1 พฤศจิกายน 2569 เงินช่วยเหลือดังกล่าวเป็นการเยียวยาความเสียหายจากอุทกภัย โดยเข้าบัญชีผู้รับสิทธิโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02RjZXZHp3MlVHNkhLbHA2SUhDR3hKc083M3lxVldLUjdWOUVJcVR4d3E1ZV9BMEpaTkdQRFpxcFMxSHBub0JZcUxSanVSdjhMTHVRTHgydmFHX3A2cjRPaWwzNFZrYXg4cjZ4ck9uSzJxSXFqdEw3Mjd2UVc?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-01T04:45:37Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรงจำนวนมาก"
+    },
+    {
+      "id": "7ae538bf",
+      "title": "ปภ.โอนเพิ่มเงินเยียวยาน้ำท่วม 24,359 ครัวเรือน วันนี้ 1 พ.ย.",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเพิ่มเงินเยียวยาน้ำท่วมให้ผู้ประสบภัยจำนวน 24,359 ครัวเรือน ในวันที่ 1 พฤศจิกายน ข่าวระบุเพียงจำนวนครัวเรือนและวันที่โอน ไม่ปรากฏวงเงินรวมในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQekw5dnhyUmhzNzYxYUg1RmlXYk5uLXlmelNoRHZORDhtU0tkS3l3ZGt1eVFhWlVJNENBZEFXYmlJUEljM1RMUkJvZ2lZRlpnaU5URkpUWlZTdjVTOThIV3l3aE5fM3dmTXNwamhhVGhUWFU5eTRjSHFfR1gtdDBvWmpkRkdCLU45ZkVEM0p6YnhibF9mTUxNZkoyQWpnUjE1MFVjVmJkYUdlMlpnWE5LQi14aVdkUnE2VHZibXdTdkIydUE0UEQ3S0phOVN5X0hxLUJkbzY0MXBZQU81X01lbk1VMG5mU2FzYUEzRmx3WllkUm1rUndMTDUzUW55S2hQTV9Jb2c4bDVQQnVJWnBhdXRFX3NGa29EM0dwOGZOSVBLT1djd3dBaTlfakczYVVTeEZQRnY2aVMwcDl1LUR4TjBWazVXTG92eC1NakxMRGVQM04wZVZJMno3eGtRUUFmOU1rZWxVWDRmbGdqenRLM2Q3a21GSWFza3dFUjk5QkpNeTNrRFZrWWpla3BjZkxFd3I4TE4yZmozajFPbTJLODNpS2xNZTBocm1VcXRXaEJNWU9xMnFMRmM2emd6dm9XR3RXTmFOOU1QZGtWM1o0OWFyeHV2TUx3U1RuYWdhTFY2d1N4dUhNenA2UnU0eURkZkVMbUt1a1d1dUVudXdOZHBjNWNKcE00ZzhUbmRoUmNqd1FkWnVtdWd4NHRiclYtb0xEUHRvMTJXZnJldWs3d3FqUFY0YlFIWktRVzVhTjN2c0lLc25PVzV3aGtKeVAzUzBQTC0yZVBwaHZKZkZyMEFYcWRodnJvcDB3UEFxWXE4T3ljSjgwV1B3SS0?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-11-01T05:47:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือครัวเรือนผู้ประสบภัยโดยตรง"
+    },
+    {
+      "id": "a789e3ac",
+      "title": "ปฏิทินจ่ายเงินอุดหนุนบุตร เบี้ยเด็กแรกเกิด ปี 2570 เช็กวันโอนครบ 12 เดือน",
+      "summary": "เผยแพร่ปฏิทินการจ่ายเงินอุดหนุนบุตรและเบี้ยเด็กแรกเกิดประจำปี 2570 สำหรับตรวจสอบวันโอนครบ 12 เดือน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Wamt0OW51V2ZGU1lwQ0lJeWFBN0UwS2ZhdWszNzJOVUZ0M1M1OHZlUG5iSnp4VG1OSjQxekJBS1RkVlE5aF81Z25JUDR6blh5SGNSRFMtWTZQbEtBelhJdFZ6YUZBQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-01T04:37:38Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "สวัสดิการเด็กแรกเกิดที่มีกำหนดการจ่ายเงินชัดเจน",
+      "first_seen": "2026-10-07"
+    },
+    {
+      "id": "f5ed237a",
+      "title": "บัตรสวัสดิการแห่งรัฐ พ.ย. 69 ทำไมวงเงินเหลือ 300 บาท จากเดือนก่อน 1,000",
+      "summary": "มีรายงานตั้งคำถามถึงเหตุผลที่วงเงินบัตรสวัสดิการแห่งรัฐเดือนพฤศจิกายน 2569 เหลือ 300 บาท จากเดือนก่อนหน้าที่ 1,000 บาท เผยแพร่โดย Thaiger เมื่อวันที่ 1 พฤศจิกายน 2569 โดยยังไม่มีคำชี้แจงในเนื้อหาที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CSzNneW9PN3hFbkNhRG1PeTBmVXJhLWRjN3d6NWVucFhnUmJ0SHVGV09UaEthWnlWYVpwSkZzU1NYRUctend5aWRwREZVWk84?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-01T04:26:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "การเปลี่ยนแปลงวงเงินที่กระทบผู้มีสิทธิโดยตรง"
+    },
+    {
+      "id": "2eb12bc6",
+      "title": "เยียวยาน้ำท่วม โอนแล้ววันนี้ 152 ล้าน 2 หมื่นครัวเรือน จ่ายค่าปลงศพรายละ 2 ล้าน 7 ราย",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมในวันนี้รวม 152 ล้านบาท ให้แก่ประมาณ 20,000 ครัวเรือน และจ่ายค่าปลงศพรายละ 2 ล้านบาทให้ผู้เสียชีวิต 7 ราย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvV2pxODA4Wm5hX0IzSkRUWER4X1ZKTDJIcDdJZFZPeFpndlVKekdZT3BfRWhhNDlHVW4wd1dmekkxVGxmZElqMThUNV9tVk5sVnNSNVVVUUt0TzJ1?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-10-31T05:43:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "การจ่ายเงินเยียวยาและค่าปลงศพจริงแก่ประชาชน"
+    },
+    {
+      "id": "f644f702",
+      "title": "8 จังหวัด รับเงินเยียวยาน้ำท่วม 2569 เข้าบัญชีแล้ววันนี้ 1 พ.ย. 69",
+      "summary": "มีการรายงานว่าผู้ประสบอุทกภัยในพื้นที่ 8 จังหวัด จะได้รับเงินเยียวยาน้ำท่วมปี 2569 เข้าบัญชีในวันที่ 1 พฤศจิกายน 2569 ข่าวระบุเพียงชื่อจังหวัดที่เกี่ยวข้องในหัวข้อข่าว รายละเอียดชื่อจังหวัดและจำนวนเงินไม่ปรากฏในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teFRtb3JKbXZXRmpqTUswV05iVzB4cFpNY1ZtYXFqdmxDMVBwWkJIbk1odHhVdnBLbUZKTXh6WUwtcVk3UTl1ZHlUbDY?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-01T05:34:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดโอนเงินเยียวยาเข้าบัญชีประชาชน"
+    },
+    {
+      "id": "d6dfd631",
+      "title": "ปภ. ออมสิน โอนเงินเยียวยาน้ำท่วมวันนี้ 24,359 ครัวเรือน เช็กพร้อมเพย์เลย",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยร่วมกับธนาคารออมสินโอนเงินเยียวยาอุทกภัยให้ 24,359 ครัวเรือนในวันนี้ ผ่านระบบพร้อมเพย์ ประชาชนสามารถตรวจสอบสิทธิได้",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56SEZBVTJRNmR5ZkNvM2N6bFN4Z092Nks5c3NiX1FiUW9UTjhpY0k2YXFyWEVDRzlZd3Bhc1VLMHZaZS1QTFBKYVdTbW1KNHk2NGE0eTZJRkRmamI2RVNZeHg5aC1oZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-01T04:02:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การโอนเงินเยียวยาถึงมือประชาชนจริง"
+    },
+    {
+      "id": "56d9dc9c",
+      "title": "อัปเดตวงเงิน บัตรสวัสดิการแห่งรัฐ เดือน พฤศจิกายน 2569",
+      "summary": "รายงานอัปเดตวงเงินบัตรสวัสดิการแห่งรัฐสำหรับเดือนพฤศจิกายน 2569 สำหรับผู้มีสิทธิทั่วประเทศ เผยแพร่โดยสยามนิวส์เมื่อวันที่ 1 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jQW54MEJFZHhNcUhnXzJuRUZRbXJucE9rLUpRWG5ZaWRUMDR2c3FWbEFsMWh3TWIxdEpFQmU4RHhJRXcxYWpqZnNJM0o2Zl8zWVBGSXl3?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-01T03:26:37Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "วงเงินสวัสดิการที่ถึงมือผู้มีสิทธิโดยตรง"
+    },
+    {
+      "id": "4e1eabbc",
+      "title": "อัปเดต บัตรสวัสดิการแห่งรัฐ พ.ย. 69 เงินเข้า 2 รอบ สิทธิอะไรบ้าง?",
+      "summary": "รายงานอัปเดตบัตรสวัสดิการแห่งรัฐ เดือนพฤศจิกายน 2569 ระบุว่าเงินจะเข้าบัญชีผู้มีสิทธิ 2 รอบ พร้อมชี้แจงสิทธิที่ผู้ถือบัตรจะได้รับในแต่ละรอบ ข้อมูลเผยแพร่ผ่านสื่อ bangkokbiznews",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSRDRQZkVLZ3hRYVRuc3Bpem1PZWlFeGJGRExSQjhaRTFuZlF0b3lPMk9uZ0FRdUNuNTdLbHh1VlZ5cnpmUUZIMGJfd1I0c1hsdy1ZWVZySGl5QUtXNGFqaEpyeFlDQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-01T01:23:59Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการสวัสดิการเงินช่วยเหลือโดยตรงถึงประชาชน",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "01f98417",
+      "title": "‘ชัชชาติ’ ยันไร้รอยต่อรัฐบาลปมงบเยียวยาน้ำท่วม กทม. สมทบแล้ว 310 ล้าน เล็งหักหนี้รัฐอีก 200 ล้าน จ่อลุยพื้นที่เสี่ยงทุกวันอาทิตย์",
+      "summary": "ผู้ว่าราชการกรุงเทพมหานครยืนยันว่าไม่มีรอยต่อกับรัฐบาลในเรื่องงบเยียวยาน้ำท่วม กรุงเทพมหานครสมทบแล้ว 310 ล้านบาท และเล็งหักหนี้รัฐอีก 200 ล้านบาท พร้อมลงพื้นที่เสี่ยงทุกวันอาทิตย์",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZXNFRHprcmJlc1A1d1FDSkRFRXZ6Z3k3Ym9nNEkxWW5LaGx3Vl9BVFEyQUR1OG5QSkI0R09pV3pSNUoza3pvU1JNQmp4NndrS0N4c01nQmNNWVpWanJPdHY3WTFyYkNROVlDekFR?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-31T23:43:22Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีจำนวนเงินเยียวยาและมาตรการชัดเจนที่ถึงผู้ประสบภัย",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "id": "2d771921",
+      "title": "บัตรสวัสดิการแห่งรัฐ เดือนพฤศจิกายน 2569 ได้วงเงินและเบี้ยอะไรบ้าง",
+      "summary": "รายงานระบุวงเงินและเบี้ยที่ผู้ถือบัตรสวัสดิการแห่งรัฐจะได้รับในเดือนพฤศจิกายน 2569 โดยเป็นข้อมูลสำหรับผู้มีสิทธิทั่วประเทศ เผยแพร่ผ่านสื่อคลาวด์ปัง",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOYlo0OXVIZkh0MGZnTnNWRnItVW04bEcwR01ZcjQtaUhJQjF6SHpKUEptQldHb3hkVG5MQk52SmlDWUwwMG9sU2ZMX2txU2lDNmdubnY5QnpKQ3JoRDhXTnFwdTgyRzhxWmNYT2dMd3ByWnZQT2dsWHRNeEQzVHJ5ajVFU2VaQ1pWN2lvek9qbWlSTm1pZ0o0UnUzQ1BiWlB2TllyUVl1cTNNRkUzSkJfMHBOQzN2ekI3NUdZemRuUmc1bDJUZ1FWQzBYcXlpejdIOGdIWi1KWkxiMTBxZXZXTDY1UXl0dEFIeWhmUEllMXpHSnhDRVR6RjkycTFfZm9qRVp1enk2el9BVkUzeVhEX2JqYmtJcXUwMmF3M2s0NzVmWmtkb0ZqSS1lMW1SN2JE?oc=5",
+      "source": "คลาวด์ปัง",
+      "published_at": "2026-10-31T15:20:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "วงเงินสวัสดิการที่ถึงมือผู้มีสิทธิโดยตรง"
+    },
+    {
+      "id": "22d3ae44",
+      "title": "ปภ. - ออมสิน โอนเงินเยียวยาน้ำท่วมวันนี้ 20,970 ครัวเรือน ครอบคลุม 15 จังหวัด",
+      "summary": "ปภ. และธนาคารออมสิน โอนเงินเยียวยาอุทกภัยให้ 20,970 ครัวเรือน ครอบคลุม 15 จังหวัด ในวันที่ 31 ตุลาคม 2569 ตามรายงานของ Thairath.co.th",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hQVJQU0FGYzM0aEFIS2c3RURSZXdlS0M4V05ZR1A1d1diNENYYS1td2laWUhacGw1Z0w5Q1FoZkp5SUVUV19kUzBQTks4Q3hCamlkc0U5cTM?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-10-31T06:18:21Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือประชาชนผู้ประสบภัยจริง"
+    },
+    {
+      "id": "2dfe57fa",
+      "title": "วันนี้! ‘ปภ.-ออมสิน’ โอนเยียวยาน้ำท่วม 20,970 ครัวเรือน กว่า 138 ล้าน จ่ายค่าปลงศพเพิ่ม 7 ราย รายละ 2 ล้าน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ร่วมกับธนาคารออมสิน โอนเงินเยียวยาอุทกภัยให้ 20,970 ครัวเรือน รวมกว่า 138 ล้านบาท และจ่ายค่าปลงศพเพิ่มอีก 7 ราย รายละ 2 ล้านบาท เผยแพร่โดยเดลินิวส์ เมื่อวันที่ 31 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuVmVNdjFOOHo4UzFTNEEwU0R6RFI2VGtuQXFOT0tLejJqQU9iLS1MWFJYNS13cEU2TVpjVnBhNExtOURVX255YUJsbHF5X1pQbFdv?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-10-31T06:05:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือประชาชนผู้ประสบภัยจริง",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "cf8adefe",
+      "title": "ปภ.โอนวันนี้ \"เยียวยาน้ำท่วม\" อีก 20,970 ครัวเรือน รวม 138 ล้าน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยโอนเงินเยียวยาน้ำท่วมในวันนี้ให้ 20,970 ครัวเรือน รวมเป็นเงิน 138 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QbjVPN0pqdVNzMGtDOC1TakNqM1NIRkJBR2NTNHJvTmVyeTNkYlkwblA0dGdsNmFkZ2tWcy1YaTRNZ3Q1bW51ejUxUENNOG96UHRGOGF2R2o?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-31T05:10:41Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาจ่ายถึงครัวเรือนจริง พร้อมตัวเลขชัดเจน"
+    },
+    {
+      "id": "c4cc36ec",
+      "title": "กทม. แจงเหตุจ่ายเยียวยาน้ำท่วมช้า ยันไร้รอยร้าว ปภ. เตรียมโอนเงินบ่ายนี้ พร้อมเร่งตรวจประเมินบ้านพังกว่าแสนเคสให้จบใน 2 สัปดาห์",
+      "summary": "กรุงเทพมหานครชี้แจงเหตุการจ่ายเงินเยียวยาน้ำท่วมล่าช้า ยืนยันไม่มีรอยร้าวกับ ปภ. และเตรียมโอนเงินในช่วงบ่ายวันนี้ พร้อมเร่งตรวจประเมินบ้านเสียหายกว่าแสนเคสให้แล้วเสร็จภายใน 2 สัปดาห์",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xaVpRZ3prdEJXM2NnaHNMQk5WTFlpUUxTUlMzQW1LaWJRalhqX3pEbEdQb0tuWmlKdVVKaXlDU3hLM1ZwbDZnTnNRYTQxSXU3UV9WUTNUcGx1cE5ad29SeFEyUFVRQQ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-01T01:30:14Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มีกำหนดโอนเงินและระยะเวลาดำเนินการชัดเจนสำหรับผู้เดือดร้อน",
+      "first_seen": "2026-10-27"
+    },
+    {
+      "id": "0825eb2a",
+      "title": "เช็กเงินบัตรสวัสดิการแห่งรัฐ พ.ย. 69 ได้อะไรบ้าง?",
+      "summary": "ททบ. 5 เผยแพร่เนื้อหาเช็กยอดเงินและสิทธิที่ผู้ถือบัตรสวัสดิการแห่งรัฐจะได้รับในเดือนพฤศจิกายน 2569 สำหรับผู้มีสิทธิทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOS2pwYjNVMklSc3pIS0hqWk8xbTNGYXFQY2Mxam0zclhGVXpDSm9MSTkzOWpNU3psY3VsQmdreUl1ZHcwTlpmLURhb0pMOUFwS2wwWkRYcktnT01oTW1IOHZ2dGY0UzE2ZDh6bC1mSWlsYi1CdGxwM3FNVEhWYngzUXlXRFFSc2RQY0xyenpCMnExdGdZOE12b0ZabXpKYkpUWjZwenpDSGhjY3VrNDFsNDVoNHB4NW13ZC1mT1RMSWdqbExENW90bkE4RGxOVkZjTXNTTUh5YWluczJIOXNabFhmWXFaX3c5WUplSE0yZVRNUi12aVAyMGZhMk9UYklzcDNEc3V4REFZQ1FHNUd0eTNaSGlWendST1lCblZ6NHFSekFMVXo5MHJ3OFBWRXRPMjBXZ3Z6QWtiYXVhWDFPamdqU3gyT0cwRjN5WElxMlZIaGdTS0VPWGFFTTloUGdYdU5hZU5WSlQ1b1A5WW56LXlHLXMwZktuaFoxRU1neWFCRlN0bjRrZ3QtZWwtOHBONld2T2IwaHZGemNSc0VYWTdjNk10c3dzelpCU09IdjI3T3BBWnJsZEkweEM0ZkNRS2twcF9kbWh4dl9MV09weEN4dkc5dnNKYmRFQTgxcHZ0dkVYXzFrcXlSb3NwcFRVZnB2YnJ2ZE4ycGtGYTMxUVBscFkwQ0c0bzAzR0M2d0VKbWkxalB1b09KSWlpN0xrSENyWC04eVFYd2ZqOFRwV2RpMkRoRE9Lc2JZVWZVRmpyZw?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-11-01T05:20:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ข้อมูลสิทธิสวัสดิการที่ผู้มีสิทธิต้องทราบ"
+    },
+    {
+      "id": "61de6c9f",
+      "title": "อนุทิน ยันงบเยียวยาน้ำท่วม กทม. ไม่ขาด รัฐบาลพร้อมสมทบ 3,500 ล้าน แจงจ่ายเงินล่าช้า เหตุต้องตรวจสอบสิทธิให้รอบคอบ",
+      "summary": "นายอนุทินยืนยันว่างบเยียวยาอุทกภัยในกรุงเทพมหานครไม่ขาดแคลน โดยรัฐบาลพร้อมสมทบงบประมาณ 3,500 ล้านบาท และชี้แจงว่าการจ่ายเงินล่าช้าเป็นเพราะต้องตรวจสอบสิทธิอย่างรอบคอบ เผยแพร่โดย thestandard.co เมื่อวันที่ 31 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QUk5oZzdyOXlmMV80WGhyalFiZWVPS3AyYlNWaXBjN05iZXZLUTRpVzVfU0ZBWkN2YS1QNDJwQUg4NVhVOV94bXo1aVVWVGhHd0Qyc2stZ1NqOU40Y1hnX0tBZzY?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-31T23:43:22Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "งบเยียวยาผู้ประสบอุทกภัยและความล่าช้าการจ่ายเงิน",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "b9c207af",
+      "title": "ความคุ้มค่า ‘โซลาร์ภาคประชาชน’",
+      "summary": "มีการเปิดโครงการ “โซลาร์ภาคประชาชน” โดยมีนายอนุทิน ชาญวีรกูล นายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงมหาดไทยเป็นประธานพิธีเปิด วัตถุประสงค์เพื่อส่งเสริมให้บ้านอยู่อาศัยเข้าถึงการติดตั้งระบบผลิตไฟฟ้าพลังงานแสงอาทิตย์ ช่วยลดภาระค่าไฟฟ้าของประชาชนและเพิ่มการใช้พลังงานหมุนเวียน",
+      "url": "https://www.prachachat.net/columns/news-2088492",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-01T02:30:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการลดค่าใช้จ่ายครัวเรือนระดับประเทศ"
+    },
+    {
+      "id": "93848033",
+      "title": "ชำแหละรอยต่อ กทม.-ปภ. ภายใต้วิกฤตน้ำท่วม เมื่อเงินเยียวยากลายเป็นสมรภูมิการเมือง",
+      "summary": "รายงานประเด็นรอยต่อระหว่างกรุงเทพมหานครและกรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ท่ามกลางวิกฤตน้ำท่วม โดยการจ่ายเงินเยียวยากลายเป็นประเด็นทางการเมือง",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VjFTUkl0cmJudjFfQUc3eWc3clNVc19YV2llaVYtampzazdzeFBxMUpNMExFbXFwRkhLa3oydElCMzR6REJZTjdvWmRkTmtnOE9hMVdLeFh1c0tYV1hVZmlVb243TzBaZ0tJ?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-10-31T22:19:37Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เกี่ยวข้องกับเงินเยียวยาผู้ประสบอุทกภัยโดยตรง",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "id": "83db4597",
+      "title": "เลือกตั้งบอร์ดประกันสังคม ผ่านการตรวจสอบแล้ว เตรียมส่ง กกต. รับรอง 5 พ.ย.",
+      "summary": "สำนักงานประกันสังคม (สปส.) สรุปผลการเลือกตั้งคณะกรรมการประกันสังคม ซึ่งผ่านการตรวจสอบแล้ว และเตรียมส่งให้คณะกรรมการการเลือกตั้ง (กกต.) รับรองในวันที่ 5 พฤศจิกายน",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RUVNZeHdiOUVEVl9GUU9MNFQyRkxMMEJSUEVKX2x2YW4xMzMtYms2M0VVRjdjYW9ZZUhQRjByRVdZTTczaThDS2x6aXJCa3lJYnE1SQ?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-01T04:04:33Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "กำหนดการรับรองผลที่เกี่ยวข้องระบบประกันสังคม"
+    },
+    {
+      "id": "8a58e992",
+      "title": "หาดใหญ่โพล เผย ดัชนีความเชื่อมั่น ปชช.14 จว.ใต้ ‘ดิ่งเหว’ รัฐบาลแก้ปัญหาล้มเหลว",
+      "summary": "หาดใหญ่โพลเปิดเผยผลสำรวจดัชนีความเชื่อมั่นของประชาชน 14 จังหวัดภาคใต้ ระบุความเชื่อมั่นลดลงจากราคาน้ำมันที่สูง ภาระหนี้สินและค่าครองชีพที่เพิ่มขึ้น และราคาสินค้าเกษตรที่ตกต่ำ โดยมีการกล่าวถึงการที่รัฐบาลเร่งปรับโครงสร้างหนี้รายย่อยในวันที่ 1 พฤศจิกายน 2569",
+      "url": "https://www.khaosod.co.th/politics/news_10457059",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-01T03:20:54Z",
+      "category": "debt",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ผลสำรวจเกี่ยวกับหนี้และค่าครองชีพในพื้นที่ภาคใต้"
+    },
+    {
+      "id": "47c0f966",
+      "title": "“อธิบดีกรมการค้าภายใน” ลงพื้นเช็กราคาของกิน-ของใช้ พบราคาผักปรับลด ปริมาณสินค้าเพียงพอ เดินหน้าดูแลค่าครองชีพ | สวพ.FM91",
+      "summary": "อธิบดีกรมการค้าภายในลงพื้นที่ตรวจสอบราคาสินค้าอุปโภคบริโภค พบว่าราคาผักปรับลดลงและปริมาณสินค้ามีเพียงพอ ทั้งนี้กรมยังคงเดินหน้าดูแลค่าครองชีพของประชาชนอย่างต่อเนื่อง",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdUYxTi1KTUJZNTNEcWctVFA5bHhLcE9Tb1Q0SHRZZGZoLUpTZDNySlR5MldCN0VOUzYxZVM5ajhQN3FXUXAtLWNNWFh3NTI1TEl4WHVR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-10-31T11:14:12Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการดูแลราคาสินค้าและค่าครองชีพ"
+    },
+    {
+      "id": "8fd75c6b",
+      "title": "สปส. สรุปผลเลือกตั้ง “บอร์ดประกันสังคม” เตรียมส่ง กกต. รับรอง 5 พ.ย. นี้ | ข่าวหุ้นธุรกิจ",
+      "summary": "สำนักงานประกันสังคม (สปส.) สรุปผลการเลือกตั้งคณะกรรมการประกันสังคม และเตรียมส่งให้คณะกรรมการการเลือกตั้ง (กกต.) รับรองในวันที่ 5 พฤศจิกายนนี้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yWlExYTN0RmFRQUIxNy14QnlTazNNMVl6bVpKSnRIa3BmeHlzN2hrUUVjZFJ3M2o3Rk9xV1cwTERYVGFmTVJGb0M5MExlMzQtRXp5dHZ3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-01T05:24:21Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "กำหนดการรับรองผลที่เกี่ยวข้องระบบประกันสังคม"
+    },
+    {
+      "id": "21979eee",
+      "title": "บอร์ดควบคุมฯ สปสช. นำบทเรียนพื้นที่ยกระดับบัตรทอง 4 ด้าน เช่น ปรับค่าชดเชย – เสริมปฐมภูมิ ฯลฯ",
+      "summary": "บอร์ดควบคุมคุณภาพฯ สปสช. เสนอพัฒนาระบบบัตรทอง 4 ด้าน ได้แก่ เชื่อมข้อมูลสุขภาพดิจิทัล ความพร้อมของบุคลากร การแก้อัตราชดเชยค่าบริการให้สะท้อนต้นทุนจริง และการพัฒนาบริการปฐมภูมิ โดยอ้างอิงข้อมูลจากการติดตามในพื้นที่ เผยแพร่โดย Hfocus",
+      "url": "https://www.hfocus.org/content/2026/11/40095",
+      "source": "Hfocus",
+      "published_at": "2026-11-01T03:52:53Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อเสนอพัฒนาบริการสุขภาพของผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "77fb98f4",
+      "title": "พีระพันธุ์แจงปมลดภาษี E20 ชี้ช่วยลดค่าครองชีพไม่ครอบคลุม เหตุผู้ใช้ส่วนใหญ่ยังเติม 91-95",
+      "summary": "นายพีระพันธุ์ชี้แจงประเด็นการลดภาษี E20 ว่ามาตรการดังกล่าวช่วยลดค่าครองชีพได้ไม่ครอบคลุม เนื่องจากผู้ใช้รถส่วนใหญ่ยังคงเติมน้ำมัน 91 และ 95 ซึ่งไม่อยู่ในกลุ่มที่ได้รับผลประโยชน์โดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gd3RtTGtsVms3cFhxRjQ5dzVTbmZXOU9WTGxsUGdyaGZjenhZMEVObnRMcGxwQlAzaElaZ0h1Tk5kRXdrUW0tWVkxSEVER2I3NXRwN1pKSUcwVXpyMFVjd2p1OA?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-01T03:31:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การชี้แจงมาตรการลดภาษีน้ำมันต่อค่าครองชีพ"
+    },
+    {
+      "id": "b3cf3a2c",
+      "title": "“พีระพันธุ์” ตั้งข้อสังเกตลดภาษี E20 เพียง 3 เดือน ช่วยลดค่าครองชีพได้ทั่วถึงหรือไม่ หลังผู้ใช้ส่วนใหญ่ยังเติม 91-95",
+      "summary": "นายพีระพันธุ์ตั้งข้อสังเกตว่ามาตรการลดภาษีน้ำมัน E20 ซึ่งมีระยะเวลาเพียง 3 เดือน อาจไม่สามารถช่วยลดค่าครองชีพได้อย่างทั่วถึง เนื่องจากผู้ใช้รถส่วนใหญ่ยังคงเติมน้ำมันเบนซิน 91 และ 95",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMaGoyS0loS0Vobnp3YWRRUVJFUTJEbGlwV1JseFlnRkdoX2J2TXZIRV9Yd1NKdnpKVjQtRk5aQjMyNDY1WHAtTkxpc3hrUHVtNWt3SGo3RldaZw?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-01T02:27:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการลดภาษีน้ำมันที่มีผลต่อค่าครองชีพ"
+    },
+    {
+      "id": "15dced0a",
+      "title": "Policy Easy นโยบายเข้าใจได้ - RESET กยศ. หาสมดุลใหม่ ให้เด็กไทยได้เรียน",
+      "summary": "รายการ Policy Easy อธิบายนโยบายการปรับโครงสร้างกองทุนให้กู้ยืมเพื่อการศึกษา (กยศ.) เพื่อหาสมดุลใหม่ให้เด็กไทยได้เรียนต่อ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43UUU1Rm5NV3VsZ2k0aXlOb1loVUF3ODFNa2t5ME5iNlBuV3Z6Vm1JVXVkOVZlZjh3Rmh2aTV3RXRBM1VHMm9GTzM3SHk5YzN0X0pURXhuZENGOEpKbktDTS1fd0F3QUphbVhOSg?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-10-31T17:10:23Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "นโยบายการเงินการศึกษาที่กระทบนักเรียนและครอบครัวรายได้น้อย"
+    },
+    {
+      "id": "c7c56a11",
+      "title": "ราคาน้ำมันวันนี้ (1 พ.ย. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
+      "summary": "รายงานราคาน้ำมันวันที่ 1 พฤศจิกายน 2569 ตามข้อมูลบางจาก แก๊สโซฮอล์ 95 ราคาลิตรละ 41.54 บาท แก๊สโซฮอล์ 91 ลิตรละ 41.17 บาท และดีเซลลิตรละ 42.54 บาท ราคาดังกล่าวมีผลต่อค่าครองชีพของประชาชนโดยตรง",
+      "url": "https://www.prachachat.net/economic/news-2088960",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-01T00:13:23Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ราคาน้ำมันมีผลต่อค่าครองชีพ"
+    },
+    {
+      "id": "bd86799c",
+      "title": "“วัชระพล” ลงเลย หนุนอ้อยสดลดเผา เร่งแก้ที่ดิน ส.ป.ก.-แหล่งน้ำ",
+      "summary": "นายวัชระพล ขาวขำ ลงพื้นที่จังหวัดเลยเพื่อสนับสนุนการเก็บเกี่ยวอ้อยสดแทนการเผา ลดต้นทุนและมลพิษ PM2.5 พร้อมรับฟังปัญหาเกษตรกรด้านที่ดินทำกิน แหล่งน้ำ และราคาผลผลิต และสั่งการให้ ส.ป.ก. เพิ่มกำลังช่างรังวัดและเร่งออกเอกสารสิทธิ",
+      "url": "https://www.prachachat.net/economic/news-2088972",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-01T02:33:10Z",
+      "category": "farmers",
+      "provinces": [
+        "เลย"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการช่วยเหลือเกษตรกรด้านที่ดินและต้นทุน"
+    },
+    {
+      "id": "e34129d6",
+      "title": "ตรังจัดธงฟ้าจุดที่ 12 ลดค่าครองชีพ ทำยอดขายกว่า 1.1 แสนบาท ประหยัดเงินประชาชน 34.81%",
+      "summary": "จังหวัดตรังจัดกิจกรรมธงฟ้าลดค่าครองชีพ จุดที่ 12 โดยมียอดขายรวมกว่า 110,000 บาท และระบุว่าช่วยประหยัดค่าใช้จ่ายของประชาชนได้ 34.81 เปอร์เซ็นต์ ข่าวไม่ระบุรายละเอียดสินค้าหรือระยะเวลาดำเนินการ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2YTgzemlRVWE4ZEREWWUtdFF4M1dpdC1GTkdTeEFIMFJLRExMVjhOY01IWFAzVThWRXJtV1d5V0gybXM5c1B0QWZsOFRsdm8?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-10-31T08:48:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ตรัง"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "มาตรการลดค่าครองชีพระดับจังหวัด"
+    },
+    {
+      "id": "9c987152",
+      "title": "“กรมการค้าภายใน” ลงพื้นที่ตลาดบางขุนศรี พบราคาผักปรับลด ปริมาณสินค้าเพียงพอ เดินหน้าดูแลค่าครองชีพ ควบคู่คุ้มครองสิทธิผู้บริโภค",
+      "summary": "กรมการค้าภายในลงพื้นที่ตลาดบางขุนศรี พบราคาผักปรับลดและปริมาณสินค้าเพียงพอ โดยยังคงดูแลค่าครองชีพของประชาชนควบคู่กับการคุ้มครองสิทธิผู้บริโภค",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84YlpsM2Fhcy1tR082YUFRVFg5cjJzQ18wX0dqTTVhTkVodk5JWk9GVmdBaGxQbTZFd2ZVTFRoLUxMUDd6RHVseXZpTzlvRTM4SWJ6NG1iTQ?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-10-31T07:31:20Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "ติดตามราคาสินค้าและค่าครองชีพ แต่เป็นข่าวภาคสนามระดับพื้นที่"
+    },
+    {
+      "id": "2ac48350",
+      "title": "นักรบศรีวิชัย นัดรวมพล 5 พ.ย. ระดมรถ 1,000 คัน มุ่งหน้าทำเนียบ เรียกร้องแก้ปัญหาค่าครองชีพ",
+      "summary": "กลุ่มนักรบศรีวิชัยนัดรวมพลในวันที่ 5 พฤศจิกายน โดยระดมรถ 1,000 คัน มุ่งหน้าทำเนียบรัฐบาล เพื่อเรียกร้องให้แก้ไขปัญหาค่าครองชีพ",
+      "url": "https://www.matichon.co.th/region/news_5956721",
+      "source": "มติชน",
+      "published_at": "2026-11-01T05:35:58Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "การชุมนุมเรียกร้องเรื่องค่าครองชีพในประเทศไทย มีกำหนดวันชัดเจน"
+    },
+    {
+      "id": "8cfb9c76",
+      "title": "น้ำท่วมกดดันก่อหนี้ ซ้ำเติม”หนี้ครัวเรือน” ปัญหาใหญ่ประเทศ",
+      "summary": "บทวิเคราะห์ระบุว่าอุทกภัยเป็นปัจจัยกดดันให้ประชาชนต้องก่อหนี้เพิ่มขึ้น และซ้ำเติมปัญหาหนี้ครัวเรือนซึ่งเป็นปัญหาใหญ่ของประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wazhVcUFJekd5VHJSUHRubFBKdTFnc2FTakg1U3R3UHVFNUM2cmhPRkwyNUpzVFlVZmdtaGN0ZGRWU3VxdHRsVF9BelgxUy00eUNnVE1DNDhCdV9QNzFBSDRaX1ZtdmlY?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-11-01T02:16:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นหนี้ครัวเรือนที่เกี่ยวกับผลกระทบน้ำท่วม"
+    },
+    {
+      "id": "2aceea37",
+      "title": "พรอมพงศ์เตือนรัฐบาลอย่ามัวแข่งเอาชนะ ลืมปัญหาปากท้อง ชี้ราคาน้ำมันยังสูงกระทบค่าครองชีพ แนะ3มาตรการเร่งด่วนช่วยเหลือประชาชน",
+      "summary": "นายพรอมพงศ์เตือนรัฐบาลให้ให้ความสำคัญกับปัญหาปากท้อง ระบุราคาน้ำมันที่ยังอยู่ในระดับสูงกระทบค่าครองชีพ และเสนอ 3 มาตรการเร่งด่วนเพื่อช่วยเหลือประชาชน เผยแพร่โดย Head Topics เมื่อวันที่ 31 ตุลาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FRkdsZUVicEU5emFIZ3Vob1phUVFwa09CRlFldUsxbWQtY2t6SUp3WG1SWWVwdm5yTE1uSTJmN29PYlhyUlZNSE1vdE9udUZpaDl6OFpuRUVUbm1GZ3BQeWxZVHpKRE8zbmg5QTFn?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-10-31T05:33:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความเห็นเรื่องค่าครองชีพพร้อมข้อเสนอมาตรการ"
+    },
+    {
+      "id": "b3738be6",
+      "title": "POLITICS: 'พีระพันธุ์' ข้องใจลดภาษี E20 แค่ 3 เดือน หวั่นช่วยลดค่าครองชีพไม่ทั่วถึง ชี้คนส่วนใหญ่ยังใช้ 91-95 วันนี้ (1 พ.ย. 69) นางสาวศศิกานต์ วัฒนะจันทร์ โฆษกพรรครวมไทยสร้างชาติ เปิดเผยว่า นายพีระพันธุ์ สาลีรัฐวิภาค อดีตรองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงพลังงาน ในฐาน",
+      "summary": "โฆษกพรรครวมไทยสร้างชาติเปิดเผยว่า นายพีระพันธุ์ สาลีรัฐวิภาค อดีตรองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงพลังงาน ข้องใจการลดภาษี E20 เพียง 3 เดือน เนื่องจากอาจช่วยลดค่าครองชีพไม่ทั่วถึง เพราะคนส่วนใหญ่ยังใช้น้ำมัน 91-95",
+      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxPYkhkWnUxQ25zcnV5NHlGMGQ2Q1NKWENiV2FHcE9xY1c5d3gwcUhfWU1lTFR5X0wwTndpOUxab0ZTcnBFVlY4Y3VrNUsxcHhTQ0N1MUVseGtmdUxWd2FnWWsxQVd2YzBoZGFXZTB3T2M3NTZ4aG0tSjh5MWR6VXZ3VzlGbk5kbjYwamtBUWFKVWpQdUt5ZWcxUG9xaElDQ1FrazM1NkkzeVFNbGRSSnZGMmtfemJDNDZyNEpiWVRVUnRfclZRaVFjbHl0RVgtZ2FwVUFvUUFtYkZUVmxIb1ZBUlZLMUhnWERWWlp4a3A3UDNyeERTcDdfZUNKa0szbWMycEZQano4TFFSa2N0Q1gtTXhpRXBfa3hpVVIxUkU0bXliSi1XRExQN0lNcS1JVGROT0UwRWZwRW9tLVgtU25kUDBQQTlvRElIcnk2WlV2Z1dGNG1ZOWtjeFF2YVpMU18wSjdZTHc2c1ZHdl9QWlU0Q3BNNHBUUEZWWmVjaTFaTDZvLVhkcGZRQUozNDdYMngtUldYamprbjV6eUsxVHNIalpMdS10S01pLXoxd2hqNk5XTGktN21TLUxYa2gxUmJqUFZtMVo1YmJDSjZOWVAzczY4RVEyTnlxZS04RGVhajZXTGo2X25TVUhQa203NnQ1VTl0Y2p4YzJEMEF6SUVMV1hWcVpQMm9SZVh6WTZFeHZDa29zeTJVNS1PYTZCeFRObmFHSlFRVm9pQ1AwY19JeW9LT1F3M0dzeGI2LTNQNl9kQ0JFc2k4OGJ6a25aNWNrZURpcHduVE1HN0MzZ2l4STEyeDRwQjQyUmdfczNReUtqUnprX254eG5Oc2FodXFycUM5UXkzUFZCczBHejlmZHBldUdPVHJ1RGo4V3U1Tl9uYkJRWHBXaENPcklhMmN1blRHYWN5c05lVERSbWotSVBhbVYyVjZOU3NfS3Zob2s0aGRxLWhrOFFzRVZUb01VREpaSnBqb1UxRHdneTEwaF9FV0RJbWZRamRmaDI1cmp5ejVSRjJDME1qQ3k4SmZxVk9rYjB4M296OXBCM2pjdHFudDB3SjNYZXBud2Q4alZJYlJxbkg3TTJjTGNtMUlDOXRVbWt5UFVLd192UFJUTGNLTDJsbFNXbkc3QzVtMUE4cDQ2ZUZJ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-01T04:58:37Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นทางการเมืองเกี่ยวกับมาตรการค่าครองชีพ"
+    },
+    {
+      "id": "b1bcd474",
+      "title": "‘ศ.สุชาติ ธาดาธำรงเวช’ ชี้ไทยเข้าสู่สังคมสูงวัยขั้นสุด แนะรัฐลงทุน Care Economy ป้องกันก่อนป่วย เตือนอย่าปล่อยความอายุยืนกลายเป็นความยากจนกลืนกิน",
+      "summary": "ศ.สุชาติ ธาดาธำรงเวช ให้ความเห็นว่าประเทศไทยเข้าสู่สังคมสูงวัยขั้นสุด และแนะนำให้รัฐลงทุนในเศรษฐกิจการดูแล (Care Economy) เพื่อป้องกันการเจ็บป่วยก่อนเกิดขึ้น พร้อมเตือนไม่ให้การมีอายุยืนขึ้นกลายเป็นความยากจน เป็นข้อคิดเห็นเชิงนโยบาย ไม่มีมาตรการหรือตัวเลขที่ระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TRVNaWUpvbzhSU0ZfTjNQbGkyY0d0QUJFSVUyb0VzMXJkR2Nwa1BQOFV0aEtlY09zc1JfR1dkQ2l3U0xZdndiU3ZlWm1FV3pXOXAweFB6d1hLdw?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-10-31T08:45:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นเกี่ยวกับผู้สูงอายุและความยากจน"
+    },
+    {
+      "id": "bce0cb3d",
+      "title": "สานพลัง สปสช.-กขป. แก้ปัญหาสุขภาพตามพื้นที่ พัฒนาระบบบริการปฐมภูมิ",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) ร่วมกับคณะกรรมการประชาชนเพื่อการพัฒนาเขตสุขภาพ เชื่อมกลไกงบประมาณ ข้อมูล และเครือข่ายท้องถิ่นเพื่อพัฒนาระบบบริการปฐมภูมิให้สอดคล้องกับปัญหาสุขภาพในแต่ละพื้นที่ โดยนพ.จเด็จ ธรรมธัชอารี เลขาธิการ สปสช. เป็นผู้กล่าวในที่ประชุม",
+      "url": "https://www.hfocus.org/content/2026/10/40088",
+      "source": "Hfocus",
+      "published_at": "2026-10-31T06:05:06Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข่าวนโยบายสุขภาพเชิงระบบ ยังไม่มีมาตรการเฉพาะที่ถึงประชาชน",
+      "first_seen": "2026-10-31"
+    }
+  ]
+}
