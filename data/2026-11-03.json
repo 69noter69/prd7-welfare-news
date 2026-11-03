@@ -1,0 +1,709 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:36:31Z",
+  "window": {
+    "from": "2026-11-02T05:35:26Z",
+    "to": "2026-11-03T07:35:26Z"
+  },
+  "stats": {
+    "fetched": 237,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 20090,
+    "ai_output_tokens": 15370,
+    "cost_thb": 0.35,
+    "runs": 1,
+    "kept": 45,
+    "eastern": 3,
+    "national": 42,
+    "new": 44,
+    "followups": 1,
+    "sources": 28
+  },
+  "items": [
+    {
+      "id": "9f70e339",
+      "title": "กทม.เผยยอดเยียวยาน้ำท่วม อนุมัติแล้วกว่า 6.1 แสนครัวเรือน โอนสำเร็จ 5.8 แสนครัวเรือน . กรุงเทพมหานครเปิดเผยความคืบหน้าการลงทะเบียนและจ่ายเงินช่วยเหลือผู้ประสบอุทกภัยในพื้นที่ กทม. ผ่านแอปฯ ทางรัฐ และเว็บไซต์ Claim Bangkok โดยข้อมูล ณ วันที่ 1 พฤศจิกายน 2569 พบว่า .",
+      "summary": "กรุงเทพมหานครเปิดเผยความคืบหน้าการลงทะเบียนและจ่ายเงินเยียวยาผู้ประสบอุทกภัยในพื้นที่ กทม. ผ่านแอปฯ ทางรัฐและเว็บไซต์ Claim Bangkok ข้อมูล ณ วันที่ 1 พฤศจิกายน 2569 ระบุว่าอนุมัติแล้วกว่า 6.1 แสนครัวเรือน และโอนเงินสำเร็จ 5.8 แสนครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMixgdBVV95cUxPcDhKSFJ6VmlRMjYybzlUdjRHaW1JbUZwLTJocjNzb3VqSEVoWk1nLVVPSk5tNjQwRDZIazIxQnppYjdxMWlMdlJBVXN6c21FbzhoX1dydmxTamd0YWFWX1JNRFhYdlVvNmNQam9WS3VFMHdIcnhOZDVoUVlXWFJLWjFCWk10ajdISUplWm0wX1VoZFgxcU5tTXJvc0dmSWlWcjEzaUVZSS1uM083VU4zSG5qX3VsYldSWFlkNkJGb1Jub0pVNnAwcGVJQXcza0lWRnVRN0g2TDZwOHVaSTNXVzd3SllVM0Jtbmp4ZlQwXzl4QlBqQ3RJNk1tX2RiSGZsMXBCZWhOTVh3aVd1OEJlcmZFT3dOdVk0bWVZUkJoM25UMkVwLVNiX3Z3UDY0VzlsRFJQMF9kZjNVUXBsM2w5RW9CNGlXblhENy1zbmw3UTlObm9jVmZnMjdsOEZvRXZhZzBaM21QYnNySXlTRjJOMEZqbzVMRjA5a3FmLVVnZHFUbEI0aGxIemVieDRpYk1aZDNlUHEwUFQzVXhKNGRpeGlTbUNvUm9wVU5GWXdSMjNWa012eEpqXzRZeTFBZE90eVpEV1RpZUZHSEMtb1ZXYklXUUV6RTFESmxyVk1jT1lyRUVtWGQ1OUl0cEt6THBoTnhzUmRPOU1qd0pkYXc4ZVdxdVlnSzJfMGkzWDRtdmdQdzBYU3VRbGU0VUxGWlBmaVJlYzBYMUdBZUIxMDQ3WXNURW5vSF9jZUdDTmJlQnVZYzl6VThnSVlKXzVnVFY5d0FVQWpLMHFKZExLR1dnMnQwS01MZDVZRjZ0alRrNC1KUEl0VDFYX2dGZG5tT3EzaWRzZGJCdFNvdzNSVFFNUzVkS25xLTV1MXZPSFM1eWJ4dTI1MTBhM1RXVVFUQ3ZIUWZzelZfZE03T0VqaUJJVjVENkIzUVk3UkJXcU5ubEh3TnpWMldJN1VQTkJSUG9QQjd4QlBwUUdQdTBiaFVmbUdtd0UwLTcta2dicFM1Vmd4MHJZaEFlc1UzOTlIUVhLVTBCUWFHbndNUF9CdGliWlo4VFFvQkhidUhNS3Nkb3ZFb1Y5eFhtRXFvSldkSFJJRldTNUNjMm1HSnpsQ1lPTzFBUHphdEdfNWRJS0hGajBMWngyUWFoY0tVdlJndzF6SXliTk9SS2FlNzBlWjgybG9PQURQX29kU2FOQTVkdkFVeDluVkFTYlNZX3ByUVZmNWlJTWROMzFSQ184WEtTWE5VSWpKREpyMlgxeUJoZXlSenFmOEE?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-02T08:40:37Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินช่วยเหลือถึงประชาชนจริงจำนวนมาก"
+    },
+    {
+      "id": "f9b14fc2",
+      "title": "กำหนดวันโอนเดือน พ.ย. 69 เงินช่วย 3 กลุ่มเปราะบาง เข้าบัญชีวันไหน - Tnews",
+      "summary": "มีการกำหนดวันโอนเงินช่วยเหลือประจำเดือนพฤศจิกายน 2569 ให้แก่กลุ่มเปราะบางสามกลุ่ม เพื่อเข้าบัญชีของผู้ได้รับสิทธิ์ ข่าวระบุเฉพาะกำหนดการโอนตามหัวข้อ โดยจำนวนเงินและวันที่ที่แน่นอนควรตรวจสอบจากแหล่งข้อมูลทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40ZWt3UDlNaXpYcUlpNC1wd3FzLTY0OWYyQlBxdzdnenhZTDZ1TWR3NXYxU0xycjhuT1ZsUEI4azItU2tmd0VYaENoVWtyWjc0U3Z1eHgta28tVDRtQ2c?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-02T07:09:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "การโอนเงินช่วยเหลือโดยตรงถึงกลุ่มเปราะบาง"
+    },
+    {
+      "id": "17d0036b",
+      "title": "ครม. ผ่านร่าง พ.ร.บ.ประกันสังคม เพิ่มสิทธิขยายอายุ 65 ปี เปิดทางเลือกบำเหน็จ-บำนาญ",
+      "summary": "ครม. ไฟเขียวร่าง พ.ร.บ.ประกันสังคม ปรับสิทธิผู้ประกันตน รวมถึงการขยายอายุถึง 65 ปี และเปิดทางเลือกระหว่างบำเหน็จและบำนาญ ข่าวสั้นไม่ระบุรายละเอียดจำนวนเงินของแต่ละทางเลือก",
+      "url": "https://www.matichon.co.th/politics/news_5959226",
+      "source": "มติชน",
+      "published_at": "2026-11-03T05:52:34Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มติ ครม. ปรับสิทธิประโยชน์ประกันสังคมระดับชาติ"
+    },
+    {
+      "id": "ba9fa2ce",
+      "title": "เงินเยียวยาน้ำท่วม 2569 โอนจ่ายสำเร็จแล้ว 73.31% วันนี้โอนอีก 9,290 ครัวเรือน",
+      "summary": "การโอนเงินเยียวยาผู้ประสบอุทกภัยปี 2569 ดำเนินการสำเร็จแล้วร้อยละ 73.31 และในวันดังกล่าวมีการโอนเพิ่มอีก 9,290 ครัวเรือน ข่าวไม่ระบุจำนวนเงินรวมและจังหวัดที่ได้รับการเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VN2tRSVNHZGJaZUhrWmUwUkVIZjF2QkVzUEEyV0g3LThFOXZhTFI4RnFYMl9SNmV5a1dYVTBZNTF6QktCNVNybFVXdC1WOHNzZm04VWdiMFU?oc=5",
+      "source": "Thairath.co.th",
+      "published_at": "2026-11-03T05:46:38Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือจริงถึงครัวเรือนผู้ประสบภัยน้ำท่วม"
+    },
+    {
+      "id": "106b586e",
+      "title": "ครม.ไฟเขียว ‘ร่าง พ.ร.บ.ประกันสังคม’ ขยายอายุผู้ประกันตนถึง 65 ปี รับสังคมสูงวัย",
+      "summary": "คณะรัฐมนตรีมีมติเห็นชอบร่างพระราชบัญญัติประกันสังคม ยกเครื่องสิทธิประโยชน์ครั้งใหญ่ ขยายอายุผู้ประกันตนถึง 65 ปีเพื่อรองรับสังคมผู้สูงวัย ร้อยเอกหญิงภัทร์ดารัสมิ์ ทองสลวยกร รองโฆษกประจำสำนักนายกรัฐมนตรี เป็นผู้แถลงผลการประชุม",
+      "url": "https://www.prachachat.net/politics/news-2089931",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-03T05:16:47Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มติ ครม. นโยบายระดับชาติด้านสวัสดิการ"
+    },
+    {
+      "id": "1fabeafe",
+      "title": "ครม.อนุมัติค่าโดยสารรถไฟฟ้าร่วม สูงสุด 45 บาทตลอดปี 70 ครอบคลุม กทม.-ปริมณฑล",
+      "summary": "คณะรัฐมนตรีอนุมัติมาตรการค่าโดยสารรถไฟฟ้าร่วมทุกสายในกรุงเทพฯ และปริมณฑล ระหว่าง 1 มกราคม ถึง 31 ธันวาคม 2570 โดยค่าแรกเข้าไม่เกิน 17 บาท และค่าโดยสารสูงสุดไม่เกิน 45 บาทต่อเที่ยว ตั้งกรอบงบประมาณ 5,807 ล้านบาท",
+      "url": "https://www.khaosod.co.th/economics/news_10459290",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-03T06:18:53Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร",
+        "นนทบุรี",
+        "ปทุมธานี",
+        "สมุทรปราการ",
+        "นครปฐม",
+        "สมุทรสาคร"
+      ],
+      "eastern": true,
+      "score": 88,
+      "why": "มาตรการลดค่าครองชีพของประชาชนที่มีงบประมาณและระยะเวลาชัดเจน"
+    },
+    {
+      "id": "9a2a5515",
+      "title": "ครม. ยกเครื่อง พ.ร.บ.ประกันสังคม ขยายอายุ ม.33 ถึง 65 ปี ส่งครบ 180 ด. เลือกรับบำเหน็จ-บำนาญได้เอง เมื่ออายุครบ 55 ปี #ทันหุ้น",
+      "summary": "คณะรัฐมนตรีมีมติปรับปรุง พ.ร.บ.ประกันสังคม โดยขยายอายุผู้ประกันตนตามมาตรา 33 ถึง 65 ปี กำหนดให้ส่งเงินสมทบครบ 180 เดือน และผู้ประกันตนที่อายุครบ 55 ปีสามารถเลือกรับเป็นบำเหน็จหรือบำนาญได้ด้วยตนเอง รายละเอียดการดำเนินการยังไม่ปรากฏในข่าว",
+      "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxQTV82MnE3dnlaRE94NExrVGowWFpFMW11cXEwQ3gwOUpoOHotYTZscV9BRjM3QlhENnZ6a0pQQk5OQm5va0NVakJoMG5hYk5fZThDdEpVdjJhVzd2azloVHduTWxoaDZmYnBqVFlyRUtxREVsZTBoNnJtVkx0eWN5ZUFCTFFJMjZodHNUUnhZY1ZnYl9IazFsYkhldldHaGV0MVRSUmgzNURqcjktVHg4Ym90UFpHXzJwd3A2dWRZcHFWWTlwMGJyVHpKajRNcHBqNk8yWEI3a3g3UGNGNkNkQndOOXFQUU05WlpBMmJhMnBuZkU0a2JFRE1kYksyUWFKbGlDWVhsVU5Ed2Vpc2dpWDVaeXh3S0J5TmtqZFBfVzRCOWQxem5OdEpTZy1SNE9hd090YWRzblNMSHItMW8ycEJkdzZ3NGRNaGk2ZEZWQ1lLaXZYNzdBR1F6N1h1aUs3UndwS1BZRllFTlVrM2F2NzJGZkNOdzB2aDJ2SVRoMm1oQnpuT1R0dC1JSDZkeFNBRENVbURFS2ctM3VkY1Vlb200NkZZRVV5eHZscnd1NElZV3d4NnVid2RuekZEenhGOGxkX01DdERDdEVXbS1nOGZQTnVrdmlHVTdCVFBpeUVxUmJtMjdkWUl0NGg1MjFiZlc4QXVHcW0zdVVDYXh6WWtwcHVZRG0xeTJUMXFlcjJpUnhWUTNzcGF1OVVBdWlRdDRlZ0UyLUZ2eU5XMlNRcnh6VHNUc0xPMTNueERwZ0I0cmRZZkRVMlRUVUJVOGtfUTAydzhjY1J0OEFKVGNRbW1KZDByU1NXQXhBcV9PRFFXWGpKSml1TTlDLVRSejRFaXFyeklpRFpqSHJTanVKMUd1N3J3cXNEQU9RUTV5Q0x6aEE2eDVKaDl0Zko4SUJ4X1RycDVjbVRoQUUteFRwWjU2VWxlTnJxYk1YYk1RTTlIbmpjTEZnVGxINjB1dzJEdW5XcUVkcmZ3MHRDbVRfbVpyNVd1VW5NT2Y2eHJRaFAwNXRkNl80alBsTEVPZjZtMFVWV3BaOS1zVWQ5bW5KeTd6NDRDWFFvMmk1YmdfR2R5aTkzM29OdzczeGFsLTI2STBXWGJCX0ptbG9ZaVhaZEZoWkdIbUVkQVEwbG85S2dTMUkweWhHSWJEM3FtY05CdVE?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-03T06:12:28Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายระดับชาติเกี่ยวกับสวัสดิการผู้ประกันตน"
+    },
+    {
+      "id": "204c6ff9",
+      "title": "กทม.-12 จว.เช็กด่วน ออมสิน-ปภ.โอนเงินเยียวยาน้ำท่วมล่าสุด 9,290 ครัวเรือน",
+      "summary": "ออมสินและกรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาน้ำท่วมครั้งล่าสุดให้ 9,290 ครัวเรือนในพื้นที่ กรุงเทพมหานครและ 12 จังหวัด ประชาชนที่ได้รับผลกระทบสามารถตรวจสอบสถานะการโอนได้",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxa2xOa1Z1YWY5cEZOTExLU0ZZd2JGQjdRenhZYzJwOEpNSFJ3bE8ycGVfOUlfSGdlN0U2b1R4UzhZQzRKaEE3cXpaRkV6dkVhODZRbEZWMU02VkFN?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-03T05:43:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงครัวเรือนจริงในหลายจังหวัด"
+    },
+    {
+      "id": "0cc71345",
+      "title": "ครม.ไฟเขียว งบฯ 5.8 พันล้าน ชดเชยมาตรการ ‘ค่ารถไฟฟ้า 17-45 บาท’ ตั้งแต่ 1 ม.ค.-31 ธ.ค. 70",
+      "summary": "คณะรัฐมนตรีอนุมัติงบประมาณ 5,807 ล้านบาท เพื่อชดเชยมาตรการลดค่าครองชีพ ผ่านอัตราค่าโดยสารรถไฟฟ้า 17-45 บาทต่อเที่ยว รวมถึงค่าธรรมเนียมการโอนเงินคืนให้ประชาชน โดยมาตรการมีระยะเวลาตั้งแต่ 1 มกราคม ถึง 31 ธันวาคม 2570",
+      "url": "https://www.prachachat.net/economic/news-2089916",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-03T05:04:11Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มาตรการลดค่าครองชีพที่มีงบชดเชยชัดเจนและส่งผลต่อประชาชนโดยตรง"
+    },
+    {
+      "id": "da277a73",
+      "title": "ครม. ไฟเขียวแก้ พ.ร.บ.ประกันสังคม ขยายอายุผู้ประกันตนถึง 65 ปี ยืดหยุ่นสิทธิชราภาพรองรับสังคมสูงวัย",
+      "summary": "คณะรัฐมนตรีเห็นชอบแก้ไข พ.ร.บ.ประกันสังคม เพื่อขยายอายุของผู้ประกันตนออกไปถึง 65 ปี และยืดหยุ่นสิทธิประโยชน์ชราภาพ เพื่อรองรับสังคมผู้สูงอายุ โดยรายละเอียดเงื่อนไขและวันมีผลบังคับใช้ยังไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQ2dDUUt5TXZlVU5ZWTJjV3NHMTR6V3ZoWm1iZ2hJcWdnUm1jVGhLcHZNQmJkQWcwR2F1Z05TUmlfZnBWNTFlNmxaTnhQZU9IZzByaUJqbnByX2Z6ZHZLTnJhSFpST3JCSEsydl93?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-03T06:07:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายระดับชาติที่กระทบสิทธิประกันสังคมของแรงงาน"
+    },
+    {
+      "id": "77a7f255",
+      "title": "ครม.สัญจร ผ่านร่าง พ.ร.บ.ประกันสังคมใหม่ ขยายอายุ ม.33 แตะ 65 ปี",
+      "summary": "คณะรัฐมนตรีสัญจรผ่านร่างพระราชบัญญัติประกันสังคมฉบับใหม่ ขยายอายุผู้ประกันตนมาตรา 33 ให้ถึง 65 ปี ข่าวไม่ระบุรายละเอียดเพิ่มเติมเกี่ยวกับเงื่อนไขและวันที่มีผลบังคับใช้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wUENnTkduMHZZS2tCQ0R1ckdkM041eDVfcGFEdjdZYlcyMk1LcXhjQndTdkRSTU1VXzdCQjB0d184NkRiV05Xbm1IeENTRWVjY3lDemRB?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-03T06:01:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ร่างกฎหมายสวัสดิการสังคมระดับชาติ เป็นข่าวซ้ำกับรายการอื่น"
+    },
+    {
+      "id": "1a507817",
+      "title": "ครม. เห็นชอบร่าง พ.ร.บ. \"ประกันสังคม\" ขยายอายุผู้ประกันตนถึง 65 ปี",
+      "summary": "คณะรัฐมนตรีเห็นชอบร่างพระราชบัญญัติประกันสังคม ขยายอายุผู้ประกันตนให้ถึง 65 ปี ข่าวไม่ระบุรายละเอียดเพิ่มเติมเกี่ยวกับเงื่อนไขและวันที่มีผลบังคับใช้",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LcUU3bDVqdjQteW5MR1Iwc2NRczNZd09MenpLMWRyOXBwVlpfQmU5SGkzLU1mU1p2YjRERXBZSUpOekMtQm03aS1tY2FNRXVWU2hzaA?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-03T05:50:03Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ร่างกฎหมายสวัสดิการสังคมระดับชาติ เป็นข่าวซ้ำกับรายการอื่น"
+    },
+    {
+      "id": "7b6124db",
+      "title": "ครม.อนุมัติร่าง พ.ร.บ.ประกันสังคมใหม่ ขยายอายุผู้ประกันตนถึง 65 ปี",
+      "summary": "คณะรัฐมนตรีอนุมัติร่างพระราชบัญญัติประกันสังคมฉบับใหม่ ซึ่งขยายอายุของผู้ประกันตนให้ถึง 65 ปี ข่าวไม่ระบุรายละเอียดเพิ่มเติมเกี่ยวกับเงื่อนไขและวันที่มีผลบังคับใช้",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kdFpCQWVQeEhRUmlKUXEyNVkzSDNPVTVUWThMbFhVMjlqU3F4TVJfQWprTmVVY1RQZlBWVi1VdHd2STNNWk5wQVVmVFdVU1Fjem1iSVJGdGFSTXFT?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-03T05:33:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ร่างกฎหมายสวัสดิการสังคมระดับชาติ แต่ยังอยู่ในขั้นเสนอร่าง"
+    },
+    {
+      "id": "6f563ffe",
+      "title": "เงินอุดหนุนบุตรเดือนพฤศจิกายน 69 โอนวันที่ 10 พ.ย.เช็กผู้ได้รับสิทธิ์",
+      "summary": "เงินอุดหนุนบุตรประจำเดือนพฤศจิกายน 2569 จะโอนในวันที่ 10 พฤศจิกายน ประชาชนสามารถตรวจสอบสิทธิ์ผู้ได้รับเงินได้ ข่าวสั้นไม่ระบุจำนวนเงินต่อคน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVWs3VktFRmRlTkFyTlp6UWw1cFRyY2R6RkNUSUxaNUljUnd0VVpiLW5XVWtKTG9GSGlFb1loOGtXWWU0SlJ0RkZqYUY2aXJJNDdjV25RUXAtWlpE?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-03T04:30:00Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีวันโอนเงินชัดเจนถึงผู้รับสิทธิ์"
+    },
+    {
+      "id": "0cfbaab7",
+      "title": "กทม.-สุพรรณบุรี เช็กพร้อมเพย์ โอนเยียวยาน้ำท่วมอีก 1.7 หมื่นบ้าน",
+      "summary": "กรุงเทพมหานครและจังหวัดสุพรรณบุรีตรวจสอบการโอนเงินเยียวยาผู้ประสบอุทกภัยผ่านพร้อมเพย์เพิ่มเติมอีกประมาณ 1.7 หมื่นหลังคาเรือน ผู้ประสบภัยสามารถตรวจสอบสิทธิและรับเงินเยียวยาตามขั้นตอนที่กำหนด",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aRlUwaWYzNXdYMFdQaDJ0OWFLX055Uk5odHNmX1pGb09YcmNsTXNsZlZuTGVWcjYyYlVNTU4zdm1jamhpUFM0bFRIaDc3azE1aEhXaWRDTWtDaUR1SmwyODUzbmVGUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-02T08:25:02Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "กรุงเทพมหานคร",
+        "สุพรรณบุรี"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การโอนเงินเยียวยาถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "9e0c5923",
+      "title": "ปภ.-ออมสิน เร่งโอนเงินเยียวยาน้ำท่วม ล่าสุดจ่ายแล้ว 73.31% วันนี้เพิ่ม 59.22 ล้านบาท ช่วย 9,290 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยและธนาคารออมสินเร่งโอนเงินเยียวยาอุทกภัย ล่าสุดจ่ายแล้วร้อยละ 73.31 วันนี้โอนเพิ่ม 59.22 ล้านบาท ช่วยเหลือ 9,290 ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wbW54bWFTaHpMdjA4ZkNQS1NlWlhMZ1lXSDN3NHFKRmhCMk5oRlVRdnNadmw5aV9TWDYtbTdjbG1fVVFISHVxbEhpSWtsMFNwc3MwaUhjUFhjdXBjaVpEUGt4b25iaFNXVmliRVp3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-03T07:12:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "เงินเยียวยาจริงถึงครัวเรือนผู้ประสบอุทกภัย"
+    },
+    {
+      "id": "92d2af22",
+      "title": "‘ปภ.-ออมสิน’โอนเงินเยียวยา’น้ำท่วม’ จ่ายแล้ว’ร้อยละ73.31′ 9,290 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยร่วมกับธนาคารออมสินดำเนินการโอนเงินเยียวยาอุทกภัย ล่าสุดจ่ายแล้วคิดเป็นร้อยละ 73.31 ของผู้มีสิทธิ จำนวน 9,290 ครัวเรือน โดยวันนี้โอนเพิ่ม 59.22 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85RDRBZUNDUkV1VHV5VlFVS0JWMGxlcHFVb2s1Nnc3OVFPbXpLNnp6VXhhNG1xQkk3ay1SODFlRGhXNXhPSUl0d21pT0J1eHFHRDVN?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-03T06:39:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "เงินเยียวยาจริงถึงครัวเรือนผู้ประสบอุทกภัย"
+    },
+    {
+      "id": "3f272e42",
+      "title": "เงินอุดหนุนบุตร พฤศจิกายน 2569 เข้าวันไหน เช็กสิทธิรับ 600 บาทที่นี่",
+      "summary": "ข่าวแนะนำการตรวจสอบสิทธิและวันโอนเงินอุดหนุนบุตรประจำเดือนพฤศจิกายน 2569 โดยระบุว่าผู้มีสิทธิจะได้รับเงิน 600 บาท อย่างไรก็ตาม ข้อมูลที่ได้รับไม่ระบุวันโอนที่แน่นอน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kYUh5NTU4c2ZGbmNIdWkxX1pVdzktWXJuQ1VxNVBDeG5ZUWlGN1FLeTJOUm1sZER4Ri02UWxNcW9HVXJTMVdmWUNaZDFkaXFq?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-03T06:25:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินช่วยเหลือโดยตรงถึงครัวเรือนที่มีบุตร"
+    },
+    {
+      "id": "ed2445b8",
+      "title": "เงินเข้าพร้อมกัน พ.ย.69 กลุ่มเปราะบาง เงินผู้สูงอายุ คนพิการ เงินเด็ก",
+      "summary": "มีรายงานว่าเงินสวัสดิการของกลุ่มเปราะบาง ได้แก่ ผู้สูงอายุ คนพิการ และเด็ก จะเข้าบัญชีพร้อมกันในเดือนพฤศจิกายน 2569 ข้อความที่ให้มามีเพียงหัวข้อ ไม่ระบุจำนวนเงินหรือวันที่โอนที่แน่ชัด",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mekljcEZMOTJTQnZ4MTV6eDh1azR2NTZRRElOdGlhTEtEcUhycFMydXY3ZnlkdFdkdU8wenFmWWlUVmdhUnJXVU9GZzZGdXB0dWVrYXUwQzJtQm9BTG51bVRIYl8xQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-03T05:49:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การโอนเงินสวัสดิการถึงกลุ่มเปราะบางโดยตรง"
+    },
+    {
+      "id": "760c85b5",
+      "title": "ปภ.โอนเงินเยียวยาน้ำท่วม กทม.-สุพรรณบุรี กว่า 1.7 หมื่นครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยโอนเงินเยียวยาอุทกภัยให้แก่ครัวเรือนในกรุงเทพมหานครและจังหวัดสุพรรณบุรี รวมกว่า 17,000 ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPUkZfZEw1cldmN0t0N2wtNWxGUTl4NkNRNXgxUE5ZQVdBeS1yUEgzbjAwOUE0VXlyczlKSVFsMkFNTENQUWhUUWhOZHVRbmhJZC1rRlB3RWI?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-02T07:11:14Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร",
+        "สุพรรณบุรี"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินเยียวยาถึงครัวเรือนในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "87c760ba",
+      "title": "กทม.-สุพรรณบุรีเช็กบัญชี! ปภ.ส่งข้อมูลโอนเยียวยาน้ำท่วมกว่า 107 ล้าน ให้ 17,958 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยส่งข้อมูลการโอนเงินเยียวยาอุทกภัยวงเงินกว่า 107 ล้านบาท ให้แก่ 17,958 ครัวเรือนในกรุงเทพมหานครและจังหวัดสุพรรณบุรี เพื่อให้ผู้มีสิทธิตรวจสอบบัญชี",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsbEU5aWdodTAzTldGMW1BY29OU1RPOHZvbVVJYTdrdlBRLW4xdEpCMFpJY1I5QWVvSk0ydkNFdzVvZ1hLUkk3aVV2RUZBNWJTQW9GZ1Zja2YxU3lm?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-02T06:40:09Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร",
+        "สุพรรณบุรี"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินเยียวยาถึงครัวเรือนในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "dae88074",
+      "title": "นายกฯ ไม่กังวลม็อบกระบี่ เตรียมบุกทำเนียบฯ จี้แก้ปากท้อง-ค่าครองชีพ ยันเปิดกว้างแต่ต้องอยู่ในกฎหมาย",
+      "summary": "มีการเคลื่อนไหวของกลุ่มผู้ชุมนุมจากจังหวัดกระบี่ที่วางแผนเดินทางไปยังทำเนียบรัฐบาลเพื่อเรียกร้องให้แก้ไขปัญหาปากท้องและค่าครองชีพ นายกรัฐมนตรีกล่าวว่าไม่กังวล และยืนยันว่ารัฐเปิดกว้างแต่การชุมนุมต้องอยู่ในกรอบกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WVjNPMF9yRUcxZjBKNHF5OC14N1JDZXlCQUhyUFl1TTVTVXdMVF8yXy0wOWh4VWw5V0hRTGI1OHplVTQwc3RwcVhOVGMwM2o1enNQcmR5QWpqcmZS?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-02T07:46:42Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ประเด็นค่าครองชีพที่ประชาชนเรียกร้องโดยตรง"
+    },
+    {
+      "id": "d6eb13af",
+      "title": "ยังไม่ถูกตัดสิทธิ์! ขบ.เปิดยืนยัน\"บัตรสวัสดิการแห่งรัฐ\"เก็บตก กรณีครอบครองรถ 1 - 20 พ.ย. 69",
+      "summary": "กรมการขนส่งทางบกยืนยันว่าผู้ถือบัตรสวัสดิการแห่งรัฐที่ครอบครองรถในช่วงวันที่ 1 ถึง 20 พฤศจิกายน 2569 ยังไม่ถูกตัดสิทธิ์ โดยเป็นการเก็บตกข้อมูลกรณีการครอบครองรถ",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tQ1dDdnhzZ1lDb2FpbzY4d25acW9RdUYzSGJrZnVkYXVQQ0dhS3VLRTVxVUp2QzRpTjc5dVM5VkV2YW5GMHhLNF9Nc1h6RTJPclhQd3hTTlZTX0d1OWtJOQ?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-02T07:18:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เกี่ยวข้องกับสิทธิบัตรสวัสดิการโดยตรงและมีกำหนดเวลา"
+    },
+    {
+      "id": "d828e5c8",
+      "title": "รัฐบาลผนึก 17 องค์กร ยกระดับระบบ “บัตรทอง” ลดเหลื่อมล้ำ 3 กองทุนสุขภาพ",
+      "summary": "รัฐบาลร่วมกับ 17 องค์กรยกระดับระบบบัตรทอง เพื่อลดความเหลื่อมล้ำระหว่างกองทุนสุขภาพทั้ง 3 กองทุน ข้อมูลที่ได้รับไม่ระบุงบประมาณหรือกำหนดเวลาดำเนินการ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94aEx3SFZRYVpuYWxyc3dhSUs3NXNTUFFFcEYtYUl4ay1sai1xS0xqOVNWMkpMTWdrY3R4UVJqTzBfaHUweWpRMlh2SC1NTHd1RlJUZQ?oc=5",
+      "source": "วารสารการเงินธนาคาร",
+      "published_at": "2026-11-02T06:51:24Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการด้านสุขภาพที่กระทบสิทธิประชาชนรายได้น้อย"
+    },
+    {
+      "id": "05367462",
+      "title": "อนุทิน ไม่กังวล! ม็อบท้องถิ่น ประชิดทำเนียบฯ 5 พ.ย. จี้ แก้ปัญหาปากท้อง-ค่าครองชีพ",
+      "summary": "มีกลุ่มผู้ชุมนุมจากท้องถิ่นจะเดินทางเข้าประชิดทำเนียบรัฐบาลในวันที่ 5 พฤศจิกายน เพื่อเรียกร้องให้แก้ไขปัญหาปากท้องและค่าครองชีพ นายอนุทิน ชาญวีรกูล ระบุว่าไม่กังวลต่อการชุมนุมดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WZi1ZcE1MX1NSeF9UUm5uVFViTjJ0RWxteEJkckxhYlFqeEtFZXNOaDFHMmdDWG9RVVEyRGNieU80VXNTZWdlUThSTQ?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-11-02T11:51:12Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "การชุมนุมเรียกร้องแก้ปัญหาค่าครองชีพที่มีกำหนดวันชัดเจน"
+    },
+    {
+      "id": "d1ea82cf",
+      "title": "“เอกนิติ” อัดสินเชื่อ “ดอกคนละครึ่ง” ปล่อยกู้ 3 หมื่นล้าน จ่ายจริง 3%-หนุนโซลาร์ประชาชน",
+      "summary": "นายเอกนิติ นิติทัณฑ์ประภาศ ชี้แจงโครงการสินเชื่อ “ดอกคนละครึ่ง” วงเงิน 3 หมื่นล้านบาท โดยประชาชนจ่ายดอกเบี้ยจริงในอัตรา 3% และโครงการยังสนับสนุนการติดตั้งโซลาร์เซลล์สำหรับประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xeHQxZk9zWE42aXRxalBMMDV3S0NWSnI3Q0VqWVRWRTJqTkcxT0VTVUxPTGI5MldBTmpiMm45Y1JpcEtnYktoazRWbDVXYlUyVzc4UTVBVG5DM1VKTm1CbDJtaUNvODZBdjdtZDZGeTg?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-02T17:32:14Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดภาระดอกเบี้ยแก่ประชาชนโดยตรง"
+    },
+    {
+      "id": "e4f6fc7d",
+      "title": "เงินเยียวยาน้ำท่วม 2 จังหวัด รับเงินน้ำท่วม 5,000-9,000 บาท วันนี้ 2 พ.ย. 69",
+      "summary": "มีรายงานการรับเงินเยียวยาน้ำท่วมในสองจังหวัด ในอัตรา 5,000 ถึง 9,000 บาท ณ วันที่ 2 พฤศจิกายน 2569 ข้อมูลที่ได้รับไม่ระบุชื่อจังหวัดที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vaGhKRTllbGV1S3k4NXQ0OHNhMUNLeTY4QzZuUmhxbTdoTGVFT2dVejRHMDNhOEljQURSMnd6MVN0RGNaZW1jTGVLaEY?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-02T07:07:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เงินเยียวยาจริง แต่ระบุพื้นที่ไม่ครบ",
+      "first_seen": "2026-11-02"
+    },
+    {
+      "id": "8ade3dcf",
+      "title": "CI มอบข้าวสารแก่ครอบครัวผู้มีรายได้น้อย ต่อเนื่องในเทศกาลตรุษจีนปีที่ 51",
+      "summary": "บริษัท ซีไอ มอบข้าวสารแก่ครอบครัวผู้มีรายได้น้อย ต่อเนื่องเป็นปีที่ 51 ในช่วงเทศกาลตรุษจีน เป็นการช่วยเหลือด้านอาหารแก่กลุ่มผู้มีรายได้น้อย ข้อมูลในข่าวไม่ระบุจำนวนและพื้นที่ดำเนินการโดยละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UZlUtS0t6ZGlqZzNJd2plUDZTV1owOEIxVUpZZ05uMnBkNlZnZVlyV3BWb2FFSGxTTnQ4T3htTUtwZmNnM19SMko1V0ZsX2RMdU1uY0xB?oc=5",
+      "source": "มิติหุ้น",
+      "published_at": "2026-11-03T04:02:32Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ช่วยเหลือด้านอาหารแก่ผู้มีรายได้น้อยโดยตรง แต่เป็นกิจกรรมของเอกชน"
+    },
+    {
+      "id": "dc1c67a6",
+      "title": "KKP ประเมินว่าการเกษียณของคนไทยกำลังเจอวิกฤตเชิงโครงสร้าง ประเทศอยู่ในภาวะ 'แก่ก่อนรวย' และสวัสดิการรัฐยังไม่พอใช้ โดยเบี้ยยังชีพผู้สูงอายุครอบคลุมค่าใช้จ่ายได้เพียง 7% ผู้สูงอายุเกือบ 70% จึงยังต้องพึ่งรายได้จากลูกหลานหรือต้องทำงานต่อ ขณะเดียวกันคนไทยมีแนวโน้มอายุยืน",
+      "summary": "KKP ประเมินว่าการเกษียณของคนไทยเผชิญวิกฤตเชิงโครงสร้าง ประเทศอยู่ในภาวะ \"แก่ก่อนรวย\" โดยเบี้ยยังชีพผู้สูงอายุครอบคลุมค่าใช้จ่ายได้เพียงร้อยละ 7 ทำให้ผู้สูงอายุเกือบร้อยละ 70 ยังต้องพึ่งรายได้จากลูกหลานหรือทำงานต่อ ขณะที่คนไทยมีแนวโน้มอายุยืนขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMi9gdBVV95cUxPam1TZ0JRbjVTOUJzRms4ZVBvczN6UEdIQ1hGWlNOR245ZjNna29Kb1ZON3lKclByS1NDRVlPM1otVzc1ZkFDdDdOcFVSZkVySWNrMTJqNlAyX1lzbHhaYjBiMHFCTm5mdnlDdC0yTGdJZ0JtVFJVVFZ2UFgzaW5yUUVJcFNDejBQc0hfeTdQSHZPODNZdEZWbkQ3NGdJdlJIb1J1bV9oNk9XZWFrTGpicWZrRmZ3RUtMOWVscTEzNXo4MnBXSWlqUWpIVFB4TU1YZ0pIa1I0ZWlLMWlZLWJGYjQ5Y21WaUoyTEVaSU9qUm14NjFFTU5KV25kYjF3Z3RaUklmTnJaaUIzanAwd0l4NzlYUHFWSFVROVdJdG1PcUQtUGlFbm1RaGg0V2VLZXk0Zk1pMnk1bndBclpQLWRKSndIczlxcHdrSmY2Z05jTWpBeGl4MUR3OEtBbXNZcmREOXlOblZQQ0ZLVkR0REJrZktBU2ZTb2N3dE05NU1LM3c5ODQyY21pNjFYZm9Xckw1UHpwMVBHeFFxbUZEX29HeURzdVdMM1VxNEJIdWkwdEE2LWdEN3BMUF8ySXctTlVfcDZlZmx3UnUzeF9vQUR2OHFPSngyMDQ0dUZraTJ3dWFjZERyM09lV3hYNjVzRDFXdFhTa0dqTGNGcWRrVGktX0FjS2xkRlB0NDc3M2stU3dhcGpBNlFkbzdHYnpaU1V4UDZKQzVQYVRpUlVicmZFYjZ3NEFMT0RBdkRZZDFHajRUbmtWODYwSVRqejh6RVdEVUxWcG1jeUY1U0ZGWDExMTE1dDF1X0lLSTBiMi1pVzgtOEMzcVdTMTlCV3NzMDdnS1UzeGw3eURjZnp0UEpGM1hEVnJ2R2VGOVRBbUhKMk9iQVV3NUNDU0FJMlJUTEcwSzMyYkVsZlVOOVkzcGQ3UlR0bWlaNTMxdEpmbXJHeW5zbmtfMk40LThwRE9mMko2Rkdyd2tmZG1lUUtrMUJ5MkQzWERKYXp0ZnVTWlNfZkFHbDdfVTN1RnlMd2dqQ3l1dkZzbVlTVHhBS2JSSnJmcC13N1htV0FsdEFYLV9nbjhDWDlQVThlMkFUeHBKSWEwYkJaTkRLUWowSTJCNXVTdGdMZS13UDNqNHI1NG9JT195LUtSNm1kcVZRampHZlZCT3VBdFBfSndsZTNqeVlBcFFzZ285aXJ3UmhWSno2U1VFNmtDem5lbmctZUVkWVFuM04zZXdaRmpULTJDeXptQXIyNUhCMGFIOVhtZjVRUV85U1N4SDgzaUEyMGNOa09hQVJpMXR3RzluVlR4RFJVcVRweld5TFF3REh5VHRRQkprRDluT2c?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-02T09:22:49Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ประเด็นเบี้ยยังชีพผู้สูงอายุและความเพียงพอของสวัสดิการ"
+    },
+    {
+      "id": "bee33235",
+      "title": "สปสช. แจงเหตุชะลอโอนค่าบริการ รพ. อยู่ระหว่างหารือ สธ. หักคืนเงินล่วงหน้า ย้ำคำนึงถึงสภาพคล่องหน่วยบริการ",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) ชี้แจงเหตุผลการชะลอการโอนค่าบริการให้โรงพยาบาล ซึ่งอยู่ระหว่างการหารือกับกระทรวงสาธารณสุขเรื่องการหักคืนเงินล่วงหน้า โดยคำนึงถึงสภาพคล่องของหน่วยบริการ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YaDdXLVI4QUVXenRDWFJ6ODA5X2xSczI3LXRYTERHNjFZWFJMMUtKMUtlbUd0MWh0YjJhbUowcHdNNFpVeGtwX29lbjRvR05qOWVNNnhGZ0luN1U?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-02T10:35:13Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "กระทบการให้บริการสุขภาพของประชาชน"
+    },
+    {
+      "id": "68209638",
+      "title": "“คนจน” ตกหล่น โซลาร์ภาคประชาชน -ค่าไฟเป็นธรรม (2 ก.ย. 69) I ตรงประเด็น",
+      "summary": "รายการตรงประเด็นของ The Active ตั้งประเด็นว่าคนจนจำนวนหนึ่งตกหล่นจากการช่วยเหลือ พร้อมกล่าวถึงโซลาร์ภาคประชาชนและความเป็นธรรมของค่าไฟ ข้อความที่ให้มาเป็นหัวข้อเท่านั้น ไม่มีข้อมูลเชิงตัวเลข",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TbjNIY1Ixd09SVmFvczZxVDRhZHhSN0lvZXkwUGx2eVpzOUJIYTV0NWF5em1CYzFGN1IwR25HZGg0WGFOX3lrRzQ4OEp3WkstRTBhbDNvOUNIVm1rdTRUMnFn?oc=5",
+      "source": "The Active",
+      "published_at": "2026-11-02T07:23:12Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ประเด็นคนจนตกหล่นและค่าไฟ แต่เป็นรายการวิเคราะห์เก่าและข้อมูลน้อย"
+    },
+    {
+      "id": "a679a1e1",
+      "title": "เปิดแผนปฏิรูป ‘ระบบปฐมภูมิ’ ปี 70 กางงบใหม่ ‘500 บาทต่อหัว’ อีกกลไกสร้างจุดเปลี่ยน ‘บัตรทอง’",
+      "summary": "มีการเปิดเผยแผนปฏิรูประบบปฐมภูมิสำหรับปี 2570 โดยกำหนดงบประมาณใหม่ที่ 500 บาทต่อหัว ซึ่งถูกระบุว่าเป็นกลไกที่อาจสร้างการเปลี่ยนแปลงสำคัญให้แก่ระบบบัตรทอง ข่าวไม่ได้ระบุรายละเอียดการดำเนินงานเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1od1lpbS1PbDR1VDJWZVpPWEN5TnNwSHBPenZ6SEJGM2Q0RzRBV08yUTJ1NkVRRjdrZktyVGFYbDBLSUNxSTM0YWxfYTFBRlZ2TEtFdjUtdGN3S00?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-03T06:34:14Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "เกี่ยวข้องกับบัตรทองแต่เป็นข้อมูลแผนงานเบื้องต้น"
+    },
+    {
+      "id": "0ec5066d",
+      "title": "ครม. เห็นชอบเขตสำรวจจัดรูปที่ดินกว่า 8,500 ไร่ พัฒนาระบบชลประทาน",
+      "summary": "คณะรัฐมนตรีเห็นชอบในหลักการร่างพระราชกฤษฎีกากำหนดเขตสำรวจการจัดรูปที่ดินในจังหวัดกาฬสินธุ์และเพชรบุรี รวมพื้นที่กว่า 8,500 ไร่ เพื่อพัฒนาระบบชลประทานและเพิ่มประสิทธิภาพการเกษตร ตามที่กระทรวงเกษตรและสหกรณ์เสนอ",
+      "url": "https://www.khaosod.co.th/economics/news_10459255",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-03T05:57:53Z",
+      "category": "farmers",
+      "provinces": [
+        "กาฬสินธุ์",
+        "เพชรบุรี"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ผลกระทบต่อเกษตรกรในพื้นที่เฉพาะ เป็นมาตรการเชิงโครงสร้าง"
+    },
+    {
+      "id": "882d9101",
+      "title": "“หมอรัชริน” ตั้งคำถาม สปสช.ชะลอโอนเงินรพ. ซ้ำเติมวิกฤตสภาพคล่อง จี้ทบทวน Global Budget",
+      "summary": "พญ.รัชริน เบญจวงศ์เสถียร ประธานองค์กรแพทย์โรงพยาบาลพุทธชินราช จังหวัดพิษณุโลก ตั้งคำถามต่อการชะลอโอนเงินของ สปสช. ให้โรงพยาบาล ระบุเงินชดเชยต่ำกว่าต้นทุนจริง และเรียกร้องให้ทบทวนระบบ Global Budget เพื่อไม่กระทบบริการประชาชน",
+      "url": "https://www.hfocus.org/content/2026/11/40116",
+      "source": "Hfocus",
+      "published_at": "2026-11-03T01:21:08Z",
+      "category": "health",
+      "provinces": [
+        "พิษณุโลก"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข้อเรียกร้องที่อาจกระทบบริการสุขภาพประชาชน"
+    },
+    {
+      "id": "abaed292",
+      "title": "รายงานพิเศษ : สิทธิบัตรทอง คัดกรองมะเร็งคุกคาม ตอนที่ 1",
+      "summary": "รายงานพิเศษตอนที่ 1 เกี่ยวกับสิทธิบัตรทองและการคัดกรองมะเร็ง ข่าวสั้นไม่มีรายละเอียดเนื้อหาหรือมาตรการที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xT2tWRHc4a0VCWlVXd25KMlBfVXVYMXZMNFY2aHViWTVnYUNlakFYdl9fS0FobHA3bnd4TDhaVzQxdDJJYXhz?oc=5",
+      "source": "www.ch7.com",
+      "published_at": "2026-11-02T13:52:41Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับสวัสดิการสุขภาพ แต่ข้อมูลน้อย"
+    },
+    {
+      "id": "c34461f1",
+      "title": "แจกเงินให้คนถือบัตรสวัสดิการแห่งรัฐ คลังตอบแล้วคืออะไร - Tnews",
+      "summary": "มีรายงานข่าวเกี่ยวกับการแจกเงินให้ผู้ถือบัตรสวัสดิการแห่งรัฐ โดยกระทรวงการคลังได้ชี้แจงแล้ว อย่างไรก็ตาม เนื้อหาในข่าวที่ให้มาไม่ได้ระบุรายละเอียดของมาตรการ จำนวนเงิน หรือเงื่อนไขการรับเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04VW53U3VIYkxZTVFyVl9DLTVoZE13NUNYV0JnZDFKNW1SMndIWC1MalhZYkpMSUdrYUFJeG5lVC01bEQzRnhrWENGZGE5OVVMbmRHZ0lIZ2k1OWdnR2c?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-02T08:56:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับเงินช่วยเหลือ แต่ข้อมูลในข้อความมีน้อย"
+    },
+    {
+      "id": "516752f7",
+      "title": "“อภิสิทธิ์ “ ระบุ ประชาธิปัตย์ พร้อมลุยซักฟอกรัฐบาล เล็ง 3-4 รมต. จี้แก้ปมค่าครองชีพ-กังขาความโปร่งใสเงินกู้",
+      "summary": "นายอภิสิทธิ์ เวชชาชีวะ ระบุพรรคประชาธิปัตย์พร้อมอภิปรายไม่ไว้วางใจรัฐบาล และเล็งตั้งกระทู้กับรัฐมนตรีประมาณ 3-4 คน โดยเรียกร้องให้แก้ปัญหาค่าครองชีพและตรวจสอบความโปร่งใสของการกู้เงิน",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Dekp0R2trZjVxWlg4WVhNTFhVU2pmSkg1ZThsTU53VFFmblYwZnFETWN0MTMzTHJfbEl1blFobWNxNzJYSE5JQXlPSU4tRkFpUWotZE9ZNExtUQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-02T08:45:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นค่าครองชีพเป็นข้อเรียกร้องทางการเมือง"
+    },
+    {
+      "id": "a847f7ac",
+      "title": "วิกฤตคนไทย \"แก่ก่อนรวย\" ไม่อยากรอพึ่งสวัสดิการรัฐตอนเกษียณ ต้องวางแผนยังไง | Thairath Money",
+      "summary": "บทความเผยแพร่ในหัวข้อวิกฤต \"แก่ก่อนรวย\" ของคนไทย ซึ่งไม่อยากรอพึ่งสวัสดิการรัฐเมื่อเกษียณ และแนะนำแนวทางการวางแผนการเงินเพื่อการเกษียณ ข้อความที่ให้มาสั้นเกินกว่าจะระบุข้อมูลเชิงตัวเลขได้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NeGtHa0t1UXRBd1R6ZWxOOHY1X0pwLThaUFh0VlBuQUluenlQdEUzN1pYRjJqbjRUbG9NU3cteVZqOVhoZ2hFc1JMUkwtZEp5VXBJV2RR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-03T01:48:14Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นบทความแนวแนะนำและต่อเนื่องจากประเด็นผู้สูงอายุ"
+    },
+    {
+      "id": "ad146146",
+      "title": "ดร.พิพัฒน์ เผยไทยสูงวัยก่อนรวย หวั่นระบบสวัสดิการผู้สูงอายุไม่เพียงพอ",
+      "summary": "ดร.พิพัฒน์ ระบุว่าประเทศไทยกำลังเข้าสู่สังคมสูงวัยก่อนที่จะมีความมั่งคั่ง และแสดงความกังวลว่าระบบสวัสดิการผู้สูงอายุอาจไม่เพียงพอรองรับ ข่าวสั้นไม่มีรายละเอียดตัวเลขหรือมาตรการเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNQzBKZGNLVm9aRVNGTHJvVlBTNnUwcVlxajlVWlZOczdwdG9sZWdWNEdKRmxFd2VRVVJ3R1ZYUkJma3VJeHlvdjBudWZZNG40VWVMdjZlUEU5MGNxME9GQlh3WEZYeGhKRzhTc3pB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-02T09:26:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นสวัสดิการผู้สูงอายุ แต่เป็นความเห็นทั่วไป"
+    },
+    {
+      "id": "efccb769",
+      "title": "“3 รพ.” ร้องสมาพันธ์แพทย์ รพศ./รพท. เหตุสปสช.ชะลอโอนเงินค่ารักษารวมเกือบ 2 ล้านบาท",
+      "summary": "โรงพยาบาลสามแห่งร้องเรียนต่อสมาพันธ์แพทย์โรงพยาบาลศูนย์และโรงพยาบาลทั่วไป เนื่องจาก สปสช. ชะลอการโอนเงินค่ารักษาพยาบาลรวมเกือบ 2 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmZjN0TVAwd1lrTlNnamxVQmxnbW55YzZ3cW5EcGVISGphTDV4ZzdEOHR4ZG1xajFUc053UGN2MmNHSm45ZndoNnI1T1JOX2YyVjdnbTc2SQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-02T07:20:53Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "กระทบระบบหลักประกันสุขภาพ แต่เป็นข้อพิพาทระหว่างหน่วยบริการ"
+    },
+    {
+      "id": "23ffacfb",
+      "title": "มท.-สภากาชาด-สปสช.-มธ.’ อบรม Meta Reverse เพิ่มศักยภาพ อบจ. ลดผู้ป่วยเบาหวานระดับพื้นที่",
+      "summary": "กระทรวงมหาดไทยโดยกรมส่งเสริมการปกครองส่วนท้องถิ่น ร่วมกับสภากาชาดไทย สปสช. และมหาวิทยาลัยธรรมศาสตร์ จัดอบรมเชิงปฏิบัติการ Meta Reverse เพื่อเพิ่มศักยภาพบุคลากรสาธารณสุขขององค์การบริหารส่วนจังหวัด โดยตั้งเป้าลดอัตราผู้ป่วยเบาหวานรายใหม่ในระดับพื้นที่",
+      "url": "https://www.hfocus.org/content/2026/11/40122",
+      "source": "Hfocus",
+      "published_at": "2026-11-03T06:22:15Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "กิจกรรมด้านสาธารณสุขระดับพื้นที่ ผลกระทบต่อประชาชนโดยตรงยังจำกัด"
+    },
+    {
+      "id": "31f8d727",
+      "title": "“วราวุธ” สั่งโรงงานเยียวยามลพิษปราจีนบุรีทุกบาท รอผลตรวจน้ำ-ดิน",
+      "summary": "รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมสั่งให้โรงงานเยียวยาความเสียหายจากมลพิษในปราจีนบุรีทุกบาท ระหว่างรอผลการตรวจน้ำและดิน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUamxmOWJWUy1qTWVONmlXVmZlMzItdF9uVjRpOGpVaDlIVGI3bE5FTFJqalFuS1AyLU5XNkwxSmZGSmVKd0RvUGFCUlZHZnZkSXJjdy1n?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-11-03T05:58:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 45,
+      "why": "การเยียวยาผู้ได้รับผลกระทบในพื้นที่ แต่ไม่ใช่สวัสดิการรัฐโดยตรง"
+    },
+    {
+      "id": "ae7bc93b",
+      "title": "กยศ.ม.พะเยา แจงปมข้อความหลุดไม่สุภาพ อ้างระบบพิมพ์เสียงผิดพลาด ชี้จะพูดว่า \"ขวาย ขวาย\" . กลายเป็นประเด็นที่ถูกพูดถึง หลังหน่วยกองทุนเงินให้กู้ยืมเพื่อการศึกษา หรือ กยศ. มหาวิทยาลัยพะเยา เผยแพร่ข้อความประชาสัมพันธ์ที่มีถ้อยคำไม่เหมาะสม จนทำให้เกิดความเข้าใจคลาดเคลื่อน",
+      "summary": "กองทุนเงินให้กู้ยืมเพื่อการศึกษา (กยศ.) มหาวิทยาลัยพะเยา ชี้แจงกรณีข้อความประชาสัมพันธ์ที่มีถ้อยคำไม่เหมาะสมเผยแพร่ออกไป โดยอ้างว่าเกิดจากระบบพิมพ์เสียงผิดพลาด ทำให้เกิดความเข้าใจคลาดเคลื่อนและกลายเป็นประเด็นที่ถูกพูดถึงในวงกว้าง",
+      "url": "https://news.google.com/rss/articles/CBMi-wdBVV95cUxNYmV2NTRPY2Y4X1ZHV0h0VlpuZkhtUFJQazIxcHlkMmxYREFiQVoxc29ab3I3M25hM3VkUDFacEZCUWdwanBRRVFSeG4zUHJ1UjR6R0p6eGFBWGlEbzdnZ0NkdXlWbjltbmtfZnNXXzA3QlBFNXJqcVkydXI4TDlPTktZemd0VVlZNFdubnFfNm1YaWhqZEcxTmJFYXJHUVh6Q1RXNU9NTkRXSUhUenFWTlhKeGp1eDNPMVpWVGZUdGI5QTg4X2pEcG5jcnpsZ1FFSjlDNml5Vl9Ra1BkeUxnUlBNSDhFYlEzSk04dVhoT0xmWElOcE40ZHh6YktHbGdBZk9ZT1NHazg3SVpyZVVrd3ZlMWNkMnNIRXltZkdaejlGSHo2NEhPOGpWOFR2T0Y0bExUZWlJU21CSlQwTGctWGRFRjk1bnhwTVp5VmxKMDZ0ZGhWcTVMbDU4WTJBR1llSXZFVzQ4Smo1blVHWTdzWGV6aUtmMGRUUHRLMmMwNkdhTXJxekpnX3lscWc0QmpZdWFtZEx3cTJETTVOU1UyVXpyb0xRdUZWZVF1RWhwN1lXVGdrd0UyWWFCSWFtVmVIOTc5OHhkNk1WZGZiUXJKWVRJa3VSeHI0czlYZ0d6WnBBS2NwTDhNTkk4ZEJXYmRKZ2pfcVFDZHBsU0w4Z1JZQXhual9lWm04cDFxTUxNbmlvSkpmN3hVNEQtc1ppQzNBeEF4WXpXQzU3M1IzR0UwZjNleGt4ejFJQmkzVGMwZjN2aFp0cDZoUWZHUVdnY2VlUnRBNjN5Q1RFUWhfZlExTkh3Y3N3UUg1RUZhMHB6cGU1Q1lGeVFhMXg0amYxZ1U1UHVFN2hMQ0dCZjFYT0pIVWFKZEpyalN0Y2FMSGNSUzNwcE9VaWh1NmFnRHJDUWVrRXFiTzJOZmVJaEpWR0drTkkxU19pckJEaG9yWWZlNmwzOGdDVGp3VnlsZVkzb0prdjZQN3ZfQ0dPTmZDODVaSWw0ZXNxVWo1MkRXN2ZleHNBYWpJNlc3NEJ3dFJ3cW1LWlBhSXdVOTdwQVJpN2M2TE1DZ0NIb1pXdnljUUYyUEszcVdFUThKNlBZQmdzeFZKLS01TnhseGFrZFVBNFladmMxUm9ZQ0VRejdZTTFxekp2b1pybkxLVXc1U3pfdUFiNFdjVExRU2tkeWg2RnhOUzhkaktOa1gyR1laTGpzU2VVelVWYmVzbHhRYko5T0ZWUFZodndqb1pYYzdfdHN6dktxSlNQR1lwTC1hZzY0eUpZbllOUlNkUHRfZVA5NGdwVEVidTB6aDluT0VZbUVLbV9FZXhla0h1WGVmRUdrY2RZcWVRZTE1SVBnWQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-03T03:11:54Z",
+      "category": "education",
+      "provinces": [
+        "พะเยา"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับการให้กู้ยืมการศึกษา แต่เป็นประเด็นถ้อยคำและการชี้แจง"
+    },
+    {
+      "id": "d6b27ed0",
+      "title": "'วราวุธ' สั่งผู้ประกอบการเร่งเยียวยาชาวปราจีน จากผลกระทบสารปนเปื้อนในน้ำ",
+      "summary": "รัฐมนตรีว่าการกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อมสั่งให้ผู้ประกอบการเร่งเยียวยาชาวปราจีนบุรีที่ได้รับผลกระทบจากสารปนเปื้อนในน้ำ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82RGNmakFmbnJJSG55N2hLclllall4cXQxSzdnOEpuWnNHZ21NUTZIMWxmZ2hMZndmUkYtNTNZOHB5aVlBNzM2RjQwSWZSWGJ4a3RRN3pIc2dfd2d0?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-03T02:21:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 45,
+      "why": "ผลกระทบต่อประชาชนในพื้นที่ แต่ไม่ใช่มาตรการสวัสดิการโดยตรง"
+    },
+    {
+      "id": "7275fea0",
+      "title": "รมว.คลัง ลงพื้นที่จังหวัดอุดรธานี ก่อนเข้าร่วมประชุม ครม.สัญจร ตรวจเยี่ยมการดำเนินงาน ธ.ก.ส. ในการขับเคลื่อนโครงการตามนโยบายรัฐบาล",
+      "summary": "รัฐมนตรีว่าการกระทรวงการคลังลงพื้นที่จังหวัดอุดรธานีก่อนเข้าร่วมการประชุม ครม.สัญจร เพื่อตรวจเยี่ยมการดำเนินงานของธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) ในการขับเคลื่อนโครงการตามนโยบายรัฐบาล",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxORFFPdU9lNXVwUHFpcTdaR2tDU3g5amY1cGVLN29obW9mNGZsZ1A5VXkzQVhRSkRFY2w5eGh0SXZqemx6MEdBTktfc0VEUW5oUy0tWW1KSTU2Y0lwa0hVb0lFdDdDb2VJZ3dQM3BYVWtjejdMVlk1U25xUUhsWmVEQkl0VjliSTBSN1pHUlIta0s1QkZxZ2xrVm4wZDNtamhnVHRFY0VWekpBdXR1UF8xQzluZnVyQlM3bkM3NlBfRWpsTjRlc0loUWZfSGo0UnJzcjJRMDJlM0o5dENJZ056U0Yzc3JpcU1YQ0Y0dHlKclBGMXgyUTZvcjJqb3ZIVkJCSHE0eDVMWlpES19JRU5hMzF2djkwUzMtbG5SQ1ByQUx3T2RpTEV3aFdnQVhibXRzbV9lRmVONi0wN19RcjRaakpkT0MwWmdVY1Vj?oc=5",
+      "source": "สำนักข่าวบางกอกทูเดย์",
+      "published_at": "2026-11-02T12:26:30Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "อุดรธานี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "การติดตามโครงการของ ธ.ก.ส. ซึ่งเกี่ยวข้องกับเกษตรกร"
+    }
+  ]
+}
