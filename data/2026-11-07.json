@@ -1,0 +1,630 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T06:51:00Z",
+  "window": {
+    "from": "2026-11-06T04:50:08Z",
+    "to": "2026-11-07T06:50:08Z"
+  },
+  "stats": {
+    "fetched": 194,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 16252,
+    "ai_output_tokens": 12461,
+    "cost_thb": 0.29,
+    "runs": 1,
+    "kept": 39,
+    "eastern": 4,
+    "national": 35,
+    "new": 34,
+    "followups": 5,
+    "sources": 24
+  },
+  "items": [
+    {
+      "id": "7878bfc6",
+      "title": "ได้เงินยัง? โอนเงินเยียวยาน้ำท่วมวันนี้ 32,458 ครัวเรือน เป็นเงิน 209 ล้านบาท | The Bangkok Insight",
+      "summary": "มีการโอนเงินเยียวยาอุทกภัยในวันนี้ให้แก่ 32,458 ครัวเรือน รวมเป็นเงิน 209 ล้านบาท ผู้ประสบภัยน้ำท่วมจึงได้รับเงินช่วยเหลือโดยตรง ระบุพื้นที่ที่เกี่ยวข้องไว้ในเนื้อหาข่าวไม่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05Y2pCU2l0bDJDdll3dlh6RGQ3cVk4N1VWVTlYbW1iMm9LSXd4QVE5cmdQTzhZWnUzV0xoYU5OSWpTWEJyajFnWkVkMmNDMDgxeXBwVlZR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-06T18:55:34Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือครัวเรือนจริงพร้อมตัวเลขชัดเจน"
+    },
+    {
+      "id": "0831c72d",
+      "title": "BANGKOK: 'ชัชชาติ' คาดเริ่มโอนใน 1 เดือน หลังสภา กทม. ไฟเขียวงบเยียวยาน้ำท่วม 1.1 พันล้าน ขอ ปชช. ไม่ต้องรีบต่อคิวข้ามคืน เหตุขยายเวลายื่นถึง 30 พ.ย. นี้ วันนี้ (6 พ.ย. 69) นายชัชชาติ สิทธิพันธุ์ ผู้ว่าราชการกรุงเทพมหานคร ให้สัมภาษณ์ภายหลังสภา กทม. เห็นชอบร่างข้อบัญญัติกรุงเ",
+      "summary": "นายชัชชาติ สิทธิพันธุ์ ผู้ว่าราชการกรุงเทพมหานคร คาดว่าจะเริ่มโอนเงินเยียวยาน้ำท่วมภายในหนึ่งเดือน หลังสภา กทม. เห็นชอบงบประมาณเยียวยา 1.1 พันล้านบาท และขยายเวลายื่นคำขอถึงวันที่ 30 พฤศจิกายนนี้ จึงขอให้ประชาชนไม่ต้องรีบมาต่อคิวข้ามคืน",
+      "url": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxOenI3MGNBOUZsc3dBclVsWmp2el9qYlA4a1BzMkJ6YzJZRTJRQlAxYmdGUHhoUFFOMm5pWEYxRzNpVWNxZlFxQ3ExZUFMdURuZXE1ZlBkUjVRZ2VLcDMwWVpmSi1VWmxtTmFhdFd2RUt2Qi1LSjc1d1FtTllMbWJGWnhPRjQ5STMxb01CVzYybTIzdTJKcFF6QU1IUGUtbFU1YXlmbE54cFZDTHBCZ1F0UW9mVFEtRXJOT3hOZ1BESEJ6Q0JBVHFDaGxLdlRYQ0ktbjU3VGkzTUlOb1Y2Z1Y5bUhGZEhEWF9QWDZWNS10emtVYTduWkdjaGZWMnhqMVBqRG8wb2ZpYzFJTWNld3VTeHBGdlBjQmNWT0hMVGNBbFY2eThPZ3VJaXNteTNQUGoxcWctTTVJVEdaSWNOSEhLTW9FZ2NxbEFKSE9nYUxEZEszU1N6bW1JSEZoMUxNUzBXaEtFS2hDZjhLTXhqZzQ5T1BjdURPQXdXVnozamlSLTVsZ1k1SkZ6Qmhla1lsamJqS1RIbkdTWVNMZlBwRGE0UEY3bnJNSjc1bDRXYzllRHhoVnlUZWF2VkJCa0NCeEstWlBVeFl2MmpuX0IxVmF1MFQzVWluZ1FIa1hsMFFCUmYtRVA5TEFoek5hV3NEMHFPdk5tdmZYOWs2X3N6WGZkWW9ZNlBkUGItMHRWd3BaSUdwNGhnVlM4ajdTdmpTRllMb3lRQ3h1X1h4V1JramhReEtIdk9wdEJhZTM2SGluYUF4SjVHb0FYZ1BVRWVEUXVXQWlSVk1NSWxMdUxVUG1FWTdYbmZUMVc5RXVNbUN6b2JxRkM0R3luWUxnamFjS1lXZnY1MlBnOWRaM19ITUQ1Q2RRcXBDU29Fa3Fndncwb3BLcHdtLTBWZXl3ay1TZWlDbTlsUzBPNU95YzQxcmZVbkhwNE9mZ01CalVaaHl4UmZXX3B2Tm5rZkEtV25XbWMxOWJhOXNxdXdmenQzcDFjR3B0ZUZwUUdWRldhOWF6dUEzZzBlclhvTktHOFliTUlvXzc0WU4tdGEwSEdvbW1JZTVlV2JJSFJoa19CRzdWcmFOYlRmTURPb0hSbDVGQ0ZrX1gtVlY4X29uc0d6UkVRYUJ4cnJfcE1DUmF3MzlDU1d0dUVIWHJR?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-06T05:56:07Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "งบเยียวยาจ่ายถึงประชาชนพร้อมกำหนดเวลา",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "ee31ccf0",
+      "title": "เช็กเลย ! เงินอุดหนุนบุตร เดือน พ.ย.-ธ.ค. 2569 เข้าวันไหน",
+      "summary": "รายงานกำหนดการโอนเงินอุดหนุนบุตรสำหรับเดือนพฤศจิกายนถึงธันวาคม 2569 เพื่อให้ผู้รับสวัสดิการทราบวันที่เงินจะเข้าบัญชี เนื้อหาในหัวข้อและคำโปรยไม่ระบุจำนวนเงินหรือวันที่แน่นอนไว้ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sWEtTM2E1WEowcy1ublkyWWJ4U01RclhlMGNqRU1SNW1TYkVKOFViSzJaSWF6WGFVWFdiSEN3M2JGcHVMTFh6dWg0NDg?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-11-06T14:06:32Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการโอนเงินโดยตรงถึงครัวเรือนแต่ไม่มีรายละเอียดจำนวนเงิน"
+    },
+    {
+      "id": "ff8b3b0a",
+      "title": "กรมบัญชีกลาง ยันปมร้อน เบี้ยยังชีพผู้สูงอายุ รับเงินสด 7-ELEVEN",
+      "summary": "กรมบัญชีกลางชี้แจงกรณีที่เป็นประเด็นเกี่ยวกับการจ่ายเบี้ยยังชีพผู้สูงอายุผ่านช่องทางรับเงินสดที่เซเว่นอีเลฟเว่น ยืนยันข้อเท็จจริงของการดำเนินการ ข่าวเกี่ยวข้องโดยตรงกับผู้สูงอายุที่ได้รับสิทธิเบี้ยยังชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14YnRRd0N4ZjVzNUFISEo2UjZFSHhpcFJwejA1OG81RkJzUlVHb3B2Z1E3SU5QYWxqSnZma29wamF3TEdJOFF4OEp3UDVsVjRTWm56Ym9ETDJYWnFzc0pkWWdHcUlYUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-06T05:35:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ชี้แจงการจ่ายเบี้ยยังชีพผู้สูงอายุ",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "0e0c1e9f",
+      "title": "กางปฏิทินจ่ายเงินอุดหนุนเด็กแรกเกิดปีงบ 2570 เช็กวันจ่ายเงินล่วงหน้าได้ที่นี่ | The Bangkok Insight",
+      "summary": "เผยแพร่ปฏิทินการจ่ายเงินอุดหนุนเด็กแรกเกิดประจำปีงบประมาณ 2570 เพื่อให้ผู้ปกครองสามารถตรวจสอบวันที่รับเงินล่วงหน้า เนื้อหาในหัวข้อยังไม่ระบุจำนวนเงินที่แน่นอน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wZ3V2NEFvMUJsTzBzVF80anp3d2lSd2puaWpJckFJbWRNR2lWT1dQT3o1S3dMa2lGd1k5YXRTSDgySGNIUUNtN0VweDlWamtXN3daTEJ3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-06T18:55:34Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "สวัสดิการเงินอุดหนุนเด็กแรกเกิดพร้อมกำหนดการจ่าย"
+    },
+    {
+      "id": "5dcb5065",
+      "title": "สภา กทม. ไฟเขียวดึงเงินสะสม 1,139 ล้านบาท เร่งเยียวยาผู้ประสบภัยน้ำท่วมกรุง สั่งแก้ชื่อโครงการอุดช่องโหว่ใช้งบผิดวัตถุประสงค์",
+      "summary": "สภากรุงเทพมหานครอนุมัติให้ดึงเงินสะสมจำนวน 1,139 ล้านบาทมาใช้เร่งเยียวยาผู้ประสบอุทกภัยในกรุงเทพมหานคร และสั่งให้แก้ไขชื่อโครงการเพื่อแก้ไขการใช้งบประมาณที่ไม่ตรงตามวัตถุประสงค์",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByQXdWZ0I3LXZTSk5FVU9jQktJT291STloT001VVNOUl9PUkR4Y0M1WEctVjBsYVBuNUVaTTNXWmx0MTNGZC1NTlY0WjRrektva0pDeE5LWWMwSXd3RUNZWDZBRTZOTXdETDB4VmZINWM4Zw?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-06T18:32:46Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การเยียวยาผู้ประสบภัยพร้อมงบประมาณชัดเจน",
+      "first_seen": "2026-11-05"
+    },
+    {
+      "id": "4525e84d",
+      "title": "พาณิชย์ คุมค่าครองชีพ ผัก-ไข่ราคาลง เร่งระบายลำไยตะวันออก 3 หมื่นตัน",
+      "summary": "กระทรวงพาณิชย์ดำเนินมาตรการควบคุมค่าครองชีพ โดยราคาผักและไข่มีแนวโน้มลดลง และเร่งระบายลำไยภาคตะวันออกจำนวน 30,000 ตัน เพื่อช่วยเกษตรกรและบรรเทาภาระค่าใช้จ่ายของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83OEdCaWoya0xCSm1HMU1TSS00bFJFMVpjNDhuZFcteEdldjFOdG1aMnA4eFdVeGQ4SHFSdjhlNGI2T2Z0OWFtZjlUV0hPREZxU3l5THRONGNiQkJnNUlubWhEYnJuRkNsTzc5RlBR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-07T05:39:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการรัฐที่กระทบค่าครองชีพและรายได้เกษตรกรโดยตรง มีปริมาณที่ระบุชัดเจน"
+    },
+    {
+      "id": "2d3a782e",
+      "title": "กางราคาพืชผลเกษตรพุ่ง! มันสำปะหลังขึ้น 80% ยาง 53% สวนเสียงวิจารณ์รายได้ไม่พอค่าครองชีพ",
+      "summary": "ข่าวรายงานว่าราคาพืชผลทางการเกษตรปรับสูงขึ้น โดยมันสำปะหลังเพิ่มขึ้นร้อยละ 80 และยางพาราเพิ่มขึ้นร้อยละ 53 ขณะที่มีเสียงวิจารณ์ว่ารายได้ของเกษตรกรยังไม่เพียงพอต่อค่าครองชีพ ไม่ระบุช่วงเวลาเปรียบเทียบในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnVnA1M19wVms5Sm1FckluUW1GLXVjRncxWU9vZGQzX1BtUFRqcFBSOXdKMU1Wc3plVDI4di10cDVRLTVqNjdRbjNpaTdOLUdlMlMwYWIyYlhPWlU?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-11-07T01:12:39Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ราคาพืชผลกระทบรายได้เกษตรกรโดยตรง"
+    },
+    {
+      "id": "bf196d2f",
+      "title": "สภา กทม.ผ่านงบเยียวยาน้ำท่วม 1,139 ล้าน 'ชัชชาติ' คาดเริ่มโอนล็อตแรกใน 1 เดือน",
+      "summary": "สภากรุงเทพมหานครผ่านงบประมาณเยียวยาอุทกภัยวงเงิน 1,139 ล้านบาท ผู้ว่าราชการกรุงเทพมหานครคาดว่าจะเริ่มโอนเงินงวดแรกภายในหนึ่งเดือน",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90M1FBclpjcmU5dGxseDdRM291M2ZxUGExaUpyRDViYk1WemNfN05JdGo1ZXFJVDJlNkxWVU05RlBob1N3UjFmTDlhZDBGeTdodC1TOEFqNDhqUEtWOUpWZHh1NmhwV0Y4YWNtd2dB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-06T09:12:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "งบเยียวยาจำนวนมากและมีกำหนดโอนเงินชัดเจน"
+    },
+    {
+      "id": "5d152019",
+      "title": "‘ภราดร’ แจงทำงบ 71 เน้นลดงบขาดดุล คุมวินัยการคลัง ลดรายจ่ายสิทธิสวัสดิการ ‘สปสช.-งบรักษาพยาบาล’",
+      "summary": "นายภราดร ชี้แจงแนวทางการจัดทำงบประมาณปี 2571 ที่มุ่งลดงบประมาณขาดดุลและควบคุมวินัยการคลัง โดยมีการลดรายจ่ายด้านสิทธิสวัสดิการ ซึ่งรวมถึงงบของสำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) และงบรักษาพยาบาล ข่าวนี้มีผลต่อการเข้าถึงบริการสุขภาพของประชาชนทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxbGJNU05DeUpLRnlOZnBraWtwYldxMkNCY3hidnJlYzNXanFDa3hTMEpDWXRGNUx2YXdZVE1xNHlGdXpfd3JlODVTOGxvWlhzSFY0?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-06T06:10:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ปรับลดงบสวัสดิการสุขภาพระดับชาติ",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "eaeb36de",
+      "title": "“ซูเปอร์เอลนีโญ” เสี่ยงดัน PM2.5 ปี 70 รุนแรงขึ้น คุมเข้ม 40 จ.เสี่ยง ดูแลกลุ่มเปราะบาง 16 ล้านคน",
+      "summary": "รองปลัดกระทรวงสาธารณสุขเผยว่า ปรากฏการณ์ซูเปอร์เอลนีโญอาจทำให้สถานการณ์ PM2.5 ในปี 2570 รุนแรงขึ้น จึงสั่งควบคุมเข้มข้นใน 40 จังหวัดพื้นที่เสี่ยง ได้แก่ภาคเหนือ ภาคอีสาน และกรุงเทพมหานครกับปริมณฑล พร้อมดูแลกลุ่มเปราะบางราว 16 ล้านคน ผ่านแอปพลิเคชันพื้นที่ปลอดภัยและแผนที่กลุ่มเสี่ยงโรคทางเดินหายใจและหลอดเลือด",
+      "url": "https://www.hfocus.org/content/2026/11/40173",
+      "source": "Hfocus",
+      "published_at": "2026-11-06T08:19:44Z",
+      "category": "health",
+      "provinces": [
+        "เชียงใหม่",
+        "เชียงราย",
+        "ลำปาง",
+        "ลำพูน",
+        "แม่ฮ่องสอน",
+        "พะเยา",
+        "แพร่",
+        "น่าน",
+        "ขอนแก่น",
+        "อุดรธานี",
+        "นครราชสีมา",
+        "กรุงเทพมหานคร",
+        "นนทบุรี",
+        "ปทุมธานี",
+        "สมุทรปราการ",
+        "นครปฐม",
+        "สมุทรสาคร"
+      ],
+      "eastern": true,
+      "score": 74,
+      "why": "มาตรการดูแลกลุ่มเปราะบางด้านสุขภาพระดับประเทศ"
+    },
+    {
+      "id": "bbf7719f",
+      "title": "อนุทิน ดันยอดใช้ B20 เพิ่มอีก ลดนำเข้าน้ำมัน เพิ่มรายได้ชาวสวนปาล์ม ปลื้ม Google พร้อมลงทุนเพิ่ม",
+      "summary": "นายอนุทิน ผลักดันให้เพิ่มการใช้น้ำมันไบโอดีเซล B20 เพื่อลดการพึ่งพาการนำเข้าน้ำมัน และเพิ่มรายได้ให้เกษตรกรชาวสวนปาล์ม ทั้งนี้ บริษัท Google แสดงความพร้อมที่จะลงทุนเพิ่มเติมในประเทศไทย",
+      "url": "https://www.matichon.co.th/politics/news_5965506",
+      "source": "มติชน",
+      "published_at": "2026-11-07T05:06:10Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีผลต่อรายได้ชาวสวนปาล์มโดยตรง แต่ยังไม่มีตัวเลขหรือกำหนดเวลาที่ชัดเจน"
+    },
+    {
+      "id": "72e6e71a",
+      "title": "‘เงินเฟ้อคนจน’ พุ่งสูงกว่าคนร่ำรวย 2.6% เปิดสาเหตุค่าครองชีพซ้ำเติมผู้มีรายได้น้อย",
+      "summary": "รายงานระบุว่าอัตราเงินเฟ้อของกลุ่มผู้มีรายได้น้อยสูงกว่ากลุ่มผู้มีรายได้สูงอยู่ 2.6 เปอร์เซ็นต์ ซึ่งสะท้อนว่าค่าครองชีพที่เพิ่มขึ้นกระทบผู้มีรายได้น้อยมากกว่า ข่าวได้วิเคราะห์สาเหตุที่ทำให้ค่าครองชีพซ้ำเติมกลุ่มดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SzZxMm01Y0E1OHlYTzdDYUI5cVRadWhOMkhWMXRxUEdFMmF5X2g1aVBLdjYxZDhESVhreldWSVRJNEk5eDYxa2JKbzJFTlR3anhv?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-06T07:55:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ค่าครองชีพกระทบผู้มีรายได้น้อยโดยตรง"
+    },
+    {
+      "id": "1b978a68",
+      "title": "“ปฏิรูป” โจทย์ใหญ่ บอร์ดประกันสังคม พ.ร.บ.ใหม่ ไปด้วยกัน? (6 พ.ย.69) I ตรงประเด็น",
+      "summary": "ประเด็นการปฏิรูปบอร์ดประกันสังคมและการพิจารณาร่างพระราชบัญญัติประกันสังคมฉบับใหม่ ถูกนำเสนอเป็นโจทย์สำคัญในการบริหารกองทุนประกันสังคม ซึ่งเกี่ยวข้องกับสิทธิประโยชน์ของผู้ประกันตนและแรงงานในระบบ รายละเอียดเชิงนโยบายและกำหนดเวลาที่ปรากฏในข่าวยังไม่ชัดเจนจากข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLSkhCWmRuOU9jWU1FT3RsVXlrNV90MDVrUURHNjdxREFXai0zVXVSV3pnX3M1eDJ0TDgxdTdpT2JtWmx0blhEWnZiTEN3SVVLUXJ1V24tQ2xMbWowZndoSGpZYTA?oc=5",
+      "source": "The Active",
+      "published_at": "2026-11-06T07:15:16Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องกับสวัสดิการแรงงานและกองทุนประกันสังคม"
+    },
+    {
+      "id": "aed9ac2d",
+      "title": "ของแพงเท่ากัน แต่ผู้มีรายได้น้อยเจ็บกว่า แบกค่าอาหารสูงถึง 44%",
+      "summary": "รายงานระบุว่าแม้ราคาสินค้าเท่ากัน แต่ผู้มีรายได้น้อยได้รับผลกระทบมากกว่า โดยต้องใช้จ่ายค่าอาหารสูงถึง 44% ของรายได้ ข่าวไม่ระบุแหล่งข้อมูลการสำรวจหรือช่วงเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xWmk2Vm9kT3h4ckxKaE85c1NTVWNtVzVlWGJncHJjSnViNWZCVjIxQjJ3SU9xSEN6NmhSdk1DTzV1eVFMZDFEcDR4NU8xNjhicmhFUDVB?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-06T06:45:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ผลกระทบค่าอาหารต่อผู้มีรายได้น้อยชัดเจน"
+    },
+    {
+      "id": "0fa01ee9",
+      "title": "ค่าครองชีพจ่อขยับ เงินเฟ้อไทยสูงสุดในรอบเกือบ 4 ปี",
+      "summary": "รายงานระบุว่าค่าครองชีพมีแนวโน้มปรับตัวสูงขึ้น โดยอัตราเงินเฟ้อของไทยอยู่ในระดับสูงสุดในรอบเกือบ 4 ปี ข่าวยังไม่มีรายละเอียดตัวเลขเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQ1IwWnNUQzAwYUlNQ2NGdzZYQjV4aktnaUoxWmFseExiMVJTSEhuTmdoWm1TaFd0UVJEdFRaVXZWbTVEVmdSVUZEYXFGcWU0MTZfaERWcjk0SmIxR2NXZVEwVlpNVEE?oc=5",
+      "source": "spacebar.th",
+      "published_at": "2026-11-07T06:39:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ผลกระทบต่อค่าครองชีพของประชาชนทั่วไปชัดเจน แต่ข้อมูลในข่าวจำกัด (เนื้อหาสั้น)"
+    },
+    {
+      "id": "ebb2c670",
+      "title": "เปิดแผนงบ ‘CR’ บัตรทอง ปี 70 จัดระบบบริการต้นทุนสูง เน้นใช้ทรัพยากรคุ้มค่า ไม่กระทบการเข้าถึง",
+      "summary": "เปิดแผนงบประมาณรายการ CR ของบัตรทองปี 2570 มุ่งจัดระบบบริการค่ารักษาพยาบาลต้นทุนสูง เน้นการใช้ทรัพยากรอย่างคุ้มค่า และยืนยันว่าจะไม่กระทบการเข้าถึงบริการของประชาชน ข่าวไม่ระบุวงเงินงบประมาณ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnbXB6ZEZacHRXU2haVUdhaEN1akFIbGI5VlM3Yi0wN1BYMmR5YmRxMzRZT3YwUWt0OFloZ0NsZHNGenpIZEtvTG9lWGZHRDV1bEpWc2tTcFZUdlU?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-06T10:30:39Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "แผนงบบัตรทองปีถัดไป กระทบผู้ใช้สิทธิโดยตรง"
+    },
+    {
+      "id": "e39675b3",
+      "title": "กกต. รับรองผลเลือกตั้งบอร์ดประกันสังคม 2569 แล้ว ทำไมยังเริ่มงานทันทีไม่ได้?",
+      "summary": "คณะกรรมการการเลือกตั้งรับรองผลการเลือกตั้งบอร์ดประกันสังคม พ.ศ. 2569 แล้ว แต่คณะกรรมการยังไม่สามารถเริ่มปฏิบัติหน้าที่ได้ทันที ข่าวตั้งคำถามถึงขั้นตอนและเหตุผลที่ต้องรอ ซึ่งมีผลต่อการพิจารณาสิทธิประโยชน์ของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWFBxemZRaUN3MlBsUHZMVF9sY1JGZUJ2cTZvNnB2U2JpLUZLLTJHVGJFRVIyNEtoaGtPS0hsRDF5SUJGTFNnSW1VRzlYU29FM0luYTUxSkxuaFVzODVzQ2llUElOMmZiOUpYUk0zOVBPdS0xb0tnczh3?oc=5",
+      "source": "Inzpy",
+      "published_at": "2026-11-06T07:58:55Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การดำเนินงานบอร์ดประกันสังคมกระทบผู้ประกันตน"
+    },
+    {
+      "id": "95213987",
+      "title": "“เอกภพ” กางราคาพืชเกษตร ล่าสุด มันพุ่ง 80.75% ยาง 53.79% ข้าวเจ้า 40% ชี้อย่ามองเศรษฐกิจด้านเดียว แม้ค่าครองชีพยังสูง แต่รายได้เกษตรกรก็ขยับ ย้ำรัฐบาลเดินหน้าทั้งเพิ่มรายได้-ลดรายจ่ายควบคู่กัน",
+      "summary": "นายเอกภพแถลงราคาสินค้าเกษตรล่าสุด โดยมันสำปะหลังเพิ่มขึ้น 80.75% ยางพารา 53.79% และข้าวเจ้า 40% พร้อมระบุว่าแม้ค่าครองชีพยังสูง รายได้เกษตรกรก็ปรับตัวดีขึ้น รัฐบาลยืนยันจะเพิ่มรายได้และลดรายจ่ายไปพร้อมกัน ข่าวไม่ระบุช่วงเวลาเปรียบเทียบ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YNEdfZFN2SGJlQVpiSGE2RUw3Unc2Vm1WLTFraTJTamRNYktkaXY0SFdxcmtVNHczclBWTUxTU2pPaG5lSzZkVlB3a092Vzg?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-11-07T06:20:29Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ตัวเลขราคาสินค้าเกษตรชัดเจน มีผลต่อเกษตรกร"
+    },
+    {
+      "id": "a77f0638",
+      "title": "กระทรวงพาณิชย์ตรวจติดตามราคาสินค้าตลาดธนบุรี ควบคุมค่าครองชีพ ป้องกันเอาเปรียบผู้บริโภค",
+      "summary": "กระทรวงพาณิชย์ตรวจติดตามราคาสินค้าในตลาดธนบุรี เพื่อควบคุมค่าครองชีพและป้องกันการเอาเปรียบผู้บริโภค ข่าวระบุเพียงการดำเนินการตรวจติดตาม โดยไม่มีรายละเอียดเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YaXJCNjUxajhURDM4Z2V3SzNGZmMxVjRFclZrSmxKQ1k3cm1iTmw1N2x0ZzNPclNwS3dmbVU4NWNLWmk3VVotSWZMRnRkY05naHBCck5RaEhRMExhUGM3VWphZjJfMGN2d3BKY0d3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-07T06:08:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นการตรวจติดตามในพื้นที่ ไม่มีรายละเอียดมาตรการเพิ่มเติม"
+    },
+    {
+      "id": "1c9a5ba0",
+      "title": "โฆษกรัฐบาลยอมรับราคาพืชผลพุ่งสูง กดดันค่าครองชีพ แต่เพิ่มรายได้ให้เกษตรกร",
+      "summary": "โฆษกรัฐบาลยอมรับว่าราคาพืชผลสูงขึ้นและกดดันค่าครองชีพของประชาชน แต่ช่วยเพิ่มรายได้ให้เกษตรกร รัฐบาลยืนยันจะดำเนินมาตรการเพิ่มรายได้และลดรายจ่ายควบคู่กันไป ข่าวไม่ระบุมาตรการเฉพาะหรือจำนวนเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtMkJhVzJGZHA4YkgyZUsxdUZIUTNMa1JvaG51ZDBmNmV6N3VpRXFzUFlqUVJsLWM5WnMwaTU2MmlxWmdMb2swbzJ6X092eDdHRjdJ?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-07T04:36:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ค่าครองชีพและรายได้เกษตรกร ไม่มีมาตรการเฉพาะ"
+    },
+    {
+      "id": "98c395d6",
+      "title": "ป.ป.ช. ลุยสางวิกฤตสารพิษปราจีนบุรี จี้ฟันเจ้าหน้าที่รัฐละเว้นหน้าที่-เร่งเยียวยาประชาชน",
+      "summary": "คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ (ป.ป.ช.) เร่งดำเนินการแก้ไขวิกฤตสารพิษในจังหวัดปราจีนบุรี พร้อมเรียกร้องให้ลงโทษเจ้าหน้าที่รัฐที่ละเว้นหน้าที่ และเยียวยาประชาชนโดยเร็ว",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55aUxOVVlRRk5oNHhhSkZsZFI2UmZoQXVEN3JzVjVoRVp6ak5Ec2ZHSnBuQW1ZZjU2Um5xWVlaSFdFVzM1ZVZsOWJrVE4yMjJXel9LZHJ5OE8zMU4ybjMtcUI5c0FVMWNkVFhwOVJWT2VhV290M3RF?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-06T13:34:45Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 65,
+      "why": "เร่งเยียวยาประชาชนที่ได้รับผลกระทบ"
+    },
+    {
+      "id": "3ad47c07",
+      "title": "ป.ป.ช. ลุยสางวิกฤตสารพิษปราจีนบุรี จี้ฟันเจ้าหน้าที่รัฐละเว้นหน้าที่-เร่งเยียวยาประชาชน สำนักงานคณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ (ป.ป.ช.) นำโดย มงคล วุฒินิมิต ผู้ช่วยเลขาธิการคณะกรรมการ ป.ป.ช. ภาค 2 พร้อมด้วยผู้บริหารระดับสูง ผู้แทนจากวุฒิสภา และหน่วยงานที่เ",
+      "summary": "คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ (ป.ป.ช.) ภาค 2 ลงพื้นที่ติดตามวิกฤตสารพิษในจังหวัดปราจีนบุรี พร้อมเรียกร้องให้ดำเนินการกับเจ้าหน้าที่รัฐที่ละเว้นหน้าที่ และเร่งเยียวยาประชาชนที่ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxQTW8yWjFrVks0a1MwMmZYakkwVkg3RDBMX3AxWlhMRWNuVEpzNkJvT2ZlU0xUWmRtOHBhTHdYQ2lablFRcDVtdFVMb2lGZ0g5T0NsbERSd0ptUThIWkZvb1JGcVA0cU9DWjNzMkxmWDE3MFMzMTdka251WnVfaDFvc3FYVjlQOG5zLTFTVEt6cHNfb29neW5tX3QwS214NjU2cUFxYk1mc2poN3dMM0FSMzl1cFNUTGN4aWs5M25FTHhvdWRmcDhvcURQMVV4b3RiMlYwMkQ4MDI3VTJnUkpZU1g3bGowSUJHaWpNc2hHNm1ieTBHaGJNZ195TDFOTng3cHppLU5pU0k2Mkh1Z3U2MlNhdUx1azBKODVnQWxYOTNTaG80QzJQc0g1RkYxa3FDVzVmcVBNRDJzblI4cEpFVmtLRU8wT0F1OVdXWC1mMHlyVDJQM3pLY1dXNTB0ZFRLdlEtV0JZb25xcElrakRkRnhtUXctU0JqVmNsV1QwWDlVWTR3c25ReU1JSmJkMlFydjU5Q01sUzNhTENlbXkxSjc4RGUzUW0tZ2ZHTjg4UWdfSGI4QldQc2NqbGxyTzQ2VkFTb0Z3U3daMjYxTGRWLVlxaFJONFVRanZUa3JXNnhCQjFTdFBBV0NEQzVqazRTb3hlRmozQ2tLajJYRkJtckZIX0JwVzltWkJoV20yS3Z1UWRGLUNOMzM1dXJBUk1KVXo2Z1FVN0RZYlRRR1JNbWZ2cHJDQnlJWVhXRzBzMU9sYUpjaU5BVVBmbnZuSHVDV0M4amdwdFN2V2xuTThkcWo4SjlGeGJMQnM5WkU2UEpKajBFMkI4Ry04MXhCX1IwYVBLUEJhMk5UOXFXc2FHb0l6S25TSHgtM2NNOG82ZVRXNDlBOGV6dGZ0LXJrQTVNNEpDY24tRHdPdTR0eS10RFdwWENFS3N3cFhldFhsUVJEWlVtbThfX3Z0WHlZdHR3eFAtQWFNZnJzNVpwX3g2clU1eTVBQnVXZl92VXNTWWlNUzNYRVJLbkRQUWRWWTFjTEpuM29lRGtwU3lEUUtLSnFOS01UWDdnakhIX28yV2ZMdXk3X0t4TEIwbFhheklxTWJtRFVFNFBMU2stUW1LRkxJMERTR3lMY0ZHWFJONjd1LWFpcGlHbUJ4NERsdmJiUjg4cGN5UVVtbzVsN19SeEJXbDdJckh2NUVpa2h2WjFyVjNNMnBzWkd5WWF3elNzeDlhWEJDTk5TSlZkaDJaSklFTDVCM3J0VkhCTUN2RUM2djItNnJwYkptamJ4ejdDX3VIbDNfc0FDVFprVVV3bXZaNjJFODAta0FsbXVPQkZuXzBlLXhLTVIxSVZWQzBSVE1CeEJpN0dDMzNDY2JENw?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-06T13:26:11Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 65,
+      "why": "เร่งเยียวยาประชาชนที่ได้รับผลกระทบ"
+    },
+    {
+      "id": "f22d4103",
+      "title": "เงินเฟ้อไม่เท่ากัน: รายได้น้อยเจอ Cheapflation โดนแรงกดดันค่าครองชีพหนักสุด",
+      "summary": "รายงานประเด็นเงินเฟ้อที่กระทบกลุ่มรายได้น้อยไม่เท่ากับกลุ่มอื่น โดยเรียกปรากฏการณ์นี้ว่า Cheapflation ซึ่งกลุ่มผู้มีรายได้น้อยได้รับแรงกดดันด้านค่าครองชีพหนักที่สุด เนื้อหาในหัวข้อไม่มีตัวเลขเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pMlp6RW1taTFxX3B0TjRLX2swRHZHTlpaRnBFbXY2eHR0U3E1bHA3bXRGckJmZ2dCR2RMOG9nRGVsZXdvWjZQX0Q2bnp5MXpXSHkxcURZVWpBNGh6Rk9TQ3dqSnlOYWNUZ3p1OTNB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-06T06:49:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ผลกระทบค่าครองชีพต่อกลุ่มรายได้น้อยโดยตรง"
+    },
+    {
+      "id": "7344e9f3",
+      "title": "ชาญอิสสระมอบข้าวสารแก่ครอบครัวผู้มีรายได้น้อย ต่อเนื่องในเทศกาลตรุษจีนปีที่ 51",
+      "summary": "นายชาญอิสสระมอบข้าวสารแก่ครอบครัวผู้มีรายได้น้อยอย่างต่อเนื่องในเทศกาลตรุษจีนเป็นปีที่ 51 เป็นการช่วยเหลือโดยภาคเอกชนหรือบุคคล ไม่ใช่มาตรการของรัฐ ข่าวไม่ระบุจำนวนข้าวสารหรือพื้นที่ที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQY3dpeXdoNUlHOXBvRTJsVklyTTltaDFiYkRjUzBfNW9SaVpnWjVnVHcwSlZXMFdKRW5YVm9RanpYdkVxWkRUUmJKNGVjbHc5NnFzYzBrU3JpMmR6VEo5MnRxNHh4cFgzX19UM2RZb1FKbFJyTEtEV3Q1MnFzWTRHSDhuQTBaOTFtcU1XamF5WWRfaGF1X3ZVUkhJT0N1dVJFVmZsaW9tSkhsTVlCSFdXem9UUVgzbE9Ga2VoeFF2cjJFZlpDVl83VkpFbDdpUkZNMTUtYnVBbmtOdjktVm1uSUppOUxFc2lVVUwxNGpMRkF3bHFVbUFBNUZMY1o3LXFxVmdZTVBKRHJFT0g4dEhuUE9oemlWLXlZSXBqaHc0dVl6WEtFR0ZZUGNtXzZiVHV0VzhwSXV3XzdSalVnZ0hDak5nd2ZGYjU1?oc=5",
+      "source": "สำนักข่าวบางกอกทูเดย์",
+      "published_at": "2026-11-06T13:02:49Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "การช่วยเหลือรายบุคคลต่อผู้มีรายได้น้อย"
+    },
+    {
+      "id": "f124dbe6",
+      "title": "EUDR จ่อคุมเข้มแหล่งผลิต เกษตรฯ ชวนปาล์ม-โกโก้-กาแฟ-ถั่วเหลืองอัพเดตทะเบียน",
+      "summary": "กรมส่งเสริมการเกษตรเร่งยกระดับฐานข้อมูลเพื่อรองรับกฎ EUDR ของสหภาพยุโรป โดยเชิญชวนเกษตรกรปาล์มน้ำมัน โกโก้ กาแฟ และถั่วเหลืองขึ้นทะเบียนและปรับปรุงข้อมูล รวมถึงจัดทำผังแปลงดิจิทัล ปัจจุบันดำเนินการแล้ว 448,679 แปลง พื้นที่ 3.33 ล้านไร่",
+      "url": "https://www.prachachat.net/economic/news-2092915",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-07T03:07:10Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "มาตรการกับเกษตรกรรายย่อยเพื่อการส่งออก"
+    },
+    {
+      "id": "8427f5a8",
+      "title": "บัตรทองยกระดับ! บอร์ดคุณภาพฯ กางผลงานปี 69 ป้องกันสิทธิประชาชน",
+      "summary": "คณะกรรมการคุณภาพบริการสาธารณสุขเปิดเผยผลการดำเนินงานประจำปี 2569 ในการยกระดับบริการภายใต้สิทธิบัตรทอง และคุ้มครองสิทธิประชาชน ข่าวไม่ระบุตัวเลขหรือมาตรการเฉพาะเจาะจง",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFZCTUwxbFNwanBScHcwdkg2WDgxTU1DLU5iNlZuUzl2VXpqbkVodkxvUThtenhQU3Q2V1J3TUkyUk1PMFAyQkpKdGh1eHkxMXA4WExfWUR0ZEtWaXFReTZqdVVQOWp4LTJsNzJtM2M3UFd6Sk5oVTVreVRWWnFtSEFQT1R3MUU?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-06T19:01:40Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ผลงานทั่วไป เกี่ยวข้องสิทธิบัตรทอง"
+    },
+    {
+      "id": "a9fcb6e7",
+      "title": "นายก อบต.ศรีนาวา ร่วมกับหน่วยงานที่เกี่ยวข้องสำรวจกลุ่มเปราะบางจากน้ำท่วมพิจารณาให้ความช่วยเหลือ",
+      "summary": "นายกองค์การบริหารส่วนตำบลศรีนาวา ร่วมกับหน่วยงานที่เกี่ยวข้อง ดำเนินการสำรวจกลุ่มเปราะบางที่ได้รับผลกระทบจากน้ำท่วม เพื่อพิจารณาให้ความช่วยเหลือ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OR1BVeUl2dEsyY0JhYWt1OTdhRWZlMmxkTmtmbmxKY2tHYlJ6RkVUZmFma1BySC1oV2p6YkpnQ1dsRWlhTC1PRVhORm01eHd5anZz?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-06T06:05:00Z",
+      "category": "disaster",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "สำรวจกลุ่มเปราะบางเพื่อช่วยเหลือ"
+    },
+    {
+      "id": "48d1e314",
+      "title": "สธ. จับมือ 3 บริษัทชั้นนำ ยกระดับวิจัยคลินิก-พัฒนายาใหม่ สร้าง ศก.-ช่วยบัตรทองเข้าถึงยาเร็วขึ้น",
+      "summary": "กระทรวงสาธารณสุขร่วมมือกับบริษัทชั้นนำ 3 แห่งเพื่อยกระดับการวิจัยทางคลินิกและพัฒนายาใหม่ โดยมีเป้าหมายช่วยให้ผู้ใช้สิทธิบัตรทองเข้าถึงยาได้เร็วขึ้น ข่าวไม่ระบุชื่อบริษัทหรือระยะเวลาดำเนินการ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1eWFsYkFHaGdYT3ZuWXR0VnU5X2pPeVZBV0drYTcwcm1wazhkMUJPOFlYU3ZTcFJsYXJlVk9qVVFSS3AzcWhYNEFDbEhGUnVBQVlTbHRtX1EzeVE?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-06T11:15:23Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "ความร่วมมือทั่วไป ประโยชน์ต่อผู้ใช้สิทธิยังไม่ชัด"
+    },
+    {
+      "id": "11340fc7",
+      "title": "สปสช. รับข้อเสนอ สส. จ่อปรับระบบส่งต่อ กทม. แก้สภาพคล่อง รพ. เผยหน่วยบริการเพิ่ม 6 พันแห่งในปี 68",
+      "summary": "สปสช. รับข้อเสนอของสมาชิกสภาผู้แทนราษฎรเกี่ยวกับการปรับระบบส่งต่อผู้ป่วยในกรุงเทพมหานครเพื่อช่วยแก้ปัญหาสภาพคล่องของโรงพยาบาล ในปี 2568 มีหน่วยบริการเพิ่มขึ้น 6 พันแห่ง และประชาชนใช้บริการผู้ป่วยนอกกว่า 185 ล้านครั้ง ผู้ป่วยในกว่า 7 ล้านครั้ง",
+      "url": "https://www.hfocus.org/content/2026/11/40180",
+      "source": "Hfocus",
+      "published_at": "2026-11-07T05:05:39Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับการเข้าถึงบริการสุขภาพและระบบรักษาพยาบาล"
+    },
+    {
+      "id": "3bbdfd40",
+      "title": "ราคาน้ำมันวันนี้ (7 พ.ย. 69) เช็กราคาดีเซล-แก๊สโซฮอล์ล่าสุด",
+      "summary": "ราคาน้ำมันวันที่ 7 พฤศจิกายน 2569 ตามข้อมูลบางจาก แก๊สโซฮอล์ 95 ลิตรละ 39.84 บาท แก๊สโซฮอล์ 91 ลิตรละ 39.47 บาท ดีเซลลิตรละ 41.79 บาท และดีเซล B20 ลิตรละ 33.5 บาท ซึ่งเป็นราคาที่ไม่เปลี่ยนแปลง",
+      "url": "https://www.prachachat.net/economic/news-2092879",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-07T00:08:44Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ราคาพลังงานมีผลต่อค่าครองชีพ แต่เป็นข่าวราคาประจำวัน"
+    },
+    {
+      "id": "2e994112",
+      "title": "สจด. จัดประชุมสิทธิบัตรทองสำหรับนักเรียนนักศึกษาหอพักภายนอกฯ",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) จัดประชุมเรื่องสิทธิบัตรทองสำหรับนักเรียนและนักศึกษาที่พักอาศัยในหอพักภายนอก โดยความร่วมมือกับสถาบันเทคโนโลยีจิตรลดา ข่าวไม่ระบุรายละเอียดเนื้อหาการประชุมหรือจำนวนผู้เข้าร่วม",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qaWJoOUg2WjdjVER5T0t4SzE4WjgyaGNNR25kSE5wNkZqQm9yRnEyTEQ3X05kMkg3TGdtai1mWGxPbDJxeE1DWndjYmpVLW8?oc=5",
+      "source": "สถาบันเทคโนโลยีจิตรลดา CDTI",
+      "published_at": "2026-11-06T08:24:51Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "กิจกรรมประชุมชี้แจงสิทธิ์ ไม่มีมาตรการใหม่"
+    },
+    {
+      "id": "51b5e33d",
+      "title": "สสป.-พม.ระยอง จับมือสมัชชาสุขภาพระยอง เดินหน้าดูแลสุขภาพกลุ่มเปราะบางดันเข้าแผนพัฒนาจังหวัด ปี 2572",
+      "summary": "สำนักงานสร้างเสริมสุขภาพ (สสป.) ร่วมกับสำนักงานพัฒนาสังคมและความมั่นคงของมนุษย์จังหวัดระยอง และสมัชชาสุขภาพระยอง ดำเนินการดูแลสุขภาพกลุ่มเปราะบางในจังหวัดระยอง พร้อมผลักดันให้เป็นส่วนหนึ่งของแผนพัฒนาจังหวัดปี 2572",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4ybU9lX0U1Rlp3WnFHem9NWGR6ZXR2NG04THJhb2VXT1U1ZjV5YmxyTVlhTjZIOWJ0RDVsWGJEVWNtZHBrWUs2V2RGazRxSmc?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-11-06T05:29:00Z",
+      "category": "health",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 55,
+      "why": "ความร่วมมือดูแลกลุ่มเปราะบางระดับจังหวัด",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "073acd0e",
+      "title": "บอร์ด สปสช. เห็นชอบหลักการ พัฒนาระบบดูแลสุขภาพจิต ‘นักเรียน’ แบบครบวงจร",
+      "summary": "คณะกรรมการ สปสช. เห็นชอบหลักการในการพัฒนาระบบดูแลสุขภาพจิตของนักเรียนแบบครบวงจร เพื่อให้เด็กและเยาวชนเข้าถึงการดูแลด้านสุขภาพจิตอย่างเป็นระบบ เนื้อหาคำโปรยยังไม่มีรายละเอียดงบประมาณหรือระยะเวลาดำเนินการ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FU3lDSS1hQktabFVDSlFNam5aVGlYX0Zld3ZneWVYOEU5ejY5R0lBRm1sMk5ueGxsLW1YN0pjX1NhVmxCRVNocWJNd3dZS0JHN3h3QnlidllYOFU?oc=5",
+      "source": "www.thecoverage.info",
+      "published_at": "2026-11-07T04:28:46Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นหลักการเบื้องต้น ยังไม่มีมาตรการปฏิบัติชัดเจน"
+    },
+    {
+      "id": "1cf7f758",
+      "title": "มาม่าปรับกลยุทธ์ตามผู้บริโภค แนะรัฐเร่งรับมือซูเปอร์เอลนีโญ",
+      "summary": "ผู้บริหารบริษัทมาม่าให้มุมมองตลาดบะหมี่กึ่งสำเร็จรูปปี 2570 ว่าผู้บริโภคเปลี่ยนพฤติกรรมเร็ว และแนะให้รัฐเร่งรับมือสถานการณ์ซูเปอร์เอลนีโญ ข่าวเป็นความเห็นเชิงธุรกิจ ไม่มีมาตรการของรัฐที่ระบุชัดเจน",
+      "url": "https://www.prachachat.net/no1/news-2092735",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-07T01:03:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ความเห็นภาคเอกชนเกี่ยวกับอาหารราคาประหยัดและการรับมือรัฐ"
+    },
+    {
+      "id": "24bad526",
+      "title": "สปส. ส่งผลเลือกตั้งบอร์ดประกันสังคมให้ กกต. รับรองแล้ว! เปิดรายชื่อ 14 คน ลุ้นไร้คนค้านก่อนเสนอ รมว.แรงงานแต่งตั้ง . สำนักงานประกันสังคมเดินหน้าขั้นตอนเลือกตั้งบอร์ดประกันสังคม หลังส่งผลคะแนนเลือกตั้งผู้แทนฝ่ายนายจ้างและฝ่ายผู้ประกันตนให้คณะกรรมการการเลือกตั้ง (กกต.) ตรวจสอ",
+      "summary": "สำนักงานประกันสังคมส่งผลคะแนนการเลือกตั้งผู้แทนฝ่ายนายจ้างและฝ่ายผู้ประกันตนให้คณะกรรมการการเลือกตั้งตรวจสอบรับรอง ก่อนเสนอรายชื่อคณะกรรมการประกันสังคมจำนวน 14 คนให้รัฐมนตรีว่าการกระทรวงแรงงานแต่งตั้ง",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxNOTY4TmdiUURwSGRUR3VMWkprTklsbGluUHh6OFpLRjVpWnprcFQzbnRtNVl1RW1KNUJ0T1ZqZGtLMXpkcWZmb2U2TGZZWEdQYUR0SjRyU18wMEFSWGVBMHllWnRCMnd2RWhOSXJSYmEyWkhxRTd4aVp3ZUpWbWxjN1J0V3dTb3JnY1FKUFlDZXBWX2N3c2pCbG5xVmhiSXVzdGs4blFhaXdOQ2xhcjNVQzkteldJQ0V0dENWTGd2NGlXdkMwdV9TRFcxTUV5Ml84Qmk1X2FKRlF6SWlXTGFHcTNLRm9pSmVVSDgwem9BOVVHT0RiMGtKRnRrUnludDlSNFd0M0FrNjduVUxRc215NlQ0NUxzOW5XTHphQVB1YTJDUGR4UFZWYWVkR2c0V0JiWExvN3pvdmE2YW9BdmREd2htZl9vQkRxVTgtMm1oSjNLYVhySkN5SWJ1a0tMbUwzWVk0QlprdUhZQjBQcFFXWHcySkxJZ0gwN0JTU0tvUmhPRk85aV9pVXoxWHp1MVVZc0YxdG5NY1k3TnRYem8xcF9odHh3dC1sM2xBOHZjZXBvVFl5TFNOaXpDR3FDM0NZbkhDdktid0JiTi01U0RQdGpTeXh3NEsyTU9Ea2xhTXpiWWMycmZoa2FlUllqOUNKTmdxdEZ1ZHBjVXBEandybmtLaHZiNjJGV045VDZiX19Bckt1TTBKNThCcy1lMVVCT2hPeVV6bm52MDlLSG13OVYxS3M4Z09kVkZvUUhXY0lCSkxoOWdON29HR3BlckFWMl9tTFpnUFFZYkIyWFAtQmJjSTJrNGpmT3VEekpYS2Vjb0h5WXZJN1pBVjBLcWdwb2ZwUWhoMlI0OTB5SmpXSm9VNEZERDZxRkZIZE1HS2ZoNU16ZEVib0huR05Vc244cTlaUmVkYzJua2k1ZkNmOHZMSlM1T0VDbnVQRWhfYVZJNDFXMEs5b2FrN2FZc2dsNE1Ud19peVZXb0FkSTdZYWFBMW5ndFNrcmR0SW9EbHNlQ0lGamY1UFZ4ZzVQX2NzUHlNREw4SWRHazl4OWt2ZHhBWkNlemhQR0taekRTSlZFRENRSXB5WXpqZEhCMlNMckxrc1FJVzdCbWZ2Ym5abXFaeWktcFRiRHhwN0E4ZmpWTHhweWkwWnhKbG05aDdWcEpya1N6ZU4yQzlabEtZVTBmNE9mMUQtUXFBRnJtS1U4ZXVnUGlMeV9YQjVNZ2sxdVFzZURyS29FRmx2d1BaYW51aWwyR2ozTWJzM0JDZjVlY3pMVlN6ck1STGdCNjhF?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-06T07:52:10Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "กระบวนการบอร์ดประกันสังคม ไม่ใช่สวัสดิการโดยตรง"
+    },
+    {
+      "id": "f47fd0a6",
+      "title": "อนุทิน มั่นใจไทยแข็งแรงอาหาร-พลังงาน ระวังไม่สะดุดขาตัวเอง-หลังดึงลงทุนได้",
+      "summary": "นายกรัฐมนตรี อนุทิน ชาญวีรกูล แสดงความมั่นใจว่าความมั่นคงด้านอาหารและพลังงานของไทยแข็งแรง และยืนยันว่าสัญญาณ 72 ชั่วโมงไม่ใช่สัญญาณวิกฤต พร้อมระบุแนวทางผลักดันการใช้ B20 เพื่อลดการนำเข้าและเพิ่มรายได้เกษตรกร รวมถึงเร่งดึงการลงทุนด้านเทคโนโลยี",
+      "url": "https://www.prachachat.net/politics/news-2092921",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-07T03:26:20Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ประเด็นเกษตรกรและการลงทุนเป็นผลทางอ้อม ไม่มีมาตรการช่วยเหลือโดยตรง"
+    },
+    {
+      "id": "421ae0dd",
+      "title": "พิพิธภัณฑ์การเกษตรฯ ชวนเที่ยวงาน ‘เกษตรวิถีใหม่’ เรียนรู้วิธีสร้างมูลค่า อบรมฟรี",
+      "summary": "พิพิธภัณฑ์การเกษตรเฉลิมพระเกียรติฯ จังหวัดปทุมธานี จัดงาน \"เกษตรวิถีใหม่\" ระหว่างวันที่ 7–8 พฤศจิกายน 2569 เวลา 08.00–17.00 น. มีการอบรมฟรี 8 หลักสูตรเกี่ยวกับการสร้างมูลค่าจากภูมิปัญญาเกษตร ซึ่งอาจเป็นประโยชน์ต่อผู้ประกอบอาชีพเกษตรขนาดเล็ก",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10464099",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-07T01:08:16Z",
+      "category": "employment",
+      "provinces": [
+        "ปทุมธานี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "กิจกรรมอบรมฟรีที่อาจช่วยเพิ่มรายได้ของเกษตรกร"
+    },
+    {
+      "id": "ce1d5913",
+      "title": "\"องค์กรการกุศล\" กับคำถาม \"ถ้ารัฐมีสวัสดิการและระบบที่ดี จำเป็นต้องมีหรือไม่\"",
+      "summary": "บทความเสนอประเด็นว่าองค์กรการกุศลยังจำเป็นหรือไม่หากรัฐมีระบบสวัสดิการที่ดี เป็นเนื้อหาเชิงความคิดเห็นและการวิเคราะห์ ไม่มีมาตรการหรือตัวเลขเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zWEVPRWdlTnE3RmZSX2FrUmFyS3pRcXJMbTRmUnU2RW9sRlNTd3U5ZUEta2VVN0N3Z1VYR2ktRkhTX05pZVhyN3JIT0kwLWxJR3NyeFVhWnU?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-06T05:30:19Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ประเด็นสวัสดิการในเชิงความคิดเห็น"
+    }
+  ]
+}
