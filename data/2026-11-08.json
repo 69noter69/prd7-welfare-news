@@ -1,0 +1,553 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:56:51Z",
+  "window": {
+    "from": "2026-11-07T04:56:04Z",
+    "to": "2026-11-08T06:56:04Z"
+  },
+  "stats": {
+    "fetched": 186,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 15989,
+    "ai_output_tokens": 11041,
+    "cost_thb": 0.26,
+    "runs": 1,
+    "kept": 35,
+    "eastern": 1,
+    "national": 34,
+    "new": 31,
+    "followups": 4,
+    "sources": 19
+  },
+  "items": [
+    {
+      "id": "b27ac3c1",
+      "title": "ครม.ไฟเขียวประกันสังคม “3 ขอ” เลือกเงินก้อน–ถอนก่อนเกษียณ–ใช้ค้ำเงินกู้",
+      "summary": "คณะรัฐมนตรีเห็นชอบแนวทาง 'ประกันสังคม 3 ขอ' ซึ่งผู้ประกันตนสามารถเลือกรับเงินก้อน ขอถอนเงินก่อนเกษียณ หรือนำเงินสะสมไปใช้ค้ำประกันเงินกู้ได้ ทั้งนี้รายละเอียดหลักเกณฑ์และจำนวนเงินไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lQnhNWks5RjVRZTVjVFJLa1NkanZmN2ljV3M0MmtuMzVpUTVfZzV1TlpMczNIa1ZndTNZenYtOWpvNkNOM2hFd0pXU2V6ZVFTTUp5SktR?oc=5",
+      "source": "posttoday",
+      "published_at": "2026-11-08T04:33:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มติคณะรัฐมนตรีระดับชาติที่ส่งผลต่อเงินของผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "c2620e6b",
+      "title": "ครม.สัญจรที่อุดรธานี อนุมัติขึ้นภาษีรถ EV ปี 2570 และขยายสิทธิประกันสังคมถึงอายุ 65 ปี",
+      "summary": "คณะรัฐมนตรีสัญจรที่จังหวัดอุดรธานี อนุมัติขยายสิทธิประกันสังคมให้ครอบคลุมถึงอายุ 65 ปี พร้อมอนุมัติการขึ้นภาษีรถยนต์ไฟฟ้า (EV) สำหรับปี 2570 รายละเอียดเงื่อนไขและวันมีผลบังคับใช้ไม่ปรากฏในข้อความที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnSGRXdTBXaE0wZUEtX1pCV1ZjQzRzeHBXUWNBSFgxSGtVd0k1dkcydVM0NGRvT2pCNGhYcjA5d240c0RVaGpjY0tzWUplLXJOcE92b19HYlZkMnJKVmVqREJQbmIzekxhVVdqSkNR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-07T09:30:00Z",
+      "category": "employment",
+      "provinces": [
+        "อุดรธานี"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มติ ครม. ขยายสิทธิประกันสังคม"
+    },
+    {
+      "id": "a4d279a0",
+      "title": "รัฐบาล เดินหน้า ‘3 ขอ’ ปลดล็อกเงินชราภาพประกันสังคม เปิดทางเลือกรับเงินก้อน",
+      "summary": "รัฐบาลเดินหน้ามาตรการ “3 ขอ” ได้แก่ ขอเลือก ขอคืน และขอกู้ เพื่อปลดล็อกเงินชราภาพของผู้ประกันตนประกันสังคม ให้เลือกรับเงินก้อน ถอนใช้ยามวิกฤต หรือใช้ค้ำเงินกู้ได้ ประกาศโดยรองโฆษกประจำสำนักนายกรัฐมนตรี เมื่อวันที่ 8 พ.ย. 2569 ภายหลังการประชุมคณะรัฐมนตรี",
+      "url": "https://www.khaosod.co.th/politics/news_10464615",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-08T04:45:21Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเงินชราภาพกระทบผู้ประกันตนทั่วประเทศ"
+    },
+    {
+      "id": "6a1b930c",
+      "title": "กางปฏิทินจ่าย 'เงินอุดหนุนเด็กแรกเกิด' ปี 2570 ครบทั้ง 12 เดือน",
+      "summary": "มีการเผยแพร่ปฏิทินการจ่ายเงินอุดหนุนเด็กแรกเกิดประจำปี 2570 ครบทั้ง 12 เดือน เพื่อให้ผู้มีสิทธิทราบกำหนดการรับเงิน ทั้งนี้รายละเอียดวงเงินและวันที่จ่ายในแต่ละเดือนไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3MlNjeFVhbndWaWNYeExvUEV2ZDA4cldWMUlWaWgzMjNORDRTcjY5aUZPSEIyVjhvYUtQZzlpRjNvSG5Oc1pNV3hrZlhFaVY0S0xvdXM3ejhtY3E5UTJZM2Q0S0M5UQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-08T02:41:14Z",
+      "category": "children",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "สวัสดิการเด็กแรกเกิดระดับประเทศพร้อมกำหนดการจ่ายเงิน",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "id": "7e8f7a3b",
+      "title": "ค้าภายใน ปลื้มปชช.ตอบรับ ไทยช่วยไทย ธงฟ้าลดค่าครองชีพ จ่อของบ 900 ล้าน ขยายเฟส2",
+      "summary": "กระทรวงพาณิชย์รายงานการตอบรับของประชาชนต่อโครงการไทยช่วยไทย และมาตรการธงฟ้าลดค่าครองชีพ พร้อมเตรียมขอจัดสรรงบประมาณ 900 ล้านบาทเพื่อขยายโครงการในเฟส 2",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yTTFyVVA2QnoyVW53cEhSX1djeVBYVU9GT205Mlp4TERKTk11bVRESS1NNDR1MXlZWVBTbDJPNS03Y3FGM0tzcDktVVlrUmQtdW5xa1ZTaEJUQUk?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-07T08:59:45Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีวงเงินงบประมาณและการขยายมาตรการช่วยเหลือค่าครองชีพ"
+    },
+    {
+      "id": "f045c262",
+      "title": "พลิกโฉมงบ 3.82 ล้านล้าน รื้อสวัสดิการ ลงทุนรับวิกฤตโลก",
+      "summary": "บทความวิเคราะห์การจัดสรรงบประมาณ 3.82 ล้านล้านบาท ที่มีการปรับโครงสร้างสวัสดิการ และเพิ่มการลงทุนเพื่อรับมือวิกฤตพลังงาน เทคโนโลยี ภูมิรัฐศาสตร์ และสภาพอากาศ โดยมีรายจ่ายสูงกว่ารายรับ",
+      "url": "https://www.prachachat.net/politics/news-2092784",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-08T00:22:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "งบประมาณรัฐที่กระทบการจัดสวัสดิการโดยตรง"
+    },
+    {
+      "id": "b6449d5a",
+      "title": "เช็กสิทธิประกันสังคม 3 ขอ ส่งเงินสมทบ 60 เดือน ขอคืนเงินยามวิกฤต-ใช้ค้ำสินเชื่อได้",
+      "summary": "เผยแพร่รายละเอียดสิทธิประกันสังคม 3 ขอ สำหรับผู้ที่ส่งเงินสมทบครบ 60 เดือน ได้แก่ การขอรับเงินคืนในยามวิกฤต และการใช้สิทธิค้ำประกันสินเชื่อ ทั้งนี้ยังไม่มีข้อมูลจำนวนเงินหรือขั้นตอนการยื่นคำขอในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbUtDTVh5N3pjaHlZR0lKcV9iWVRGbFctVUx6akVvS2t4cjhEcmdhc05ybGh0b3kzazA4TzZKVHJZczkwemxDbHNXaG1wR3I4UkJLbWRn?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-08T04:52:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ให้ข้อมูลเงื่อนไขสิทธิที่ประชาชนสามารถนำไปใช้ได้"
+    },
+    {
+      "id": "1c97d397",
+      "title": "รัฐบาล เดินหน้า 3 ขอ ปลดล็อกเงินชราภาพประกันสังคม เปิดทางผู้ประกันตน เพิ่มทางเลือกทางการเงิน",
+      "summary": "รัฐบาลเดินหน้าข้อเสนอสามประการเพื่อปลดล็อกเงินชราภาพของกองทุนประกันสังคม เปิดทางให้ผู้ประกันตนมีทางเลือกทางการเงินเพิ่มขึ้น รายละเอียดเงื่อนไขและเวลาดำเนินการยังไม่ปรากฏในเนื้อหาข่าว",
+      "url": "https://www.matichon.co.th/politics/news_5966574",
+      "source": "มติชน",
+      "published_at": "2026-11-08T03:54:14Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการการเงินเกี่ยวกับสวัสดิการผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "1fd53423",
+      "title": "หาดใหญ่ | เงินเยียวยาซ่อมบ้านน้ำท่วมปี 68 ยังตกค้าง ชาวหาดใหญ่–สงขลากว่า 1,000 หลังยังไม่ได้รับเงิน จี้รัฐชี้แจง หลังถูกแจ้งงบหมด–เรื่องสิ้นสุดแล้ว",
+      "summary": "ผู้ประสบอุทกภัยปี 2568 ในพื้นที่หาดใหญ่และจังหวัดสงขลาจำนวนกว่า 1,000 หลัง ยังไม่ได้รับเงินเยียวยาซ่อมแซมบ้าน ขณะที่ทางการแจ้งว่างบประมาณหมดและเรื่องสิ้นสุดแล้ว ชาวบ้านจึงเรียกร้องให้รัฐชี้แจงเหตุผลและแนวทางดำเนินการต่อ",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jRDVPaWdGQVJGLU53TWpVbU5xQjYwRUFiOHc1WTNKbEp0NEVNNGJyM3FTc0Z6bnpobjlIekI2aXRqSXc5WmxxcGpZdW1DM0ZfSHpId0ZEcjNrZw?oc=5",
+      "source": "HATYAI FOCUS",
+      "published_at": "2026-11-07T11:34:09Z",
+      "category": "disaster",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินเยียวยาค้างจ่ายหลายพันหลังคาเรือน"
+    },
+    {
+      "id": "42d910d6",
+      "title": "ข่าวดีคนใช้บัตรทอง เปลี่ยนโรงพยาบาลง่าย ๆ ผ่านมือถือ ปีละ 4 ครั้ง",
+      "summary": "ผู้ใช้สิทธิบัตรทองสามารถเปลี่ยนสถานพยาบาลที่ขึ้นทะเบียนได้ผ่านแอปพลิเคชันในโทรศัพท์มือถือ โดยทำการเปลี่ยนได้ปีละ 4 ครั้ง ทั้งนี้รายละเอียดขั้นตอนการใช้งานไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rZDU3WDhNZGJyUm9WTkY5RDZkal80bHBaM3pSSTR3Vk9YZFJveEx3Wmg4T1pFZlF4Nld5bVNUb2taTHFKSnpZcFJUQ01lNldxdlVMZVBUSjBfNWxLT3JrLS1ETmJWdw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-08T05:04:55Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การเปลี่ยนแปลงสิทธิการรับบริการสุขภาพที่ประชาชนใช้ได้จริง"
+    },
+    {
+      "id": "f026cbbc",
+      "title": "ทุกข์ชาวนา เก็บเกี่ยวเสร็จ ต้องกางเต็นท์นอนเฝ้าทั้งคืน หลังโจรขโมยข้าวระบาด",
+      "summary": "ชาวนาหลายหมู่บ้านในอำเภอสตึก จังหวัดบุรีรัมย์ ที่ทยอยเก็บเกี่ยวผลผลิต ต้องกางเต็นท์เฝ้าข้าวเปลือกที่ตากไว้ตามริมถนนและลานโล่งทั้งคืน หลังเกิดการลักขโมยข้าวระบาด ชาวนาระบุว่าต้องเผชิญต้นทุนค่าปุ๋ย ค่าน้ำมัน และค่าเก็บเกี่ยวที่สูงขึ้น ข่าวรายงานเมื่อวันที่ 8 พฤศจิกายน 2569",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10464632",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-08T05:03:00Z",
+      "category": "employment",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ผลกระทบโดยตรงต่อเกษตรกรรายย่อยในพื้นที่"
+    },
+    {
+      "id": "ebd53d3c",
+      "title": "บพท. ชงอัดงบสวัสดิการตรงลงชุมชน อุดรูรั่ว-อุ้ม 5 ล้านคน แก้จนระดับครัวเรือน",
+      "summary": "บพท. เสนอแนวทางจัดสรรงบประมาณด้านสวัสดิการลงสู่ชุมชนโดยตรง เพื่ออุดช่องว่างการช่วยเหลือและเข้าถึงประชาชนราว 5 ล้านคน มุ่งแก้ปัญหาความยากจนระดับครัวเรือน รายละเอียดวงเงินและกำหนดเวลายังไม่ปรากฏในเนื้อหาข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvenBqQ0VzdGhfNktyQVZpWlRhNjdZSHJORDhDeFFPajBWTU1TM1dLZVBNeFh3Q09qNzZPcWRGTV9PY2ZGVUl5ZnRGcVhhLW1YcTg1UGlR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-08T02:01:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เสนอมาตรการสวัสดิการต่อผู้มีรายได้น้อย แต่ยังเป็นข้อเสนอ"
+    },
+    {
+      "id": "eacf7f27",
+      "title": "ย้อนรอยกว่าจะได้วัคซีน PCV จากข้อถกเถียง “คุ้มค่า-ไม่คุ้มค่า” สู่สิทธิเด็กไทยทั่วประเทศ",
+      "summary": "ย้อนรอยการบรรจุวัคซีนป้องกันโรคติดเชื้อนิวโมคอคคัสชนิดคอนจูเกต (PCV) เข้าสู่สิทธิประโยชน์ภายใต้บัตรทอง หลังมีข้อถกเถียงเรื่องความคุ้มค่า จนกลายเป็นสิทธิของเด็กไทยทั่วประเทศ เนื้อหาระบุรายละเอียดการดำเนินงานเพิ่มเติมจากข่าวต้นฉบับ",
+      "url": "https://www.hfocus.org/content/2026/11/40182",
+      "source": "Hfocus",
+      "published_at": "2026-11-07T06:53:54Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "สิทธิบัตรทองของเด็กทั่วประเทศ"
+    },
+    {
+      "id": "f4ce3dfd",
+      "title": "กรมการค้าภายในตรวจตลาดธนบุรี สินค้าเพียงพอ ราคาผัก - ไข่ไก่เริ่มลด พร้อมเปิดจุดธงฟ้าลดค่าครองชีพ เชื่อมโยงลำไยภาคตะวันออกสู่ผู้บริโภค",
+      "summary": "กรมการค้าภายในตรวจสอบตลาดธนบุรีพบสินค้าเพียงพอ ราคาผักและไข่ไก่เริ่มปรับลดลง พร้อมเปิดจุดธงฟ้าลดค่าครองชีพ และเชื่อมโยงผลผลิตลำไยภาคตะวันออกสู่ผู้บริโภคโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yZThpNGNEV2tlSGJ5TU1pbThibGJqNVRrU0YzVXRzeFpwZkJBbUdCQUlTVUxFOC0yNzZzSXdGeF9JaW5WQm5qNEh5YmZXandKMTZpRjYzYw?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-11-07T06:48:38Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการลดค่าครองชีพที่เข้าถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "e1ba21c0",
+      "title": "จับตาน้ำมันแพงลามเศรษฐกิจ สนค. ชี้ราคาพลังงานดันเงินเฟ้อกว่า 56%จ่อกระทบค่าครองชีพ",
+      "summary": "สำนักงานเศรษฐกิจการค้าภายในหรือ สนค. ชี้ว่าราคาพลังงานที่สูงขึ้นจากน้ำมันแพงกำลังลามสู่เศรษฐกิจ โดยระบุว่าอาจผลักดันอัตราเงินเฟ้อให้สูงกว่า 56 เปอร์เซ็นต์ และจะส่งผลกระทบต่อค่าครองชีพของประชาชน ข่าวนี้มีเนื้อหาจำกัดจากเพียงหัวข้อข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSHlwSHJDekEzeDNRQkF0bTFLMHozSnNlZ21YSkVUN3MwdTJuMW83dTBiNUU0WktQSXdSVk04VnMtVkEySHUyWmFkLXVwdDZtNG9qdUNn?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-08T06:01:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "กระทบค่าครองชีพของประชาชนทั่วไป"
+    },
+    {
+      "id": "5be7d73b",
+      "title": "เช็กเงินช่วยเหลือ 3 กลุ่มเปราะบาง โอน 10 พ.ย. 2569",
+      "summary": "มีการเผยแพร่ข่าวเกี่ยวกับการโอนเงินช่วยเหลือสามกลุ่มเปราะบาง กำหนดโอนในวันที่ 10 พฤศจิกายน 2569 เนื้อหาข่าวไม่ระบุจำนวนเงินและรายละเอียดกลุ่มเป้าหมายอย่างชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yZzgtS1J2U1RCUEN6SzNNbnp4aDM5bVFIMVdtMmpOLUdfZlQ0MW9RZ1pKWDVpXzJfbV94S2ZWUjJuMDAzekVyWGRmckZodVVhdnZUc09n?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-08T04:42:05Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "กำหนดโอนเงินช่วยเหลือ แต่ข้อมูลในเนื้อหาจำกัด"
+    },
+    {
+      "id": "9181d833",
+      "title": "ชาวนาอ่วมค่ารถเกี่ยวไร่ละพัน ซ้ำผลผลิตทะลักฉุดราคาข้าวดิ่งกลางพฤศจิกายน",
+      "summary": "ชาวนาได้รับผลกระทบจากต้นทุนการปลูกข้าวที่สูงขึ้น โดยค่ารถเกี่ยวข้าวเพิ่มจากไร่ละ 500–600 บาท เป็นไร่ละ 800–1,000 บาท เนื่องจากราคาน้ำมันที่สูงขึ้น นายกสมาคมชาวนาและเกษตรกรไทยเตือนว่าผลผลิตนาปีจะออกสู่ตลาดสูงสุดในกลางเดือนพฤศจิกายน อาจทำให้ราคาข้าวหอมมะลิตกต่ำ",
+      "url": "https://www.prachachat.net/economic/news-2092711",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-08T01:41:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ต้นทุนและราคาข้าวกระทบรายได้ชาวนา"
+    },
+    {
+      "id": "c29d228f",
+      "title": "คลัง ขานรับ ‘โซลาร์ภาคประชาชน’ ธอส.-ออมสิน-ธ.ก.ส. ปล่อยสินเชื่อ 1 ล้านครัวเรือน",
+      "summary": "กระทรวงการคลังขานรับโครงการ 'โซลาร์ภาคประชาชน' โดยให้ธนาคารอาคารสงเคราะห์ ธนาคารออมสิน และธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร ปล่อยสินเชื่อสนับสนุนการติดตั้งระบบโซลาร์เซลล์ให้แก่ประชาชนรวมประมาณ 1 ล้านครัวเรือน ทั้งนี้รายละเอียดเงื่อนไขและวงเงินยังไม่ได้ระบุในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1ZMYUNyc3RBRENZUkFzLTZDQ2JmczdxM1liY0RYTzZoYi02SGhXcWpudXh6UzFZWHFoRm9mZFRsZy1JRGowR2RwTWk0UlFXSWRqUmFYOVp3ckVzX043RGVHc3ZGY1gxZUdNTm1rVUZvWVVDZXB3aHkweHFuX3BnNURQbWw?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-07T12:16:56Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการสินเชื่อครัวเรือนระดับประเทศ แต่ไม่ระบุวงเงินและเงื่อนไข"
+    },
+    {
+      "id": "11340fc7",
+      "title": "สปสช. รับข้อเสนอ สส. จ่อปรับระบบส่งต่อ กทม. แก้สภาพคล่อง รพ. เผยหน่วยบริการเพิ่ม 6 พันแห่งในปี 68",
+      "summary": "สปสช. รับข้อเสนอแนะจาก สส. ให้ปรับระบบส่งต่อผู้ป่วยในกรุงเทพมหานคร และดูแลสภาพคล่องของโรงพยาบาล พร้อมรายงานผลการดำเนินงานปี 2568 ว่ามีการใช้บริการผู้ป่วยนอกกว่า 185 ล้านครั้ง ผู้ป่วยในกว่า 7 ล้านครั้ง และมีหน่วยบริการเพิ่มขึ้น 6,000 แห่ง",
+      "url": "https://www.hfocus.org/content/2026/11/40180",
+      "source": "Hfocus",
+      "published_at": "2026-11-07T05:05:39Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การบริหารกองทุนและบริการสุขภาพประชาชน",
+      "first_seen": "2026-11-07"
+    },
+    {
+      "id": "e78eae43",
+      "title": "สนค. เตือนวิกฤตพลังงานโลก ลามต้นทุนผลิต-ขนส่ง จ่อกระแทกค่าครองชีพ",
+      "summary": "สนค. เตือนว่าวิกฤตพลังงานของโลกจะลามไปสู่ต้นทุนการผลิตและการขนส่ง ซึ่งอาจส่งผลกระทบต่อค่าครองชีพของประชาชน ข่าวนี้มีเนื้อหาจำกัดจากเพียงหัวข้อข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZjE1UURaOGJ6RWNJRE1hbGZNQmlTcVkwbWlGc2tKd3JNdkpSUWVEWTFMWWRpMjhrRnZWX3lJRVRwbTgya0VnSkZlZjM0VFdsajZrdTRySnkxRHR5MFE?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-08T06:19:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เตือนผลกระทบค่าครองชีพ แต่เป็นการคาดการณ์"
+    },
+    {
+      "id": "cdb94b39",
+      "title": "แกร็บยันไม่ขอใบอนุญาต BNPL หลังธปท.เตรียมออกมาตรการกำกับดูแล อัตราดอกเบี้ย 15% ต่ำเกินไป เสี่ยงหนี้นอกระบบเพิ่ม",
+      "summary": "บริษัทแกร็บยืนยันจะไม่ขอใบอนุญาตประกอบธุรกิจ BNPL (ซื้อก่อนจ่ายทีหลัง) หลังธนาคารแห่งประเทศไทยเตรียมออกมาตรการกำกับดูแล โดยระบุว่าอัตราดอกเบี้ยร้อยละ 15 ต่ำเกินไปและอาจเพิ่มความเสี่ยงให้ผู้บริโภคหันไปพึ่งหนี้นอกระบบ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85V2Z6TDR5OF8yVW55Q2MzTlZxV2JoZEFuN2RiVVZkNl9HVHRpcVZDRlgzcHU0RnkySUVlcldodURMT09HQVZZQXFzNUUxd3AzRlA1YTJhNXpyaGVLWUxhak5KTWhyT29YczRYeA?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-08T01:53:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "เกี่ยวข้องกับหนี้ครัวเรือนและความเสี่ยงหนี้นอกระบบ"
+    },
+    {
+      "id": "d68bf3c2",
+      "title": "‘พม.’ ปี 70 เดินหน้าต่อเนื่อง ‘สร้างสังคมอยู่ดี มีโอกาส เพื่อคนไทยทุกคน’ . นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ เปิดประชุม “มอบนโยบาย พม. สร้างสุข สู่การปฏิบัติ” ประจำปีงบประมาณ 2570 โดยย้ำถึงความท้าทายของไทยในการเข้าสู่สังคมสูงวัย",
+      "summary": "รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ นายนิกร โสมกลาง เปิดประชุมมอบนโยบายประจำปีงบประมาณ 2570 โดยเน้นความท้าทายของประเทศในการเข้าสู่สังคมสูงวัย ภายใต้แนวคิดสร้างสังคมอยู่ดี มีโอกาสเพื่อคนไทยทุกคน",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxOeVUzOU9WOXhpMUJ2d0g5WmhvakM4dElqSkpnWFRwbG96dmdaR0Yzai1zSFpfXzViOVdKdkZmZVp1NWNQbjVDRV9Xb0ttY2Nnajl0ZTFoaGZia1ZEbGMwTWt1VHpJZzFVTzlOVWRyYWdMNWFqdXdwRGNBT2o0OGx4XzBQdGczbmZEdmlpVThCSmpRM1MwekJlY0psOWg2RDJHcC16OUtPbUJlSFQzSkRHR09jLThORFRjRzhHeG9DREc2R0c5dkxDd1R3U3FoQTl0TGhQdEVMQUc5UERPcjdpLThYU1JISDhVN2hab2FxYUpzRG0wTWxnQUYzZjFlVzEwUlg4SWlRaGRKUzZrVXNTQnNKS0xzRDRjTFFOZFZxZFN2aTNIWWRObDdvYTE3SWtIUzVNWlo0YUdtTURFQjBTRmVvQnFsZWY3N1lMMHQxX29NNkZxYjNUendPc0dYNVd1YzF6UzA4M0NWd1d0ajJDZ0ZKZEF6TGhFaktHcjl6STBUY3dKTk1FWU9BekhEOXJSdHZmYTlybWprRENzYXNCNGxHUkhxelZ4SjEydEZJejZHazNUZUQ5ckNJcVdpbTg0aV9LVU4yaEpQM2FlQlItZG41QlhxRXMtS0hzbzA2dVFWU2FacENJRGJ6N19KZVRJSDE3QmlONksxX3R4alRNZ21kU0owbThkalgtb19oWkI4eTBlaG9kMmRqNVgwVUFmcWdvc0RVTzdfYXV4aGo2UWJJNzVBcWo2aVRBLWstMG1Ic0g5QWVaLVpaNWpmRjQtVE1pX2lDMFkxMkhmajRwQmNTSHdSaFNVMEFuTGs3aUZnbWFDcnQ4aVNsb3JHemg5aEY5a0RpejliS1Y5RVUwcElCUUg4SjBqbDBGWnhvXzY3U2tRVnM1RWFQM21VWEZIajJHZEhPMHZScklrQWRjTDhwZjlnTDFuNUlSaFJ4N2EtLWV1Q1dKYkp3SE04TUdZLXJaTi1DWldCREw1RWVIdDF4RllydVhSdlBsN01ZdmZleGdaVHV3SWxaemgyVFAybDB5UGo1Q041dXBNak5NNTVSaTUyMTY3QWV0Z1dSVjhtbFUwSE5UR3pKQzZCOGNaM1lkNVFncmF4RUhSajBwb0NpNF8zR0dwNjcwQkFoTHp6LW1aSlgzWTVWbjE3NEZaUEk3b3hDUnRZOFJoUmVyXzR2WGVMSjQwX1RJZS1NRkR4S1dLYWFvMW84Mm5hUVhxbFN0NF9IelFWYVJSaHRpbDJoamZkR0lWUG9qcXptbk96ZVdER3pkdEctZmpNOU1O?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-08T03:39:51Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "นโยบายกระทรวงพัฒนาสังคม แต่ยังไม่มีมาตรการเฉพาะ"
+    },
+    {
+      "id": "8fc2ef6f",
+      "title": "โครงการวิชชาลัย ไชยภูมิ สร้างเสริมสุขภาพผู้สูงวัย ชะลอผู้ป่วยติดเตียง",
+      "summary": "เทศบาลเมืองชัยภูมิดำเนินโครงการส่งเสริมสุขภาพผู้สูงอายุ “วิชชาลัย ไชยภูมิ” เพื่อดึงผู้สูงอายุออกจากบ้านเข้าร่วมกิจกรรมสร้างเสริมสุขภาพกายใจและสังคม โดยมีเป้าหมายชะลอการเป็นผู้ป่วยติดบ้านและติดเตียง ลดภาระการจัดบริการดูแลระยะยาว (Long Term Care) ในอนาคต ประกาศโดยนายกเทศมนตรีเมืองชัยภูมิเมื่อวันที่ 8 พ.ย. 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40188",
+      "source": "Hfocus",
+      "published_at": "2026-11-08T03:10:59Z",
+      "category": "elderly",
+      "provinces": [
+        "ชัยภูมิ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "โครงการดูแลผู้สูงอายุระดับท้องถิ่น"
+    },
+    {
+      "id": "21326a40",
+      "title": "​สนค.เผยไทยกระจายแหล่งนำเข้าน้ำมัน-ก๊าซ แต่ราคายังสูง กระทบต้นทุน-ค่าครองชีพ",
+      "summary": "สำนักงานค้าภายในเผยไทยได้กระจายแหล่งนำเข้าน้ำมันและก๊าซธรรมชาติแล้ว แต่ราคายังอยู่ในระดับสูง ซึ่งส่งผลกระทบต่อต้นทุนการผลิตและค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KbC1ZUmp4NTRsVmtaNVdPYnJHV2dFdjYwN3J1WmVOVG5FZnAxdE9wQ2FDZEdjdWlOVWlzTFZwYTdWQ1l6X29kSkFmZVJqUTNUQ0FWOE1sdw?oc=5",
+      "source": "commercenewsagency",
+      "published_at": "2026-11-08T02:59:58Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ผลกระทบต่อค่าครองชีพโดยตรงแต่เป็นภาพรวม"
+    },
+    {
+      "id": "3c3e1d74",
+      "title": "สรุปกระแสร้อน “อาสาพยาบาล” ท่ามกลางแรงต้าน แรงหนุน จับตาความพร้อมพื้นที่-บทบาทรพ.สต.- ระบบกำกับงาน",
+      "summary": "สรุปกระแสความเห็นต่อโครงการอาสาพยาบาลชุมชน (อสพ.) ที่เข้าสู่การปฏิบัติงานเต็มรูปแบบ ประเด็นที่ติดตามคือความพร้อมของพื้นที่ บทบาทของ รพ.สต. และระบบกำกับงาน รวมถึงการเชื่อมโยงระบบดูแลสุขภาพปฐมภูมิ",
+      "url": "https://www.hfocus.org/content/2026/11/40186",
+      "source": "Hfocus",
+      "published_at": "2026-11-07T10:55:19Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "นโยบายสุขภาพปฐมภูมิที่มีผลต่อประชาชนในชุมชน"
+    },
+    {
+      "id": "4525e84d",
+      "title": "พาณิชย์ คุมค่าครองชีพ ผัก-ไข่ราคาลง เร่งระบายลำไยตะวันออก 3 หมื่นตัน",
+      "summary": "กระทรวงพาณิชย์ดูแลค่าครองชีพ โดยราคาผักและไข่ปรับลดลง พร้อมเร่งระบายลำไยภาคตะวันออกจำนวน 30,000 ตัน ทั้งนี้ไม่ปรากฏข้อมูลราคาเฉพาะรายการในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83OEdCaWoya0xCSm1HMU1TSS00bFJFMVpjNDhuZFcteEdldjFOdG1aMnA4eFdVeGQ4SHFSdjhlNGI2T2Z0OWFtZjlUV0hPREZxU3l5THRONGNiQkJnNUlubWhEYnJuRkNsTzc5RlBR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-07T05:39:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับค่าครองชีพ แต่เป็นข่าวราคาสินค้าเป็นหลัก",
+      "first_seen": "2026-11-07"
+    },
+    {
+      "id": "4e858acb",
+      "title": "สนค. ชี้ไทยกระจายแหล่งนำเข้าพลังงาน รับมือวิกฤตฮอร์มุซ ห่วงต้นทุนโลกดันค่าครองชีพ",
+      "summary": "สำนักงานค้าภายในชี้ว่าไทยกระจายแหล่งนำเข้าพลังงานเพื่อรับมือวิกฤตช่องแคบฮอร์มุซ แต่ยังกังวลว่าต้นทุนพลังงานโลกที่สูงจะกดดันค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16WnhMWFg2Rl96MnE1ekg4ZWlKV2dTM3QwVUkxc0E0eHVwRWZ2MjBPUkFBckxDWFFEcXppek9JdWtuaXYxb19lSVlMZw?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-11-08T03:00:52Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "ค่าครองชีพ เป็นข่าวซ้ำกับรายการก่อนหน้า"
+    },
+    {
+      "id": "a2fe916c",
+      "title": "สนค.ย้ำไทยไม่เสี่ยงขาดแคลนอาหาร อย่าตื่นตระหนกกักตุนสินค้า ซ้ำเติมค่าครองชีพ",
+      "summary": "สำนักงานเศรษฐกิจการเกษตรหรือ สนค. ยืนยันว่าประเทศไทยไม่มีความเสี่ยงขาดแคลนอาหาร และขอให้ประชาชนไม่ตื่นตระหนกหรือกักตุนสินค้า เพราะการกักตุนอาจซ้ำเติมค่าครองชีพ ข่าวนี้มีเนื้อหาจำกัดจากเพียงหัวข้อข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FeGZqT0d5T3RCT2JQTUdIY3JyUXBmYnZ6VURwTGdIZnd3TEpPblotcmNzQldIc2FLLVprcTFNa0U4TFNXOEg4M2JqdldSU2JJUVluLWlfYnpndElf?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-08T05:24:35Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับค่าครองชีพ แต่เนื้อหาสั้นและเป็นการชี้แจง"
+    },
+    {
+      "id": "2ad914fc",
+      "title": "ปลัดคลัง แจงประโยชน์ 3 ด้าน ‘โซลาร์ภาคประชาชน’ พร้อมดึง 3 แบงก์รัฐปล่อยสินเชื่อ",
+      "summary": "ปลัดกระทรวงการคลัง นายลวรณ แสงสนิท แจงประโยชน์ของโครงการโซลาร์ภาคประชาชนในสามด้าน ได้แก่ ลดรายจ่าย เพิ่มรายได้ และการเปลี่ยนผ่านพลังงาน พร้อมระบุว่าจะให้ธนาคารรัฐสามแห่งปล่อยสินเชื่อดอกเบี้ยต่ำแก่ประชาชนและ SME",
+      "url": "https://www.prachachat.net/finance/news-2093079",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-08T02:05:50Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับค่าครองชีพของประชาชนทางอ้อม"
+    },
+    {
+      "id": "ab7fc5d3",
+      "title": "“สิทธิบัตรทอง” ทำ รพ.เจ๊ง!! หรือ “สปสช.” บริหารงบแย่ จนไม่เหลือ “เงินซื้อยาฟรี” ให้ประชาชน?",
+      "summary": "มีการตั้งคำถามว่าสิทธิบัตรทองทำให้โรงพยาบาลขาดทุนหรือไม่ หรือการบริหารงบของ สปสช. ทำให้ไม่เหลือเงินสำหรับจัดซื้อยาให้ประชาชน บทความเป็นการวิเคราะห์และตั้งข้อสังเกต ข้อมูลตัวเลขเฉพาะเจาะจงไม่ปรากฏในข้อความที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41V1J4X25lLWFQY3MxVXJiWHNJWGVIbXF3T08xajhhVlRIVXBhNEFlbGRlVlllZUh6SnIzLU15NDR2M0hOS1YtT3ZEdTRGU2duNERxSTZhRVowNWM?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-07T14:39:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นงบบัตรทอง มีลักษณะวิพากษ์"
+    },
+    {
+      "id": "10b907a0",
+      "title": "คนโสดต้องรู้ ! เงินสงเคราะห์เสียชีวิตประกันสังคมอาจไม่มีใครได้รับ ถ้าไม่ระบุชื่อไว้",
+      "summary": "เตือนผู้ประกันตนที่เป็นโสดให้ระบุผู้รับประโยชน์ไว้ล่วงหน้า เนื่องจากเงินสงเคราะห์กรณีเสียชีวิตของประกันสังคมอาจไม่มีผู้ได้รับหากไม่มีการระบุชื่อ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uMmZHNzZwQURONzZEcl9FQ2REbm1ERjJ2eHZQTjBXV3BIZEFuRm11dk43azR6WnIydVM0S3F1OEtxUFUxaFlIODRHU2o?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-11-07T12:54:58Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อมูลสิทธิสวัสดิการประกันสังคมที่ควรทราบ"
+    },
+    {
+      "id": "a77f0638",
+      "title": "กระทรวงพาณิชย์ตรวจติดตามราคาสินค้าตลาดธนบุรี ควบคุมค่าครองชีพ ป้องกันเอาเปรียบผู้บริโภค",
+      "summary": "กระทรวงพาณิชย์ตรวจติดตามราคาสินค้าในตลาดธนบุรี เพื่อควบคุมค่าครองชีพและป้องกันการเอาเปรียบผู้บริโภค ทั้งนี้ไม่ปรากฏรายละเอียดผลการตรวจสอบในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YaXJCNjUxajhURDM4Z2V3SzNGZmMxVjRFclZrSmxKQ1k3cm1iTmw1N2x0ZzNPclNwS3dmbVU4NWNLWmk3VVotSWZMRnRkY05naHBCck5RaEhRMExhUGM3VWphZjJfMGN2d3BKY0d3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-07T06:08:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "การกำกับราคาสินค้าระดับพื้นที่ มีผลต่อค่าครองชีพ แต่ข้อมูลจำกัด",
+      "first_seen": "2026-11-07"
+    },
+    {
+      "id": "28fa2322",
+      "title": "กำนันมะโน นำขบวนออกจากเพชรบุรี มุ่งหน้าทำเนียบ ยื่นข้อเรียกร้องลดราคาน้ำมันลิตรละ 10 บาท",
+      "summary": "กำนันมะโน นำขบวนออกจากจังหวัดเพชรบุรีมุ่งหน้าทำเนียบรัฐบาล เพื่อยื่นข้อเรียกร้องให้ลดราคาน้ำมันลงลิตรละ 10 บาท เนื้อหาข่าวไม่ระบุผลการยื่นหนังสือหรือการตอบรับจากรัฐบาล",
+      "url": "https://www.matichon.co.th/region/news_5966508",
+      "source": "มติชน",
+      "published_at": "2026-11-08T02:48:15Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "เพชรบุรี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข้อเรียกร้องด้านค่าครองชีพ แต่เป็นข่าวการเคลื่อนไหว"
+    },
+    {
+      "id": "f1f943e3",
+      "title": "ระวังจะหลงเชื่อ! ผู้สูงอายุสามารถรับเบี้ยยังชีพ เป็นเงินสด ที่ 7-Eleven ใกล้บ้านได้ | TOJO NEWS",
+      "summary": "มีการเตือนประชาชนให้ระวังการหลงเชื่อข้อมูลที่ระบุว่าผู้สูงอายุสามารถรับเบี้ยยังชีพเป็นเงินสดที่ร้าน 7-Eleven ใกล้บ้านได้ เนื้อหาเป็นข่าวเตือนภัยที่ไม่มีรายละเอียดหน่วยงานรับผิดชอบหรือข้อมูลยืนยันจากทางการในข้อความที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4teVA4S3hnemV1OEhLOFhZWXp5NDFGb3NPQk1vTDZxQ3ktenVQaE9kLTVmT3VOYXg5anFDbjBNRWRsV0hKLWxrUXY0NzNtYXNNUmNxM2pB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-08T01:43:06Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เตือนภัยเกี่ยวกับเบี้ยยังชีพผู้สูงอายุ"
+    },
+    {
+      "id": "9768785b",
+      "title": "โฆษกรัฐบาล โต้เสียงวิจารณ์เศรษฐกิจ ชี้ราคาพืชผลพุ่ง แม้ค่าครองชีพยังสูง ขออย่ามองด้านเดียว",
+      "summary": "โฆษกรัฐบาลชี้แจงตอบโต้การวิจารณ์ด้านเศรษฐกิจ โดยระบุว่าราคาพืชผลเพิ่มสูงขึ้น ขณะที่ค่าครองชีพยังอยู่ในระดับสูง และขอให้ประชาชนพิจารณาข้อมูลอย่างรอบด้าน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QOE9qRTlNaTRZclZhY3YwVUVoMzJ2WlB1bHljbmU0cUJPR0VjbFBsVlJfalo5bnZnRE9NUkdkYnhlZk9RbmRLei1TMWVla2hpZWc3azNhdjh2SVB5?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-07T06:50:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับค่าครองชีพ แต่เป็นการชี้แจงทั่วไป"
+    }
+  ]
+}
