@@ -1,0 +1,537 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T07:40:53Z",
+  "window": {
+    "from": "2026-11-08T05:40:02Z",
+    "to": "2026-11-09T07:40:02Z"
+  },
+  "stats": {
+    "fetched": 201,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 14088,
+    "ai_output_tokens": 11517,
+    "cost_thb": 0.26,
+    "runs": 1,
+    "kept": 34,
+    "eastern": 2,
+    "national": 32,
+    "new": 31,
+    "followups": 3,
+    "sources": 24
+  },
+  "items": [
+    {
+      "id": "86bec004",
+      "title": "รัฐบาลดัน ‘3 ขอ’ ปลดล็อกเงินชราภาพประกันสังคม เลือกเงินก้อน-ถอนยามวิกฤต-ใช้ค้ำกู้",
+      "summary": "รัฐบาลผลักดันมาตรการ '3 ขอ' เพื่อปลดล็อกเงินชราภาพของประกันสังคม ได้แก่ การเลือกรับเป็นเงินก้อน การถอนเงินในยามวิกฤต และการนำไปใช้เป็นหลักประกันการกู้ยืม ทั้งนี้รายละเอียดวงเงินและเงื่อนไขไม่ปรากฏในเนื้อหาที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iV0dYN3JYWXUzOGZUR3RydDRhTUdjZkVnb1NWTWhuUHZ3M0dVc2E1Rm9TSVJmeFpnUFlkZGtzdmwxbHczbUtJODBXV2QtMkdCM3c5amNtakFDTGZaOXBRVDlCMl9jdXM?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-08T09:24:47Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มาตรการเงินโดยตรงถึงผู้ประกันตนระดับชาติ"
+    },
+    {
+      "id": "1f3e65cf",
+      "title": "รื้อ ‘ประกันสังคม’ รอบ 36 ปี ‘สิทธิประโยชน์’ ที่จะเปลี่ยนไป",
+      "summary": "รายงานระบุว่ามีการปรับปรุงระบบประกันสังคมครั้งใหญ่รอบ 36 ปี โดยเน้นการเปลี่ยนแปลงสิทธิประโยชน์ของผู้ประกันตน ทั้งนี้รายละเอียดเชิงตัวเลขและกำหนดเวลาการบังคับใช้ไม่ปรากฏในเนื้อหาที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13aVBxdENPa05Ra2VpYjRBYi1IcEZlaTk4djlydTJYb1NtZ0NQRUU1V0hWTllwWlExR3EzYk9QM1hfSnlValdnbVVqZkpkRWI2R3EwT0ZlOXVOT1VOUVgzSUp6U1RlQlBHOVlr?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-09T06:35:07Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "นโยบายระดับชาติที่กระทบสิทธิผู้ประกันตน"
+    },
+    {
+      "id": "4b94ddf2",
+      "title": "ประกันสังคม ม.39 ลาออกแล้วต่อสิทธิได้ จ่ายเดือนละ 432 บาท คุ้มครอง 6 กรณี",
+      "summary": "ประกันสังคมมาตรา 39 ระบุว่าผู้ที่ลาออกจากงานยังสามารถต่อสิทธิได้ โดยจ่ายเงินสมทบเดือนละ 432 บาท และได้รับความคุ้มครองทั้งหมด 6 กรณี",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CLVR4RkFuRjJMSXpyWlFvdWw3amFmLWZickg1Sm53aF9PZU8tWlhYS2pPNTZoYWprbHVYTGdsaV9ieTVUZkFyclktMER1cWJ5TXdNNEN0cGxnYnR2?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-09T04:07:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มาตรการต่อสิทธิประกันสังคมที่มีจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "a2b2a611",
+      "title": "พม.แจง เงินสงเคราะห์ศพผู้สูงอายุ 60 ปี จ่ายจริง 3,000 บาท ไม่ใช่ 30,000 บาท",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ชี้แจงว่าเงินสงเคราะห์ศพผู้สูงอายุอายุ 60 ปีขึ้นไป จ่ายจริงจำนวน 3,000 บาท ไม่ใช่ 30,000 บาทตามที่มีการเข้าใจ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4Vy1IRlgzOTFmWEhLMW83Tl9yVExhWHJ2VUx0YkRLMkkxakUtR0FkbUt4dDdjSjlHdXFSNm9ZbUpKS0FsX1BHOGZkald6OXdnSDVrSk1qek5BQnhv?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-08T21:00:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ชี้แจงวงเงินสวัสดิการผู้สูงอายุโดยตรง"
+    },
+    {
+      "id": "327ab366",
+      "title": "\"นิกร โสมกลาง\"นำทีม พม. ลงพื้นที่ขอนแก่น มอบสิทธิสวัสดิการ ช่วยกลุ่มเปราะบาง",
+      "summary": "นายนิกร โสมกลาง นำทีมกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) ลงพื้นที่จังหวัดขอนแก่น เพื่อมอบสิทธิสวัสดิการให้แก่กลุ่มเปราะบาง ทั้งนี้ข่าวไม่ได้ระบุจำนวนผู้รับหรือวงเงินที่มอบ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIbGxCYi1yVHV6cl9TT0VBYlVuWV9FcVltVmg2QjhuRDhIZDdZUXRJVENVT21tcUZFNnluYWlkZ3lSQl9vQUJGRWhnMzdVcDhaNG9Z?oc=5",
+      "source": "thainewsonline",
+      "published_at": "2026-11-08T14:56:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ขอนแก่น"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มอบสิทธิสวัสดิการให้กลุ่มเปราะบางโดยตรง"
+    },
+    {
+      "id": "6e6fd7d3",
+      "title": "เงินเฟ้อไทยจ่อสูงยาวถึงต้นปี 70 น้ำมันแพง–เอลนีโญ ดันค่าครองชีพ",
+      "summary": "รายงานการคาดการณ์ว่าอัตราเงินเฟ้อของไทยอาจอยู่ในระดับสูงไปจนถึงต้นปี 2570 โดยมีปัจจัยหลักจากราคาน้ำมันที่สูงขึ้นและผลกระทบจากปรากฏการณ์เอลนีโญ ซึ่งจะส่งผลให้ค่าครองชีพของประชาชนเพิ่มขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95eWMxcU1oZTVuN3dNVFAwX19aX242SXFXVS1PMWhOTWV6NGlUNk8zZS1ER19kdUFPUEtObG9MczJ1N3A3anN4UlE1TF9rRHMxZUFwODRUbHU5Yms?oc=5",
+      "source": "pptvhd36.com",
+      "published_at": "2026-11-09T02:01:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "คาดการณ์เงินเฟ้อกระทบค่าครองชีพ"
+    },
+    {
+      "id": "69bd0f1e",
+      "title": "กทม. อัปเดตสถิติเยียวยาน้ำท่วม อนุมัติเงินผ่าน \"ทางรัฐ\" ทะลุ 4.6 พันล้าน-ยื่นออนไลน์ทะลุ 1.5 แสนคำร้อง",
+      "summary": "กรุงเทพมหานครรายงานสถิติการเยียวยาน้ำท่วม โดยอนุมัติเงินผ่านระบบ \"ทางรัฐ\" รวมกว่า 4.6 พันล้านบาท และมีคำร้องยื่นผ่านระบบออนไลน์เกิน 1.5 แสนคำร้อง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85WGpTZDZpWUp5WG1iOVZsZU9iUnB0b01KXzU0dVE4YkZqdExRVHJ3eC1UNDVaTW4wSV9VOVd0OVplc0taRk1KWWpJazFfLUhEUTlUOUp6QQ?oc=5",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-08T13:18:35Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "วงเงินเยียวยาจริงที่ถึงมือประชาชนจำนวนมาก"
+    },
+    {
+      "id": "e1ba21c0",
+      "title": "จับตาน้ำมันแพงลามเศรษฐกิจ สนค. ชี้ราคาพลังงานดันเงินเฟ้อกว่า 56%จ่อกระทบค่าครองชีพ",
+      "summary": "สำนักงานเศรษฐกิจการเกษตร (สนค.) ชี้ว่าราคาน้ำมันที่สูงขึ้นอาจผลักดันอัตราเงินเฟ้อให้สูงกว่า 56 เปอร์เซ็นต์ และส่งผลกระทบต่อค่าครองชีพของประชาชน ควรติดตามสถานการณ์อย่างใกล้ชิด",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSHlwSHJDekEzeDNRQkF0bTFLMHozSnNlZ21YSkVUN3MwdTJuMW83dTBiNUU0WktQSXdSVk04VnMtVkEySHUyWmFkLXVwdDZtNG9qdUNn?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-08T06:01:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ผลกระทบต่อค่าครองชีพระดับประเทศ",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "20fad9bb",
+      "title": "News1. . LIVE !!! เกาะติด! มวลชนกำนันมะโนประชิดทำเนียบ จี้ลดค่าครองชีพ-น้ำมัน ทำเนียบรัฐบาล",
+      "summary": "มวลชนที่นำโดยกำนันมะโนได้มารวมตัวบริเวณใกล้ทำเนียบรัฐบาล เพื่อเรียกร้องให้รัฐบาลดำเนินมาตรการลดค่าครองชีพและราคาน้ำมัน ข่าวเผยแพร่ผ่านเฟซบุ๊กพร้อมถ่ายทอดสด ยังไม่ปรากฏรายละเอียดข้อเรียกร้องเพิ่มเติมหรือผลการเจรจาในเนื้อข่าวที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxOMTlocWFsc0d3ZDB2RFdncGNhc1FxS0ItUF9lNWhleEcyck5ndld4RnVYTUhfaUNqTDEtbzM1dm5QWWlsZVBxQ01zYy1rOC1LQm4xaUFFM3paaWUxQjNLSDd5WWNwdExXQTJ5Wm1lMVRLdnR1ZnVfZDN4WmlxWXdFYm94dlI1b0kwMGRHcUEtY1FEb2FoTjV1T1A4dHBIbEhkSUNvTEFLT0dRVm1qOFhFRmxDVzhlYURrZjRMX3o1UmRDZ0p2TVRFeFl4TzNvU1N6NzFja0hHMXA1ZnFzY2hjUHRWZWNieWw3TTJxYUQzallMdm9JM0JVMkdYak5IUU81bWtMRUs4enItQ2lzTDVrcFZrODRwcUt5RjBBNko3RWpBOXAzOHBnYVhRVDFQWnE3OVlLMG5pcTc0TlprUTlLdUMzWXJSVlNpbFEzcktSQ1BRenNvd2pGMGgzYTZHeTZ5bmtQZEpKYXFacWZRVU5HZ3J3T3BzWmN2azR3eE5ndHh2MmM3OXJjaFRqRHFWLTNISHRCdm1CdkRZUS1GZFlMUzVaMUNpdEpnOXpIOTNuaURxSFY2MWxDb1VWSjBzUURqY1NVZW5SQVFpUHFLSjJnWmxXdnFjbGdXR3NlVDB0X1l2M1VMTTB1UzZrMElaUVNnSEZfOC12am1nYm42WjRaSFRkb3BGTzlDeFkzQkl6WldONEVudWJwTUhEUDh5MWxmdTJkamtBSFNVeFZ1X2t0ZnRGaTlpVWRyMDJ4V1RSOUtQVWVOM3l0cXdrMUVxWk9PdGo4YTBjR0lnSHVPMmRwVHNlSWUweGVkT1BYSGdQbU5UQUxNT3N4d1NocHdsdFFrank2SWFGdlNYYW1yd09IbkZlMkJhRGNNSE9oc3d2clZkSWRCQXNpUDZ1djgzTGs0Wm9GaExxVDE2LUtGeTg2NjF4bmRjVURiT09kWll6cWhrS2lwMFZaZzkxNmpsV1NyYW10R2hzSE05MmVMS3VzSXJ6T0lKelNQMl9yUlV4bG1rUlNoUVJHTlNaUzVsZzM3cGo2bWRBby1oT29MMVo0UEhrRzZYWmJHQnhuZ09HQUJXYTFNZVVrcnR4dWZhM0ZZVXpITXQ5Q3dWaGlXVlZra25xM0ZmOGNURFItR3VHaWUwNjAtT1FPTGdaV0QxQ0hMVFlzTktOb3J4MGZqeXlZUDg4SnMtRWZER01ZLXR0c0k0S2xEVldFeVRXaXJORmNUYWNMc3drOA?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-09T05:28:34Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ประเด็นค่าครองชีพและน้ำมันกระทบประชาชนวงกว้าง แต่ข้อมูลจำกัดและเป็นข่าวสดเฉพาะหน้า"
+    },
+    {
+      "id": "a47320b4",
+      "title": "ไขข้อสงสัย '3 ขอ' ประกันสังคม ถอนเงินชราภาพ-ค้ำกู้ ต้องส่งกี่เดือน?",
+      "summary": "ให้ข้อมูลเกี่ยวกับเงื่อนไข '3 ขอ' ของประกันสังคม ได้แก่ การขอถอนเงินชราภาพ การขอค้ำประกันเงินกู้ และการขอรับสิทธิอื่น โดยอธิบายจำนวนเดือนที่ต้องส่งเงินสมทบตามเงื่อนไขของแต่ละกรณี เป็นข้อมูลที่เกี่ยวข้องกับผู้ประกันตนซึ่งส่วนใหญ่เป็นแรงงานรายได้น้อยถึงปานกลาง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1REdVMFFOc0lIZDF6bko5YmxLUXU2akhSYmZxUUM2V1ZfNUhQZmJ6Q2pfdkotZnhKXzFaM3lZMmFzRWl1SmU0YUdmWmwwSUVudXdUcUZUVVdnblNTZ3RCS2M5SjdHUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-08T21:49:27Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ข้อมูลสิทธิประกันสังคมโดยตรง"
+    },
+    {
+      "id": "e78eae43",
+      "title": "สนค. เตือนวิกฤตพลังงานโลก ลามต้นทุนผลิต-ขนส่ง จ่อกระแทกค่าครองชีพ",
+      "summary": "สนค. เตือนว่าวิกฤตพลังงานของโลกจะส่งผลลามถึงต้นทุนการผลิตและการขนส่งภายในประเทศ ซึ่งอาจกระทบค่าครองชีพของประชาชนโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JZjE1UURaOGJ6RWNJRE1hbGZNQmlTcVkwbWlGc2tKd3JNdkpSUWVEWTFMWWRpMjhrRnZWX3lJRVRwbTgya0VnSkZlZjM0VFdsajZrdTRySnkxRHR5MFE?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-08T06:19:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "คาดการณ์ผลกระทบต่อค่าครองชีพ",
+      "first_seen": "2026-11-08"
+    },
+    {
+      "id": "9d87d678",
+      "title": "‘สนค.’ ชี้ไทยกระจายแหล่งนำเข้าพลังงาน รับมือวิกฤตฮอร์มุซ เตือนน้ำมันแพงดันต้นทุน-ค่าครองชีพ",
+      "summary": "สนค. ชี้ว่าประเทศไทยกระจายแหล่งนำเข้าพลังงานเพื่อรับมือวิกฤตช่องแคบฮอร์มุซ และเตือนว่าราคาน้ำมันที่สูงขึ้นอาจดันต้นทุนการผลิตและค่าครองชีพของประชาชนให้สูงขึ้น",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBab1BrdUpESUFNb0VkR2hUOTZZNkxKbVRpcmlibWp3b0FjTnJXSWFha2R1N1dfdWh6MjBrTnFha3BHMUxnNVNGRElKQmE0ZkV4ZjdFdnJLdkQ3SG5WRXRtbEplbFFuOW8?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-08T10:06:46Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "ความเสี่ยงต่อค่าครองชีพของประชาชน"
+    },
+    {
+      "id": "3d8dbd13",
+      "title": "‘สนค.’ชี้ไทยกระจายแหล่งนำเข้าพลังงานรับความเสี่ยงฮอร์มุซ จับตากระทบราคาสินค้า-ค่าครองชีพ",
+      "summary": "สนค. ระบุว่าประเทศไทยมีการกระจายแหล่งนำเข้าพลังงานเพื่อรับความเสี่ยงจากสถานการณ์ช่องแคบฮอร์มุซ พร้อมจับตาผลกระทบต่อราคาสินค้าและค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHSjBFQTFxSW5JWDB6S1VFbDNQaWJoZmVyZ0hVUmZYbzg1M2hLdGY3LWVHVUdJaHBDTU1mZ2ZqZVhwTjhoLXJOejhjdkRpWjZjTkg0R1NJS242elE?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-08T08:23:23Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "ความเสี่ยงราคาสินค้าและค่าครองชีพ"
+    },
+    {
+      "id": "4b099dfa",
+      "title": "กทม. ปักหมุดโรงรับจำนำแห่งใหม่ย่านภาษีเจริญ ไม่ต้องเสี่ยงกับหนี้นอกระบบ",
+      "summary": "กรุงเทพมหานครเปิดโรงรับจำนำแห่งใหม่ในพื้นที่ย่านภาษีเจริญ เพื่อให้ประชาชนมีช่องทางกู้ยืมที่ถูกกฎหมาย และลดความเสี่ยงจากการพึ่งพาหนี้นอกระบบ ไม่ปรากฏข้อมูลอัตราดอกเบี้ยหรือวันเปิดให้บริการในเนื้อหาที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aWjNyck80RVNFR2xscjJ4NlltX3hYNVZhdEUwTDZOVTVHUjJjVk1jLUFsWjAtYzRmTVdRUmVVbUM5UzU5aXI2Y3hpTQ?oc=5",
+      "source": "www.ch7.com",
+      "published_at": "2026-11-09T07:38:22Z",
+      "category": "debt",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการเชิงพื้นที่ที่ช่วยลดภาระหนี้ประชาชน"
+    },
+    {
+      "id": "fb9b884c",
+      "title": "“กำนันมะโน” นำมวลชนปักหลักข้างทำเนียบฯ จี้แก้ค่าครองชีพ เตรียมยกระดับม็อบ",
+      "summary": "กำนันมะโนนำมวลชนมาปักหลักบริเวณข้างทำเนียบรัฐบาลเพื่อเรียกร้องให้รัฐบาลแก้ไขปัญหาค่าครองชีพ และแจ้งว่าจะยกระดับการชุมนุมในระยะต่อไป ข่าวไม่ระบุข้อเรียกร้องเชิงตัวเลขหรือกำหนดเวลาที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ib1NSR3pRb3ZtLU1JSTVKY0t0VklJem05bTVwWEt3X1hTRklLb0ZWNUNQQTgyWkw1T29rMVNYajJDR1l3aHhOVjVtSHRXdDRhUXFz?oc=5",
+      "source": "อีจัน",
+      "published_at": "2026-11-09T03:11:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "การชุมนุมเรียกร้องแก้ค่าครองชีพ"
+    },
+    {
+      "id": "fbb3285c",
+      "title": "รัฐบาลยินดี บอร์ดประกันสังคมชุดใหม่ 14 คน ย้ำพร้อมเดินหน้าดูแลสิทธิประโยชน์ผู้ประกันตน - Tnews",
+      "summary": "รัฐบาลแสดงความยินดีต่อคณะกรรมการประกันสังคมชุดใหม่ จำนวน 14 คน และย้ำว่าพร้อมดำเนินการดูแลสิทธิประโยชน์ของผู้ประกันตนต่อไป รายละเอียดมาตรการเฉพาะและวงเงินยังไม่ปรากฏในข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWc0JGcF9UbmFFaW9VOHVPUVZxb3NkZmhqVEtKNGR2ZldqSHZXbWl0X1JDZ1dGWko3NzVQWGhjLW0wem5TU1h3VU81Sk5iaHpvUjR2UXprWmJfMFpRQkE?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-08T10:54:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ผู้ประกันตนทั่วประเทศ เป็นการปรับองค์กรกำกับดูแลสิทธิประโยชน์"
+    },
+    {
+      "id": "e6e568de",
+      "title": "อบต.นากลาง-รพ.สต. ขับเคลื่อน LTC ประสานทีมดูแลผู้มีภาวะพึ่งพิงถึงบ้าน",
+      "summary": "องค์การบริหารส่วนตำบลนากลาง ร่วมกับโรงพยาบาลส่งเสริมสุขภาพตำบลนากลาง จังหวัดนครสวรรค์ ดำเนินโครงการดูแลระยะยาว (LTC) โดยเชื่อมการทำงานของผู้จัดการการดูแลและผู้ช่วยเหลือดูแล ลงเยี่ยมบ้าน ติดตามอาการ และจัดหาอุปกรณ์ตามความจำเป็นให้ผู้สูงอายุและผู้ป่วยกว่า 130 คน เมื่อวันที่ 8 พฤศจิกายน 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40192",
+      "source": "Hfocus",
+      "published_at": "2026-11-08T07:28:53Z",
+      "category": "elderly",
+      "provinces": [
+        "นครสวรรค์"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "บริการดูแลถึงบ้านแก่ผู้สูงอายุและผู้มีภาวะพึ่งพิงในพื้นที่"
+    },
+    {
+      "id": "4a65261f",
+      "title": "ประกันภัยพิบัติแห่งชาติ อนุมัติสินไหมกว่า 56 ล้าน เร่งเยียวยาตามสิทธิอย่างทั่วถึง",
+      "summary": "สำนักงานประกันภัยพิบัติแห่งชาติอนุมัติการจ่ายสินไหมทดแทนรวมกว่า 56 ล้านบาท และเร่งดำเนินการเยียวยาผู้ประสบภัยตามสิทธิอย่างทั่วถึง ข่าวไม่ได้ระบุรายละเอียดภัยพิบัติที่เกี่ยวข้องหรือพื้นที่ที่ได้รับการเยียวยาเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yR2FqM0Y5WE5jVm9PeGxGZHdRSTRxTVI0aHAzdF9HVzBaQUllc1g1MWxDaWtSdWZiZC1rZUpfOWtBM3puUEVFOV9Ubm1aeUJfRHNISA?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-09T00:42:04Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีการจ่ายเงินเยียวยาจริงแก่ผู้ประสบภัย"
+    },
+    {
+      "id": "8ce4eb37",
+      "title": "‘กุลวลี’ขอรัฐเร่งเยียวยาราชบุรีเร่งฟื้นฟูหลังน้ำลดปลาหมอคางดำระบาด-สวนมะพร้าวน้ำหอมพัง",
+      "summary": "นางกุลวลีขอให้รัฐเร่งเยียวยาและฟื้นฟูจังหวัดราชบุรีหลังน้ำลด ท่ามกลางการระบาดของปลาหมอคางดำและความเสียหายต่อสวนมะพร้าวน้ำหอม",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DbF9QYjhMV09pQ2R3QmdWSEI5V1RvSlFBdkhjVlA3VFU5TXBCc3RjWlp2LUdyM1dFOVgtbmZiMlczaURVY2ptZnNERnJoUnIxUmhF?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-08T15:05:44Z",
+      "category": "disaster",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ผลกระทบต่อเกษตรกรในพื้นที่ และขอเร่งเยียวยา"
+    },
+    {
+      "id": "c6d687e2",
+      "title": "กกต. รับรองผลเลือกตั้งบอร์ดประกันสังคมฝ่ายนายจ้าง-ผู้ประกันตนแล้ว หากไร้คัดค้านภายใน 7 วัน พร้อมเสนอแต่งตั้งทันที",
+      "summary": "คณะกรรมการการเลือกตั้ง (กกต.) รับรองผลการเลือกตั้งคณะกรรมการประกันสังคมในส่วนของฝ่ายนายจ้างและผู้ประกันตนแล้ว หากไม่มีการคัดค้านภายใน 7 วัน จะเสนอแต่งตั้งคณะกรรมการดังกล่าวทันที",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qU2NZcEVDRjd5S0VBdVpQNmV0RHZZYlBmV2ZZUjZYYmd1ang4aDcxWFVPc19rMzZOMzY4RFBVUWRjbWU1eDBfM0NwVUNBX1pmbWkxTHh3QkRaQ3JLQVB6dHVnVHVteXJIQmY4UExCczdSR0tENkIyanBCSGE?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-08T06:22:40Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ขั้นตอนการแต่งตั้งบอร์ดที่กำกับระบบประกันสังคม"
+    },
+    {
+      "id": "6469241b",
+      "title": "หมูหน้าฟาร์ม ปรับราคาขึ้นอีก 2 บาท/กก. ทุกภูมิภาค มีผลวันนี้",
+      "summary": "เครือข่ายผู้เลี้ยงสุกรประกาศปรับราคาสุกรมีชีวิตหน้าฟาร์มเพิ่มขึ้นอีก 2 บาทต่อกิโลกรัมในทุกภูมิภาค มีผลตั้งแต่วันที่ 9 พฤศจิกายน 2569 โดยประกาศจากสมาคมผู้เลี้ยงสุกรแห่งชาติและสมาคม สหกรณ์ในภูมิภาค ราคาที่เพิ่มขึ้นอาจส่งผลต่อราคาเนื้อหมูในตลาดผู้บริโภค",
+      "url": "https://www.khaosod.co.th/economics/news_10465626",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-09T05:53:14Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": true,
+      "score": 68,
+      "why": "กระทบค่าครองชีพของครัวเรือนผ่านราคาอาหาร แต่เป็นราคาหน้าฟาร์ม ไม่ใช่ราคาปลีก"
+    },
+    {
+      "id": "840f8996",
+      "title": "ชัชชาติ ประธานเปิดโรงรับจำนำใหม่ย่านภาษีเจริญ ย้ำ ‘ดอกเบี้ยต่ำ’ ไม่เน้นกำไร เซฟความเสี่ยงหนี้นอกระบบ",
+      "summary": "ผู้ว่าราชการกรุงเทพมหานครเปิดโรงรับจำนำแห่งใหม่ในย่านภาษีเจริญ โดยย้ำว่าอัตราดอกเบี้ยต่ำและไม่มุ่งหวังกำไร เพื่อลดความเสี่ยงของประชาชนในการเข้าสู่หนี้นอกระบบ เปิดให้บริการในวันที่ 9 พฤศจิกายน 2569",
+      "url": "https://www.matichon.co.th/local/news_5967410",
+      "source": "มติชน",
+      "published_at": "2026-11-09T07:19:49Z",
+      "category": "debt",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "บริการสินเชื่อดอกเบี้ยต่ำช่วยประชาชนลดหนี้นอกระบบ"
+    },
+    {
+      "id": "0309337c",
+      "title": "ปชน. ฝากสื่อถาม ‘อนุทิน’ ปมตัดเบี้ยเลี้ยง ตำรวจชายแดนใต้ เหตุเชิญมาตอบในสภายาก",
+      "summary": "พรรคประชาชนโดยนายณัฐพงษ์ เรืองปัญญาวุฒิ หัวหน้าพรรค ซึ่งเป็นผู้นำฝ่ายค้าน ให้สัมภาษณ์เรียกร้องให้สื่อมวลชนช่วยสอบถามนายอนุทิน ชาญวีรกูล เกี่ยวกับกรณีการตัดเบี้ยเลี้ยงของตำรวจที่ปฏิบัติงานในจังหวัดชายแดนภาคใต้ โดยเห็นว่าผู้ปฏิบัติงานกลุ่มนี้ควรได้รับการดูแลอย่างทั่วถึง",
+      "url": "https://www.khaosod.co.th/politics/news_10465532",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-09T04:51:47Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ประเด็นสวัสดิการผู้ปฏิบัติงาน ความเห็นฝ่ายค้าน"
+    },
+    {
+      "id": "c587289c",
+      "title": "“ประชาธิปัตย์” จับมือแฟลตคลองจั่น เตรียมยื่นศาลปกครอง ฟ้อง “กทม. - ชัชชาติ” เร่งชดใช้เยียวยาน้ำท่วม ชี้บกพร่อง 4 จุดใหญ่",
+      "summary": "พรรคประชาธิปัตย์ร่วมกับชาวแฟลตคลองจั่นเตรียมยื่นฟ้องต่อศาลปกครองกรุงเทพมหานครและนายชัชชาติ เพื่อเร่งชดใช้เยียวยาความเสียหายจากน้ำท่วม โดยระบุความบกพร่องของหน่วยงาน 4 จุดหลัก",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYU0FxbHl1a09NUnd5WFM1V3YwNk9hYVpSbmVBQmpLclZIbjEybU5hWnotZUFfR2s5aUJRSzNmMXlOMnppSmFwbXZuVzhzMTIzV1plMmJweGs?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-11-08T11:19:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ผลกระทบต่อผู้อยู่อาศัยจากน้ำท่วมและการเยียวยา"
+    },
+    {
+      "id": "bf08a242",
+      "title": "ปชป.ช่วยชาวแฟลตคลองจั่น เตรียมยื่นฟ้อง กทม. เร่งเยียวยาน้ำท่วม",
+      "summary": "พรรคประชาธิปัตย์ให้การช่วยเหลือชาวแฟลตคลองจั่นและเตรียมยื่นฟ้องกรุงเทพมหานครเพื่อเร่งการเยียวยาความเสียหายจากน้ำท่วม",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpeS1tWmxud2ZjTDBvYmFuRHJ5VDhHazgtVERhclRsWDNGcENlX2VwYW5MeWpHMU9MZ0l2b1hqbVI0UkZ1a1hnU1FLU3J1TmNTSE4zeG9VOHJ3ZWdTMzJfdFpR?oc=5",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "published_at": "2026-11-08T15:36:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "การติดตามเรื่องเยียวยาน้ำท่วมของชุมชน (ข่าวต่อเนื่องจากกรณีเดียวกัน)"
+    },
+    {
+      "id": "cddd8b60",
+      "title": "ปฏิรูปประกันสังคม \"น้ำเงิน-แดง-ส้ม\" ศึกชิงเรตติ้ง & ความหวังผู้ประกันตน : 08-11-69 | iNN Top Story #ประกันสังคม #ปฏิรูปประกันสังคม #ผู้ประกันตน #กระทรวงแรงงาน #อนุทิน #จุลพันธ์อมรวิวัฒน์ #ไอซ์รักชนก #iNNTopStory #INNNEWS",
+      "summary": "มีการถกประเด็นการปฏิรูปประกันสังคมและผลประโยชน์ของผู้ประกันตน ในรายการข่าว iNN Top Story ซึ่งมีการกล่าวถึงกระทรวงแรงงานและบุคคลทางการเมืองที่เกี่ยวข้อง ข่าวนี้เป็นเพียงรายการโทรทัศน์ที่มีเนื้อหาจำกัด ไม่มีมาตรการหรือตัวเลขเฉพาะที่ยืนยันได้จากข้อความที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMi8AZBVV95cUxNMGdtVUdpem9sMzBqVzFzdjM3VkxFWlRHOWlYMjJualU0ZkJlcTVPUjhaalVxYTFzaWNnMmpkM05NdTNfZTVnMzhyZzU3aU53cGRTYWt1akFqR0xhYV82eW1NRnU1QzFFZE1aZW12Vzcyc2VvRVRTNVFrZW4ybnp4ZHNWdWFkUjdSYnNWOF96THdsd1pIQ0tnNjJwS1l3UDllM3RXMlVIRko1WVZyV0tGMmh3eVFDSHlxRGZPT2hPMlZUUkRSU1lIdjZaTld0YmRKN1JXWXlnVmJRZnFRZXBDX0VhWGptT3NSbUthN0ZWUno3ZmdhZEgwNy1CRDFlQUROb0ZNRG9VTl9pUzNTRzlUa05qOTVzVUNmNy1TSWFvUW1qcVhmR0tIUy1TZnl4OWpBYzZ5RkRJTG5pUzR4T09zc2NhTWU2R1ViWTBDRGFCa2xOMnZMUDVnUDhqZlRFNVdzcUtOb2N4ZmFKNTk5S2hsd2N5eWlGVnFGRURmR0NyMWRkLXlYSXNXdUFHbnhVWWxUU25aNDRmVGhCVXhMd0x2Wno1eDhFM1VhQXgyOGhhMnpoQ2VIX3VwalRxZEIwa1o2eGtFMHJ2MFBWN1BwU2JnOGZvMHlEUnZkT1NSVVEzQ1dzVEsyQ0MxVXdFV3RMOElsU3hZM1YzNUFWaFZVTHBZMXlRRU5TbGhubE82cUxhZlVQejlOWmdYVjJ6QWM5bE4tYThZMlE3YzdOWGllaUs4djZsT0J4UFVKbWEzVHZKdXhxNDZER014Ui1xaTlfWnJxOEVGclZselppN1FMaEtWSFlqV3JMWFVLT1o4ZXY5ZHhXUlJHWmVNYVpiclItSTJ6RVRiVGhDNm1lVC0xSVRGQm00bG1teV8tWGNyTTNNcUd2TlYyNEpWLUpHVmgyRFlIbTZBUFpjVXpJa1QzNUk3RjlLeXA2R1lVc1JkanJzaXBMREY1NEVGVUJsZFlQTlNJb1VpVjBhQ3lJX2NTdVRQeHFkMEFkRGhla21YYmZNZFZGMVlBRTlTYXBtUmlMLXIxMVJVM3p1THV1Rkp6UXdmNklGNnNIY3dMMnBwdmt1S0VZNUdVTkVYSmczUlRyUVU1VDNyZVJORUJ1ejY1dmtqM3N5UzFVcHBqNkk1ak15YTdYS3JyWG8wcXU2cnhPcUlf?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-08T07:00:46Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับสวัสดิการผู้ประกันตนแต่เป็นการอภิปราย"
+    },
+    {
+      "id": "e618d95b",
+      "title": "คนไทยเครียดพุ่ง 'ซูเปอร์โพล' ชี้ค่าครองชีพ-ภัยมิจฉาชีพออนไลน์-ภาระหนี้สิน สร้างความกังวลหนักสุด",
+      "summary": "ผลสำรวจของซูเปอร์โพลพบว่าคนไทยมีความเครียดเพิ่มสูงขึ้น โดยประเด็นที่สร้างความกังวลมากที่สุดได้แก่ ค่าครองชีพ ภัยจากมิจฉาชีพออนไลน์ และภาระหนี้สิน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtSHpGVHFhZHZEeU12dUZLTmlyamFSd2ZybjlfQkdWQXI4bEktNE9ycFcyXzRMdk1SbXhaY3dMRUszUE55ZmpYcHZIZllEaXBVRVB2VWdCQ21jT2NNa1BGRC1RaGpEQQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-08T10:35:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "สะท้อนความกังวลด้านค่าครองชีพและหนี้สิน"
+    },
+    {
+      "id": "98c395d6",
+      "title": "ป.ป.ช. ลุยสางวิกฤตสารพิษปราจีนบุรี จี้ฟันเจ้าหน้าที่รัฐละเว้นหน้าที่-เร่งเยียวยาประชาชน",
+      "summary": "คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งชาติ (ป.ป.ช.) เข้าดำเนินการตรวจสอบวิกฤตสารพิษในจังหวัดปราจีนบุรี โดยเรียกร้องให้ดำเนินคดีกับเจ้าหน้าที่รัฐที่ละเว้นการปฏิบัติหน้าที่ และเร่งเยียวยาประชาชนที่ได้รับผลกระทบ ข่าวไม่ได้ระบุรายละเอียดมาตรการเยียวยาหรือจำนวนผู้ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55aUxOVVlRRk5oNHhhSkZsZFI2UmZoQXVEN3JzVjVoRVp6ak5Ec2ZHSnBuQW1ZZjU2Um5xWVlaSFdFVzM1ZVZsOWJrVE4yMjJXel9LZHJ5OE8zMU4ybjMtcUI5c0FVMWNkVFhwOVJWT2VhV290M3RF?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-09T04:33:18Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 55,
+      "why": "เกี่ยวข้องกับการเยียวยาประชาชนแต่เป็นการติดตามเชิงกำกับ",
+      "first_seen": "2026-11-07"
+    },
+    {
+      "id": "78ee20ec",
+      "title": "ปัญหาปากท้องค่าครองชีพ ชาวบ้านรู้สึกได้ ไม่ต้องมีสถิติวิชาการมาเตือน | TOJO NEWS",
+      "summary": "เป็นรายการวิเคราะห์ความเห็นเกี่ยวกับปัญหาปากท้องและค่าครองชีพที่ประชาชนรู้สึกได้ในชีวิตประจำวัน โดยเน้นว่าปัญหานี้ไม่จำเป็นต้องอาศัยสถิติทางวิชาการจึงจะเห็นผลกระทบ เนื้อหาเป็นความเห็นเชิงวิเคราะห์ ไม่มีมาตรการหรือตัวเลขใหม่ระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQTU5dURfOFhnYXQtM2RsMWdoeloyNzFmRXdmaS1IZDJOVncxWUtmNGFCWFI1U3ZoWmc2UF9rMm8tTGF5MXdra0dBZ2E3aXpVS1ZKSHNn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-09T01:11:12Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นเกี่ยวกับค่าครองชีพ"
+    },
+    {
+      "id": "0bd7c593",
+      "title": "มวลชนนับร้อยคนปักหลักรอชุมนุมหน้าทำเนียบฯ นปผ. ยื่นหนังสือร้องนายกฯ แก้ปัญหาราคาน้ำมันและค่าครองชีพ",
+      "summary": "มวลชนนับร้อยคนปักหลักรอการชุมนุมหน้าทำเนียบรัฐบาล โดยกลุ่ม นปผ. ยื่นหนังสือถึงนายกรัฐมนตรีเพื่อขอให้แก้ไขปัญหาราคาน้ำมันและค่าครองชีพ ข่าวไม่ได้ระบุผลการยื่นหนังสือหรือมาตรการตอบสนองจากรัฐบาล",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tUDVKclpCVmlxLUdQR3ZMSjZHOW5lbnZSVnE3aGtfdG5rRlpLMkRMdUp3Y3BCUi1tcDZ3Z0YxLXVKYmF0QVRndnQxZ3hyQ01IdjI3NmdLTGw4ZXdLdWFlWXBFRkZnZUgyM3FQVjZn?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-08T11:13:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อเรียกร้องค่าครองชีพของประชาชนในวงกว้าง"
+    },
+    {
+      "id": "16debbda",
+      "title": "ปฏิรูปประกันสังคม \"น้ำเงิน-แดง-ส้ม\" ศึกชิงเรตติ้ง & ความหวังผู้ประกันตน",
+      "summary": "รายงานวิเคราะห์การถกเถียงทางการเมืองเกี่ยวกับการปฏิรูปประกันสังคมของกลุ่มการเมืองต่าง ๆ โดยกล่าวถึงความคาดหวังของผู้ประกันตน เนื้อหาเป็นการวิเคราะห์ ไม่ได้ระบุมาตรการที่ประกาศอย่างเป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBObE5ab2l1aEdWSFNuNXJqQ0JMUHlRMkVxYl85ZlIwUWVEQ0phTUR5eWR4eEZiV0VTaGtZZzBvanAxemFHcXRhU0xsbEtuVmw0aTduRVpRb3U?oc=5",
+      "source": "INN News",
+      "published_at": "2026-11-08T07:00:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องแต่เป็นการวิเคราะห์ความเห็น"
+    },
+    {
+      "id": "c6952ac7",
+      "title": "ม็อบกำนันมะโน ปักหลักหน้าทำเนียบฯ จี้รัฐบาลแก้ปัญหาค่าครองชีพ-ลดราคาน้ำมัน",
+      "summary": "กลุ่มผู้ชุมนุมที่นำโดยกำนันมะโนปักหลักหน้าทำเนียบรัฐบาล เรียกร้องให้รัฐบาลแก้ไขปัญหาค่าครองชีพและลดราคาน้ำมัน ข่าวนี้เป็นการรายงานเหตุการณ์ชุมนุมโดยไม่มีมาตรการหรือการตอบสนองจากรัฐที่ระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tSWNiSy1RM0VoLURMM2VvZjlfN05hcC1uR0diaXctZ21haThsRS1adGpaT0NPQ1MtaXlkb1ZIaEpZYk1kQXg2Y3cwaUE2ZmpZNEdVYjJvZzFYUkRWZXc?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-11-08T13:20:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อเรียกร้องค่าครองชีพแต่เป็นการรายงานการชุมนุม"
+    },
+    {
+      "id": "7f6a1a08",
+      "title": "เช็กเส้นทางด่วน! นครบาลปิดถนนรอบทำเนียบฯ รับมือม็อบ \"กำนันมะโน\" จี้ลดค่าครองชีพ-ราคาน้ำมันดีเซล",
+      "summary": "กองบังคับการตำรวจนครบาลปิดถนนรอบทำเนียบรัฐบาลเพื่อรับมือการชุมนุมของกลุ่มผู้ชุมนุมที่นำโดยกำนันมะโน ซึ่งเรียกร้องให้รัฐบาลลดค่าครองชีพและราคาน้ำมันดีเซล ข่าวนี้เน้นการจราจรและความปลอดภัย ไม่มีมาตรการช่วยเหลือจากรัฐที่ระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yY1JfWDhJb25IWV9JNU9OMnQzZ3FrUmVaSlRWM1BIMzA1MzRLN01QWlV4QzhmcHFvS3IwME5KTzJQYzFNV0ZIM3QzTzJ5YW1KVU9NbWxVcHJtUQ?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-08T07:14:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อเรียกร้องเรื่องค่าครองชีพแต่เน้นการจราจร"
+    },
+    {
+      "id": "18ccb46b",
+      "title": "ขยายโอกาสด้านที่อยู่อาศัยผ่านการพัฒนาที่อยู่อาศัยให้เช่า",
+      "summary": "รายงานเกี่ยวกับการขยายโอกาสด้านที่อยู่อาศัยผ่านการพัฒนาที่อยู่อาศัยให้เช่า ซึ่งเป็นแนวทางที่อาจเกี่ยวข้องกับกลุ่มผู้มีรายได้น้อย อย่างไรก็ตามเนื้อหาข่าวที่ให้มาสั้นมาก ไม่ระบุโครงการ ผู้ดำเนินการ หรือรายละเอียดมาตรการ และมาจากแหล่งข่าวต่างประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGZiaXllcUxVeVV0aGI3WVJpeWl5SnVTY01Fb3pRUUNWaFZ4amJvWmpndlQyU0REM1RMaVhfajNYZ2MzQ1ZaODFodDU2TDMxZzVZdjBpWXBqQWs2bDFoYzh4ZjlVcmxZTWZpbTV1S3ZCSFRmSTJSXzNQSGhWLUEzMQ?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-11-09T03:25:11Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องที่อยู่อาศัย แต่ข้อมูลน้อย"
+    }
+  ]
+}
