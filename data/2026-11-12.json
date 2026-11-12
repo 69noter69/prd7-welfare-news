@@ -1,0 +1,704 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T07:59:05Z",
+  "window": {
+    "from": "2026-11-11T05:58:08Z",
+    "to": "2026-11-12T07:58:08Z"
+  },
+  "stats": {
+    "fetched": 242,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 19470,
+    "ai_output_tokens": 14031,
+    "cost_thb": 0.33,
+    "runs": 1,
+    "kept": 45,
+    "eastern": 1,
+    "national": 44,
+    "new": 40,
+    "followups": 5,
+    "sources": 30
+  },
+  "items": [
+    {
+      "id": "d7d0da31",
+      "title": "กรมบัญชีกลาง ประกาศแล้ว! วงเงิน บัตรสวัสดิการแห่งรัฐ เดือน พ.ย. หลังลือสะพัดได้เพิ่มอีก",
+      "summary": "กรมบัญชีกลางประกาศวงเงินบัตรสวัสดิการแห่งรัฐสำหรับเดือนพฤศจิกายน หลังมีข่าวลือว่าวงเงินจะเพิ่มขึ้น โดยรายละเอียดตัวเลขวงเงินที่ปรับใหม่ปรากฏในเนื้อข่าวฉบับเต็ม ผู้ถือบัตรสามารถตรวจสอบยอดได้จากช่องทางของรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81VzZpWGstQmFGTUFfUXhsQUxrQmxoOUQ2ZEhBaFhtZFlxeDBxUkp1Y296cTBoTGs4bFBOZklfUFh0STBtQk9Lb0ZVQXBWT1dod2REUzJn?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-12T01:15:02Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "ประกาศวงเงินบัตรสวัสดิการแห่งรัฐอย่างเป็นทางการ"
+    },
+    {
+      "id": "1a44d4fa",
+      "title": "ตรวจสอบสถานะ เงินช่วยเหลือชาวนา ไร่ละ 1,000 บาท เริ่มโอน 11 พ.ย. 69",
+      "summary": "ประชาชนสามารถตรวจสอบสถานะเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท ซึ่งเริ่มโอนตั้งแต่วันที่ 11 พฤศจิกายน 2569 ข่าวเน้นการแนะนำให้เกษตรกรตรวจสอบสถานะการรับเงิน โดยรายละเอียดขั้นตอนการตรวจสอบไม่ปรากฏในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dXFOUmk0WVRHcVdIdUVHNjAyNWZRRGo3SFNuVHJ6bTh2aUR5c3IwM09Gd0tlQTZKaFZaV0xhMDUzSWo0aUFVdFNSeTdmcVNuUVNueEpzY0dBWi1ZX2FZZUlB?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-11-12T01:08:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินโอนจริงถึงเกษตรกรพร้อมจำนวนและวันที่ชัดเจน"
+    },
+    {
+      "id": "fdd12119",
+      "title": "ธ.ก.ส.เริ่มโอนวันนี้ เงินช่วยเกษตรกรไร่ละ 1,000 บาท รอบแรก 835 ล้าน",
+      "summary": "ธ.ก.ส. เริ่มโอนเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท ในวันที่ 11 พฤศจิกายน 2569 โดยรอบแรกวงเงิน 835 ล้านบาท ข่าวอ้างถึงบอร์ด ธ.ก.ส. ที่ให้ไฟเขียวและการช่วยชาวนาที่ตกหล่น",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00LThWeTV6eC1qMjhKWnRlLUdaTWdXZ1BiSE1TRVVGZmRWdUIxTjRjYm1PekZ1b2pkczVfdG95Q1NqMFRZSTZwc2Fib1pEZjBsMTBNbE5vQUk?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-11T13:00:46Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินเข้าบัญชีจริงพร้อมวงเงินและวันที่ชัดเจน"
+    },
+    {
+      "id": "a7c5053e",
+      "title": "รัฐบาลแจ้งข่าวดี ธ.ก.ส. เริ่มโอนเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท รอบแรก 835 ล้านบาท ถึงมือ 1.35 แสนครัวเรือน อ่านข่าวในคอมเมนต์ #ธกส #โอนเงินช่วยเหลือเกษตรกร #โอนเงินช่วยชาวนา #ข่าวสวพFM91",
+      "summary": "รัฐบาลแจ้งว่า ธ.ก.ส. เริ่มโอนเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท รอบแรกวงเงิน 835 ล้านบาท ถึงมือเกษตรกร 1.35 แสนครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMinAdBVV95cUxQYnB0ejJ3dV9WaTVkb0lXLU5qMTZKTlB0NnhFVG14WkFxTkxHTjJIek02NXVXM2d1LW1mVnFuVHJieVZpNl9ZQTJydnFLeWNaV2VGZXVHQ3pRbThveW9yMHpCRlBxZnQ1d2pWblktbklzZVlwNjRiOUUwUml1LWxIR1R2cFdUWDlwcWUzOEVpT0cwUENnS3dYRURtUUkyTzZmWU9jUFM2eDIyckZoT3M1eEZJamlrcFNhNXd5cHdiQWVYbkZ3SWlGNnVnb2VzbHpsSlBIOUk3QVFFLW9ZdFg0ekRlR0MxT1NOaEg2WVNPX01fVC1qeG9wMWtoaGlzM2RtbVRfYldqdlZRTnB4MF92d1NXQjVGT0otWlVTWWJWTWNmWWIzNGhpRUoxOUU1eFItZXJVMHE5TEFCX1QycGJuaDdad0ZscUhLa2JndjN4bldhQjRMcmhINUVMWEpXTDdQbVZJak5nQzRXWVk1anlPcFZwSEFSWUp4MkVXdU1UWDl3Uk9kRklJSXlCTXFJcTdES3dCWm1ucWloRXVuc3ZpM2ZqdGptaktNdmdnemU2a0pnQU0ydzhaSi1OOTdpbE5XZE53OFplb29rQmtIbjZ5NjF4NXlLdkl6OHpqTzBFdm5mRjVmWWVNQllsTkVTYk9sTnJQakExaUxsa2VlRnBTeXpMc2tmVUJPX3FXV1dpVURFZ1JYRHYweF85ZUYxdVdNYzFpMG9CNXUtWVJBTWpIOGlQMzJsQm1JZkViWjZxaE5YSFAyQlZGdl9LSjF2TjRDX0xJM1ZQekI1dEFGUnhicVdSakdHSmxEV0Fzd1EzZURSSDB3NERGQld4ZWNNWXJVYV9NWGtVQTNBY2Qta1RFZ3hZUXBmM3ZnOE81VGl5cHBadER0LUFsb3RJVGIxM3ZXb0RkNTd3ZEFCZ1g3VzRWdHFRMjg3b3ZDZ0h3VWxmMl96WW5lQ01xSXBqd0FhOUJGTm5xTlFOaVdiMFhwYXA0aG5oU3dPVFZLbElzcGhNRVFSTERobFhycDZyd21wNUY2SzFyd2g4MEt4SkQ1UkgzRGw2NHo3UzlGTzB1ckZTcDNXMkR2QVZNWkp3VmsyM2FFc3JfTEFqaDdJUXY5bEpjMldZdk5CT21Dd1dLZU85bHJSVWJIVW5SZkttUDg4cUZVVzNvVE51ZmYzM2JHc3c4c3N0VDVrOE43V205VUVjQm92VmlOU3YtaTdRVzI?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-11T08:23:01Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "ระบุวงเงินและจำนวนครัวเรือนที่ได้รับเงินจริง"
+    },
+    {
+      "id": "3866194d",
+      "title": "รัฐบาลเริ่มโอนแล้ว! ช่วยเกษตรกร ไร่ละ 1,000 บาท รอบแรก 835 ล้าน ถึงมือกว่า 1.3 แสนครัวเรือน . รัฐบาลแจ้งข่าวให้เกษตรกรผู้ปลูกข้าวนาปี หลัง ธ.ก.ส. เริ่มโอนเงินช่วยเหลือไร่ละ 1,000 บาท ตามโครงการสนับสนุนเกษตรกรและส่งเสริมการเพาะปลูกให้เหมาะสมกับพื้นที่ ปีการผลิต 2568/69 โ",
+      "summary": "รัฐบาลแจ้งว่า ธ.ก.ส. เริ่มโอนเงินช่วยเหลือเกษตรกรผู้ปลูกข้าวนาปีไร่ละ 1,000 บาท รอบแรกวงเงิน 835 ล้านบาท ถึงมือกว่า 130,000 ครัวเรือน ตามโครงการปีการผลิต 2568/69",
+      "url": "https://news.google.com/rss/articles/CBMi5gZBVV95cUxPVHE5UG1wbUc0VE84Q3JTR2N6NkFVcjBUMTRPSkllSFJWaGxiRnl5OXF6c2dLbUd5RnpPOUNIS0E3bC1mWU0zZ1gyZ1JwbmxERk14ODRObjUyOVFoV21LUllLeE82NFFlU2lMZ3NrbUVBcmVpVlJZY09hbmxLSzh2ZkZhel9TUUo2OTg3UDVoOWI1NWdUVDF4MG5ON3BoM2NfeDlWRmRQSmNKaWx3eC1vVC1pcmwxcDhWUlRIZ2I0Q0J2MHplcm9ZRHhRX01DOS1MQmM5THdITGRZWXFMT0dIb25vNHBPdFlJQklfYWl1aEtKZnU5NTd2eXRrMWFoQW1kQS1oNkxoRHIyWUdKVnlmVUVodk5OeGJOMXlqT0ZuSThGdDN1OEc3ek5UNnYyTDY4X1pRS2trNmhpWk9PMWJyRkU0cGVNRlVQTnVXbzZxT2NXc0Z2REZPbzZYTXFnOHl1REd3NUxhQzFGanM4em92WTA0Znhpenh6UHRrMnIzN3JMZ1hSU3hvak8tRmQwVno1M2JKTFFXQkV6a0JMOWh3X1I5LVBCcnlGYy1rRzN6eldGTmtwU3hwZzJiNFlmMEhET0Z2ZjFyajVOSUZoSzY4eVFaak9lRU5NdzZ5bjVTX2VLTGs2TW5iNUJKOTEzNFNxUmRCdWtzcGNSYnRXc3h5V09hSkV4V1N5bXp2RHg0YXRobldnQUVYNFI0XzdWbkwtUnFRNXlYSmxyQTR2VENrQUx6cUUyQjUteUN2V2Y4RmFVN2JBUW9iU1V6Q1JhZWltMDVRTGE5QV9xTjlER1lmbTRVaDJtbGdkTkVId1VZRDVNRTJoTEpUbk1WaTJCSnJ0SjVGcXN1ZDVNR0xmSGYwYUdkTHNjdVI0Z081Vm0welBObWxoS3RiOU1KeU05X01qNjFqZ0NyQl9SczdodmhwVE14NHBkcTQzbzZ2eW03eFlPeDRockRzbm8yTmRNTXJ2MVZjSjAtMXA1SllTU25GR2EyTWVaRFBfMFZIZ1dmczNWUVN3RkNsUHdlNVJONjkxZi1hQWM5MC16YzRVSHhMNk1Kbm9tbFp5MHhpWmtfTUNPYUpuQ2I0aThoT0hqcVFoak4tWVl6NDRxeU5sMEZoQWVna0ZKVFNSaWtvNThtak9tM1NCUXc?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-11T08:35:08Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายรัฐบาลที่เงินถึงมือประชาชนจริงในวงเงินสูง"
+    },
+    {
+      "id": "77a460ed",
+      "title": "‘ธ.ก.ส.’เริ่มโอนเงินไร่ละ 1,000 บาท บรรเทาภาระค่าครองชีพ-เติมสภาพคล่องชาวนา",
+      "summary": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) เริ่มโอนเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท เพื่อบรรเทาภาระค่าครองชีพและเติมสภาพคล่องให้ชาวนา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QTlFpLThPbHlob19FY05vZTExNGNxZXBleG9PbDdoRHFaUlpqWTRhZHFNTnlUS0NuVFI0UG0wS0JMRFRuSUdkSEVLQjIxWW9VVUt0WFNaSi1NWTA?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-11T06:37:20Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือเข้าถึงเกษตรกรจริงในระดับประเทศ",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "63bcc843",
+      "title": "ธ.ก.ส.โอนวันนี้ เงินไร่ละ 1,000 ถึงมือเกษตรกรกว่า 1.35 แสนครัวเรือน",
+      "summary": "ธ.ก.ส. โอนเงินช่วยเหลือไร่ละ 1,000 บาท ถึงเกษตรกรกว่า 135,000 ครัวเรือนแล้ว ซึ่งเป็นการจ่ายเงินช่วยเหลือเกษตรกรจำนวนมาก",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96ekxUaURscmdDdmZrQ01HTENWa1lSQ0dWQW5yUE9wSzN4czdWZEFpR0ZkSzd2ZkxUYmVvbGxGR0NHY2stcVVNSFI4VmJaaExpZWZiV1RR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-11T06:26:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินโอนถึงเกษตรกรจำนวนมากทั่วประเทศ"
+    },
+    {
+      "id": "b542b4c8",
+      "title": "ปภ.โอนเยียวยาน้ำท่วมวันนี้ 21,755 ครัวเรือน รวม 136.64 ล้านบาท",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาอุทกภัยในวันนี้ให้ 21,755 ครัวเรือน รวมเป็นเงิน 136.64 ล้านบาท เป็นการเยียวยาแก่ผู้ประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQMjB5TVlBOWluc2lzQ1BfcUMzNDNjV1RJSGZtWkNsQ0RmUU9ubjNBU3QxYWU1Wlp4V3B4cEF0N3ZSMjNfQ1pXSTFrb2x5UTBVSDlLQlBwUkh4blEzVkoyQWJuaXpLRDBfdHJYWEI2YWZBZ1VYN0lXWFR5dFo5ZXF0WGNEUzBKR25wLVp2RUhTeTFjMmY0bUpRNFpFcUZUbDliaTU5RmM0VGVRUkNTRnJXX2tkUkV3RDlhTXB3ZHBfZExWQmpBQjhMeXNSem9fZ0xydTVvSWhQTUk5Z0ZrLU96anBHVURld0hEbW01MklEcXVpS081eUxFNUN4OTVmclRGSzhSOGZDenhYN0NOenB4SE1SN0U1Q3cwWnFPSy1XZ24wM2V2eEstRF8xUzliaWwzdE96ejhMbFdRWHhYOU9LR29jWmRNOW13QXEzZTJwV1pSU09NY3FJQkhuMTJHYXlRbEtIcFk5X1JDUDJVdGU0OTRPNlhBbFNzcjdjU3l0Q3hnaUlGcG5zZUJjcThmU1lUVDExWHMyQk03VkJFazZLRUtqVU5WVm9kZUZOODdSYjN6bkoxeUxDMXg1WkUzTUhqRnlMSThTSVRBd1ZCZlR2VGpVXzRoTldUbnp1Q2ZvRlFFTDJhbk5teUFyRVZWbTNHUkpQdUdJR3FQTmJ2Smd0eU4yTG1oV2k3emdncUdiSVJITzdUOHNUZm16UjhzUjFtY1RZT18xaHpUaW5QSXFjYmJPT0RjZWMxRUxCWlR5QVpMdURTRDc1cGFrZFc2alQzajBreEpOc1JGaVJkVnVDZnZEMkFwWE9xRlZuX0lmWE5wb0ZFRGc?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-11-12T03:29:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาโอนถึงครัวเรือนผู้ประสบภัยจริง"
+    },
+    {
+      "id": "dc062c6b",
+      "title": "เช็กเลย! ปภ. โอนเงินเยียวยาน้ำท่วม 10 จังหวัด-กทม. วันนี้ 21,755 ครัวเรือน รับเงินรวม 136.64 ล้านบาท",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาอุทกภัยให้ครัวเรือนผู้ประสบภัยจำนวน 21,755 ครัวเรือน ใน 10 จังหวัดและกรุงเทพมหานคร รวมเป็นเงิน 136.64 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93RkpJQVB4REE2WmlWTl9PakUtQ1JhdXFhU3I0bktKZWpGUmxtVDRWZEl1WkJTcWszT1NRMWFiYk1IWTlLVFlyR0Y4X0h6RE9OVnI4MjNaRTNIWEVEMG04a0xUR1VHUDlldld4RmF3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T02:46:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนผู้ประสบภัยจริง"
+    },
+    {
+      "id": "bb44f25e",
+      "title": "ธ.ก.ส. เร่งโอนเงินชดเชยชาวนาไร่ละ 1,000 บาท เริ่ม 11 พฤศจิกายน 2569",
+      "summary": "ธ.ก.ส. เร่งโอนเงินชดเชยให้ชาวนาในอัตราไร่ละ 1,000 บาท โดยกำหนดเริ่มการโอนในวันที่ 11 พฤศจิกายน 2569 เป็นมาตรการช่วยเหลือเกษตรกรที่มีผลต่อรายได้โดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTGk0U2l4WVZULXAzWFJoTmNYNm1sUG0tamtlNTdEV1NqZ2J5LWpUQS1nTFJVWG1RcWhnUjFsVERrVG9LdVpTRzUxVDhBdkV4THowZ1dFcHlkc2Zkd2tCMDJHdDlTVm1WdndwdjNR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T02:37:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มีกำหนดการโอนเงินและจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "41cb41e1",
+      "title": "ธ.ก.ส. ไฟเขียว 6 มาตรการพยุงราคาพืชผล ช่วยชาวนาไร่ละ 1,000 บาท",
+      "summary": "ธ.ก.ส. อนุมัติ 6 มาตรการพยุงราคาพืชผลเพื่อช่วยเหลือชาวนา โดยมีการจ่ายเงินช่วยเหลือไร่ละ 1,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4d1hCUm15b0lXUkdxY3BVczNMR0pGS3h1RFlNM2V3RFFaWUk2Q2VZTnhyTzB2LWY3MVVJeExlUGdTS1JWWF9nZkw1RmVLQVNwdnpN?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-11-11T06:10:17Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "มาตรการช่วยเหลือเกษตรกรระดับประเทศที่มีการจ่ายเงินจริง",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "b559a079",
+      "title": "พม. แจกเงินผู้สูงอายุ 60,000 บาท เช็กหลักเกณฑ์ ช่องทางยื่นรับเงินซ่อมบ้าน",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) เปิดรับสมัครเงินช่วยเหลือผู้สูงอายุ วงเงิน 60,000 บาท สำหรับการซ่อมแซมบ้าน พร้อมแจ้งหลักเกณฑ์การพิจารณาและช่องทางการยื่นคำขอ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00eXkwRHVlRWhDUmd3eTBnckt2NkxoZS10RFZoZDFTS2pYcHhlaW5rNkhET01QYmVSR1Utb0RRd3gwODNWaExwVC1WalFTTnU0bS1jWGVobzZhS1lMeDM1RnBUYUZsQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-12T03:12:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินช่วยเหลือจำนวนสูงแก่ผู้สูงอายุพร้อมช่องทางยื่นชัดเจน"
+    },
+    {
+      "id": "72228ba4",
+      "title": "เช็กเลยวิธีรับเงินชาวนา ไร่ละ 1,000 บาท ธ.ก.ส. โอนแล้ว ตรวจสอบสิทธิที่นี่",
+      "summary": "ธ.ก.ส. โอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาทแล้ว โดยประชาชนสามารถตรวจสอบสิทธิการรับเงินได้ ทั้งนี้เป็นการช่วยเหลือผ่านมาตรการพยุงราคาข้าว",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uTktqWmZNbl9FZ3hPZEN3TUNoNU1HamNjZE1aRnNPZ09Oc2NORkg3dnozZmZRaENLU0pPUWxsM1d0NGpTZnhGS093elZ4enFNeThF?oc=5",
+      "source": "thainewsonline",
+      "published_at": "2026-11-11T13:48:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินช่วยเหลือเกษตรกรที่โอนถึงมือแล้ว"
+    },
+    {
+      "id": "adf09fc9",
+      "title": "ชาวนาได้เฮ \"สุริยะ\" รับจบ เร่งโอนเงิน \"ไร่ละ 1,000 บาท\" ปี 68/69 สัปดาห์หน้า",
+      "summary": "นายสุริยะ ระบุว่าจะเร่งโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท สำหรับฤดูการผลิตปี 2568/69 ภายในสัปดาห์หน้า",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CTUFCV3l4b3RlNVNkZ3VWN2JjZ2k0X1V3MGNSLU8tcnF6T2NpNVgxcFlBM0hFM3hraWMtbk5YOUswakN4bTRVV2EzZS1rZE9xNDdwSw?oc=5",
+      "source": "thaich8.com",
+      "published_at": "2026-11-11T08:05:55Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาโอนเงินและเป็นการช่วยเหลือเกษตรกรโดยตรง"
+    },
+    {
+      "id": "49134749",
+      "title": "ธ.ก.ส. เริ่มโอนเงินช่วยชาวนาไร่ละ 1,000 บาทแล้ว 11 พ.ย. 69",
+      "summary": "ธ.ก.ส. เริ่มโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาทแล้วตั้งแต่วันที่ 11 พฤศจิกายน 2569 ผู้ปลูกข้าวสามารถตรวจสอบการได้รับเงินกับธนาคารได้",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PRFhSa3VMREJRelgtbmdIRTNsUGo4d25xWUxoeldWRmQzUDhjZEdhby1zeC0zU2RQenZjY3dtNkNmaks5WHB5c21BUlY?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-11T07:59:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการช่วยเหลือเกษตรกรที่เริ่มจ่ายเงินแล้ว"
+    },
+    {
+      "id": "4fb1d14d",
+      "title": "ธ.ก.ส.เร่งโอน “ไร่ละพัน” เพิ่ม 835 ล้าน ช่วยชาวนา 1.36 แสนครัวเรือน",
+      "summary": "ธ.ก.ส. เร่งโอนเงินช่วยเหลือไร่ละ 1,000 บาทเพิ่มเติมเป็นวงเงิน 835 ล้านบาท ให้แก่เกษตรกรผู้ปลูกข้าวประมาณ 136,000 ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPelJVTXE1Y29KaXNpY0NRczlhcHlrX2JhdmNmY0lhRUpaUzNMbF9wUTc4ZUZkMUVvWlFMV3RfV0I1b3hCcEpYbmdIdENYMUh2OXJhUkYxS1FIei0tMnc?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-11T07:23:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการช่วยเหลือเกษตรกรที่มีวงเงินและจำนวนผู้รับชัดเจน"
+    },
+    {
+      "id": "938b03c2",
+      "title": "เช็กเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท! ธ.ก.ส. โอนแล้วถึงมือ 1.35 แสนครัวเรือน",
+      "summary": "ธ.ก.ส. โอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท แล้วถึงมือประมาณ 135,000 ครัวเรือน ผู้ที่ยังไม่ได้รับสามารถตรวจสอบสถานะการโอนได้",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xSzZLT2h1NjhLd21RRTNzZVdBNk9ReWNfT3gtb1pybnd6b0hSVjR2VmxEdGVPNnBzWlFEekpOS0tYRlhzZ3hvYXR5RzFpTlVydEtQXw?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-11T07:14:24Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินช่วยเหลือถึงมือเกษตรกรแล้วจำนวนมาก",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "75637d44",
+      "title": "ธ.ก.ส. โอนเงินช่วยชาวนาไร่ละ 1,000 สูงสุด 1 หมื่นบาท เริ่ม 11 พ.ย. 69 | การเงินธนาคาร",
+      "summary": "ธ.ก.ส. เริ่มโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท วงเงินสูงสุด 10,000 บาทต่อราย เริ่มดำเนินการตั้งแต่วันที่ 11 พฤศจิกายน 2569 ตามโครงการสนับสนุนเกษตรกรผู้ปลูกข้าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzU2Ezb0hBUkYtWkZnRXpBSUZpYWtuUk1zQU9lSkdTOTd6d3RaSGx1eVhzUHlYOHJRNTFzV2s5TUNhUDdTbW4waVdGNm5ROXN6VV91UWF3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-11T06:32:02Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการช่วยเหลือเกษตรกรที่เริ่มจ่ายเงินจริง",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "2e44a5ef",
+      "title": "ยุติการรอคอยเงินกู้เรียน กยศ. อนุมัติกว่าหกแสนราย พร้อมประสาน รร. ผ่อนผัน",
+      "summary": "กองทุนเงินให้กู้ยืมเพื่อการศึกษา (กยศ.) อนุมัติเงินกู้แก่ผู้กู้กว่า 600,000 ราย และประสานสถานศึกษาให้ผ่อนผันการชำระค่าใช้จ่าย เพื่อยุติการรอคอยเงินกู้ของนักเรียนและนักศึกษา",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwbHcySHJoMGd6S2xZeFlKQWdtcjZoZDA5WWJjRlVGdFBFRi1vTFQxdHhkVWFrSENkT01KM2NBMVhTWUhMNzBPODJ2RmZRSWJpVjkzeWd4UVdRdm81cmszTUNn?oc=5",
+      "source": "สภาองค์กรของผู้บริโภค",
+      "published_at": "2026-11-12T04:28:14Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "อนุมัติเงินกู้ให้ผู้ยากไร้จำนวนมากและมีการผ่อนผัน"
+    },
+    {
+      "id": "384753fb",
+      "title": "ชาวนาบุรีรัมย์ยิ้มรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท หวังแบ่งเบาภาระค่าปุ๋ยและค่าน้ำมันหลังเผชิญภัยแล้งและน้ำท่วมซ้ำซาก",
+      "summary": "ชาวนาในจังหวัดบุรีรัมย์ให้การตอบรับโครงการช่วยเหลือเกษตรกรไร่ละ 1,000 บาท เพื่อบรรเทาภาระค่าปุ๋ยและค่าน้ำมัน หลังประสบปัญหาภัยแล้งและน้ำท่วมซ้ำซาก",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TVWlOQ2RsQzdnXzdCWTFoVThlaXZ3RzVGVk1qelhHOHVSUUpscWdUdUhSQXlEdWU2OWgyWEIwTTR0ak5PaEJYdGdxMm8zSnh0emJDWFhGTjJoVkRrcmloMFQtSndLZ0k1aVcyVkRB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T00:42:00Z",
+      "category": "farmers",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการช่วยเหลือเกษตรกรมีผลต่อพื้นที่โดยตรง"
+    },
+    {
+      "id": "ea1615cf",
+      "title": "🔥 กทม. ดูแลผู้ประสบอัคคีภัยชุมชนบ่อนไก่ มอบเงินช่วยเหลือค่าที่พัก–ค่าครองชีพ 124 ครอบครัว พร้อมส่งกำลังใจให้เดินหน้าต่อ (11 พ.ย. 69) เวลา 13.00 น. พญ.เลิศลักษณ์ ลีลาเรืองแสง รองปลัดกรุงเทพมหานคร มอบเงินช่วยเหลือผู้ประสบอัคคีภัยชุมชนบ่อนไก่ พร้อมให้กำลังใจประชาชนที่ได้",
+      "summary": "กรุงเทพมหานครมอบเงินช่วยเหลือค่าที่พักและค่าครองชีพแก่ผู้ประสบอัคคีภัยชุมชนบ่อนไก่ จำนวน 124 ครอบครัว โดยพญ.เลิศลักษณ์ ลีลาเรืองแสง รองปลัดกรุงเทพมหานคร เป็นผู้มอบ เมื่อวันที่ 11 พฤศจิกายน 2569 เวลา 13.00 น.",
+      "url": "https://news.google.com/rss/articles/CBMi1wdBVV95cUxPMjF6aHd5Ym82U0U0bjd5U0dZVDJ5aG5FalhYbEpkZGJGNzhJZ0dEc0JyVF9zT3BrdnBCSVBVRlZpWHdWZzZVNjhHY1c2Wk5iTU9DbUFyZlRLUGNKNFpnQ2JBenhWNlNQb0diTnJ0Qnk4aFJNQjRsWVkwVW9fMGZsM3Z2M2ZqaFBOQmVMNkZybEdXRGhXS1ZqT1dqWk1YbmNlc0xzMy1YVGFkSVIzS05ldkJfeVlHWmNnSkY3ajgxVmc2OEU3MHpDLUY3YjE3RFZiSjZEcXE4cUpKaU5ISWYzSEh5QlVuRTNyUFBYTVZxMTh5bkJmR21CTU84WlV4UGRkUEJuUHRJZGR5ZDRzN1BBSHZsOXF3RzZjd3pMdW9CLWJ3dkh0bTBQVWVQRXYycTVVblFFN0YwTGdMR0xuaFFFRHpOdXlHRG1kbkFzTXd0c2FjZ2RnWTNJaEVsR29uQUsyUE9wN0paYV9fY0pDa20tNFRuNTBqUTBlUmNkUlBmRWVRYmp3VmNCanFvSnJ1UmNZYVU0eW4zWFlkYW9FbjhiUXVGcVhXUlZrYWpiZW10WlAweVFsWHpYNDB4RWxCREtNbjZQZUItMVFJRzJvRnlEYzhfUmxWUXhwNHNMbUpFVmJQVmtINVo0QTZvMGtrZVl2Uk9MT2hqOFRDV2hSNUtHcFVrOVRzWDNwRE5qdDVyMjhjeVlGaGhkaFByVEVGdU1HWWh5cm5QVVJ3bjhPQjFfanNBejBSbndSazZxc3A2cGZqYWVhUUZ3WHNjSVl6NTJFYm5jV0hRM21JU1c0eExxTmlLTWZsbHhoU0NNeU1tYm1pNHM4V2J0S3Zpd2Z4YThXamxKSXZlWlFQaXI2Ung4OUtkc01hU00td2JwNHFIdi1haGNxZWltWnFZNm94OWwxc21JZ3hURUg0QjA1UmpJVGx2T1BsaW5NNmdIaUZWTnFDWGVWNGlZMVZzdXRlaUJ5aC1Id0JqMzVaaDkwZ3llOF93RW9WR3ZQQzV0T000Yk5xWjFCQTFiLXI4aGUwNElfWVlzaHpBajk5bEdvWVFreVBnTUhnRVZ1WUdkZ2xlN3F2MVdYWkF6V3hmMTdVQnR3bk10WF9DY0EwQWZrRkVLR3I3SFVrYWttX2VXNjdjVUFycjFaQ0t4S21nQUtjSm1lTko0bUJhMEcyV05tVUJ2UmNJUHZDZkNFRlNpLWlidWVXdkRRSWdkUHY4c2hwMnZNd0VOcGlfX180M2pST3djMkZ6NDJsdkVHTVlmaUZIOTJoQ3IzczNGcW1pSExjUWxPVzVYd2NEWQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-11T07:59:10Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มีการช่วยเหลือเงินสดโดยตรงแก่ครอบครัวผู้ประสบภัย"
+    },
+    {
+      "id": "0454fbcb",
+      "title": "“สกลธี” หารือสภา ช่วยเหยื่อน้ำท่วมกรุง เสนอ ธปท.-ยุติธรรม สั่งเบรกไฟแนนซ์ทวงหนี้ “ผ่อนกุญแจเปล่า” วอน มท. รื้อเกณฑ์เยียวยาร้านค้ารายย่อย",
+      "summary": "นายสกลธี หารือที่ประชุมสภา เพื่อช่วยเหลือผู้ประสบอุทกภัยในกรุงเทพฯ โดยเสนอให้ธนาคารแห่งประเทศไทยและกระทรวงยุติธรรมสั่งระงับการทวงหนี้ของบริษัทไฟแนนซ์กรณี 'ผ่อนกุญแจเปล่า' และขอให้กระทรวงมหาดไทยทบทวนเกณฑ์เยียวยาร้านค้ารายย่อย",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NSEVWOHBTSmN1RWI3VjdjY3k1SThEVHhWUUJVdHpyeThvdmt5SjFFanpZTXpSWWdZZU1UTUEya2dEQ1JhSG5aQ1RKYzRTdGJw?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-11-12T04:39:14Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีมาตรการทวงหนี้และการเยียวยาผู้ได้รับผลกระทบโดยตรง"
+    },
+    {
+      "id": "f1d2ad0b",
+      "title": "ได้เงินไวสุด เช็กสถานะการโอน ธ.ก.ส. เงินช่วยเหลือชาวนา ไร่ละ 1000",
+      "summary": "ธ.ก.ส. เปิดให้ตรวจสอบสถานะการโอนเงินช่วยเหลือชาวนาในอัตราไร่ละ 1,000 บาท ผู้มีสิทธิสามารถติดตามความคืบหน้าการโอนเงินได้จากช่องทางของธนาคาร โดยการโอนเงินเป็นไปตามกำหนดการที่ประกาศไว้ รายละเอียดอาจแตกต่างกันตามพื้นที่และสิทธิของแต่ละราย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85N190LU9zYVlPMFVtZGNWNW05Rm1OZ1pTZWpkNUtUOTZ2S3pvSUlKQTlFQTc5VFRpVHFhbHZic0Q3dFdOZ0d3UWtWS0tGTWlTSmFXX0FR?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-12T01:05:09Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เงินช่วยเหลือโดยตรงแก่เกษตรกร มีผลต่อผู้รับ"
+    },
+    {
+      "id": "59162701",
+      "title": "วิกฤตราคาปุ๋ยพุ่ง-ค่ารถเกี่ยวข้าวแพง ชาวนาวอนรัฐเร่งจ่ายเงินช่วยเหลือไร่ละ 1,000 บาท",
+      "summary": "ชาวนาเรียกร้องให้รัฐเร่งจ่ายเงินช่วยเหลือไร่ละ 1,000 บาท ท่ามกลางราคาปุ๋ยที่สูงขึ้นและค่าจ้างรถเกี่ยวข้าวที่แพงขึ้น ข่าวระบุความเดือดร้อนของเกษตรกรผู้ปลูกข้าว โดยไม่ได้ระบุรายละเอียดจำนวนผู้ได้รับสิทธิ์ไว้ในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPVVNrbHItd0hjazJ2THRrb1hoOU5pekQtZ0NLTTFaMWtOQm1POGg1YmpoeEJzak5zbGFRVFpmWWczVklpeTYyWERNSEJPRHd4X1NaZ0tQcEd5Rkk?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-11-12T00:15:02Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ประเด็นเงินช่วยเหลือเกษตรกรที่มีจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "6aa00a55",
+      "title": "\"นิกร\" อัด 3 มาตรการเยียวยาน้ำท่วม กคช. ช่วยผู้เช่า–ผู้เช่าซื้อ–ผู้ประกอบการ ลดภาระค่าเช่า พักหนี้ และยกเว้นค่าปรับ",
+      "summary": "นายนิกรเสนอ 3 มาตรการเยียวยาผู้ได้รับผลกระทบจากน้ำท่วมของการเคหะแห่งชาติ ครอบคลุมผู้เช่า ผู้เช่าซื้อ และผู้ประกอบการ ได้แก่ การลดภาระค่าเช่า การพักหนี้ และการยกเว้นค่าปรับ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1RDBzZ1BNTzJaMVRucE5pZktyZ3VPVWhydHVEdHQ3aWxQMEFfR2VyMGxpbmExS2VOUUhPdVhsWWRIVWg2TkNkanBkR2hXR1k?oc=5",
+      "source": "www.topnews.co.th",
+      "published_at": "2026-11-11T17:07:34Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการช่วยเหลือที่อยู่อาศัยจากภัยน้ำท่วมโดยตรง"
+    },
+    {
+      "id": "e33d587a",
+      "title": "ส.ก.ชง ‘เพิ่มจำนวนสิทธิบัตรทอง’ เชื่อ กทม.รองรับได้อีก – ชื่นชมช่วยคนไร้บ้าน ไม่ได้มองแค่ ‘ขาดทุน’",
+      "summary": "สมาชิกสภากรุงเทพมหานคร (ส.ก.) เสนอให้เพิ่มจำนวนสิทธิบัตรทอง โดยเชื่อว่ากรุงเทพมหานครสามารถรองรับผู้ใช้สิทธิเพิ่มเติมได้ และชื่นชมการช่วยเหลือคนไร้บ้าน โดยไม่มองเพียงเรื่องการขาดทุน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PV2hKNEozN3BkbVlHSlBLc3pIYW8za1J2d2s0em5lajNVdEpJLVdMdk40ZzEwX29iVklrOFVJbU5zSllHZXFFb3B4YnF0WG56bi1fRklmMXY?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-11T09:47:44Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เสนอเพิ่มสิทธิบัตรทองในพื้นที่กรุงเทพฯ"
+    },
+    {
+      "id": "aa12ffb2",
+      "title": "สกลธี หารือที่ประชุมสภาฯ วิกฤตน้ำท่วมคนกรุง ถูกทวงหนี้ซ้ำ แนะมหาดไทย ปรับเกณฑ์เยียวยา",
+      "summary": "นายสกลธี หารือที่ประชุมสภาเกี่ยวกับผลกระทบจากอุทกภัยในกรุงเทพฯ ซึ่งประชาชนถูกทวงหนี้ซ้ำ และแนะนำให้กระทรวงมหาดไทยปรับเกณฑ์การเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DRGI4elRYVkZ6cFR5czB5aGRfbzFmSzYyT09sSlQ2c2p6Q052MlRTaG01UDdXU1dxTm1pcjdUYlltdTJlazVHSm5NOVItWEpVUzhSODhCZXZnZw?oc=5",
+      "source": "จส. 100",
+      "published_at": "2026-11-12T05:26:40Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "เกี่ยวกับการเยียวยาและภาระหนี้ของประชาชนหลังน้ำท่วม"
+    },
+    {
+      "id": "dcb597de",
+      "title": "เงินไร่ละ 1,000 บาท ปี 2568/2569 ค้างจ่าย เช็กสถานะได้ที่ไหน - เกษตรกรผู้ปลูกข้าว | ธ.ก.ส. ข่าว",
+      "summary": "รายงานว่าเงินช่วยเหลือไร่ละ 1,000 บาทสำหรับปี 2568/2569 บางส่วนยังค้างจ่าย และแนะนำให้เกษตรกรตรวจสอบสถานะการได้รับเงินกับ ธ.ก.ส.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80Q1Fad0FMSjZ1b252RWd0Z29JRVBiUVF4dGNaRkNvRkJyeEVNTjFMR3RaUEUzV3FOV0dIX08zZDhaTm9obGxqdnVpeDdTdm9qM2prMEk1cTdYc2d6cVJsRWtZeGx5S0hTMGxHNldn?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-11T23:45:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีเงินค้างจ่ายและมีช่องทางตรวจสอบสถานะ"
+    },
+    {
+      "id": "eb77a16b",
+      "title": "วิธีรับเงินชาวนา เช็กสถานะการโอน ธ.ก.ส. รัฐช่วยไร่ละ 1000 บาท - Tnews",
+      "summary": "เผยแพร่วิธีตรวจสอบสถานะการโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาทผ่าน ธ.ก.ส. สำหรับเกษตรกรที่ต้องการทราบสถานะการรับเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12THlvNDFXeEJwS0FOM3ZqMTdIaWpsZGM5c29CQWJSSWkzaUNBUXdnY1lqZXFHME1BR3ZnQ1BCdUN6M2dfcE9Eb0JjZmZxZWxiamFQUWNYVTM2VTFGbWc?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-11T13:51:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "ข้อมูลการเข้าถึงสิทธิช่วยเหลือเกษตรกร"
+    },
+    {
+      "id": "f026e323",
+      "title": "เปิดให้เช็ก คนเงินไม่เข้า 'เงินชาวนาไร่ละ 1,000 บาท' ธ.ก.ส. โอนรัว",
+      "summary": "ธ.ก.ส. เปิดให้ชาวนาตรวจสอบสิทธิ์การรับเงินช่วยเหลือ 1,000 บาทต่อไร่ โดยเริ่มโอนเงินเข้าบัญชีผู้มีสิทธิ์แล้ว ผู้ที่ยังไม่ได้รับเงินสามารถตรวจสอบรายละเอียดได้",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByME1VQmlzSzBmUXZWMkE2Qmszc1ByOWJISjBSSmlOMmxfeHJMbkp6WFA2bFVfN1RTY0dKQjI5dW9DM0NCUlR6YVFWZXA3b0FkSHFkUjQ1a2VXa2F2bzdZby1oeDFZZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-12T07:41:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เป็นการโอนเงินช่วยเหลือโดยตรงให้เกษตรกรผู้ปลูกข้าว"
+    },
+    {
+      "id": "90cdad9c",
+      "title": "กระทรวงเกษตรฯ เร่งเดินหน้าโครงการ 'ปศุสัตว์ สร้างทุน' วางหลักเกณฑ์เปลี่ยนสัตว์เลี้ยงเป็นหลักทรัพย์ค้ำประกันเงินกู้ คาดเห็นผลชัดเจนในเดือนนี้ มุ่งช่วยเหลือเกษตรกรแก้ปัญหาหนี้นอกระบบ",
+      "summary": "กระทรวงเกษตรและสหกรณ์เร่งดำเนินโครงการ 'ปศุสัตว์ สร้างทุน' โดยวางหลักเกณฑ์ให้สัตว์เลี้ยงเป็นหลักทรัพย์ค้ำประกันเงินกู้ คาดว่าจะเห็นผลชัดเจนภายในเดือนนี้ มุ่งแก้ปัญหาหนี้นอกระบบของเกษตรกร",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mUGtPYzlZUTQ5MmxJb2prSDNFU25VbHpjMTc5Zi1Rc0lhZ1JMeVpYMFFMYXF2WnR0aHM1LWlSWXhGZmdvR19pODJVU0VFLXNHdlN6eDlTVW5WQQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-12T07:04:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการแก้หนี้นอกระบบของเกษตรกร มีกรอบเวลาที่คาดการณ์ไว้"
+    },
+    {
+      "id": "0414ec61",
+      "title": "เช็กสถานะโอน ตรวจสอบสิทธิเงินช่วยเหลือเกษตรกร ไร่ละ 1,000 บาท ปี 2568/69",
+      "summary": "เผยแพร่วิธีตรวจสอบสถานะการโอนและสิทธิเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท สำหรับปี 2568/69 เป็นข้อมูลสำหรับเกษตรกรผู้มีสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54NWZNdndPRFRYbHdCNzhxM1VoVTk3R2NTR2pldm9wa19uMjhFUUdnVmQ3c2V2aGtQMzZ3enRQaXBCdDdmb2lBQ2NtSHFYWl9MZUJfOGNR?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-12T03:49:32Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อมูลตรวจสอบสิทธิเงินช่วยเหลือเกษตรกร"
+    },
+    {
+      "id": "d4b9381b",
+      "title": "เช็กสิทธิเงินชาวนา ไร่ละ 1,000 บาท! เปิดขั้นตอนตรวจสถานะผ่านเว็บ e-Farmer ง่ายๆ ใน 1 นาที",
+      "summary": "เผยแพร่ขั้นตอนตรวจสอบสถานะสิทธิเงินชาวนาไร่ละ 1,000 บาท ผ่านเว็บไซต์ e-Farmer โดยให้ผู้มีสิทธิตรวจสอบได้ด้วยตนเอง เป็นข้อมูลประกอบการรับสิทธิของเกษตรกร",
+      "url": "https://news.google.com/rss/articles/CBMi-AZBVV95cUxOUExwT1BaN2hOUGdYaHJnVEFodmxKbEk3bl9qQXJQODZVTzhCaHhtT0pISEQ4SjdTNkNUSldMN1Rsel92NzdOV0o5TnlXRTFDYnB1bmk4N2RXaVJDMS1fMHZEMVhDUGdfVVNQNTFfZHlCeTQxamJyQzhmanQ3TUZwaktSV0ZITXcxdWxFUFVzWUxLRElXZG8xVGhTb015WGgtb19YQ2U2NlczMXN6cU5vMkNYZ3h3VTJjckpVV1FSY2JKSTZZa1lGNTlHU185Q1l0dFBKX0twMERTU2FqQ3Z3dzhKc2YxVl9lb05meDYzMzd3VXh2YVBaMFQ4dTMtcDd3Y0dzb0Z4NlkxVUZWUU8tRDdTNEMycFBmLUZRY050aWRLZmp2LVdCYU5IUzZPY3piWGFiSVk5N2ttb2pGRDJ1LWtYaUJJSHc1eWkxZFUyeFJ4dnpmZnRLSkZRQlExb0VORDNsMnltbTVQRjV2UzhDblZtRDRWcGdxLW40cndmSXlOWHdkeVUyS0QxT0ZDWmZxa0llU3drVkluZDAyZ3BXMG50SjM2NmJVZE9FWXl3MEJleklzTE9GRmVRQzJzdHVORTRpSlhFQW01R3l4OEVKNktKRHFlMVZiWnJxdUJjdGdiUlRqR2k5Vlp3ckVtOFIzMnZRd2ZoN2JKdUdfRnJ5cGMwY0ZoVF9xNEJNVWEzdVlKb1hYaktXcWppZjFHNkp6eU5iRkNWQ3hVLS13M20yYnZjLTZNREZPak5BenN0MFo3R3otWGNDektEYkJZTy1kcGZXUmNQTUJVWlpmU3FMSkp2RlE2NTdBbDVfdFp1T1VJckVpYm9IdEYyXzVSeUxxZF9rU180Q2VrcDdYOFk1aG9RcmMzN20wQW5aejFWUVdCa0VtTThsYjA3Vjcxd05wWDNaRVVEOGNxWjFwZVV3ZjBKeFcwYlZ5Vl9GakJ3djExZU51RHJ1Y0swSHdqVzVkdXItOFgzYzVocTU5OE83QUluYVFYSkNvRDN0QWlrMVNiOUZCQ3dLU0hOV1EzcktyMHowdzlQU3JXX2tBZi1DNm8zZjhldTRpQ3llanlhaWFWRVFMLVF2Z1FBcjZpdWRWSlVwRENzOHZaU0plVTgzNWkybnlNT3lVZTZCYmV5cWMybDJVUEN6N1FRbFM4NTMwLVNuM29fY2k?oc=5",
+      "source": "ททบ. 5",
+      "published_at": "2026-11-12T03:21:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ช่องทางตรวจสอบสิทธิเงินช่วยเหลือเกษตรกร"
+    },
+    {
+      "id": "c028b89f",
+      "title": "วิธีตรวจสอบสิทธิสถานะ \"เงินชาวนาไร่ละ 1,000 บาท\" ทำตามขั้นตอนนี้ - Tnews",
+      "summary": "เผยแพร่วิธีตรวจสอบสิทธิสถานะเงินชาวนาไร่ละ 1,000 บาท โดยให้ผู้มีสิทธิทำตามขั้นตอนที่กำหนดเพื่อตรวจสอบสถานะ เป็นข้อมูลสำหรับเกษตรกรผู้รับสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rdjBOQ1RRTmRuX3pYMElCMFRULWtGZU5XSDAyRHR6dVN1SDJLdURLcXNnX25BWGFoWGV5RTg1TEtiWDRHRGZSYXdJUndaQ1FMbVczbk5KaTZ3NWwtSVE?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-12T02:45:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ขั้นตอนตรวจสอบสิทธิสำหรับผู้รับเงินช่วยเหลือ"
+    },
+    {
+      "id": "9270f2ed",
+      "title": "‘เอกนิติ’ ชี้เงินเฟ้อยังเป็นไปตามคาด หนุนใช้กลไก ‘พาณิชย์’ คุมราคาสินค้า ช่วยค่าครองชีพ",
+      "summary": "นายเอกนิติ ระบุว่าอัตราเงินเฟ้อยังเป็นไปตามที่คาดการณ์ไว้ และสนับสนุนให้ใช้กลไกของกระทรวงพาณิชย์ในการควบคุมราคาสินค้า เพื่อช่วยลดภาระค่าครองชีพของประชาชน รายละเอียดมาตรการและตัวเลขเฉพาะไม่ปรากฏในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aQ0g0d2xhaHRXUUk2bmZXd0dod3Y1NlJCTGkwVUNWVVUwSW4wZHVqa2VKOE9GV19UX3l2ZzRhWGhvZ0Nkb1VNVXRwT3J6UEJibHF6VnE3NlQxaVhI?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-11T23:30:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการควบคุมราคาสินค้าเพื่อช่วยค่าครองชีพ"
+    },
+    {
+      "id": "6dc3fb75",
+      "title": "หยุดแก้ กม. “บัตรทอง” ชี้ไม่แก้ปัญหางบ–ภาระหมอ กระทบสิทธิประชาชน",
+      "summary": "สภาองค์กรของผู้บริโภคเรียกร้องให้หยุดการแก้ไขกฎหมายบัตรทอง โดยระบุว่าการแก้ไขดังกล่าวไม่สามารถแก้ปัญหาด้านงบประมาณและภาระของแพทย์ได้ และอาจกระทบสิทธิของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZlpfUTd5aDUyS1ZnRnhwUHdPZ2Ffbm9PQm5wTUtJT2g4eEEwMFBoa2RVMDhaMXYzQlo3Sk1HV3k0cllQTlBlay16R2FyMUpkaDBKNmllakR3QzIzNlZ3ZmUyMlQwOFhGSHc?oc=5",
+      "source": "สภาองค์กรของผู้บริโภค",
+      "published_at": "2026-11-11T12:49:22Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ข้อเรียกร้องต่อการแก้กฎหมายบัตรทอง"
+    },
+    {
+      "id": "49561f0c",
+      "title": "ที่ปรึกษาของ รมว.แรงงาน แจงปมร่างแก้ พ.ร.บ.ประกันสังคม ยันเดินหน้าเข้าสภาฯ เร่งส่งสิทธิประโยชน์ถึงมือผู้ประกันตน ชี้ปมลาคลอด 120 วัน - วาระบอร์ด ปรับแก้ได้ในชั้น กมธ.",
+      "summary": "ที่ปรึกษารัฐมนตรีว่าการกระทรวงแรงงานชี้แจงกรณีร่างแก้ไข พ.ร.บ.ประกันสังคม ยืนยันจะเดินหน้าเข้าสภาและเร่งส่งสิทธิประโยชน์ถึงผู้ประกันตน ประเด็นการลาคลอด 120 วันยังอยู่ในวาระของบอร์ด และสามารถปรับแก้ได้ในชั้นคณะกรรมาธิการ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HTnMtZDh4cmF5Qk1odkRTLTVhRzVOOXJRVDV3NTJCM012Y3luaTJXUl9oQ2VmUndzMUdQb3Y5ME1NYkpPaFl2M3Zfam9MOWJSVkdZTUdkQzRnNGI2YVRIb2t0dw?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-12T07:34:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ร่างกฎหมายที่กระทบสิทธิประโยชน์ผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "d4f7a63f",
+      "title": "วิกฤตซ้อนวิกฤต! “เอลนีโญ” เผาเศรษฐกิจ 380 ล้านล้านบาท จ่อซ้ำเติมค่าครองชีพพุ่ง",
+      "summary": "ข่าวเตือนถึงผลกระทบของปรากฏการณ์เอลนีโญต่อเศรษฐกิจไทย โดยประเมินมูลค่าความเสียหายไว้ราว 380 ล้านล้านบาท และอาจซ้ำเติมให้ค่าครองชีพของประชาชนสูงขึ้น ข่าวนี้มุ่งเน้นการคาดการณ์ผลกระทบ ไม่มีมาตรการช่วยเหลือระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rX0lNdnBRNEhKbTRMZlRsSGt4SzdGT3VUZ1VWa1RjQXVXWWQtNnZpNFNkNk5IYTBMeklYQUNGdkN5dnl6RzMwbGJWSHk5UE9rMWN1dlpETTJGcGsxSFhseVctdThjMlk?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-12T01:17:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ผลกระทบภัยแล้งต่อค่าครองชีพ ตัวเลขการประเมินสูง"
+    },
+    {
+      "id": "e89c2949",
+      "title": "บอร์ด สปสช. รับทราบแผนงบปฐมภูมิปี 70 เน้นผลลัพธ์สุขภาพ นำร่อง 108 อำเภอ",
+      "summary": "บอร์ด สปสช. รับทราบแผนงบประมาณปฐมภูมิปี 2570 ที่เน้นผลลัพธ์ด้านสุขภาพ โดยนำร่องดำเนินการใน 108 อำเภอ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wT3dPN0VFZmxteDRaZ00yaHJndWFLbk4xcXRhT0ZEN3hwV2pnRnNqVzdhT1hmNUJ5WXZPejNxZWprUWdmT0JUMFRUZ2pRVnRpZU1adXREOGZLUDQ?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-12T04:55:52Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "เกี่ยวข้องกับบริการสุขภาพระดับปฐมภูมิ แต่ยังเป็นแผนเบื้องต้น"
+    },
+    {
+      "id": "735dc7ef",
+      "title": "บอย-เจี๊ยบ พา รถกินข้าวบอยเจี๊ยบ ลงพื้นที่โรงเรียนบ้านเตยใหญ่ นครนายก ช่วยเหลือนักเรียนยากจนและฟื้นฟูโรงเรียนหลังน้ำท่วม",
+      "summary": "บอยและเจี๊ยบ ลงพื้นที่โรงเรียนบ้านเตยใหญ่ จังหวัดนครนายก เพื่อช่วยเหลือนักเรียนที่มีฐานะยากจนและฟื้นฟูโรงเรียนหลังประสบอุทกภัย",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IWFVwYzVSZ2wyRk9aY3ZCOTZEYW5WX0U3UDdJblQ1VG1hekU4YzVicW5BMklVdWZnMjVmd0YzZjgwemUwNFBXWE5zWV9OWjZnYVBvdEdwVFZrLXFRb1NFSmtkMkFLMDV0WlAtSUZR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T07:45:00Z",
+      "category": "education",
+      "provinces": [
+        "นครนายก"
+      ],
+      "eastern": true,
+      "score": 55,
+      "why": "กิจกรรมช่วยเหลือนักเรียนยากจนในพื้นที่ โดยเอกชนหรือบุคคลทั่วไป"
+    },
+    {
+      "id": "ff60d5ea",
+      "title": "SCB EIC ชี้หนี้ครัวเรือนต่อ GDP แตะ 85.2% ต่ำสุดรอบ 25 ไตรมาส",
+      "summary": "ธนาคารไทยพาณิชย์ ศูนย์วิจัยเศรษฐกิจและธุรกิจ (SCB EIC) ประเมินว่าหนี้ครัวเรือนต่อผลิตภัณฑ์มวลรวมในประเทศ (GDP) อยู่ที่ร้อยละ 85.2 ซึ่งเป็นระดับต่ำสุดในรอบ 25 ไตรมาส ข้อมูลนี้สะท้อนสถานะหนี้ของครัวเรือนในภาพรวม",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYaTFrTVpqdEd6Y3NfLXJVOVNoX2JKeVM3M2hKaHUyWmsxLWRYb2s1d2xiemlZbW1JWkpWeURiejRYTENwYkQxd05oYXdEalMzUnYtZ2ZXWnQwc0xjX0g1M1VZMWM?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-12T00:05:26Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "สถานการณ์หนี้ครัวเรือนภาพรวม ไม่มีมาตรการโดยตรง"
+    },
+    {
+      "id": "72427506",
+      "title": "สปสช. เปิดเวทีท้องถิ่น ร่วมวางแนวทางพัฒนา “สิทธิรักษาพยาบาล อปท.” ให้ตอบโจทย์บุคลากร",
+      "summary": "สปสช. เปิดเวทีรับฟังผู้แทนองค์กรปกครองส่วนท้องถิ่นเพื่อวางแนวทางพัฒนาสิทธิรักษาพยาบาลของบุคลากรและครอบครัว ข้อเสนอที่หารือ ได้แก่ การพัฒนางานทะเบียน เพิ่มความสะดวกในการใช้สิทธิ และขยายการเบิกจ่ายตรงเพื่อลดภาระสำรองจ่าย ควบคู่การคัดกรองและป้องกันโรค",
+      "url": "https://www.hfocus.org/content/2026/11/40235",
+      "source": "Hfocus",
+      "published_at": "2026-11-11T11:55:27Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นการหารือเชิงนโยบายสำหรับบุคลากร อปท. ยังไม่มีมาตรการสำเร็จรูป"
+    },
+    {
+      "id": "61499ee8",
+      "title": "เรากำลังสร้างกรุงเทพฯ ไว้ให้ใครอยู่? ถอดต้นทุนเศรษฐกิจ - ความเสี่ยงของการมีที่อยู่อาศัยในเมืองหลวง",
+      "summary": "บทความวิเคราะห์ถึงต้นทุนเศรษฐกิจและความเสี่ยงของการมีที่อยู่อาศัยในกรุงเทพมหานคร โดยตั้งคำถามถึงการพัฒนาเมืองว่ากำลังสร้างให้ใครอยู่อาศัย เนื้อหาเป็นการวิเคราะห์และแสดงความเห็น ไม่มีมาตรการหรือตัวเลขที่ชัดเจนในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUUVVb3RkVmNDTGNqUTFlbzl0M0IxejNDNmZrd042RG1jRG5xWV92aDBPVnJBdGVDaFVUVVQ3Vzh3Rkh5MDRLUERtTHpOSnBKS3RvTXpVdUF4QjJnVDZLbFo2Vzd0QW5iRmVrdlhWTjhZQk0?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-12T03:43:11Z",
+      "category": "housing",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ประเด็นที่อยู่อาศัยในเมือง เป็นการวิเคราะห์เชิงความเห็น"
+    },
+    {
+      "id": "78ee20ec",
+      "title": "ปัญหาปากท้องค่าครองชีพ ชาวบ้านรู้สึกได้ ไม่ต้องมีสถิติวิชาการมาเตือน | TOJO NEWS",
+      "summary": "บทความความเห็นจากรายการ TOJO NEWS ระบุว่าปัญหาปากท้องและค่าครองชีพเป็นสิ่งที่ประชาชนรู้สึกได้ด้วยตนเอง โดยไม่จำเป็นต้องอาศัยข้อมูลสถิติทางวิชาการ เนื้อหาเป็นความเห็นและไม่มีตัวเลขหรือมาตรการของรัฐระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQTU5dURfOFhnYXQtM2RsMWdoeloyNzFmRXdmaS1IZDJOVncxWUtmNGFCWFI1U3ZoWmc2UF9rMm8tTGF5MXdra0dBZ2E3aXpVS1ZKSHNn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-11T22:36:15Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นความเห็นเกี่ยวกับค่าครองชีพ ไม่มีมาตรการ",
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "2d54543c",
+      "title": "บอร์ด สปสช. ยกระดับ ‘UCEP’ ดูแลผู้ป่วยฉุกเฉิน ควบคู่ ‘เบิกจ่ายถูกต้อง’",
+      "summary": "บอร์ด สปสช. มีมติยกระดับระบบ UCEP ดูแลผู้ป่วยฉุกเฉิน ควบคู่กับการกำกับให้เบิกจ่ายถูกต้อง เกี่ยวข้องกับสิทธิการรักษาของประชาชนทั่วไป รวมถึงผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93eGlGSV9iNmdSXzFWZTJ0Vy1KcVJBQ2hsc1pJNnlKNUktRTUtRWZxeWFvQ01aTlBUaWlvYVNhdFhqb08yOWZVUkphaHEtU2NmSndUZGl4WQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-11T06:39:44Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับสิทธิสุขภาพ แต่เป็นมาตรการเชิงระบบ"
+    }
+  ]
+}
