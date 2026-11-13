@@ -1,0 +1,690 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T07:38:05Z",
+  "window": {
+    "from": "2026-11-12T05:37:04Z",
+    "to": "2026-11-13T07:37:04Z"
+  },
+  "stats": {
+    "fetched": 240,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 18257,
+    "ai_output_tokens": 14986,
+    "cost_thb": 0.34,
+    "runs": 1,
+    "kept": 44,
+    "eastern": 4,
+    "national": 40,
+    "new": 42,
+    "followups": 2,
+    "sources": 26
+  },
+  "items": [
+    {
+      "id": "d6c29254",
+      "title": "เช็กโอนเงินเยียวยาน้ำท่วมวันนี้ 11 จังหวัด 23,170 ครัวเรือน กว่า 145.73 ล้าน | The Bangkok Insight",
+      "summary": "วันนี้มีการโอนเงินเยียวยาน้ำท่วมใน 11 จังหวัด ให้แก่ 23,170 ครัวเรือน รวมเป็นเงินกว่า 145.73 ล้านบาท ข่าวนำมาจากแหล่งข่าว LINE TODAY ซึ่งอ้างอิง The Bangkok Insight",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qLWRWV29CVzRZVkxqZXpEcGV2Ui04OWFTWl8yX2VUS2puWTlfNmNfVzZjckUzNDE1Tzh2dVZDWVE1UDFKM0t4RmxwNjNfaWVZdGo1M0hR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-13T07:24:23Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาโอนถึงครัวเรือนจริงพร้อมจำนวนเงินรวม"
+    },
+    {
+      "id": "405cb1f2",
+      "title": "ชาวนาได้เฮ \"สุริยะ\" รับจบ เร่งโอนเงิน \"ไร่ละ 1,000 บาท\" ปี 68/69 สัปดาห์หน้า | ข่าวช่อง8",
+      "summary": "นายสุริยะ รัฐมนตรีที่เกี่ยวข้องยืนยันจะเร่งโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท สำหรับฤดูการผลิตปี 2568/2569 ภายในสัปดาห์หน้า เป็นการจ่ายเงินสนับสนุนโดยตรงให้เกษตรกรผู้ปลูกข้าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUXFrc29ncFZ2M2E3ZFpzamVKWlN4SzN3cC1rQmhIdXQ2eHVfSEpqeEJQVGpjZFNob25nTE1RdzUyOFJKeXpUellMTUs4WHRHb0d3LVd3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-13T06:03:19Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือชาวนาจ่ายจริงพร้อมกรอบเวลาสัปดาห์หน้า"
+    },
+    {
+      "id": "e000048c",
+      "title": "รัฐช่วยซ่อมบ้านผู้สูงอายุ สูงสุด 60,000 บาทต่อหลัง เช็กเงื่อนไข - Tnews",
+      "summary": "รัฐบาลให้การช่วยเหลือซ่อมแซมบ้านผู้สูงอายุ โดยสนับสนุนงบประมาณสูงสุดไม่เกิน 60,000 บาทต่อหลัง ผู้สนใจสามารถตรวจสอบเงื่อนไขการขอรับความช่วยเหลือได้ตามรายละเอียดในข่าวต้นฉบับ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12RzVHR1JvMDlIb3JjT05FbzFaSGRXSkk4YjJiVlVEeW5MWkdBcVVNZk9lQ1NmalE0Z2hwSlRIMU50aGI4dEFkZ016TXhXb0p2cVVoN0FLVUsteDV5VkE?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-13T02:51:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มาตรการช่วยเหลือจริงแก่ผู้สูงอายุ"
+    },
+    {
+      "id": "f6704bbe",
+      "title": "เปิด 11 จังหวัด รับเงินเยียวยาน้ำท่วม 5,000-9,000 บาท เข้าบัญชี 13 พ.ย. 69",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมให้ประชาชนใน 11 จังหวัด ในอัตราตั้งแต่ 5,000 ถึง 9,000 บาท โดยกำหนดโอนเข้าบัญชีในวันที่ 13 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EeUVTc25uNU9XOXhubnRDakcwSzBlblB2LXRfSFJYdlMtTFJiOVA5VUVHTnROSjZHd2VRWW5OSlpiRUVOSjRlRlpQbWg?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-13T06:06:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรงพร้อมวันที่และจำนวนเงิน"
+    },
+    {
+      "id": "9c7a80d8",
+      "title": "ปภ. โอนเยียวยาน้ำท่วมวันนี้ 10 จังหวัด-กทม. รวม 21,755 ครัวเรือน 136.64 ล้านบาท",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยโอนเงินเยียวยาผู้ประสบอุทกภัยในวันนี้ จำนวน 10 จังหวัดและกรุงเทพมหานคร รวม 21,755 ครัวเรือน เป็นเงินทั้งสิ้น 136.64 ล้านบาท ข้อความไม่ได้ระบุชื่อจังหวัดทั้ง 10 แห่งอย่างครบถ้วน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbFNUbV92MU1naHJzSDE5Y2V0aWxEdEFMeVlYNHpRcWsyaHIyRG1zNHpGTWtCTHVxN2NJYWdpY3VnXzBGaGJ1dGVIY09hRmtwQjk3VVBkeTE?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-12T14:55:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาจริงถึงครัวเรือนผู้ประสบภัยจำนวนมาก"
+    },
+    {
+      "id": "94d95bb2",
+      "title": "ยาย 81 แฉผู้ใหญ่บ้าน ฮุบเงินคนพิการ แอบพาหลานไปเปิดบัญชี ก่อนยึด ATM แอบกดเงินออกกว่าแสนบาท",
+      "summary": "หญิงอายุ 81 ปีร้องเรียนว่าผู้ใหญ่บ้านนำเงินสวัสดิการของคนพิการไปเปิดบัญชีโดยใช้ชื่อหลาน แล้วยึดบัตร ATM และกดเงินออกไปกว่าแสนบาท เนื้อหาข่าวยังไม่ระบุสถานที่เกิดเหตุและสถานะทางกฎหมายของคดี",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRjlLeVprNllIX0FGcm5lRU45S3FiMTlYSU5uUDZQZVY1amVLV2I1ZFJVUGVkaWNTSmhESWItaG1pVWFVbEswcl8wMXZ5N001ckxqRzhXb2s?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-11-12T14:30:00Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เกี่ยวข้องกับเงินสวัสดิการคนพิการที่ถูกมิชอบ"
+    },
+    {
+      "id": "2b457d05",
+      "title": "ธ.ก.ส. โอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท รอบแรก 835 ล้านบาท ถึงมือเกษตรกรแล้ว? - Tnews",
+      "summary": "ธ.ก.ส. โอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท รอบแรกจำนวน 835 ล้านบาท โดยรายงานว่าเงินถึงมือเกษตรกรแล้ว ข่าวใช้รูปประโยคคำถามในหัวข้อ จึงควรตรวจสอบยืนยันกับ ธ.ก.ส. ก่อนนำเสนอเป็นข้อเท็จจริง",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oZjdXbXZnSjZnR3BqeHZBZzYtc2FMRmxVOV9VWXhMNUY0S2JlSzJkSUlzaWg1R2xzOGY5Y1F3M0c2Q2lmQmZoS3BtV3VNc0VvS1o1bU1BREEwQnBpX2c?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-12T09:03:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินโอนจริงจำนวนมาก แต่มีเครื่องหมายคำถาม"
+    },
+    {
+      "id": "448f95fc",
+      "title": "ยินดีด้วย ชาวนาทั่วประเทศ รับเงินโอนจาก ธ.ก.ส. ไร่ละ 1,000 บาท สูงสุด 10,000 บาท ปี 69/70",
+      "summary": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) โอนเงินให้ชาวนาทั่วประเทศในอัตราไร่ละ 1,000 บาท วงเงินสูงสุด 10,000 บาท สำหรับปี 2569/2570",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83dXAzOXdWRUM3QUF1X29qTzR5VGVraVhRWm9LNlU5bWNldmNvWlA2OU1OTGpqRjJIODNvR3U3cU5taTZyUUNROFhTcGcwT0U0dG82RExR?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-13T07:21:55Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินช่วยเหลือเกษตรกรที่ถึงมือโดยตรงพร้อมวงเงิน"
+    },
+    {
+      "id": "0388aa01",
+      "title": "'ซ่อมแซมบ้านผู้สูงอายุ' เกณฑ์ใหม่ สูงสุด 60,000 บาท เช็กสิทธิเลย!",
+      "summary": "มีการรายงานเกณฑ์ใหม่ของโครงการซ่อมแซมบ้านผู้สูงอายุ โดยวงเงินสนับสนุนสูงสุดอยู่ที่ 60,000 บาทต่อราย ข้อความยังไม่ระบุรายละเอียดคุณสมบัติ ระยะเวลาดำเนินการ หรือหน่วยงานรับเรื่องอย่างชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNklNcGRSWnRsNnNYa18wQVFCX25qdndHOHM1T0xmRlNPdkdKR3BjZi1TVlphTXhoVEg3WWhUUkVPdkQ2OTlWcWxTbW9tMlpTbmhLNGpjczM2VExSZVprZ3Fra1lGZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-12T08:49:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เกณฑ์ใหม่ของโครงการช่วยเหลือผู้สูงอายุที่มีวงเงินชัดเจน"
+    },
+    {
+      "id": "b7c0c5c6",
+      "title": "เงินซ่อมบ้านผู้สูงอายุ 60,000 บาท ยื่นเรื่องที่ไหน? เช็ก 4 คุณสมบัติ ใครมีสิทธิบ้าง",
+      "summary": "มีการเผยแพร่ข่าวเรื่องเงินซ่อมบ้านผู้สูงอายุวงเงินสูงสุด 60,000 บาท พร้อมแนะนำช่องทางยื่นเรื่องและคุณสมบัติผู้มีสิทธิ 4 ข้อ อย่างไรก็ตาม ข้อความที่ได้รับไม่มีรายละเอียดของคุณสมบัติทั้ง 4 ข้อ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LYVA2Rm1hdUlVaHdzR1Y3a3pBMlpPeWxNaFVUMlJhSEd3aUI1SjZfejlWeWNXYS1QeFd3OTVoUVpwblVER0pTaDVoaFI?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-12T08:35:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการช่วยเหลือผู้สูงอายุที่มีวงเงินและเงื่อนไขชัดเจน"
+    },
+    {
+      "id": "c5a7dcd5",
+      "title": "วิธีตรวจสอบเงินช่วยเหลือเกษตรกร ไร่ละ 1,000 บาท ทำตามนี้",
+      "summary": "เผยแพร่วิธีตรวจสอบสิทธิ์เงินช่วยเหลือเกษตรกรอัตราไร่ละ 1,000 บาท สำหรับผู้มีสิทธิ์ที่ต้องการทราบสถานะการรับเงิน เนื้อหาข่าวไม่ระบุช่องทางตรวจสอบโดยละเอียดหรือกำหนดเวลาการจ่ายเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15UnVVZkVrbEluX3lLb2duSU8xZVVMYzVPMjF1WUc5UVk3Ml8xOHB6QXNNaVVKWlNEVnZ1YjlLQTVTc0tGRWF0Sm1TOXI?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-12T06:30:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการเงินช่วยเหลือเกษตรกรที่ส่งถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "72d90505",
+      "title": "เช็กสิทธิเงินชาวนา ไร่ละ 1,000 บาท เปิดขั้นตอนตรวจสถานะผ่านเว็บง่ายๆ - Tnews",
+      "summary": "มีการเผยแพร่ข้อมูลการตรวจสอบสิทธิ์รับเงินช่วยเหลือชาวนาในอัตราไร่ละ 1,000 บาท โดยสามารถตรวจสถานะผ่านทางเว็บไซต์ได้ ข้อความไม่ได้ระบุระยะเวลาการโอนเงินหรือเงื่อนไขผู้มีสิทธิทั้งหมด",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByX0JWQWhEV2ktOGYzUWRLeU9vT3JxdzdiMmd5akxkZWdRZUZUZ1hWMTBBNDQzOTZHYVNoV2tmOC1fTkdaMkZGTVQ2NkxSMjdhZ25aWDI4TXNCakhmM2c?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-12T12:31:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินช่วยเหลือโดยตรงแก่เกษตรกรพร้อมช่องทางตรวจสอบ"
+    },
+    {
+      "id": "e0c7e77a",
+      "title": "เงินซ่อมบ้านผู้สูงอายุ 2570 พม. ให้สูงสุด 60,000 บาท ไม่ใช่เจ้าของบ้านก็ขอได้ เช็กวิธียื่นรับเงิน !",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) จัดสรรเงินซ่อมบ้านสำหรับผู้สูงอายุ ปี 2570 วงเงินสูงสุด 60,000 บาท โดยผู้ที่ไม่ใช่เจ้าของบ้านก็สามารถยื่นขอได้ ข่าวระบุขั้นตอนการยื่นขอรับเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15Zy03M0Y3SmlyeTE4eFBsUnlkNk5kYmQzNjQ1WjdPeE1FTmhUdXVTZk5YTjd6M1JLc1ZDUGVQYXJHazRIVUFXdDI0RWQ?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-11-13T04:28:37Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการสวัสดิการผู้สูงอายุที่ให้เงินโดยตรง"
+    },
+    {
+      "id": "d0a99ec8",
+      "title": "เช็กเลยใครได้สิทธิ เงินชาวนา ไร่ละ 1,000 บาท เผยขั้นตอนตรวจสถานะผ่านเว็บ",
+      "summary": "มีการเผยแพร่ข้อมูลการตรวจสอบสิทธิ์รับเงินช่วยเหลือชาวนาในอัตราไร่ละ 1,000 บาท พร้อมขั้นตอนการตรวจสถานะผ่านทางเว็บไซต์ ข้อความไม่ได้ระบุระยะเวลาการโอนเงินหรือรายละเอียดคุณสมบัติผู้มีสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xT21KSXZ0V21vV250aUtEbG50QmdPUUpPVGZyWDYwYXpXdE9BSUQ1bThsUHFHNEdxR2Ezekk3VWZTLXNmaTFlTjMyaVdQRnF2cV9Z?oc=5",
+      "source": "thainewsonline",
+      "published_at": "2026-11-12T12:37:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เงินช่วยเหลือโดยตรงแก่เกษตรกรพร้อมช่องทางตรวจสอบ"
+    },
+    {
+      "id": "9e3db362",
+      "title": "ปกรณ์ ยันเร่งชงมาตการเออร์ลี่รีไทร์ เข้า ครม.ทันเดือน พ.ย.นี้",
+      "summary": "นายปกรณ์ นิลประพันธ์ รองนายกรัฐมนตรีฝ่ายกฎหมาย ยืนยันเร่งเสนอมาตรการเกษียณอายุก่อนกำหนด (Early Retirement) ของข้าราชการพลเรือนสามัญเข้าคณะรัฐมนตรีภายในเดือนพฤศจิกายนนี้ โดยเกณฑ์ผู้เข้าร่วมขึ้นอยู่กับอายุราชการที่เหลือ และต้องรอ ก.พ. เสนอก่อน",
+      "url": "https://www.khaosod.co.th/politics/news_10470967",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-13T06:01:05Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีกรอบเวลาเสนอ ครม. ภายในเดือนพ.ย. และกระทบข้าราชการ"
+    },
+    {
+      "id": "bcbb5dee",
+      "title": "บอร์ด สปสช. เห็นชอบปรับแผนจัดซื้อยา 9 รายการ หนุนผู้ป่วยรักษาต่อเนื่อง ยึดหลักคุ้มค่า-โปร่งใส",
+      "summary": "บอร์ด สปสช. เห็นชอบปรับแผนจัดซื้อยา 9 รายการสำหรับปี 2570 เพื่อให้หน่วยบริการมียาเพียงพอและผู้ป่วยบัตรทองได้รับการรักษาอย่างต่อเนื่อง โดยยึดหลักคุ้มค่า มีประสิทธิภาพ โปร่งใส และตรวจสอบได้ ภก.ปรีชา พันธุ์ติเวช กรรมการหลักประกันสุขภาพแห่งชาติเป็นผู้ให้ข้อมูลในฐานะกรรมการ",
+      "url": "https://www.hfocus.org/content/2026/11/40255",
+      "source": "Hfocus",
+      "published_at": "2026-11-13T06:38:37Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการด้านยาเพื่อผู้ป่วยบัตรทองทั่วประเทศ"
+    },
+    {
+      "id": "fbe9626b",
+      "title": "นศ.สุดทน เจ้าของหอพัก ขอแบ่งเงินเยียวยาน้ำท่วม 4,000 อ้างซ่อมห้อง ขู่ไม่จ่ายไล่ออก",
+      "summary": "นักศึกษารายหนึ่งเปิดเผยว่าเจ้าของหอพักขอแบ่งเงินเยียวยาน้ำท่วม 4,000 บาท โดยอ้างค่าซ่อมห้องพัก และขู่ว่าหากไม่จ่ายจะให้ออกจากหอพัก ข่าวไม่ระบุพื้นที่ชัดเจนและยังไม่มีการชี้แจงจากหน่วยงานที่เกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWd0xEaHJvQllwTTlpSzNpSlZRd0FkVFVCQ3Z5SXJiV19RMW9ka1VWMVJHVVFPYk5qalJsQWd4dU16MlNIU2tlQ0tJcU9wUWY2?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-13T02:44:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "กระทบสิทธิ์การรับเงินเยียวยาของนักศึกษา"
+    },
+    {
+      "id": "0df7fd09",
+      "title": "ดราม่าแปดริ้ว! หอพักขอแบ่งเงินเยียวยาน้ำท่วม นศ. 4,000 บาท - Tnews",
+      "summary": "มีรายงานว่าหอพักแห่งหนึ่งในจังหวัดฉะเชิงเทรา ขอให้นักศึกษาแบ่งเงินเยียวยาน้ำท่วมจำนวน 4,000 บาท จากเงินที่นักศึกษาได้รับ ประเด็นนี้เป็นที่ถกเถียงในสังคม ทั้งนี้รายละเอียดเพิ่มเติมและการดำเนินการของหน่วยงานที่เกี่ยวข้องยังไม่ปรากฏในข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZF9BMmVxOG0xSkFoNU5WaDJBQzJXLUJYZ3A3cDVUaVRkS3d2Z2llaTFDTVc5TjNXdkpyU1JoQVlVaUZsRHd0X0JvTWZIaDZWZHh3R0psS2R2eFdiMXc?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-13T02:16:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 72,
+      "why": "ผลกระทบต่อผู้ได้รับเงินเยียวยาน้ำท่วมโดยตรง"
+    },
+    {
+      "id": "152174f3",
+      "title": "\"ประกันสังคม\" ครอบคลุมรักษา \"ออฟฟิศซินโดรม\" ผู้ประกันตนใช้สิทธิได้ทั้ง 2 กองทุน",
+      "summary": "สำนักงานประกันสังคมระบุว่า ผู้ประกันตนสามารถใช้สิทธิรักษาอาการออฟฟิศซินโดรมได้ทั้งจากกองทุนประกันสังคมและกองทุนหลักประกันสุขภาพ โดยข่าวนี้ไม่ได้ระบุวันที่มีผลบังคับใช้หรือรายละเอียดขั้นตอนการเบิกจ่ายเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pRUFNZk02WlI5cUozSkNJZW5EamE4TEhTVHNzQ1RQSVNmMjNBRGVRQ0lnOE9veWpRV3JDVlB3ay00dDc5SE8tdmtFbnJROFF0U21LcDRmWkRrNmM?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-12T08:20:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "สิทธิการรักษาพยาบาลที่เข้าถึงผู้ประกันตนทั่วประเทศ"
+    },
+    {
+      "id": "0e7a9690",
+      "title": "ดราม่าหอพัก นศ.ได้เยียวยาน้ำท่วม 9 พัน เจอขอแบ่ง 4 พันขู่เชิญออก - Tnews",
+      "summary": "นักศึกษาที่ได้รับเงินเยียวยาน้ำท่วม 9,000 บาท ถูกหอพักขอแบ่งเงิน 4,000 บาท และถูกขู่ให้ย้ายออก เป็นกรณีที่สร้างกระแสถกเถียงในสังคม รายละเอียดการดำเนินการของหน่วยงานรัฐยังไม่ปรากฏในข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wcG5RRmxlWklSSjdoOEhNQzNSYlRBT2hGMlZtMTVPNF9TdDhXUXlHSkZvRXIzc0tzaE43TjQtRWRFRFF0VlRYT2l0U2lrcU5KV0dEejV3aEdnWHVJNHc?oc=5",
+      "source": "Tnews - ทีนิวส์",
+      "published_at": "2026-11-13T05:58:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องกับการรับเงินเยียวยาและผลกระทบต่อนักศึกษา"
+    },
+    {
+      "id": "55eecc50",
+      "title": "ส่อสะดุด!! หลังมีผู้ยื่นคัดค้านผลเลือกตั้งบอร์ดประกันสังคม กกต. จ่อพิจารณาใน 30 วัน ยันทำตามกฎหมาย ไม่ได้ดึงเวลา",
+      "summary": "สำนักงานการเลือกตั้งคณะกรรมการ (กกต.) จะพิจารณาคำคัดค้านผลการเลือกตั้งบอร์ดประกันสังคมภายใน 30 วัน โดยยืนยันว่าดำเนินการตามกฎหมายและไม่ได้ประวิงเวลา อาจกระทบการแต่งตั้งคณะกรรมการประกันสังคมซึ่งเกี่ยวข้องกับผู้ประกันตนทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90V24zQi1OeWZrR3NOOFBQdFlCR1pDdC1kendjM1EySFd6V1A3UVoxbE5yaDl5QUxfYzM5bXc2bWl6Ym50Z2FwbkNn?oc=5",
+      "source": "RYT9",
+      "published_at": "2026-11-13T05:36:56Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีกรอบเวลา 30 วันและกระทบผู้ประกันตน"
+    },
+    {
+      "id": "2ca00491",
+      "title": "ดันโคเนื้อเป็นสินทรัพย์ค้ำสินเชื่อ เพิ่มทุนหมุนเวียนเกษตรกรรายย่อย",
+      "summary": "กระทรวงเกษตรและสหกรณ์เดินหน้าโครงการ 'ปศุสัตว์ สร้างทุน' นำร่องใช้โคเนื้อมีชีวิตเป็นหลักประกันสินเชื่อภายใต้ พ.ร.บ.หลักประกันทางธุรกิจ ช่วยให้เกษตรกรรายย่อยเพิ่มทุนหมุนเวียนโดยยังคงเลี้ยงสัตว์ต่อได้",
+      "url": "https://www.prachachat.net/economic/news-2095847",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-13T04:09:11Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการเข้าถึงสินเชื่อของเกษตรกรรายย่อย"
+    },
+    {
+      "id": "5bb012ce",
+      "title": "เกษตรฯ เปิด Sandbox 4 จังหวัด สู้โรคใบด่างมันสำปะหลัง แจกพันธุ์ต้านทาน 1,500 ราย",
+      "summary": "กระทรวงเกษตรและสหกรณ์เปิดโครงการนำร่อง (Sandbox) ใน 4 จังหวัดเพื่อแก้ปัญหาโรคใบด่างมันสำปะหลัง โดยแจกท่อนพันธุ์ต้านทาน 'อิทธิ 1-3' ให้เกษตรกร 1,500 ราย และตั้งระบบธนาคารท่อนพันธุ์เพื่อส่งต่อให้เกษตรกรรุ่นถัดไปอีก 3,000 ราย",
+      "url": "https://www.prachachat.net/economic/news-2095822",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-13T03:50:49Z",
+      "category": "farmers",
+      "provinces": [
+        "นครราชสีมา",
+        "กาญจนบุรี",
+        "กำแพงเพชร",
+        "ศรีสะเกษ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการช่วยเหลือเกษตรกรในพื้นที่ที่ระบุ"
+    },
+    {
+      "id": "c5bed35f",
+      "title": "ดรามาสนั่น! นศ. ร้องถูกหอพักขอหักหัวคิวเงินเยียวยาน้ำท่วม 4,000 บาท",
+      "summary": "นักศึกษารายหนึ่งร้องเรียนว่าถูกหอพักขอหักหัวคิวจากเงินเยียวยาน้ำท่วม 4,000 บาท ประเด็นดังกล่าวเป็นกระแสในสังคม รายงานข่าวไม่ระบุพื้นที่ชัดเจนและยังไม่ปรากฏการชี้แจงจากหน่วยงานรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IXzlLRGJIalEwc1phSDRybUhDUHIzdndCNWVwMWtWazhLZmFGTzlqTm5oaWYyVGQyOVhXQ2pFVi1KdGNqbEJva2VlLXpZSHdTbFFsTGtn?oc=5",
+      "source": "อมรินทร์ทีวี ช่อง 34",
+      "published_at": "2026-11-13T02:19:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องกับการรับเงินเยียวยาของประชาชน"
+    },
+    {
+      "id": "eff3e34d",
+      "title": "ปรับค่าแรงขั้นต่ำปี 70 อืด รอแต่งตั้งบอร์ดค่าจ้างชุดใหม่ ลุ้น! เคาะตัวเลข ธ.ค. ทันใช้ 1 พ.ค.",
+      "summary": "การปรับค่าแรงขั้นต่ำปี 2570 ยังล่าช้า เนื่องจากรอการแต่งตั้งคณะกรรมการค่าจ้างชุดใหม่ โดยคาดว่าจะมีการกำหนดตัวเลขในเดือนธันวาคม เพื่อให้ทันการใช้บังคับในวันที่ 1 พฤษภาคม ยังไม่มีการระบุอัตราค่าแรงใหม่ในเนื้อหาข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3eGZ0enIxU0dyUmwtUmd6cUtsb3RWcEhWQjhOSlRkWVpmSmhUN19OOXg2MHlyaUdRdjNkck00dE4yMlJRUlJsMll6X0pRX3NpcWZfNTVEMVd2b2VZVWZDck1VSGlwY0tNZGc?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-11-13T01:30:57Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มีกำหนดเวลาและกระทบแรงงานทั่วประเทศ"
+    },
+    {
+      "id": "8fde89b1",
+      "title": "เผยความคืบหน้าร่างแก้ไข ‘พ.ร.บ.ประกันสังคม’ ให้สิทธิรักษาต่อหลังรับเงินบำนาญ",
+      "summary": "มีความคืบหน้าร่างแก้ไขพระราชบัญญัติประกันสังคม ซึ่งจะให้สิทธิผู้ประกันตนสามารถรับการรักษาพยาบาลต่อได้หลังจากได้รับเงินบำนาญแล้ว เนื้อหาในสนิปไม่ระบุขั้นตอนการพิจารณาหรือวันที่มีผลบังคับใช้",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qYzc0ZkNJMHZQbTlIOWN5bTJ6SGpsVGwySll6ckNxeFhCU2hhMTlyclhQaXJEaTlNeTZVLVF2b3VzRmNyb1BtMFU5dlExMGRJQWdPeTltRWVlNlU?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-12T08:01:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ร่างกฎหมายที่กระทบสิทธิผู้สูงอายุ ยังไม่มีผลบังคับใช้"
+    },
+    {
+      "id": "af0e37e9",
+      "title": "ชูระบบ ‘PCC Connect’ ยกระดับปฐมภูมิ ดูแลคู่รักก่อนตั้งครรภ์ นำร่อง 12 จ. หวังจูงใจคนมีลูกเพิ่ม!",
+      "summary": "กรมอนามัยเสนอระบบ PCC Connect เพื่อยกระดับบริการสุขภาพปฐมภูมิ เชื่อมข้อมูลตั้งแต่ อสม. รพ.สต. ถึงโรงพยาบาล โดยนำร่องใน 12 จังหวัด ครอบคลุมการดูแลคู่รักก่อนตั้งครรภ์ คัดกรองโรคพันธุกรรม และสนับสนุนศูนย์ดูแลเด็กในที่ทำงาน",
+      "url": "https://www.hfocus.org/content/2026/11/40250",
+      "source": "Hfocus",
+      "published_at": "2026-11-13T03:05:07Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มาตรการสุขภาพและลดภาระครอบครัว แต่ยังเป็นนำร่อง"
+    },
+    {
+      "id": "b94666b9",
+      "title": "\"รมว.พัฒนา\" มอบปลัด สธ.เคลียร์ ปมชะลอโอนเงิน รพ. ย้ำไร้ปัญหา",
+      "summary": "รัฐมนตรีว่าการกระทรวงสาธารณสุขมอบหมายให้ปลัดกระทรวงหารือกับ สปสช. กรณีโรงพยาบาลในสังกัดร้องเรียนว่ามีการชะลอโอนเงินราว 2 พันล้านบาทให้โรงพยาบาลกว่า 894 แห่ง ทั้งสองฝ่ายอยู่ระหว่างหารือเพื่อจัดสรรเงินโดยเร็ว",
+      "url": "https://www.hfocus.org/content/2026/11/40249",
+      "source": "Hfocus",
+      "published_at": "2026-11-13T02:15:45Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ประเด็นงบประมาณโรงพยาบาลที่กระทบบริการสาธารณสุขโดยตรง"
+    },
+    {
+      "id": "81ba5ee6",
+      "title": "สิทธิประกันสังคม เข้ารับการรักษา 7 หัตถการ โรคหัวใจและหลอดเลือด ที่โรงพยาบาลนครธน โดยไม่เสียค่าใช้จ่าย",
+      "summary": "โรงพยาบาลนครธนแจ้งสิทธิประกันสังคมสำหรับการรักษา 7 หัตถการโรคหัวใจและหลอดเลือด โดยผู้มีสิทธิไม่ต้องเสียค่าใช้จ่ายที่โรงพยาบาลดังกล่าว เนื้อหาเป็นประกาศของโรงพยาบาลเอกชน ไม่ระบุระยะเวลาหรือเงื่อนไขเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDJfcVB1ODBUcnFBdGZza3lISDJ2eHl3clc0a0RNQUFkR2NPaDhiNzgtQ2dfenZhRzZBNS1STGQ1X19TV19qR2l6YnRZSzQ3VEsxZFVWRW9NUkZFNldieEpjU0NRaWFNR0xvdC1JRnRvb0FQV212RjJiTFRja2tSUURYTDZPb0o3?oc=5",
+      "source": "โรงพยาบาลนครธน",
+      "published_at": "2026-11-12T07:46:45Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "สิทธิการรักษาฟรีสำหรับผู้ประกันตน"
+    },
+    {
+      "id": "523d6c57",
+      "title": "เบรกตั้ง ‘บอร์ดประกันสังคม’ หลังมีผู้ร้องคัดค้านทันกำหนด สปส. ส่ง กกต. ชี้ขาดใน 30 วัน",
+      "summary": "การตั้งบอร์ดประกันสังคมถูกระงับชั่วคราวหลังมีผู้ร้องคัดค้าน สำนักงานประกันสังคม (สปส.) ส่งเรื่องให้ กกต. ชี้ขาดภายใน 30 วัน",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaGpQbWl6Wk9rWmpuZ2duVkNZSFEyajZkVUxTX1JkTkNnNl9Uc0E2SUlHSXp0VnY1U09nQ1d2NWZuZ24tV3Zac2xJNFFkdU5GdFZPWm56RVdRMHBMa09vUzRnOHpQbG1PSkJGbmFqQmdZSEpwMXhB?oc=5",
+      "source": "spacebar.th",
+      "published_at": "2026-11-13T03:11:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข่าวติดตามเรื่องบอร์ดประกันสังคม"
+    },
+    {
+      "id": "a8789997",
+      "title": "ยังแต่งตั้งไม่ได้! มีผู้ยื่นคัดค้านผลเลือกตั้ง บอร์ดประกันสังคม กกต. เร่งสอบใน 30 วัน",
+      "summary": "การแต่งตั้งบอร์ดประกันสังคมยังไม่สามารถดำเนินการได้ เนื่องจากมีผู้ยื่นคัดค้านผลการเลือกตั้ง กกต. จะเร่งตรวจสอบภายใน 30 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9FWFY0V003bzU3UDRwSjVTVGhTWUVPbm13ZzFYZFFkNnVXX1BEQ2JZTGhRQXo4UFZNaUJwel9IYVRzUlZMRjJ3WTAwaHp5T0NU?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-13T03:00:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ข่าวติดตามเรื่องบอร์ดประกันสังคม"
+    },
+    {
+      "id": "678b59f7",
+      "title": "เลือกตั้งบอร์ดประกันสังคม สะดุด! มีผู้ยื่นคำคัดค้าน รอผลใน 30 วัน",
+      "summary": "การเลือกตั้งคณะกรรมการประกันสังคม (บอร์ดประกันสังคม) สะดุดเนื่องจากมีผู้ยื่นคำคัดค้าน โดยคณะกรรมการการเลือกตั้ง (กกต.) จะพิจารณาวินิจฉัยภายใน 30 วัน",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uZWg2akRPQlpRbExzR2lWd2J2NVBBeUdkVC1XLU85YTUwMmE4a1FYM2NGOGVlRWJZVXhsLXJZWG1xZWE5czlua2xhSkJtbEhBb1AzNw?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-13T02:58:41Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "กระทบการกำกับดูแลระบบประกันสังคม"
+    },
+    {
+      "id": "80fe81d1",
+      "title": "นศ.ร้องถูกหอพักขอแบ่งเงินเยียวยา 4,000 บาท อ้างซ่อมห้อง-ซื้อเตียง",
+      "summary": "มีรายงานว่านักศึกษารายหนึ่งร้องเรียนว่าถูกหอพักขอแบ่งเงินเยียวยาจำนวน 4,000 บาท โดยอ้างค่าซ่อมห้องและค่าซื้อเตียง ข้อความไม่ได้ระบุพื้นที่เกิดเหตุหรือผลการตรวจสอบจากหน่วยงานที่เกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wOUhBY21fX3prSHlnTjJ0WjA4aDdTc0J2Qkp3a0hxTktpTjRPZHFiRThfZUdFODRrX2dnT00xNmJfc21xRjc3VHl6dWJ2RFNodFFsN2Y3N0o?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-13T00:20:53Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "กรณีร้องเรียนเกี่ยวกับการใช้เงินเยียวยาของผู้ประสบภัย"
+    },
+    {
+      "id": "f026e323",
+      "title": "เปิดให้เช็ก คนเงินไม่เข้า 'เงินชาวนาไร่ละ 1,000 บาท' ธ.ก.ส. โอนรัว",
+      "summary": "ธ.ก.ส. เปิดให้เกษตรกรตรวจสอบรายชื่อผู้ที่ยังไม่ได้รับเงินช่วยเหลือไร่ละ 1,000 บาท หลังมีการโอนเงินเป็นรอบ ๆ เนื้อหาในสนิปไม่ระบุจำนวนผู้ยังไม่ได้รับหรือกำหนดเวลาการโอนรอบถัดไป",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByME1VQmlzSzBmUXZWMkE2Qmszc1ByOWJISjBSSmlOMmxfeHJMbkp6WFA2bFVfN1RTY0dKQjI5dW9DM0NCUlR6YVFWZXA3b0FkSHFkUjQ1a2VXa2F2bzdZby1oeDFZZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-12T07:41:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับการเข้าถึงเงินช่วยเหลือเกษตรกร",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "ef64aac5",
+      "title": "บอร์ดประกันสังคมยังไม่จบ ผู้ประกันตนต้องรออีกนานแค่ไหน?!",
+      "summary": "รายงานข่าวระบุว่าการพิจารณาเรื่องบอร์ดประกันสังคมยังไม่สิ้นสุด และผู้ประกันตนยังต้องรอความชัดเจนต่อไป ข้อความที่ได้รับไม่มีกำหนดเวลาที่แน่นอน",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56SFEyVWx5WGhZRGV4TjdlcXN3WTlKVzlNaDBzWTBzdzZPdmEySVhiSUV3c0hJUmhxQVZNczc0NXVUOU9wRmwxbXp2cHl4azF5MUlhak1oZw?oc=5",
+      "source": "INN News",
+      "published_at": "2026-11-13T06:00:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ติดตามความคืบหน้าของบอร์ดประกันสังคม ข้อมูลจำกัด"
+    },
+    {
+      "id": "2b2d3ab4",
+      "title": "เก้าอี้ บอร์ดประกันสังคม สะดุด ยื่นคัดค้านผลเลือกตั้ง เสี่ยงสำรองเสียบ",
+      "summary": "มีการยื่นคัดค้านผลการเลือกตั้งคณะกรรมการประกันสังคม ซึ่งอาจทำให้การเข้ารับตำแหน่งของกรรมการที่ได้รับเลือกต้องสะดุด และอาจมีการใช้กรรมการสำรองแทน ผู้ประกันตนเป็นผู้ได้รับผลกระทบจากการบริหารงานของคณะกรรมการดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hRDhTLVhSREdpblVIVXI3ZFVrc2hLMFJVd3BWQmZqNlEzMzlyYWxmTVdqZmM3UHhpNEpFSjQyUjVPX2l0WTMxN0FxcmQtRHZxRTNBNzNsMmlidDduU3dSaGtkVGlQZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-13T05:25:03Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "กระทบการบริหารระบบประกันสังคม"
+    },
+    {
+      "id": "36c505bd",
+      "title": "\"สภาองค์ลูกจ้าง\" ค้านปมจี้ถอนร่าง พ.ร.บ.ประกันสังคม",
+      "summary": "สภาองค์ลูกจ้างแสดงการคัดค้านข้อเรียกร้องให้ถอนร่างพระราชบัญญัติประกันสังคม ร่างกฎหมายฉบับนี้เกี่ยวข้องกับสิทธิของลูกจ้างและผู้ประกันตนในระบบประกันสังคม ข้อความที่ได้รับไม่ระบุรายละเอียดเนื้อหาของร่างหรือกำหนดเวลาพิจารณา",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZVpmYXE2UGhIZTdhNzU0MDVvWkVMWEhpYzNTa1Njd1pDelFNdXpRdmpIR2x4Qm1vNzlPcXRjRExNRVlydVBWN2V3UUpQZTVuUlBOWFBRWFdIbkF3Nl80?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-13T04:59:50Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นกฎหมายประกันสังคมที่กระทบลูกจ้าง"
+    },
+    {
+      "id": "6cc97584",
+      "title": "เลื่อนรับรองบอร์ดประกันสังคม! 'ไอซ์ รักชนก' แซะประกาศผลชาติหน้า",
+      "summary": "ข่าวรายงานว่าการรับรองคณะกรรมการประกันสังคมถูกเลื่อนออกไป และมีการวิจารณ์เรื่องกำหนดประกาศผลในรอบถัดไป ผู้ประกันตนซึ่งเป็นผู้ได้รับสิทธิประโยชน์จากระบบประกันสังคมจึงเกี่ยวข้องโดยตรง รายละเอียดเชิงลึกยังไม่ปรากฏในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03YmNQV081YlZfTmRpVmJmTURzRlBjSE5zNU1xX0J0Q0phZGNZVmdYN2EtRFJLWS1sSjZnTGdfM0ZsMXp6bTBKT0tZZWZ4WmpaZFlmY0ZrT1MtZTNlS05JcGtVb0VaSXluVEdzbjln?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-13T04:48:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับระบบประกันสังคมแต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "3771960d",
+      "title": "การเคหะ จัดโปรคอนโด ประชานิเวศน์ 3 เริ่มต้น 8.29 แสน จองเพียง 5,000 บาท พร้อมเข้าอยู่",
+      "summary": "การเคหะแห่งชาติจัดโปรโมชันคอนโดมิเนียมโครงการประชานิเวศน์ 3 โดยราคาเริ่มต้นที่ 829,000 บาท ผู้สนใจสามารถจองด้วยเงินเพียง 5,000 บาทและเข้าอยู่อาศัยได้ทันที",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12Q0NLZW4tekNIVVhrWTdCYTdwMEJSZlYxcTQwdWdDRDE4dTJRYnhnZWduVEktemV0MDdESm93aF9MdmtBUUpJV3FDUlc4NXc1UmlIeGc3U0YxcXc?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-11-13T04:32:03Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ที่อยู่อาศัยราคาเข้าถึงได้ แต่เป็นโปรโมชันเชิงพาณิชย์"
+    },
+    {
+      "id": "18abf941",
+      "title": "เช็กเงินไร่ละ 1,000 บาท ปี 2568/69 ธ.ก.ส.โอนต่อเนื่อง พร้อมวิธีตรวจสอบ - เยียวยาเกษตรกร | ธ.ก.ส. ข่าว",
+      "summary": "ธ.ก.ส. ยังคงทยอยโอนเงินช่วยเหลือเกษตรกรไร่ละ 1,000 บาท สำหรับปี 2568/69 พร้อมแนะวิธีตรวจสอบสิทธิการได้รับเงิน เนื้อหาในสนิปเป็นเพียงหัวข้อข่าว จึงไม่มีรายละเอียดจำนวนผู้รับหรือวันที่โอนที่ยืนยันได้",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81NEZwZlNLazZhM1lDUlRXSk1iUy0zeWMwZEc0MUltbzdyY0VLa1B1WUZxZXp2MDl1RVdMaHZvUUpNUnBZS2lTdUpXc3ZEaEpQTHp3eGJ5M3VtbVRoUzB2aFVaMzVLUHJUejdnSWtR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T23:24:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เงินช่วยเหลือเกษตรกรจริง แต่ข้อมูลในสนิปจำกัด"
+    },
+    {
+      "id": "640003aa",
+      "title": "บอร์ด สปสช. รับทราบแผนงบปฐมภูมิปี 70 เน้นผลลัพธ์สุขภาพ นำร่อง 108 อำเภอ",
+      "summary": "คณะกรรมการ สปสช. รับทราบแผนงบประมาณด้านการแพทย์ปฐมภูมิ ปี 2570 ที่เน้นผลลัพธ์ด้านสุขภาพ โดยนำร่องดำเนินการใน 108 อำเภอ ข้อความไม่ระบุจำนวนเงินงบประมาณหรือรายละเอียดกิจกรรม",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pbWFYZzlGeldjaXUtTExPNTBpcHl3M1lIVjJ0VU1hYmxNdWRWTFFXMHNuLU1TUmhSSEVScmhpdXM4cG96T2gwNWwtbG9VWEdEbnlmRnk0aw?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-12T09:27:03Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "นโยบายสุขภาพระดับพื้นที่ แต่เป็นการรายงานแผนเบื้องต้น"
+    },
+    {
+      "id": "735dc7ef",
+      "title": "บอย-เจี๊ยบ พา รถกินข้าวบอยเจี๊ยบ ลงพื้นที่โรงเรียนบ้านเตยใหญ่ นครนายก ช่วยเหลือนักเรียนยากจนและฟื้นฟูโรงเรียนหลังน้ำท่วม",
+      "summary": "ดารา บอย-เจี๊ยบ ลงพื้นที่โรงเรียนบ้านเตยใหญ่ จังหวัดนครนายก เพื่อช่วยเหลือนักเรียนยากจนและฟื้นฟูโรงเรียนหลังน้ำท่วม โดยนำรถกินข้าวบอยเจี๊ยบไปร่วมกิจกรรม เนื้อหาเป็นการสนับสนุนจากภาคเอกชนและบุคคลทั่วไป ไม่ใช่มาตรการของรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IWFVwYzVSZ2wyRk9aY3ZCOTZEYW5WX0U3UDdJblQ1VG1hekU4YzVicW5BMklVdWZnMjVmd0YzZjgwemUwNFBXWE5zWV9OWjZnYVBvdEdwVFZrLXFRb1NFSmtkMkFLMDV0WlAtSUZR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-12T07:45:00Z",
+      "category": "education",
+      "provinces": [
+        "นครนายก"
+      ],
+      "eastern": true,
+      "score": 50,
+      "why": "ช่วยเหลือเด็กยากจนระดับท้องถิ่น แต่ไม่ใช่นโยบายรัฐ",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "id": "8d9380a8",
+      "title": "\"ศุภจี-วราวุธ-สุชาติ\" ทำขึงขัง เยียวยาปราจีนฯ-กล้าตรวจสอบ \"น้ำดำ\" สระบุรี - รง.BWG กี่โมง?",
+      "summary": "ข่าวรายงานการติดตามการเยียวยาในพื้นที่ปราจีนบุรี และการตรวจสอบกรณีน้ำดำในสระบุรีที่เกี่ยวข้องกับโรงงาน BWG ซึ่งมีรัฐมนตรีหลายคนเกี่ยวข้อง เนื้อหาในสนิปไม่ระบุยอดเงินหรือมาตรการเยียวยาที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1falg5WE9hbHJUSzNqejl5YnJmeHY1THY1NFFWSG1EbzdxcDZnVnl3QS1pdElqZUZsMTJYMzBwVU1aM2Z3cTdlOGN5Y0dVaWVGSFJEYmNSN1gyZ183ME0zZEduMUtfXzA?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-13T01:17:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี",
+        "สระบุรี"
+      ],
+      "eastern": true,
+      "score": 45,
+      "why": "เกี่ยวกับการเยียวยาผู้ประสบภัย แต่รายละเอียดน้อย"
+    },
+    {
+      "id": "b3023ce8",
+      "title": "ดรามาเจ้าของหอพักขอแบ่งเงินเยียวยา จ.ฉะเชิงเทรา",
+      "summary": "มีประเด็นดราม่าเรื่องเจ้าของหอพักขอแบ่งเงินเยียวยาในจังหวัดฉะเชิงเทรา เนื้อหาในสนิปมีเพียงหัวข้อ ไม่มีรายละเอียดเกี่ยวกับจำนวนเงิน หลักเกณฑ์ หรือผลการพิจารณา",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wZUIyYlFQZmNjR0N3UFlZOUZHb1ZibDJRUE5HVEFDUVQzQWFiMXM3TlZjbnhiOFdmclRzYVItQnRmeFBsM2Zv?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-11-13T01:17:11Z",
+      "category": "disaster",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 35,
+      "why": "เกี่ยวกับเงินเยียวยา แต่ข้อมูลน้อยมาก"
+    }
+  ]
+}
