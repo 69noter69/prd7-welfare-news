@@ -1,0 +1,462 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:34:54Z",
+  "window": {
+    "from": "2026-11-14T05:34:12Z",
+    "to": "2026-11-15T07:34:12Z"
+  },
+  "stats": {
+    "fetched": 190,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 14641,
+    "ai_output_tokens": 9886,
+    "cost_thb": 0.23,
+    "runs": 1,
+    "kept": 29,
+    "eastern": 0,
+    "national": 29,
+    "new": 26,
+    "followups": 3,
+    "sources": 15
+  },
+  "items": [
+    {
+      "id": "066f1680",
+      "title": "รัฐโอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ครอบคลุม 1.76 ล้านครัวเรือน กทม.ทยอยจ่ายกว่า 7 แสนราย",
+      "summary": "รัฐบาลเปิดเผยว่าได้โอนเงินช่วยเหลือและเยียวยาผู้ประสบอุทกภัยแล้วเป็นจำนวน 1.3 หมื่นล้านบาท ครอบคลุม 1.76 ล้านครัวเรือน ขณะที่กรุงเทพมหานครทยอยจ่ายเงินแล้วกว่า 7 แสนราย",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41NEhEWXFNLTVLcVpnQk4tLU9GQlhFZkp2RHY2ZVk1V0hWVVV6aG1ZYjFlS3JQMjdFV21KYXRsN2ZnbWJHc3JleVVjOGU0LVlrZ3o5empDU1RsMWdqM0Vyd1ZqbnFYblpCaXJVOU1qSUczNnBQaG1rcGlLc0s?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-15T01:38:42Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 95,
+      "why": "เงินโอนถึงครัวเรือนจริงในระดับประเทศ"
+    },
+    {
+      "id": "b1b9cc52",
+      "title": "'รัฐบาล' เผยโอนเงินช่วย-เยียวยาช่วยน้ำท่วม 1.3 หมื่นล้าน",
+      "summary": "รัฐบาลเผยว่าได้โอนเงินช่วยเหลือและเยียวยาผู้ประสบอุทกภัยแล้ว เป็นจำนวน 1.3 หมื่นล้านบาท โดยเป็นการดำเนินการในระดับประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43dHFHcGpqVDhXbWFvaFRDcWQ0bXdBRnFKRlhTaC1TaG1sdzN5bWhZNm81NjVpcTR4QlNQXzk0UjI5RjIwdUFYVF9aVjJkRTJKUUJYN2tKODh1S0E?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-15T01:52:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "นโยบายรัฐบาลและเงินโอนจริงระดับประเทศ"
+    },
+    {
+      "id": "a5d4a451",
+      "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 13 ล้านบาท- กทม.จ่ายแล้ว 7 แสนราย สั่งเร่งตรวจสอบที่ยังค้างอยู่",
+      "summary": "ปภ. โอนเงินเยียวยาน้ำท่วมแล้วรวมประมาณ 1.3 หมื่นล้านบาท ครอบคลุมประมาณ 1.76 ล้านครัวเรือน โดยกรุงเทพมหานครจ่ายแล้วกว่า 7 แสนราย และสั่งเร่งตรวจสอบรายที่ยังค้างอยู่ ปภ. ได้โอนเพิ่ม 23,170 ครัวเรือนใน 11 จังหวัดและกรุงเทพมหานคร รวมกว่า 145.73 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVk1jbjVURTlqRTJVdEdyWl9GMVVoUFcxbXdQTXZNZjEyZ1RoWXFTeWw4TjB1UldVd3hiekdOczRQbVhxQ1hob3hfeEdoaDRMbTR3d1lkSGJmNHc?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-15T04:09:30Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาถึงมือประชาชนจำนวนมากพร้อมตัวเลขชัดเจน"
+    },
+    {
+      "id": "bb438d07",
+      "title": "ผู้สูงอายุรับเบี้ยพิเศษ 3,000 บาท 6 เดือน (ตั้งแต่เดือน เม.ย. – ก.ย. 70)",
+      "summary": "ผู้สูงอายุจะได้รับเบี้ยพิเศษ 3,000 บาท เป็นเวลา 6 เดือน ตั้งแต่เดือนเมษายนถึงกันยายน 2570 ข้อมูลจากศูนย์ต่อต้านข่าวปลอมประเทศไทย ควรตรวจสอบยืนยันกับหน่วยงานรัฐที่เกี่ยวข้องก่อนเผยแพร่",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NQ0xxckRuYlVqanZfcTlxQVZ6ZzNnMGdWeHVfWVpfSTFWU3o1SzJBODFEVDd1QmxDR0ZwWm5nZDNSSXktMDFGV0lnQXdCYUw5MjN4Z3JmVnRxTTVRbTB4MnVvRmdZU1ZucnlWOG00R2QtZFBqZ0pv?oc=5",
+      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "published_at": "2026-11-15T07:00:22Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "สวัสดิการผู้สูงอายุพร้อมจำนวนเงินและช่วงเวลาชัดเจน แต่แหล่งข่าวต้องยืนยัน"
+    },
+    {
+      "id": "b093f2ad",
+      "title": "กทม. ทยอยเยียวยาค่าซ่อมบ้านสัปดาห์หน้า เร่งจ่ายให้ครบทุกหลังธ.ค.นี้",
+      "summary": "กรุงเทพมหานครเตรียมทยอยจ่ายเงินเยียวยาค่าซ่อมบ้านจากอุทกภัยให้ผู้ประสบภัยกว่า 7 แสนราย ภายในสัปดาห์หน้า และเร่งสำรวจความเสียหายให้ครบทุกราย ภายในเดือนธันวาคมนี้ ตามที่รองผู้ว่าราชการกรุงเทพมหานครเปิดเผย",
+      "url": "https://www.prachachat.net/news/news-2096682",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-14T12:07:57Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงประชาชนจริง พร้อมกรอบเวลา"
+    },
+    {
+      "id": "e9fe8331",
+      "title": "โอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้าน ‘กทม.’ จ่ายค่าซ่อมบ้านสัปดาห์หน้า",
+      "summary": "รัฐบาลโอนเงินเยียวยาน้ำท่วมแล้ว 1.3 หมื่นล้านบาท ขณะที่กรุงเทพมหานครเตรียมจ่ายค่าซ่อมบ้านให้ผู้ประสบภัยในสัปดาห์หน้า",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yYjJqd0NmZUEtOUZlOUs2YWhwbjIwOEZaVDhaQ0RXcW1xbFRQaWYyZk9KVkZKRFJxa3VfVmtYSWhjLWJ3Q2RiZGhPWXp1MXdta2NsdnVn?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-15T04:24:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีการโอนเงินจริงและกำหนดจ่ายชัดเจน"
+    },
+    {
+      "id": "5fbea4d6",
+      "title": "กทม. จ่ายเงินเยียวยาค่าซ่อมบ้าน สัปดาห์หน้า ทยอยโอน 8 หมื่นราย",
+      "summary": "กรุงเทพมหานครเตรียมทยอยจ่ายเงินเยียวยาค่าซ่อมบ้านให้ผู้ประสบอุทกภัยราว 8 หมื่นราย ภายในสัปดาห์หน้า โดยเป็นการทยอยโอนเงินตามความคืบหน้าของการดำเนินงาน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSEtwQ3J4d1hKUkFUTXhaLU5Kc19CcTNfV3l2MzR4Tlp1ckNiUE5Kb0ZacFhoMVpoVVlqeGlHa1RhSXcweUx3c09fdGVlRmZxUHdndFRB?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-14T10:07:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีการจ่ายเงินจริงและกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "436634ed",
+      "title": "กทม.ยัน ‘เยียวยาท่วม’ โอนจบชัวร์ก่อนสิ้นปี! ออมสินขอหยุดพัก ส.-อา.– สัปดาห์หน้าทยอย ‘ค่าซ่อมบ้าน’",
+      "summary": "กรุงเทพมหานครยืนยันว่าจะโอนเงินเยียวยาน้ำท่วมให้เสร็จสิ้นก่อนสิ้นปี โดยธนาคารออมสินขอหยุดให้บริการวันเสาร์-อาทิตย์ และสัปดาห์หน้าจะทยอยจ่ายค่าซ่อมบ้านให้ผู้ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkTjhEVndvMkx2Qngya05pUnltOGVSejd2S1RWS2ZicWNMRU9sUl9DUlBCaEgwY09WbkFnWFlFTW1GM0dsZjhNZVJBWjgyenM0ZlJYUlBXb1o?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-14T10:04:11Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรงพร้อมกรอบเวลา"
+    },
+    {
+      "id": "405cb1f2",
+      "title": "ชาวนาได้เฮ \"สุริยะ\" รับจบ เร่งโอนเงิน \"ไร่ละ 1,000 บาท\" ปี 68/69 สัปดาห์หน้า | ข่าวช่อง8",
+      "summary": "นายสุริยะยืนยันว่าจะเร่งโอนเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท สำหรับฤดูการผลิตปี 2568/2569 ภายในสัปดาห์หน้า",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUXFrc29ncFZ2M2E3ZFpzamVKWlN4SzN3cC1rQmhIdXQ2eHVfSEpqeEJQVGpjZFNob25nTE1RdzUyOFJKeXpUellMTUs4WHRHb0d3LVd3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-14T07:37:31Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "การโอนเงินช่วยเหลือเกษตรกรที่มีกำหนดเวลาชัดเจน",
+      "first_seen": "2026-11-13"
+    },
+    {
+      "id": "6f562552",
+      "title": "เปิดวิธีเช็กสถานะ เงินช่วยเหลือชาวนา ไร่ละ 1,000 บาท | มุมข่าว",
+      "summary": "มีการเผยแพร่วิธีตรวจสอบสถานะเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท ซึ่งเป็นประโยชน์ต่อเกษตรกรในการติดตามการรับเงิน ข้อมูลขั้นตอนการตรวจสอบโดยละเอียดไม่ปรากฏในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwdkRkZ2ZycGh2YTM0UmRLd2JrUXVIY3RVcmFzYjV6NUF2cEFoUFlHWEw3aktKRzlzdU90SDZtYTE0Q3dCVGl3RkZPV0xnQ1M0MjgtT0NB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-14T23:43:38Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ข้อมูลการเข้าถึงเงินช่วยเหลือเกษตรกร"
+    },
+    {
+      "id": "e11e1c35",
+      "title": "ทวี ชู 6 อ.ดันรัฐสวัสดิการ-นิรโทษกรรมที่ดิน แฉระบบ กยศ.วิปริต มหาลัยรับหมื่นล้าน ทิ้งมรดกหนี้ให้เด็ก",
+      "summary": "ทวี สอดส่อง ชู 6 ข้อเสนอ ผลักดันรัฐสวัสดิการและนิรโทษกรรมที่ดิน พร้อมวิพากษ์ระบบ กยศ. ว่ามีปัญหา โดยระบุว่ามหาวิทยาลัยได้รับเงินกู้หลายหมื่นล้านบาท ทำให้เด็กต้องแบกภาระหนี้เป็นมรดก",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XSW4wTjJfa0RvcEpMV2JvVXh3b2cyeUZoMzJRSG5UVXhodG0wR0N1dmZHN0pvcTBMbVZtU3Y5em1mZXpnRFoySVpsSVRoRmVUVVU2QnpfemRzTjhz?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-14T12:46:03Z",
+      "category": "education",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "นโยบายรัฐสวัสดิการและหนี้ กยศ. กระทบผู้มีรายได้น้อยโดยตรง"
+    },
+    {
+      "id": "54cee450",
+      "title": "เร่งเยียวยาผู้เลี้ยงกุ้ง หลังน้ำท่วมฉุดผลผลิตหายกว่า 60%",
+      "summary": "รัฐบาลเร่งเยียวยาผู้เลี้ยงกุ้งที่ได้รับผลกระทบจากน้ำท่วม ซึ่งทำให้ผลผลิตลดลงกว่าร้อยละ 60 รายละเอียดวงเงินและพื้นที่ช่วยเหลือยังไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wa2xlWGhwM19SUTVkZ0d3bTdWT2FTV1dlWkt1Y3RSTEx5MmZoR0dNbzVmS0hqZ1JWeGEtcDNwYVJxS1c1QW9YWVVJVFR3TzhXQnVv?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-15T05:30:14Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการเยียวยาเกษตรกรที่เสียหายจากภัยพิบัติ"
+    },
+    {
+      "id": "3aa2e000",
+      "title": "”เงินเฟ้อ“ ก็มีความเหลื่อมล้ำ คนจนแบกหนักกว่าคนรวย",
+      "summary": "รายงานจาก Policy Watch ระบุว่าภาวะเงินเฟ้อสร้างความเหลื่อมล้ำ โดยกลุ่มคนจนได้รับผลกระทบหนักกว่าคนรวย เนื่องจากค่าใช้จ่ายส่วนใหญ่ของครัวเรือนรายได้น้อยเป็นสินค้าจำเป็น ข่าวนี้ไม่ได้ระบุตัวเลขหรือมาตรการเฉพาะเจาะจง",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14LVZKSTFjeENTOTl3Tm5mdU5RcHJLMnVQZlZzRlUwb3pqX2pzNnlqTllab1IyMVZKRWVKbFQ4SXNhQWpHZGMyQ19xc3p6N0ZtUGNEckh0Q0ljY3NnY0lqekpmMA?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-11-15T03:49:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องกับผลกระทบต่อคนจนจากค่าครองชีพ"
+    },
+    {
+      "id": "da465e5c",
+      "title": "เซีย สส.ประชาชน ชี้รัฐหลงประเด็นปม ‘3 ขอ’ ไม่โทษผู้ประกันตนเดือดร้อน แต่ต้องแก้ค่าครองชีพ-ปฏิรูปกองทุน ไม่ใช่ดึงเงินอนาคตมาใช้",
+      "summary": "เซีย สส.ประชาชน ชี้ว่ารัฐหลงประเด็นกรณี ‘3 ขอ’ โดยไม่ควรโทษผู้ประกันตนที่เดือดร้อน และควรแก้ปัญหาค่าครองชีพรวมทั้งปฏิรูปกองทุน แทนการดึงเงินในอนาคตมาใช้ ข่าวไม่ได้ระบุจำนวนเงินหรือกำหนดการ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRQ1lqYk9tZnVzaG1oYXYtbkplb2tNOWlueDVjelhIOVF4Skk1c2RfMWU2NVJIQ2MyZHh3am9LY29nLVpmZUNySngxS1ZxMmlUcHlKZTdlR1U3eGlFOVgxTHp1SDdRY0JrQmZvZFRB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-15T04:27:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "เกี่ยวข้องกับผู้ประกันตนและกองทุนสวัสดิการ เป็นความเห็นทางการเมือง"
+    },
+    {
+      "id": "78f42c57",
+      "title": "“พร้อมพงศ์” จี้รัฐบาลลดค่าครองชีพเป็นของขวัญปีใหม่ ชม “อนุทิน” พบม็อบด้วยตัวเอง",
+      "summary": "นายพรรษพงศ์ เรียกร้องให้รัฐบาลลดค่าครองชีพเป็นของขวัญปีใหม่ และชื่นชมนายอนุทินที่ลงพบกลุ่มผู้ชุมนุมด้วยตนเอง ข้อมูลไม่ระบุมาตรการหรือตัวเลขที่เสนอ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9scW1YU3RZYWx2ektzNzBER0tvUjA5WjZrUnZxUld2STh0SlhBaEJjaWZlZTBrd201NDJjWWtpZTAzbEpGZWliU1NnWUpBVjhVYWJrTEpiNmtfNkU?oc=5",
+      "source": "www.thairath.co.th",
+      "published_at": "2026-11-14T05:58:03Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข้อเรียกร้องด้านค่าครองชีพ ยังไม่เป็นมาตรการจริง",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "d95a8c0a",
+      "title": "รีวิว 3 ปี ‘30 บ.รักษาทุกที่’ เข้าถึงบริการกันไปเท่าไหร่ และ ‘สิทธิบัตรทอง’ คิดเห็นกันอย่างไร",
+      "summary": "สื่อ The Coverage ทบทวนผลการดำเนินงาน 3 ปีของนโยบาย 30 บาท รักษาทุกที่ โดยพิจารณาการเข้าถึงบริการของประชาชน และความคิดเห็นต่อสิทธิบัตรทองในปัจจุบัน ไม่มีตัวเลขหรือข้อสรุปเฉพาะในเนื้อหาที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PeE5yazJYYThxZkg4SjJlbmJ4WGtmMU83WmRxUDZBWUp5WkY3UmxaTXZiQnRxaFVtLU95VU5mTGFROU9ZZ2lZYVFfQUJiREhyd2pUMHM5TGU0LWc?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-14T07:19:32Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ทบทวนสิทธิบัตรทองซึ่งเกี่ยวข้องกับผู้มีรายได้น้อย แต่เป็นบทวิเคราะห์ทั่วไป",
+      "first_seen": "2026-11-14"
+    },
+    {
+      "id": "b8b9a879",
+      "title": "‘ไข้เลือดออก’ ระบาด เสียชีวิตแล้ว 47 ราย ยอดผู้ป่วยเขตสุขภาพที่ 11 พุ่ง 1.7 เท่า",
+      "summary": "กองระบาดวิทยา กรมควบคุมโรค รายงานว่า ไข้เลือดออกระบาด มีผู้เสียชีวิตแล้ว 47 ราย และจำนวนผู้ป่วยในเขตสุขภาพที่ 11 ภาคใต้เพิ่มขึ้นกว่า 1.7 เท่า ข้อมูลถึงวันที่ 7 พ.ย. พบผู้ป่วยทั้งประเทศ 34,875 ราย ส่วนใหญ่เป็นวัยเรียนและวัยทำงาน",
+      "url": "https://www.khaosod.co.th/special-stories/news_10473020",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-15T05:03:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นสาธารณสุขที่ส่งผลต่อประชาชนทั่วไป"
+    },
+    {
+      "id": "bd4ff7b0",
+      "title": "สกลธีนำทีมปชป. เตรียมฟ้องศาลปกครอง จี้ กทม. เร่งเยียวยาน้ำท่วม ร่มเกล้า-คลองจั่น",
+      "summary": "สกลธี ภัททิยกุล นำทีมพรรคประชาธิปัตย์เตรียมฟ้องศาลปกครองเพื่อเร่งให้กรุงเทพมหานครเยียวยาผู้ประสบอุทกภัยในพื้นที่เขตร่มเกล้าและคลองจั่น ซึ่งเป็นการดำเนินการทางกฎหมายของฝ่ายค้านในพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pY3BRUENvaVU4TV9QVDJ3cGY4YnhCNVhhZzZXQmJzUXN4SnRMU21CcjdELXd1WTdOMmFNV2xwLUdpTm53ZXFHSWpKN25QWnJPRHVjSDNvbmh4eDV6eThQbEpKWld6MExFZ2lIdGd3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-14T13:42:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "มีผลต่อผู้ประสบภัยในพื้นที่ แต่เป็นการเคลื่อนไหวทางการเมือง"
+    },
+    {
+      "id": "352fdef1",
+      "title": "‘ไข้เลือดออก’ ยังน่าห่วง! ภาคใต้ป่วยพุ่ง 1.7 เท่า จ่อทบทวนทฤษฎี-มาตรการคุมโรค",
+      "summary": "กองระบาดวิทยา กรมควบคุมโรค เตือนสถานการณ์ไข้เลือดออกยังน่าห่วง โดยข้อมูลถึงวันที่ 7 พ.ย. พบผู้ป่วยสูงกว่า 34,000 ราย และผู้เสียชีวิต 47 ราย ส่วนใหญ่เป็นผู้สูงอายุ ภาคใต้มียอดผู้ป่วยเพิ่มขึ้น 1.7 เท่า และจะทบทวนมาตรการควบคุมโรค",
+      "url": "https://www.hfocus.org/content/2026/11/40264",
+      "source": "Hfocus",
+      "published_at": "2026-11-14T07:57:50Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นสาธารณสุขที่กระทบประชาชนทั่วไป แต่ไม่ใช่มาตรการสวัสดิการโดยตรง"
+    },
+    {
+      "id": "cc3fd093",
+      "title": "ประมงหวั่นขาดแคลนแรงงาน เร่งต่อใบอนุญาต 3 สัญชาติ ขยายถึงสิ้นปี’70",
+      "summary": "กรมประมงเร่งให้ผู้ประกอบการประมงต่ออายุใบอนุญาตทำงานแรงงานสัญชาติลาว เมียนมา และเวียดนาม ก่อนหมดอายุ 11 ธันวาคม 2569 และยื่นขอขยายหนังสือคนประจำเรือ (Seabook) ถึง 11 ธันวาคม 2570 หากใบอนุญาตหมดอายุ Seabook จะสิ้นสภาพทันที หวั่นกระทบภาคการประมง",
+      "url": "https://www.prachachat.net/economic/local-economy/news-2096747",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-15T05:30:19Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "เกี่ยวข้องกับแรงงานและกำหนดเวลา แต่เป็นประเด็นภาคธุรกิจ"
+    },
+    {
+      "id": "f92ab62b",
+      "title": "สกลธี นำทีม ปชป. ลุย ร่มเกล้า จี้ กทม. เร่งเยียวยาน้ำท่วม พร้อมจับมือชาวบ้านฟ้องศาลปกครอง",
+      "summary": "สกลธี นำทีมพรรคประชาธิปัตย์ลงพื้นที่ร่มเกล้า เรียกร้องให้กรุงเทพมหานครเร่งเยียวยาน้ำท่วม พร้อมร่วมกับชาวบ้านเตรียมฟ้องศาลปกครอง โดยเป็นการติดตามการเยียวยาในพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tQm54N2JKbkl6ODFWQkc2bWZOcFRqa3N3MDQ5MFdmTG9FbEsyeGRFT0w0UnZxdElmVzVRYVZ3QnkybHVHWFBnZHVwd1MxeFk2Yk1NQlFrSkxYOXRB?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-14T13:44:19Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "รายงานการเคลื่อนไหวการเมืองในพื้นที่ที่เกี่ยวข้องกับเยียวยา"
+    },
+    {
+      "id": "50212600",
+      "title": "UPDATE: เซีย สส.ประชาชน ชี้รัฐหลงประเด็นปม ‘3 ขอ’ ไม่โทษผู้ประกันตนเดือดร้อน แต่ต้องแก้ค่าครองชีพ-ปฏิรูปกองทุน ไม่ใช่ดึงเงินอนาคตมาใช้ วันนี้ (15 พฤศจิกายน) เซีย จำปาทอง สส.บัญชีรายชื่อ พรรคประชาชน กล่าวถึงการเสนอร่างพระราชบัญญัติประกันสังคม (ฉบับที่ ...) พ.ศ. ... ของค",
+      "summary": "เซีย จำปาทอง สส.บัญชีรายชื่อ พรรคประชาชน กล่าวว่ารัฐหลงประเด็นกรณี 3 ขอ ของผู้ประกันตน โดยไม่ได้โทษผู้ประกันตนที่เดือดร้อน แต่เห็นว่าควรแก้ปัญหาค่าครองชีพและปฏิรูปกองทุนประกันสังคม แทนการดึงเงินในอนาคตมาใช้ พร้อมเสนอร่างพระราชบัญญัติประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMimwdBVV95cUxPWFJVb3ZQWFAyeUNkN2NaY29vVU5uUV82S25UZWYtTXFPaVllWjZuRFBmTjVfeDdaVXUtc1pGUVVidkVFQTRIbVBjbTkxNmZLVG1QM1lFcmsyUnZnMWNtVUJWZHhKaF92UjZKMWhfMEVfYW1jcVF2NDdfRDRWVVc3Y0w3MU9mcDQ2Nnc4RHhLVWtpRTdpUTU4clFBdXhreE5JRlhseFhRX2pfT05pLXdUcnZNd3kyTE04U3lKZzZKQkNvNFlyRDZNYi15a0hkQTZ1U3BLd0w2X3hjMHVqb1RUcUhJUFNtdklaaVh0ZmJzRDNsSC1XeHd6bmFzY05iLTZwV21fLUlHeXdEb0UwRXdDLXNBdDQtc3RMczRIeE5ZQkM4NDVOVjVCelBTVG91dXlkaGFhanhySE1zSjhJRUt6VmxNbXd5WmlIWDR6RS0tM2dmNGJJRE1GZnpqUUVkRFhYTkNUV0NNb1FvOGJQMHJKY1NUU0lhRnk3ZVZabDFQdEVjdG9QT0F4SU0xaEZBU2ZhVGZPVHFLSGJzNllLcXVuRGtMbnJsbHdpenZwUXJRLXcwbVJreVAzamFKanRCR2dJZ0ZIb1d0c2dnaVhQdFo5OXg0dFNIS0VkV2tSTkdBaGNWRFVJdC1CVnlyWm9abmlxVUszaFhWRVdsbnRvd0V2bFFwUWI5YVhPRE0yUmk2NEo1WTNNYVJWcW13MDAzczJEZldJQ1FDMDdEUXRtLTgxczBTU1JfckVEYXdWcmVUX1dja2pmNzJrX3h3XzY0bjd1U2hCQkhSNkhtUEkwbGtZS2tDdURkSVFlWWYzaXg5cXlUVEQyY2x0NUZlSXN6MWtqcVV5NXhNZTI4d2Nka0tXa1dGdGpLMVVvMmpLUHlydGN6UjNWZHhjSUNIVGMwdHBEb2o1VTlMQXVQc0tLTGwzQ295Tl96ZDlmQ2tQa1o2bEU1ZGpVd2t5RzN1c1BadlN6Z0FmYl9OMnAxVHhiczM4eUNXWk9YQ0xRdUwzeWpiaDRkb2t5NXl1RUZhQ1lDTE5DS2tHMXVvYkY5YlJJVHZ1M29Od2I4bm1RSHJDSnVTb21YYlI2ZGhxbjlHSnlralc1SEp3V1Q3TVhHT054eHJpeEMtbzMzam1uWFhPdnNPc1ZFOVhqdEViMFAyNjVpZlUxUlhpMTdpcVA1MWpmczJkdE93aXpGekUwTWVqLUVvcEtMWkJhTmZ1UDdxRQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-15T04:13:04Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ความเห็นทางการเมืองเกี่ยวกับกองทุนประกันสังคม"
+    },
+    {
+      "id": "733c8ec6",
+      "title": "มูลนิธิป่อเต็กตึ๊ง มอบของขวัญ ส่งกำลังใจแก่ผู้พิการ ในงานวันคนพิการ ครั้งที่ 57",
+      "summary": "มูลนิธิป่อเต็กตึ๊งมอบของขวัญและให้กำลังใจแก่ผู้พิการ ในงานวันคนพิการ ครั้งที่ 57 ประจำปี 2569 ที่บริษัท โทรคมนาคมแห่งชาติ จำกัด (มหาชน) สำนักงานแจ้งวัฒนะ เขตหลักสี่ กรุงเทพฯ โดยมีสภาสังคมสงเคราะห์ฯ ร่วมงาน",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10472967",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-15T04:01:38Z",
+      "category": "disability",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "กิจกรรมสงเคราะห์ผู้พิการ แต่เป็นงานของภาคเอกชน ไม่ใช่นโยบายรัฐ"
+    },
+    {
+      "id": "c029579b",
+      "title": "ปชป.จี้ กทม. ชี้แจงความคืบหน้าเงินเยียวยาน้ำท่วมหกส่วนเครื่องมืออาชีพล่าช้า",
+      "summary": "พรรคประชาธิปัตย์เรียกร้องให้กรุงเทพมหานครชี้แจงความคืบหน้าของเงินเยียวยาผู้ประสบอุทกภัยที่ล่าช้า ซึ่งเป็นการตั้งข้อสังเกตจากฝ่ายการเมืองต่อการดำเนินงานของหน่วยงาน",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jQUpFN0p6S3B2SUJ6ekpYcHkzTFhyaWlBbjVCcmV5TUNMOElmS2wtWUZZME9MMTVSelp2Q1hMOXhDTWY5eGdhTEwwdm1yd3g3Q25TWWJVZmR4Uk9neUdLVlRXYk1uOUV3QzBSTw?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-14T12:17:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข่าวการเมืองติดตามผล ไม่ใช่มาตรการใหม่"
+    },
+    {
+      "id": "fecdc9ad",
+      "title": "ผ่าลึกกฎหมายลูก 18 ฉบับ รับ ‘พ.ร.บ.ประกันสังคม’ ฉบับใหม่",
+      "summary": "มีการพิจารณากฎหมายลูกจำนวน 18 ฉบับเพื่อรองรับพระราชบัญญัติประกันสังคมฉบับใหม่ ข้อมูลที่ได้รับยังไม่ระบุสาระสำคัญของการแก้ไขหรือผลต่อผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sc1Y5Q2xDcDJRWE1WcndJdGlNYXNYdGRPMk1HdHplS0ZfdXFmR0dEeXdCUmU2WjN5MkxtZ3FQbFktblhjbWJFTEtqbnRXUEdGeVdIUmZR?oc=5",
+      "source": "thansettakij",
+      "published_at": "2026-11-14T11:08:00Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับระบบประกันสังคม แต่ข้อมูลยังจำกัด"
+    },
+    {
+      "id": "a7c85e82",
+      "title": "เด็กเกิดน้อยไม่ใช่แค่วิกฤตสุขภาพ! กรมอนามัยชี้กระทบเศรษฐกิจ จับตาอีก 5-10 ปีเห็นผล",
+      "summary": "อธิบดีกรมอนามัยชี้ว่าภาวะเด็กเกิดน้อยจะกระทบทั้งผลิตภัณฑ์มวลรวมภายในประเทศและกำลังแรงงาน ขณะที่ภาระการดูแลผู้สูงอายุเพิ่มขึ้น กรมฯ ดำเนินโครงการ PCC Connect เพื่อหนุนคู่รักเตรียมพร้อมมีบุตร ตั้งเป้าอัตราเจริญพันธุ์รวม 1.5-2 และคาดว่าจะเห็นผลภายใน 5-10 ปี",
+      "url": "https://www.hfocus.org/content/2026/11/40269",
+      "source": "Hfocus",
+      "published_at": "2026-11-15T03:40:56Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ประเด็นประชากรระยะยาว เกี่ยวข้องกับสวัสดิการทางอ้อม"
+    },
+    {
+      "id": "fb4e1ace",
+      "title": "‘ซินเจนทา-GIZ’ ลุยอีสาน เพิ่มมูลค่าข้าว ปั้นชาวนามืออาชีพ",
+      "summary": "บริษัท ซินเจนทา ครอป โปรเทคชั่น ร่วมกับองค์กรความร่วมมือระหว่างประเทศเยอรมนี GIZ ดำเนินโครงการในภาคตะวันออกเฉียงเหนือ เพื่อเพิ่มมูลค่าข้าวและพัฒนาเกษตรกรผู้ปลูกข้าวให้เป็นชาวนามืออาชีพ โดยเน้นการจัดการแปลงนาอย่างเหมาะสม",
+      "url": "https://www.prachachat.net/economic/news-2095286",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-15T05:58:19Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "โครงการพัฒนาเกษตรกรรายย่อย แต่เป็นข่าวความร่วมมือเอกชน"
+    },
+    {
+      "id": "7f650229",
+      "title": "โมเดลราชพิพัฒน์ ความหวังใหม่ระบบสุขภาพปฐมภูมิ ลดปัญหาใบส่งตัวกทม.",
+      "summary": "โรงพยาบาลราชพิพัฒน์และ สปสช. เขต 13 กรุงเทพมหานคร ขับเคลื่อนโมเดลการบริหารระบบสุขภาพปฐมภูมิโซนพื้นที่ 1 เพื่อลดปัญหาการขอใบส่งตัวของผู้ป่วยในกรุงเทพมหานคร",
+      "url": "https://www.hfocus.org/content/2026/11/40270",
+      "source": "Hfocus",
+      "published_at": "2026-11-15T05:21:21Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวกับการเข้าถึงบริการสุขภาพ แต่เป็นข้อมูลเชิงนโยบายเบื้องต้น"
+    },
+    {
+      "id": "acce0f6f",
+      "title": "ชง ครม.เคาะเป้าเงินเฟ้อปี’70 ธปท.คงกรอบ 1-3%-คาดน้ำมันลดลง",
+      "summary": "กระทรวงการคลังเตรียมเสนอคณะรัฐมนตรีในวันที่ 17 พฤศจิกายนนี้ เพื่อให้คงกรอบเป้าหมายอัตราเงินเฟ้อปี 2570 ไว้ที่ร้อยละ 1-3 ตามข้อเสนอของธนาคารแห่งประเทศไทย โดยคาดการณ์ว่าเงินเฟ้อจะปรับลงตั้งแต่ไตรมาสที่ 2 และราคาน้ำมันเฉลี่ยอยู่ที่ 74 ดอลลาร์สหรัฐต่อบาร์เรล",
+      "url": "https://www.prachachat.net/finance/news-2096088",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-15T01:00:35Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ภาพรวมเงินเฟ้อมีผลทางอ้อมต่อค่าครองชีพ"
+    }
+  ]
+}
