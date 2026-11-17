@@ -1,0 +1,715 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T08:50:33Z",
+  "window": {
+    "from": "2026-11-16T06:49:31Z",
+    "to": "2026-11-17T08:49:31Z"
+  },
+  "stats": {
+    "fetched": 229,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 20311,
+    "ai_output_tokens": 15223,
+    "cost_thb": 0.35,
+    "runs": 1,
+    "kept": 46,
+    "eastern": 2,
+    "national": 44,
+    "new": 45,
+    "followups": 1,
+    "sources": 30
+  },
+  "items": [
+    {
+      "id": "5104ec72",
+      "title": "ปภ.โอนเพิ่มวันนี้ เงินเยียวยาน้ำท่วม 2569 เช็กด่วน กทม.-17 จว. 26,813 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาอุทกภัยปี 2569 เพิ่มเติมในวันนี้ ให้แก่ครัวเรือนผู้ประสบภัยในกรุงเทพมหานครและ 17 จังหวัด รวม 26,813 ครัวเรือน ผู้ที่ตรวจสอบสิทธิและรายละเอียดการรับเงินได้ตามช่องทางที่ทางราชการกำหนด",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VNWMxMEZUYk4yVTdaOWd0Nkd2N21JR1Z5eUJXZEdValFfcENJTzNHQjZGcHhSM3NXYWZURjRTcFBqLTFLQ0VwSGVKNTVfcVZCMDU0Z3JTNmJTdjdM?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-17T04:35:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 92,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรงและมีจำนวนครัวเรือนชัดเจน"
+    },
+    {
+      "id": "043c7f5e",
+      "title": "เปิด 18 จังหวัด รับเงินเยียวยาน้ำท่วม 2569 รัฐโอนเข้าบัญชี 17 พ.ย. 69",
+      "summary": "มีการเปิดให้ 18 จังหวัดรับเงินเยียวยาอุทกภัยปี 2569 โดยรัฐโอนเงินเข้าบัญชีผู้มีสิทธิในวันที่ 17 พฤศจิกายน 2569 ผู้ประสบภัยสามารถตรวจสอบสถานะการรับเงินตามช่องทางที่ทางราชการกำหนด",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yNE0wcy1FUFRVME9WVUYxTDRzam1YVjV5bF9vYmVNSnZ5MmxJeGdtTndHUTZLRWhEOWdpbEN3Z2xSX2xkcks2TE5YWUE?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-17T06:48:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "การโอนเงินเยียวยาเข้าบัญชีประชาชนในวันที่ระบุ"
+    },
+    {
+      "id": "3c23a12c",
+      "title": "เงินเยียวยาน้ำท่วม 2569 วันนี้ ปภ.-ออมสิน โอนเพิ่มล่าสุดอีก 26,813 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) และธนาคารออมสิน โอนเงินเยียวยาผู้ประสบอุทกภัยปี 2569 เพิ่มเติมอีก 26,813 ครัวเรือน ในวันที่ 17 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOa2VKZTR2dmhxX3VGVC1DdklQaGg5aHlsb084cUhNQXdOV3F5ZHpyRWN0aGh2dVlQMjNCbGpKYUw0STA4eEtXUVNWbU80bTZ1ZVl4UmhETVU?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-11-17T07:30:02Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนจริงพร้อมจำนวนครัวเรือน"
+    },
+    {
+      "id": "befa4810",
+      "title": "พังงาอนุมัติเยียวยาน้ำท่วมรอบ 2 อีก 63 ครัวเรือน จ่ายรายละ 9,000 บาท",
+      "summary": "จังหวัดพังงาอนุมัติการเยียวยาน้ำท่วมรอบที่ 2 จำนวน 63 ครัวเรือน โดยจ่ายเงินเยียวยาให้ครัวเรือนละ 9,000 บาท ตามรายงานของสยามรัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GRm1HQUhfOUREOVUyZE5IaHEwMlZuSzAyQmlxYkVGajN4MlM0UWZYZS0tckVuOFZ1ZHJMak84eXRhZmdnNFNNU1JEajBjY0E?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-11-16T13:29:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "พังงา"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "จ่ายเงินเยียวยาจริงแก่ครัวเรือนประสบภัย"
+    },
+    {
+      "id": "615510eb",
+      "title": "'จุลพันธ์' เผยดันพ.ร.บ.ประกันสังคม 4 ร่างเข้าสภาฯ พรุ่งนี้ ย้ำปม '3 ขอ' คืนสิทธิ์ผู้ประกันตน",
+      "summary": "นายจุลพันธ์ เปิดเผยว่าจะผลักดันร่าง พ.ร.บ.ประกันสังคม จำนวน 4 ฉบับเข้าสู่สภาผู้แทนราษฎรในวันพรุ่งนี้ โดยเน้นประเด็น '3 ขอ' เพื่อคืนสิทธิให้แก่ผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EZmV4b3ozcEZxNzZlazdBUTdicy1Ra0ZUTmVRY2I4TFZIN1pJWW13RHpSLUR5Zmw5bko2OFkwZFFjZDJnTXRDZ2Q2TGpaVUpPdUZ5UDRiOGk3dTFMaHdjWVB5NUNYZWF4dW9NbGhB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-17T07:55:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เกี่ยวข้องกับสิทธิผู้ประกันตนและมีกำหนดการเข้าสภาที่ชัดเจน"
+    },
+    {
+      "id": "8b2ae6f0",
+      "title": "UPDATE: จุลพันธ์เผย พ.ร.บ.ประกันสังคม 4 ร่างเข้าสภาฯ พรุ่งนี้ ย้ำปม ‘3 ขอ’ คืนสิทธิ์ผู้ประกันตน-เร่งสอบร้องเรียน 2 รายชื่อบอร์ด สปส.ฯ วันนี้ (17 พฤศจิกายน) ที่ทำเนียบรัฐบาล จุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน ให้สัมภาษณ์ถึงความคืบหน้าการเสนอร่างพระราชบัญญัติ (พ.ร.บ.)",
+      "summary": "นายจุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน ให้สัมภาษณ์ที่ทำเนียบรัฐบาลเกี่ยวกับความคืบหน้าการเสนอร่าง พ.ร.บ.ประกันสังคม จำนวน 4 ร่าง เข้าสภาฯ ในวันรุ่งขึ้น โดยย้ำเรื่องมาตรการ 3 ขอ เพื่อคืนสิทธิ์ผู้ประกันตน และเร่งสอบสวนข้อร้องเรียนเกี่ยวกับคุณสมบัติของกรรมการบอร์ดสำนักงานประกันสังคม 2 ราย",
+      "url": "https://news.google.com/rss/articles/CBMi-wZBVV95cUxNN2ozQkt0SEF4aVUzc3JLdi0tWjhKYldyUUtfWnJGamJ0eklxcjVZUm1JaXlrRk9sLXFFemZLNHctNVplUXQ1aHppVHNtdHNtb0paaUNIUWI3TkZZSm9JaEtfSlBsQlBvRUh2dmhLb0xSVTh2Nl9KWUxyNmhRcGFWdEJrd1JGSkJUbU4xbnM2dXlSeEVZUmVrQnBhd1RlM1R6d2FuVV91MURxV3RkT0dWSXlVODdvRF9mYkR5MlhSN1J3al96V1N6T1YxbFM3TjYyNE1qODdEVjV6UVNHRGFKWTRmSFlodUxHVHpicnJNMU1mUnhLcUxmVDVqSktmUmNGZHJUZ1d1YUMwQVZTSEtWaER4eG94Wk9uLWNPRnZDWHNlMjNNZUdwN1AzbktZSTF5bU43WXY3WlVGYWRYb2JRSjlfb1dBT1d4Q3BmN0FIenFsbDgybmFkM3pac0xMSGVUQ291V1daZ2xmdDZVVzBseEVPWDIzSEFhblJUU1phTlFXcDNKczFtZ0E3elVoM211RVU1d1I1Nk84UFZlU2JqYl9PdU0zUUJHckNBZG1NNWlvV0ZpM2QzblYxQUQ3WHVmOU42aVJOUTNhTm9xc1EwRUlFUkozQ0lsQjFjdGdTaFRSRG1tM1BGcnVHNDRaVE50WThYanB1NmhPcDZKNnpFeWtkT0hHakgwbnNWbzkzTDJ5WTdCNXZELXlXR2dRSi1lMmZ1dHI2d1hlOF9jREtVWENvMHAzUGt1ZjJfNFdTcmcxdkNzT2xkNW1lb1hFMk5QYzRab28wYzRmMnJPZ1FXRDdRb0dQV1hLYWZWek5OR1pvMzZmdTNGTURiN1MxSy1oTGJfcmJya2NpSzdNSFo2Y1FIVHBJa0FxSDdERDlJTENzSEE5LUU4bUpYWko2NlFxUVZqM25WcVRUc3RjWnFheVJBUUx0dVQ2VE9TZjRqLWhrU0tVbl8yM0E2RVkxcmlDemJkVExvS3RSOTR5TXFtODZodzhlMXdrR0cwRkpnNmwwNE52WkJFRUVOX0hsZFM2VEttVE1Qb0d5cFNHaGlDQnBoNmtUZXRmVnk0NHkzd2FvNVhDeUw0RDY0ZXRTcHBKc3JsbVg4Z3BUS2h5X3RNWW40QUdtNXRzNkxrd1Z4bEpSemlHSlRaSi1fcFU3VEJrdjRiUmxGalNRSEE?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T03:16:22Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ร่างกฎหมายระดับชาติที่กระทบสิทธิผู้ประกันตน"
+    },
+    {
+      "id": "c614f7a6",
+      "title": "\"บุณยกร\" แจงปมแก้ พ.ร.บ.ประกันสังคม หลัง \"เซีย\" วิจารณ์รัฐอับจนหนทาง เปิดให้ผู้ประกันตน เลือกบำเหน็จ-บำนาญ",
+      "summary": "นายบุณยกร ชี้แจงกรณีการแก้ไข พ.ร.บ.ประกันสังคม หลังมีการวิจารณ์ว่ารัฐไม่มีทางเลือก โดยระบุว่าการแก้ไขครั้งนี้เปิดให้ผู้ประกันตนสามารถเลือกรับเงินเป็นบำเหน็จหรือบำนาญได้ ซึ่งเป็นการเพิ่มทางเลือกให้แรงงานในระบบประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nRnNPN2Zic05TNFF0eE82OVRCMGVrVkhETW1nYW5ZSm5YTVZzUUtGbzVrNWZLalJvaTdrc3JldWhyUkdFWmZfYU9HdFlhb0FlYmVhZWZyVQ?oc=5",
+      "source": "thailandplus",
+      "published_at": "2026-11-16T12:02:14Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ผลต่อสิทธิผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "7e36465d",
+      "title": "‘สุริยะ’ นำทีม เร่งเยียวยาน้ำท่วมราชบุรี ฟื้นฟูเกษตรกรหลังน้ำลด จ่อเสนอ ครม. ช่วยเพิ่ม 5,000 บาทต่อครัวเรือน วันที่ 16 พฤศจิกายน 2569 นายสุริยะ จึงรุ่งเรืองกิจ รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ ลงพื้นที่ ติดตามการขับเคลื่อนนโยบายภาคการเกษตร พบปะเกษตรกร และมอบปัจจัยการ",
+      "summary": "รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ ลงพื้นที่ราชบุรีเพื่อเร่งเยียวยาผู้ประสบอุทกภัยและฟื้นฟูเกษตรกรหลังน้ำลด โดยจะเสนอคณะรัฐมนตรีให้เพิ่มเงินช่วยเหลือ 5,000 บาทต่อครัวเรือน เมื่อวันที่ 16 พฤศจิกายน 2569 พร้อมมอบปัจจัยการผลิตแก่เกษตรกร",
+      "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxPYXZra19vRkMtRXF5RVZNay1CUUtFcm9yR2pOeTk3d2F0RGUwck5hSk9NdEJXZVIzaUdjdVFNSG1KT2lBeUNsOVRUTGlySWkxSHBuM2lZYVY0a3B2M1NNZ25JSk5tRDY2OWxSZlluQmRrNTBZcmwwcHBXbEpscVZqZEJWVmJrV0NlMTBURUNRUHVZeWk0cFF6YWM1Vm5OS1FEbU9wbGRGX1hWbWFaTVVsdzZjdkxrQXIwS0UyYnJDZER2TU9sZjQ1aUNlX2EyVDdIZEdCcktVRkZiVThnVmxERUlGcjdLaHpNTktxdXl3eTRWcTVtYlhVckN6VFRLUlc0c0xXbUlzYmxrREcyam5ST1FLYlgzTFFNdTFzcTNjVDhpRUNIU2s4YXVCdV9CT29jRWhCWWlGUjJJMnBoWnF5dlpoaTc0Z2pfRFotQ0Z3R3JiSWptcTNtSHZtWDZ3ZkNKaTBsVmVudVd3RlVGWm4taVZ6Znh2ajhrZDkwWm9RejNQT2tUM2xkTjF0QWFETHBTMlNNZ19LZGZuWEhoaHVXYkdCSmxBVHBTX2hfMlAtajMtQkdnRkYzTWxfLVNpdlg1NzZLYXRUekQtZUJfNlUtSEwyakVmSGRfSGlxMkc3d2pRcDN3STc1azdIM0x2NThtWnJnbnozVF9fR2hVSWhvLWJiZUppYS01UFFhR0h4cm5VRkVlTG5xSHRaaFEtYV9PT0tvMXo3MTYxcXlCTFJHZDVSR1RTZ3pnT3g0NnVWMzVidFIxTnRJVmZ5aDBpWHhsWlk4UmN4emRzMGpUSUZCeGJvbnFYeE45dnhwUDhYbzQxSlNLaHVtWjFpblllbjV4Zk9hY1FfRlFnSElHZFpjZVc5cmpfX2xVUzZnX05TZ2g1elNxMnZWZVpaTjFzNXdOTTQ1ZndPWFc4dXl3bk9VSTVWVWVkcy1FbV90SXZJTHlGUGRWT1lySTJvQXFsdkM0dk5DMTdHN21Md0FXQkVwcGFKN2NRbGRIU1gyb1Z5V0ItZ0Vlc0QyRTBucThpV0RCZFFoSk5qOERuZC1hX2lqZmNVSy1MWElpV1l3MG9NbEJMX0REQXVXN2xEU0xjVk9Tc19zWXJXMzZHVzZDaTE5N09scDkxSGNZRjVqa2sxVVh5ZVRleVZWZ1VMUk1iZktIdS12c0FXSnRwLTM0WTg0MkVTTU5UWjYtM0U1bXdIUnRrZE11cy1pTmdkamxaQmU2dGYyd3JJU3otZFZmSUY2eVJ0QUtNNTk3S3VpMFVUUU1UaUFSMkVXeDBQWWJtdUpEWlRfcmJ5T2dBYWVLaHQ3Z0VTTkpvOUEwZkVZV1FIXzk?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-16T11:20:11Z",
+      "category": "disaster",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีจำนวนเงินเยียวยาและพื้นที่ชัดเจน ยังรอการอนุมัติ"
+    },
+    {
+      "id": "4dc85683",
+      "title": "วิธีลงทะเบียนลดค่าไฟ-ค่าน้ำ บัตรสวัสดิการแห่งรัฐปี 2569 รายใหม่",
+      "summary": "เผยแพร่วิธีลงทะเบียนสำหรับผู้มีสิทธิรายใหม่ในโครงการบัตรสวัสดิการแห่งรัฐ ปี 2569 เพื่อขอรับสิทธิลดค่าไฟและค่าน้ำ ข้อมูลในข่าวระบุเฉพาะแนวทางการลงทะเบียนโดยสังเขป รายละเอียดขั้นตอน เงื่อนไข และกำหนดเวลาไม่ปรากฏในเนื้อหาที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QLTlyc05qT3hZMkk4MEI4TzNRYWhHV0Q4eG9jZEJEby1kbmhwY1JqWG1JR2FFcGdCX0lpbDBEcGtUaXpuZjMwUmJ4M0RvNjRkTE5Sb05R?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-16T07:15:59Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการสวัสดิการที่เกี่ยวข้องกับประชาชนโดยตรง",
+      "first_seen": "2026-11-16"
+    },
+    {
+      "id": "de69c976",
+      "title": "\"จุลพันธ์\" จ่อชงร่าง พ.ร.บ.ประกันสังคม เข้าสภาฯ 18 พ.ย.นี้ ย้ำมาตรการ \"3 ขอ\" ช่วยเพิ่มทางเลือกให้แรงงาน : อินโฟเควสท์",
+      "summary": "นายจุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน เตรียมเสนอร่าง พ.ร.บ.ประกันสังคมต่อสภาผู้แทนราษฎรในวันที่ 18 พฤศจิกายน โดยย้ำมาตรการ 3 ขอ ซึ่งมุ่งเพิ่มทางเลือกให้แรงงานในระบบประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aTlEybnk3aDU4OTFnVEFQRUFGTGd4a0pwdHFaNGd3SlVackFxcE1xMng3Y0ZvZUJOZldUWl9fRTZQQnBDcFQyNVpNcE44eTJh?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-11-17T04:40:48Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 83,
+      "why": "ร่างกฎหมายระดับชาติ มีกำหนดวันเสนอเข้าสภาชัดเจน"
+    },
+    {
+      "id": "0d612f86",
+      "title": "บัตรสวัสดิการแห่งรัฐ 2569 เช็กสิทธิ 300 บาท น้ำไฟ ค่าเดินทาง",
+      "summary": "เสนอการตรวจสอบสิทธิบัตรสวัสดิการแห่งรัฐ ปี 2569 ซึ่งรวมวงเงินช่วยเหลือ 300 บาท สำหรับค่าน้ำ ค่าไฟ และค่าเดินทาง ข้อมูลในข่าวไม่ระบุรายละเอียดเพิ่มเติมเกี่ยวกับเงื่อนไขการใช้จ่ายหรือระยะเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OclJSVnhwMF9HMUd6cjlPYzJHYmxqUmtHQWc2Z3ZKNTJ5TEpaOWRqTXlsd09xMXQ0cVBDX0hLMVkxcXpNeFJVcWl3eEgtX0dPdXhQUGtR?oc=5",
+      "source": "TrueID",
+      "published_at": "2026-11-17T06:22:30Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มีวงเงินช่วยเหลือและการตรวจสอบสิทธิที่ชัดเจน"
+    },
+    {
+      "id": "f506e9f9",
+      "title": "บอร์ด สปสช. ปรับจ่ายบริการเอชไอวีปี 70 ตรวจเร็ว รับยาต้านไวรัสใน 7 วัน",
+      "summary": "บอร์ด สปสช. เห็นชอบปรับการจ่ายค่าบริการเอชไอวีปีงบประมาณ 2570 โดยผู้ตรวจพบเชื้อจะได้รับยาต้านไวรัสภายใน 7 วัน และผู้มีความเสี่ยงที่ไม่พบเชื้อเข้าถึงยา PrEP ได้ ประกาศเมื่อวันที่ 17 พฤศจิกายน 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40285",
+      "source": "Hfocus",
+      "published_at": "2026-11-17T04:32:43Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการสุขภาพระดับชาติ มีกรอบเวลาและผลต่อประชาชนชัดเจน"
+    },
+    {
+      "id": "454d44ff",
+      "title": "‘สธ.-สปสช.’ เดินหน้า ‘ระบบปฐมภูมิ’ ปรับรูปแบบการจ่ายเงินใหม่ เริ่ม 1 ธ.ค. 69 นี้ !",
+      "summary": "สำนักงานปลัดกระทรวงสาธารณสุขและ สปสช. เดินหน้าระบบปฐมภูมิ โดยปรับรูปแบบการจ่ายเงินใหม่ เริ่มบังคับใช้ตั้งแต่วันที่ 1 ธันวาคม 2569",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zMEtjeTVZVWhDeU9TenEtZnhhbF8xSDM5OHlPenA4RXN5dTl6T0h5TlNjRzVHVTBOTGhHamVzU0tYeGkxNlZadnlzeG16bm90VUxVTUJHSmw0MDg?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-16T13:34:41Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการใหม่มีวันเริ่มชัดเจนและกระทบระบบบริการสุขภาพ"
+    },
+    {
+      "id": "f8db7895",
+      "title": "จับตาเกมยื้อบอร์ดประกันสังคม! \"ษัษฐรัมย์\" บุก สปส.ปมร้องเรียน \"บอร์ดชุดใหม่\" หวั่นยื้อเวลาให้ \"บอร์ดรักษาการ\" เคาะงบปี 2570",
+      "summary": "มีการยื่นเรื่องร้องเรียนต่อสำนักงานประกันสังคม (สปส.) เกี่ยวกับการดำเนินงานของคณะกรรมการประกันสังคมชุดใหม่ ซึ่งอาจส่งผลให้คณะกรรมการรักษาการเป็นผู้พิจารณางบประมาณประจำปี 2570 ที่เกี่ยวข้องกับสิทธิผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNXZ4eVVSaVVNZXR2UXY4SEJIamNGWnktZFVRS20temJiTEVWTmV2N29zWExaQjBGSWVrVS1LV3hXR3otd3FCS3pib09aZUJJR0FZeF9pb1hqYU0?oc=5",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "published_at": "2026-11-16T08:35:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "กระทบการบริหารกองทุนประกันสังคมและงบประมาณที่เกี่ยวข้องกับผู้ประกันตน"
+    },
+    {
+      "id": "f4f2056e",
+      "title": "“สุริยะ” ชงงบฯกลางเยียวยาน้ำท่วมเพิ่ม 5,000 บาทต่อราย เร่งฟื้นฟูเกษตรกร",
+      "summary": "รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ เสนอของบประมาณกลางเพิ่มเติมเพื่อเยียวยาผู้ประสบอุทกภัยรายละ 5,000 บาท และเร่งฟื้นฟูเกษตรกร ข่าวนี้ยังไม่ระบุจำนวนผู้รับสิทธิทั้งหมดหรือกำหนดเวลาจ่ายเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41SEw3ZnlXQVktTVJFcThyeVpyendyYlM5TTZDVnV6elVvaFVfazFKRUtWOTkxMGdiZ2dMOEhJd1VxQWd5LUxXSnBlLWJpT2RfNnlVcW9FaGx0ZXA2?oc=5",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-16T08:23:13Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เป็นมาตรการเงินช่วยเหลือที่มีจำนวนเงินชัดเจน แต่ยังอยู่ในขั้นเสนอ"
+    },
+    {
+      "id": "b1071f1f",
+      "title": "หาดใหญ่ | เริ่มเดินหน้าบ้านมั่นคง ยกเสาเอก โครงการช่วยเหลือ 41 ครัวเรือน แก้ปัญหาที่อยู่อาศัยผู้ได้รับผลกระทบจากการพัฒนาระบบราง",
+      "summary": "โครงการบ้านมั่นคงในพื้นที่หาดใหญ่ เริ่มดำเนินการยกเสาเอกแล้ว เพื่อช่วยเหลือ 41 ครัวเรือนที่ได้รับผลกระทบจากการพัฒนาระบบราง ซึ่งเป็นการแก้ปัญหาที่อยู่อาศัยของผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cEpYTS1Pa2FTSFdCeTI2aXhsTDBRWk1GSmpkSTJHWDlQaHhibFVOWW5FaEVHbmJ6VWN1X3dzVDRZaDk1TS1GSXZQVWxSalZLb2k0X1ZUTTh6Zw?oc=5",
+      "source": "HATYAI FOCUS",
+      "published_at": "2026-11-17T05:24:13Z",
+      "category": "housing",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "โครงการช่วยเหลือที่อยู่อาศัยที่มีผลต่อครัวเรือนจริง"
+    },
+    {
+      "id": "3c110352",
+      "title": "“จุลพันธ์” ดัน พ.ร.บ.ประกันสังคม 4 ร่างเข้าสภาฯ 18 พ.ย. ย้ำ “3 ขอ” เพิ่มสิทธิผู้ประกันตน เร่งสอบปมร้องเรียนบอร์ด สปส.",
+      "summary": "นายจุลพันธ์ ผลักดันร่าง พ.ร.บ.ประกันสังคม 4 ฉบับเข้าสภาในวันที่ 18 พฤศจิกายน และย้ำนโยบาย 3 ข้อเพื่อเพิ่มสิทธิผู้ประกันตน พร้อมเร่งสอบปัญหาร้องเรียนเกี่ยวกับบอร์ด สปส.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sdEFNYzVqLWhFcU1aOUh0Wm9VMU9vSjJZRWZPRU0ya0owWGFDMjhvekJTamRhSDZpdEhicnJMOUdXeHNJUmxzUmZVUHc0WmFNTDNCZWRR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-17T04:01:48Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ร่างกฎหมายประกันสังคมมีกำหนดวันเข้าสภาชัดเจน"
+    },
+    {
+      "id": "527a7b52",
+      "title": "จุลพันธ์เผย พ.ร.บ.ประกันสังคม 4 ร่างเข้าสภาฯ พรุ่งนี้ ย้ำปม ‘3 ขอ’ คืนสิทธิ์ผู้ประกันตน-เร่งสอบร้องเรียน 2 รายชื่อบอร์ด สปส.ฯ",
+      "summary": "นายจุลพันธ์ เผยว่าร่าง พ.ร.บ.ประกันสังคม 4 ฉบับจะเข้าสู่สภาในวันพรุ่งนี้ โดยเน้นประเด็น 3 ข้อ เพื่อคืนสิทธิผู้ประกันตน พร้อมเร่งตรวจสอบเรื่องร้องเรียนต่อรายชื่อกรรมการบอร์ด สปส. 2 ราย",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pQ2FwWnptVHFnQ1Z3RGc3cmJ1dHVBNUtsZW1yWTVCdDQ4cDFlRGZ5OGJDLUtySDZCdGJOQWg3ZDAxazBtMVZXaUo0cFIxRVRDUjNWaWwyX1FQalFwM3Jqam5HMmlfMFhEMGRNQ1R3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-17T03:29:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ร่างกฎหมายประกันสังคมที่กระทบสิทธิผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "ecb80c26",
+      "title": "เครือข่ายภาค ปชช. สงขลา ยื่นหนังสือค้าน ‘แก้ กม.บัตรทอง’ หวั่นจำกัดสิทธิ – เปิดช่องร่วมจ่าย",
+      "summary": "เครือข่ายภาคประชาชนจังหวัดสงขลายื่นหนังสือคัดค้านการแก้ไขกฎหมายบัตรทอง โดยมีความกังวลว่าจะจำกัดสิทธิการรักษาพยาบาลและเปิดช่องให้มีการร่วมจ่ายค่ารักษาพยาบาล",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2pjZm1LM2djU0dsc0tOZTVTeHpIUXo1SVQ1N1ctOXA2dTUyeERyNHRMRVJaclpmM2ZkTDJfUm9pTkpNZzEteXYzczJGSGVOZkVidW51Sy1wVEU?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-16T10:44:14Z",
+      "category": "health",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ข้อเสนอแก้กฎหมายบัตรทองกระทบผู้มีรายได้น้อยในพื้นที่"
+    },
+    {
+      "id": "984e908a",
+      "title": "เครือข่ายหลักประกันสุขภาพภาคประชาชนสงขลา ค้านแก้ กม.บัตรทอง",
+      "summary": "เครือข่ายหลักประกันสุขภาพภาคประชาชนจังหวัดสงขลาแสดงการคัดค้านการแก้ไขกฎหมายบัตรทอง โดยเห็นว่าจะส่งผลต่อสิทธิการเข้าถึงบริการสุขภาพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80OVVrNS1jT1Bad1RCaE9rWF9qWGlCWDRWa21QbFYtUUVhMFItMU5JOVd5T2RhaXRqMFh3NG9Hd28yVUtlWEhKQ1pkbDdOVzZ4ajkyQW9YUQ?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-11-16T08:52:18Z",
+      "category": "health",
+      "provinces": [
+        "สงขลา"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "การคัดค้านการแก้กฎหมายสวัสดิการสุขภาพในพื้นที่"
+    },
+    {
+      "id": "2731054b",
+      "title": "'จุลพันธ์' ดัน พ.ร.บ.ประกันสังคม 4 ร่าง เข้าสภาฯ พรุ่งนี้",
+      "summary": "นายจุลพันธ์ เสนอร่าง พ.ร.บ.ประกันสังคม จำนวน 4 ฉบับ เข้าสู่การพิจารณาของสภาผู้แทนราษฎรในวันพรุ่งนี้ ข่าวไม่ได้ระบุรายละเอียดของเนื้อหาในแต่ละร่าง",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZRnNBbWdpdUt1LW5UVUJrVDdWMF9UZTNLSk9hcjJteERqR0piUGpGbE40S1RsVlpBY0NuLXNTQlZWaW81Z3dNV1BGREtWcTUxbENrWkRlUXhaT3hJNmRxeW1vaENGWTNkTDFoZk1B?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-17T04:07:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีกำหนดเวลาเข้าสภาชัดเจน เกี่ยวกับสิทธิผู้ประกันตน"
+    },
+    {
+      "id": "be6028dd",
+      "title": "“สุริยะ” ลงพื้นที่ราชบุรี เร่งเยียวยาน้ำท่วมเกษตรกรกว่า 5,800 ราย ดันมะพร้าวน้ำหอม GAP Monkey Free Plus สู่ตลาดส่งออก",
+      "summary": "รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์ ลงพื้นที่ราชบุรีเพื่อเร่งเยียวยาเกษตรกรกว่า 5,800 ราย จากผลกระทบน้ำท่วม พร้อมส่งเสริมมะพร้าวน้ำหอมสายพันธุ์ GAP Monkey Free Plus สู่ตลาดส่งออก ข่าวไม่ระบุจำนวนเงินเยียวยาหรือระยะเวลาดำเนินการ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13dW9ydlY1bDJ0dnl4RGlIRmlFT0J3bzhzWTZBRkRlUE94SWh2NEpIa2lEZkVZYm1MTnpMSkFfaEhZOHBQcWpVRVBYQjd6bVdIM2I5TDhuQmR6dzdi?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-16T13:41:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ราชบุรี"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มีจำนวนผู้รับผลกระทบชัดเจน แต่ประเด็นส่งออกเป็นส่วนเสริม"
+    },
+    {
+      "id": "c51aafb4",
+      "title": "หัวอกชาวนาสุดช้ำ! สองผัวเมียบุรีรัมย์เตรียมขายควาย5ตัวใช้หนี้ ธ.ก.ส หลังนาข้าวเผชิญแล้งผลผลิตลดเกือบครึ่ง หลายรายต้องพึ่งกู้หนี้นอกระบบ",
+      "summary": "สองสามีภรรยาชาวนาในจังหวัดบุรีรัมย์เตรียมขายควาย 5 ตัวเพื่อนำเงินมาชำระหนี้ให้แก่ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) หลังผลผลิตข้าวในนาลดลงเกือบครึ่งจากภาวะภัยแล้ง ขณะที่หลายรายต้องพึ่งพาการกู้เงินนอกระบบ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsN1VzaVQ4VWpjeVgyVXBmSloyY0JTUlVrekNCeWNJTl9oQzVzWjUyTnROQk5TWnZzb19kYlBRV25SNkpkRXk2VWZVWWEzS3NrWDhGVjNnX3RNU3U5?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-17T06:40:00Z",
+      "category": "debt",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ผลกระทบต่อเกษตรกรรายย่อยในระดับพื้นที่"
+    },
+    {
+      "id": "9c1d64bf",
+      "title": "อัปเดตสิทธิประโยชน์บัตรสวัสดิการแห่งรัฐ ล่าสุดปี 2569",
+      "summary": "รายงานการปรับปรุงข้อมูลสิทธิประโยชน์ของบัตรสวัสดิการแห่งรัฐ ปี 2569 เป็นข้อมูลล่าสุดสำหรับผู้ถือบัตร เนื้อหาที่ได้รับไม่มีรายละเอียดรายการสิทธิหรือจำนวนเงินที่เปลี่ยนแปลง",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtUC1LZG1qNVRrTk9JOUNmdGRuM2U1NkRiUTk4a2tITXRvcDdaVXNYblVTdGo1X1lMX3pIaDM3SFVwNUQ0Y0RsdlZBaElveWdxUW1xUHlR?oc=5",
+      "source": "TrueID",
+      "published_at": "2026-11-17T06:25:15Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เป็นการอัปเดตสิทธิประโยชน์ มีรายละเอียดจำกัด"
+    },
+    {
+      "id": "754616c4",
+      "title": "ปชน.ทวงสัญญา จี้สภาฯ รับร่าง พ.ร.บ.ประกันสังคม ใช้ ร่าง ‘รักชนก’ เป็นร่างหลัก | The Reporters",
+      "summary": "พรรคประชาชนทวงสัญญาให้สภาผู้แทนราษฎรรับร่าง พ.ร.บ.ประกันสังคม โดยใช้ร่าง 'รักชนก' เป็นร่างหลักในการพิจารณา ตามที่ปรากฏในรายงานข่าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03QTZROXJMT0RwT2p2VTdFM28yUVgxcnRBT0I2ckdxdUVhMHF2NkZJVmxVUE9PdnVhVTRTdk01VnBLN3RscUFDWEVHaDlpMnFKaExabkF3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-16T09:24:13Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เป็นการติดตามกระบวนการนิติบัญญัติที่กระทบผู้ประกันตน"
+    },
+    {
+      "id": "b141cb8a",
+      "title": "“สว.กัลยา” จี้รัฐบาลเอาผิดโรงงานปล่อยน้ำเสียปนเปื้อนสารพิษ กระทบนาข้าวปราจีนบุรีนับหมื่นไร่ หวั่นชาวนา–ช้างป่าเสี่ยงอันตราย เร่งตรวจน้ำและเยียวยาผู้เสียหาย",
+      "summary": "สมาชิกวุฒิสภา กัลยา เรียกร้องให้รัฐบาลดำเนินการกับโรงงานที่ปล่อยน้ำเสียปนเปื้อนสารพิษ ซึ่งกระทบนาข้าวในปราจีนบุรีนับหมื่นไร่ พร้อมเสนอให้เร่งตรวจสอบคุณภาพน้ำและเยียวยาผู้เสียหาย โดยเฉพาะชาวนา",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UZFVhanJScS1zTFVpTkZ0djFrUGp2RUhOWWFSZjMyeE1nb2wxd2tTR2tkN2NKMHNSdG9PWmF5R0g3UVVvamFsb2NiUkFWN3c?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-11-17T08:47:32Z",
+      "category": "farmers",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "มีผลกระทบต่อเกษตรกร แต่เป็นข้อเรียกร้องทางการเมือง"
+    },
+    {
+      "id": "64b5488a",
+      "title": "รัฐบาลเตรียมแจกเงิน 10,000 บาท ให้กับผู้สูงอายุ 60 ปีขึ้นไป ในช่วงสิ้นปี 2569",
+      "summary": "มีรายงานว่ารัฐบาลเตรียมแจกเงิน 10,000 บาทให้แก่ผู้สูงอายุอายุ 60 ปีขึ้นไปในช่วงสิ้นปี 2569 เนื้อหาข่าวระบุเพียงหัวข้อและแหล่งที่มา ไม่มีรายละเอียดเกี่ยวกับเงื่อนไข วิธีการรับเงิน หรือหน่วยงานที่รับผิดชอบ จึงควรตรวจสอบจากแหล่งข้อมูลทางการก่อนเผยแพร่",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MlNtYy1QaWk4WWN5SUZIWUNHSEV2RWFUX2hGQk9kVndpUXlVUFRGZzhoSERHNWxvMHZ0eXp3M3BVWG9FbFlaX21McWNjelR3dUMxN1lpLVZyWGpUN2FSUDZOS2ZlVHlfTC1BeDl6cUE1bEk4Q0dz?oc=5",
+      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "published_at": "2026-11-17T07:00:03Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "มาตรการเงินช่วยเหลือผู้สูงอายุ แต่ข้อมูลยังไม่ชัดเจนและไม่มีแหล่งทางการยืนยัน"
+    },
+    {
+      "id": "a1dcd543",
+      "title": "สปส. ยืนยันมีคนยื่นค้านจริง! ร้องคุณสมบัติฝั่งผู้ประกันตน : 17-11-69 | iNN Viral #สปส. #บอร์ดประกันสังคม #ผู้ประกันตน #กระทรวงแรงงาน #ผลเลือกตั้ง #ไวรัล #innnews **อย่าลืม! กดถูกใจ กดติดตาม กดติดดาว เพจด้วยนะ จะได้ไม่พลาดโพสต์ของสำนักข่าว ไอ.เอ็น.เอ็น.",
+      "summary": "สำนักงานประกันสังคมยืนยันว่ามีผู้ยื่นคัดค้านจริงเกี่ยวกับคุณสมบัติของกรรมการฝ่ายผู้ประกันตนในบอร์ดประกันสังคม ซึ่งเป็นส่วนหนึ่งของการติดตามประเด็นร่าง พ.ร.บ.ประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMixgZBVV95cUxPaFM3OFpnUjIzdDNUUWduYTRyTFUxSml0TkJFWWZNR1h6ZjhvZ08xNGVmMEpZMm5GN2R2WDZRQkFQenZhdEhPd3Q1VnpqVkNhc3ZyS1NIb0FodkZpekRxVFcwSHRobDBseEhkdXJ0V3QyUGRFQk5DNm9Xa0xQbjBUMDFiUllKMXJzbC13c1JLXy1VNVVkUnZGdnN0d3EtWDhPclBvVkMzSVBINVd5Q3RTZFBBVENLcVdudndOekFrMThqbno1ckR5RFRsbFhIUkhCdkpMTEZmanhOb2VZRDJodFpTOFRxMjVhcXM4RkFCMWRrM1V5ZXZYRnNpUEU4RmFPaWdvdXdGU3JjcHUzWHRtclJiY2RYa2ZqUEJLVnk4amU0QTJMczdkRGswUG9kSFllOGtHYUY2b0dkaDYwYWtHZ0VzQy1rWU14b1Q0N2F1cFhzcE5KeEM0TmJ0TzI1QmJYWG0teV9sWWdaVXJRaXdBeVFod0hjdU9oTGItclR0MFFjS1NPazFIaUlCTHRaMGFOcktHZUV1QjcyVTlqV0tteERBb0xFd2wzX0lwQlZNcFlNOXJ0UEZGMUN1RFRrM29OWVN5dUgwdUxNWlQyOWRDNjYzU0NFb1FGRDg0X0llVzVWQjQwcDBoemwzeUpPRl9qOW5DQ1R5elk3SjBnVnBBYUZTbTVKUzlWXzBMREwzUXdCZDNFcUlYVTBMekNuS0s5Q052Rm9EMjRXMXA5Y1EyemFPZl85VDREbDVPMHBmLThqNGtmdlV2NW8yYTctb1hsU0ZiNENwSTlSQm5qLW0xY3RQUFo1Q2Y5VG1faDVERDIwelJOSmNER3VvWVU2c1N2MFFFU3NBbzd2Y2d0c3c5anpvcHVXQWJISHFFdUtUNW05MlV5WEI0STFYdEZtc3FOeHRUSC1nMXJtX01qZXU4TmFtNk13c3JBNzJidmxNZGFCc1RaU1RqRGwzUUQtckRNRElESnRrbEZvYVAwZUdHZFJLRG4tS3dmNnljYWt1YjR0cWtNOThXalZOY2hLLVo5NXR6eTlBTWZ0TWFuZEhicUczNGpRc2xFOEdwVDdkYmdlWkQ0VWJDY2ZZZm1MVEtUTWNfaE1n?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T06:01:02Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นติดตามต่อเนื่อง เนื้อหาเป็นการยืนยันข้อร้องเรียน"
+    },
+    {
+      "id": "11d8c510",
+      "title": "ผ่าตัดกฎหมาย‘ประกันสังคม’ ชี้ชะตา ‘บอร์ด’ โมเดล ส้ม-น้ำเงิน",
+      "summary": "มีการรายงานการปรับแก้กฎหมายประกันสังคม โดยเน้นโครงสร้างคณะกรรมการ (บอร์ด) ที่เสนอจากฝ่ายต่างๆ ข่าวไม่ได้ระบุรายละเอียดการเปลี่ยนแปลงสิทธิประโยชน์ของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NNEdMLWx4UDdqd0RpTk8xdUFkNUQ1RndielRqWDJWWkhCczFONmhEVUF6NVl5ZlNQaXdFdVJ0VW5ESFl1Q0FfNTNmSC1zcWRDbVRvQVROYXRleVU?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-17T04:00:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับการแก้กฎหมายประกันสังคม แต่เน้นโครงสร้างบอร์ด"
+    },
+    {
+      "id": "d801963b",
+      "title": "สปส. ยืนยันมีคนยื่นค้านจริง! ร้องคุณสมบัติผู้สมัครฝั่งผู้ประกันตน 1 ราย เร่งตรวจสอบเสนอ กกต. . ความคืบหน้าการรับรองบอร์ดประกันสังคมชุดใหม่ ล่าสุด สำนักงานประกันสังคมออกมาชี้แจงแล้ว หลังมีคำถามถึงสาเหตุที่ยังไม่สามารถรับรองผลการเลือกตั้งได้ . โดย สปส. เปิดเผยว่า หลังเปิดให้ยื่นคั",
+      "summary": "สำนักงานประกันสังคมยืนยันว่ามีผู้ยื่นคัดค้านจริงจำนวน 1 ราย เกี่ยวกับคุณสมบัติของผู้สมัครฝ่ายผู้ประกันตนในการเลือกตั้งบอร์ดประกันสังคมชุดใหม่ และอยู่ระหว่างตรวจสอบเพื่อเสนอต่อ กกต. ก่อนรับรองผลการเลือกตั้ง",
+      "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxPWEc1Z1lUVGhZRjNEV1oxNHJ0bFVxYXZtMS1ycHg4bXd1UnF1UTV1VEc2cGpDc1JFdzFacFpmUXY1akNEWXFaQkdEZVlyckxBUmtQcGtnUmdvV2lDcE53TTB1azBLdGl3S1AzcHZNbXZNMGkxcXhOcHJmT0d4OHFKODVialNhT1owUjNNMXpuQVg5WDVYcWs2T2thalNhcER6VmJTcnhFeGxzd1lzOEJzV1RydFNYeFhZVHZIRGxjZGozd3kyTVlKMkRMaklVbnI1YU5qZjFGSTlfYmRYc1lVRHJMdzUzZHNTWEt5VjAyaEtydWRDWVYyUnhmQ2Vpa3hHVkE2Y1RkMGJoTGVsWW9YZDZrUVNmRU5nRy1TTEN0d1N3eWluMXBrMTFQVTFiamtCRi1lQ19Cbi12YlhiUFNIMFRVeGVWYmxGc2Q3dGlYX2RhVEp2aU1vY3NwVklGdjZ2ZDYxdmhOVFE1WUNQelh6YXE4QVZMT2FoaW82anBZX1ZkelBVc0FZaWhOcFVKamFuU1dhRVpKNWhWc3N1a3p4LTJaUXlLN05Pall5MFRlZnpPOFFUTW9PTXdWQnV1Y0QxY2NlR0FQVUFtZGZhWUtkSVhFMDJMRERhOGZzVFE3VFNiTUFpbnVYTDhDc3FjSDFCOW9yNmNNRUxqRzQxMnVuM2xqcjB0aEprWnNUWldfYmVfQkJ5clp6SEhJeDlFYUI4djFZN0p2WW1pczRfdGEwSUxuU2lYU2ZJMkpNY2xzN1MtdUNhWHMyaGpWX1JCdWJjamRaYklRODJrTWJWN3JRUGtic1lpM2tGQjBReUVZN0lId2hnWXlLVkFpZVpDODRnWldJdmh6Z3YwSDhxWFhRS3ZxNnVDcWtEcU1YZlFxaV9mT3ZPekVGNGZoQ2M5bFRpR19IaG5MMnNlb3d3RzBGQW04bFpVYzNnMTd0TTdSWGtHSFJZNy0xU000LTl1emM2eDRBSmtObG44NkJCRWR0VVZaUTloanE3djJwaHlRY0ZaZWhicl9wbEJ2ZEFOS2xBLVFiTVdQbW1Tc01wbGMtUmpnM3NxRldmclgtT0ZzNkRPSWZieThTUm1DYTVGQVBSM043WHVaV055UXhVYjhxOUNickZWbThpSnJ6ZWFKVjg5TEREUkVXOGI1N3ZPN2pnWEtzSkVZRnlNakVib096V2p1LW5Eb1RGVTZQeDBFLUNHWDlJbDFsRFJIZWxPSl9sWE9BcmpUSU5XMkZZSHVOVEl6dm83bGZwaHdPVFF4RzFOMmloLVo1SWhhSlhSUmxUSHlEZVhSbE1sLWhGN0hhNEUwOXY3dm92U09LNWFCZW0?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T03:14:38Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความคืบหน้าการจัดตั้งบอร์ด เกี่ยวข้องทางอ้อม"
+    },
+    {
+      "id": "5ded12a1",
+      "title": "‘อนุทิน’ อวด GDP โต2.9% เศรษฐกิจไทยแข็งแรง คงมาตรการลดค่าครองชีพ ปชช.",
+      "summary": "นายอนุทินระบุว่า GDP ของประเทศขยายตัวร้อยละ 2.9 และรัฐบาลจะคงมาตรการลดค่าครองชีพของประชาชนไว้ รายละเอียดของมาตรการไม่ปรากฏในเนื้อข่าวที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DYVc0UGI3dVBoSVNrQy1nZzhwdXAxOEVJempaZDhsWUtTLW12WnVtQVVEd0JfOHRfWGRwUzNxajdzNlNheEI3N3k3Z2g2a0c2WlB6OGZsekMwRk0?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-16T11:48:28Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "มีการยืนยันคงมาตรการค่าครองชีพแต่ไม่มีรายละเอียดเพิ่มเติม"
+    },
+    {
+      "id": "16256e6d",
+      "title": "PARLIAMENT: ‘พริษฐ์’ เสนอประกันสังคมรับรองบอร์ดชุดใหม่ที่ไม่ถูกร้องคัดค้านเข้าทำหน้าที่ก่อน หากไม่ขัดระเบียบ หวั่นคำร้อง 1-2 คน กระทบผู้ได้รับเลือกตั้งที่เหลือ แนะบอร์ดรักษาการเลี่ยงตัดสินใจเรื่องงบประมาณ-นโยบายสำคัญที่ผูกพันระยะยาว เปิดทางบอร์ดใหม่กำหนดทิศทางการทำงาน",
+      "summary": "นายพริษฐ์ เสนอให้บอร์ดประกันสังคมชุดใหม่ที่ไม่ถูกคัดค้านเข้าทำหน้าที่ได้ก่อน หากไม่ขัดระเบียบ เพื่อป้องกันผลกระทบจากคำร้องของผู้สมัครเพียง 1-2 ราย และเสนอให้บอร์ดรักษาการเลี่ยงการตัดสินใจเรื่องงบประมาณและนโยบายระยะยาว",
+      "url": "https://news.google.com/rss/articles/CBMisgdBVV95cUxQSHFkNkxzcVc4NkV5cUtxSmVaMWhKMVB6WURHUGVpRE1LMkhKM1d6WUFsVXphNFZfT2NMOUZ1R2hFTVhkd1ZtemZwMmIzcFBmWDRhY1JTVjJOOFJWRjcwWmQtRzU1bnR0MXBpQm9ZRXBsQ1NoS0ctVTJFbWF4alFOX25UTGMxVTdFZ1Q0RkUtRUVlTUVtMWJ5SW10Q0RXY2FqMnVIWWZpLUJmQTNCb2FFRDJFZVc5Y1BkX2dBS093dmlPUE13MkV6c0taWVpSLUptVkY1cUQzZlY1YVBlaGdKYzNiQUhyR3JYVi1UdHN5WXAwbFdLemZmVUxGX211VWg2NnR1bUpHSU9KOTktWHBicy10SXdlWmJ5dEFJVzNTUWd3UGZxcG9SdGFqajIyaW1Weld5WWlCSjZkaGhzZHJMbWhDdHNWUVJvRDV4WlVSR1BoSWMyMEx6c3RIcW1kMVpyZ09BZW56cmVaSUdXVVc3T1Z1bERaaWcyQjgycFhyYkJESVlpaWx3Q3BYOUprVEhINk5kd0djckdoU2Y3c3RvSThwUFNhbVpaZk5mblJJbFhRUDlDbS1XNmVlTS1oaFBDYWhTbDdSUVFPZTBWTUpMTnd2OWxJZXNqS0ZseHFNVWl1SWo5NzRGZ1B5WmlXZEtlb0FxcTlwNVlZWkhZOTgyaGc2T0tuc0dFX2FXTkRLNXFpSE03VVdFSms0ZXlDcHFiUXhrbDFtZWhkZ1ZvZldGX0t1V1A0V25mUldQMmpMTnRNS2VkOEk4Yl9teWtuSEpRek1YVDR1SDdEeERsWFFNeXN6MlJlRDZzQllVeUM2dHFMMTlBSGpJWmNzNkpoWjJDZUpMR1VWLWlhNDZkTTAydlRLOVMwbERLYUlqWEtYNmt1VHIxT2ZTQWlTYTZsczgwczkyZnJTM01xOEJWV293b1VDd005R0l4djB1ZjY2TmFHZ1lvTXBvVlZQMHU3YUZBTUw4LTBlczNob1pKM2hZNTUyRi1sUWUxSGZBU1lkZm1CVDVOWG4wUTVEQjRLUFV1T0Zjdlc4Uk1BWmx0S0hFMklQMGhycmRtOGZLYWUxaWtXTXZmMnIzcXhDSF9lZGFnc1ljTnBBdmxMZTZ4dWRxWVBGaC0zamZNQkFtVTZlRHVybzdBelNlSC1JZzVnaS1uU1k3c3dCZmNLaER1UFBlMkNJSEpMSWhYSDEtVVMtenQ0MnFTSERzb1lBaE1QUGs5YnpjUDRXbjVucmc4dThmYnpn?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T05:05:18Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อเสนอเชิงกระบวนการ เกี่ยวข้องกับการบริหารกองทุน"
+    },
+    {
+      "id": "64a908a2",
+      "title": "“สุริยะ”เร่งเยียวยาน้ำท่วม ดันมะพร้าวน้ำหอมสู่สินค้าเกษตรมูลค่าสูง",
+      "summary": "นายสุริยะเร่งเยียวยาผู้ประสบอุทกภัย พร้อมผลักดันมะพร้าวน้ำหอมให้เป็นสินค้าเกษตรมูลค่าสูง ตามรายงานของเดลินิวส์",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LbWtFZThPLWsxZ3JNMmF6MkRwSkc2bUtLVW5KbVFsTmp4NVpka2xCRDlBbjdEcnRKcjhxZUc4WGZvVld3NTIybXdudjN3eGtyNFJZ?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-17T00:37:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับการเยียวยาและเกษตรกร แต่รายละเอียดจำกัด"
+    },
+    {
+      "id": "e2b7b486",
+      "title": "ตรวจสอบแล้ว โพสต์อ้างผู้สูงอายุรับเบี้ยยังชีพที่ร้านสะดวกซื้อได้",
+      "summary": "Thai PBS ตรวจสอบข้อมูลในโพสต์ที่อ้างว่าผู้สูงอายุสามารถรับเบี้ยยังชีพที่ร้านสะดวกซื้อได้ ข่าวระบุว่าเป็นการตรวจสอบข้อมูลที่เผยแพร่ในสังคมออนไลน์ เนื้อหาที่ได้รับไม่ระบุผลการตรวจสอบโดยละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wdzhJa241WlJ1dm1xd1Z1endtblRWNE9ZVzBobDZzQWhWYUhSR3lvUkN3eVpTREVqS1RMdHlDUHlEQThFaVNmZ2IyLUdYdUw4a2d6MEdwdWRFUQ?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-16T11:43:18Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับเบี้ยยังชีพผู้สูงอายุและเป็นข่าวตรวจสอบข้อมูล"
+    },
+    {
+      "id": "3bd54948",
+      "title": "รูดบัตรสวัสดิการฯ ทุกเดือน แต่วงเงินบางก้อนหายโดยไม่รู้",
+      "summary": "รายงานประเด็นผู้ถือบัตรสวัสดิการที่ใช้บัตรทุกเดือนแต่ไม่ทราบว่าวงเงินบางส่วนหายไป ข่าวไม่ระบุจำนวนผู้ได้รับผลกระทบ สาเหตุ หรือหน่วยงานที่รับผิดชอบการแก้ไข",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13UjFPMl90RTNSa2pCc1FERGVjTGIwd2hFaU85dDhJMTdHVW13dERFSEZ0WTNOWXMxbFVGazU5NTdfM2plYjhPMEJsVjdwVnRoaldsWXNn?oc=5",
+      "source": "TrueID",
+      "published_at": "2026-11-16T09:33:08Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับสิทธิผู้ถือบัตร แต่เป็นข้อกังวลเบื้องต้น"
+    },
+    {
+      "id": "b75651a9",
+      "title": "ชวน ‘โรงเรียน-วิทยาลัย-มหา’ลัย’ เสริมความรู้ นร.- นศ. ใช้ ‘สิทธิบัตรทอง’",
+      "summary": "มีการเชิญชวนโรงเรียน วิทยาลัย และมหาวิทยาลัย ให้เผยแพร่ความรู้แก่นักเรียนและนักศึกษาเกี่ยวกับการใช้สิทธิบัตรทองด้านสุขภาพ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yZ2JZNWNBdmtJSGxQR3lpZEI5UVB0a01BSFFwdzZSWnFwMjdFaWJrLWdmTlBHTHVtV2xHT2FhaFB3VTMzMTZjLW4xeDJ6Y1NfOWUwT1ZKZkdoLTQ?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-17T08:24:49Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นการประชาสัมพันธ์สิทธิสุขภาพ ไม่มีมาตรการหรือตัวเลขเฉพาะ"
+    },
+    {
+      "id": "8af2e382",
+      "title": "UPDATE: ‘ทีมประกันสังคมก้าวหน้า’ เดินหน้าล่า 1 หมื่นรายชื่อ เสนอร่าง พ.ร.บ.ประกันสังคมฉบับใหม่ ชูเลือกตั้งบอร์ดทางตรง-ตั้ง CEO มืออาชีพ ผลักดันออกจากระบบราชการ ป้องกันอำนาจรัฐแทรกแซง เพิ่มความโปร่งใสในการบริหารกองทุน วันนี้ (17 พ.ย. 69) นายษัษฐรัมย์ ธรรมบุษดี ว่าที่กรร",
+      "summary": "กลุ่มทีมประกันสังคมก้าวหน้าเดินหน้ารวบรวมรายชื่อ 10,000 รายชื่อเพื่อเสนอร่าง พ.ร.บ.ประกันสังคมฉบับใหม่ โดยมีข้อเสนอให้เลือกตั้งคณะกรรมการบอร์ดโดยตรง แต่งตั้งซีอีโอมืออาชีพ ผลักดันให้ออกจากระบบราชการ และป้องกันการแทรกแซงจากรัฐ ข่าวนี้เป็นการเสนอร่างกฎหมายโดยภาคประชาชนในวันที่ 17 พ.ย. 69",
+      "url": "https://news.google.com/rss/articles/CBMipwdBVV95cUxPUUw3UzZseC1mRGg3aXNMY0t0Z0Ytc2w1dUtYalpDTXFnNjN6SVJuUEhLcjFBamprWUpyQmxvbVNNalltVHFaTDY3MHBmMl9IR2t4dTh2TTZjMDRFSFpoc08wMmdkbkx0THB0VEJKNFl2cFVRQWhrT0RhejJKS3VHVnZUMjRzRFQtWUVOOURHNFNpNFpfRU1mTEw3cVR6ajRPTExVQm1maWJjYy1vY1pYd3dndkVsV1dHZHA5M1JEZGpUSU1wc05hNnhVd1VPZFJjS0NGQ3NKTGRhVjNndnZYN0U4TkVkZm5xbmZfcmZKWTVrWEowWUk4dlRaMmFRa2V1Zi1pM1ZCR004LWh3OUM2ekJZZEJjMTNnZEw2Z0NvX0tkMFNKa1k5TVlTeExIaTBKLUlQYjlQelFlSXpKQ3V1a1FJaDJiRzV4ZjBVWThDNkMwdHk3SlVRLXlFV0ttekJmMGJRXzVSNEJVRmpBUmFpd3c3N0JRcTB5SHUxamhlTG1YMk5uSzRoSTltOUtpT29oU1R4cHhVdmk0UzYxZ1F2NVd3NmR0RE1PSmdmSWZlNW5DSV90emswV3B6eFY5MkZmUHRPUlRTeHVqdENvTE5ybWVVX1ViakoxTlR5NFpubUhlcFpqUGF1Qm5scVlQT2piSGM1aHRHeWViTFZaaXBHcmVFMFRGb1RIMnJZeU01NkJkbTlPUTFHSkxCOFBTOXU4eTB6cGY4b3A5VTVDbklrS29PRUhva21FZTN0UldFRFlORHFId09YNUxmM0dTMVVWZ2VVUFRVLXROQXkyNHdTMGpHNG5lWEtvaktBVEJ2RzliQldhNl93TVdVNVltWkt6N0dlQW55cG1ud1pGanBUVFhTT2dDUktnQ2YxNGZhdDRoVnlDa185Y1RvbjVVLVJNT2ptYTJ0Wm9KakhWdHk5dHJsRk5CbEVmaGZWeDc4QUpxb1JhY1ZuRS1SM05XaGg4SXVTNU9HTkpwYzRpbTJPbWVRcmkzZHVuVUpGclZ5WVRiRlVDZTNaY3A1eVdZT2dJOVk0ZGxPdHN1VmhwenhzYjdUVDZXWmQySThMMGw2bWFGcVdHQ0hlcHdxNnZ0dGxRXzVfRWZsY2JPTE4tM3FrUGpvNk1KbGJMRVBOc1B0cUlDX0g5YjNVVWNvcmJqQlRfZkFpS2cwNThRcWJDOFhPa2FWVUE1Q1VVaDJfSjFCc2pzY1QtUEFQNG5OZTJlemI4REVhMmJYUQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T07:37:45Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ข้อเสนอแก้กฎหมายประกันสังคมของภาคประชาชน"
+    },
+    {
+      "id": "20c3fa47",
+      "title": "เมื่อไหร่ได้ บอร์ดประกันสังคม ล่าช้า..กระทบใคร? (17 พ.ย.69) I ตรงประเด็น",
+      "summary": "รายการตรงประเด็นของ The Active นำเสนอประเด็นความล่าช้าของบอร์ดประกันสังคมและผลกระทบที่อาจเกิดขึ้นต่อผู้ประกันตน เนื้อหาที่ให้มามีเพียงหัวข้อ ไม่มีรายละเอียดเพิ่มเติมเกี่ยวกับสาเหตุหรือจำนวนผู้ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BeVJtWHFMMW1BaUJRNkFmSWZYbjFTa2RpMlpzQzFUMjJEdHp5ZGI1S0RpdlV2aTJNVE1nOUpZVkZQMVhYTFpFcDhoMDFDZWtselJrY1d4ZVhNY2NHUE8zSWdabWo?oc=5",
+      "source": "The Active",
+      "published_at": "2026-11-17T07:30:41Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวกับกองทุนประกันสังคมแต่ข้อมูลจำกัดและเป็นการรายงานประเด็น"
+    },
+    {
+      "id": "d146296c",
+      "title": "เจาะลึก B20 และ E20 เชื้อเพลิงทางเลือก หนุนเศรษฐกิจ ลดค่าครองชีพ",
+      "summary": "บทความอธิบายถึงเชื้อเพลิงทางเลือก B20 และ E20 ว่าสามารถช่วยหนุนเศรษฐกิจและลดค่าครองชีพของประชาชนได้ โดยเนื้อหาในส่วนที่เห็นได้ไม่มีข้อมูลตัวเลขหรือมาตรการที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGb0IwYktBai1nc29wZWVWNzF3TGdDS0lmVF90bjNqckJLY2NNWmdVSHcwRjRBSWFlODBrbDVkSlFmbmNwT2tHSVdPTm5DU2l1d2lCbjdwcDB1X25jemJ6WVF4bTRpSEgxSkNjaC1vVzZaazNa?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-16T08:53:06Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกับค่าครองชีพแต่เป็นการอธิบายทั่วไป"
+    },
+    {
+      "id": "17ae5242",
+      "title": "\"ประกันสังคมก้าวหน้า\" ล่า1หมื่นรายชื่อเสนอร่าง พ.ร.บ. ฉบับใหม่! | iNN Breaking News #ประกันสังคมก้าวหน้า #ประกันสังคม #ผู้ประกันตน #นายจ้าง #กองทุนประกันสังคม #INNNEWS",
+      "summary": "รายงานข่าวจาก iNN ระบุว่าทีมประกันสังคมก้าวหน้ารวบรวมรายชื่อ 10,000 รายชื่อเพื่อเสนอร่าง พ.ร.บ.ประกันสังคมฉบับใหม่ โดยข่าวนี้เป็นคลิปวิดีโอสั้นที่สรุปประเด็นเดียวกับข่าวอื่นในชุดเดียวกัน",
+      "url": "https://news.google.com/rss/articles/CBMixgZBVV95cUxOOGhPamNnRy0xeVRvY01SSWw4RUlDbVgtb0hUOXBlajZDWUlVNkRWaGNObGJNZmtJOFRycDFDNnRvczBDWXA5YXdoWVl4YWNBTGFnaHpYNzhCOHQ4RloxNnVQRTEwRzhEZmRxSUFpbjR3S1VqS01rWWdKMWlfUDROUEk3Q1NvY3ZUeDZISVpiX0VqdjZMeDhhT1hwR0Z4NWs0WHV2a0dDdEJQMVZJOU5JbnFMS01VUURRTmw3SUY1TzZNVk13NWc3M3dfZTVHQmUySWVoWkM5NDY4NlhkdXlaWWNISFVjR3I2RW1iXzY2RUphSlV5OXB5OWpBWFp2ZElRb0xYVjJWZUJyczd0Z1NlLU1WOW55SktNSDBtRHFPdWpaYjVaNnNqdDJvaVFjSi00M0YyRHBkdkNqeHRpbjl2UTU1VjVuWnpwNzZldWxEWFZrZTZTbmlzdU9SaUJSN2xBUUFRNENLNDJ3NDlrQUJJQ2xWZF9faDF2OGNYVmJZSFcxNjdQdjF6blRPUEtOcm5GUGR0YmNjdGtMOFAwQnFGa1JWRXVuSlcyMVpGbkg4VElFdmVLN3R3eG9mRzVxdERIR3RHUUVrSU94MTZ6S3p4QkRoeE5tWUZ3bS1ZWHktbTNNMzk5X0xrR0l6QTBtdzNsOFBIWXptODJ0bjV1YU53RmloM1dxYUN5UGx2MEw1UEZMYWg3WXY3TURsSklIRjItTXh3alZFcmU2dTJpcnd2NmxjMmNJV0VxZXQ2WmtCNmR0SmxlcF9kMlR2WXhlYnl5c0NGdnNBMFVXdnhPWWtvOXRpcjZsYWxhSE9tbVRadXVZV2xXcGUzSEJmbldrTWd1c2tEcHpZMUhPdlZub2RGa3F6N080SWJWR2hBS1BtUHk5M1U0eEtqNjhNZXZUbDMtS190QWZuTjdnclBhMlhXZGlzWWRkSk1ycWctSF9veS1WaW9PTzJ3QjVMWFB6ZkZQalp5SkN2LVpVMnFLZUVzT09xcjBqbS1USDhNZzNIclZqN296WFFiMDd1V1J4dmpWZjNQcW0wTUd2M3lQdm5pRHpvbk56Y3NiVnFzQ2NmcjNYTGE2aDlPYXBQZUc5T3VjTWhrQTlR?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-17T08:11:44Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข่าวซ้ำประเด็นร่างแก้ไขกฎหมายประกันสังคม"
+    },
+    {
+      "id": "8543b8cf",
+      "title": "ก่อแก้ว ชี้ร่างพรบ.ไอซ์ รักชนก เปิดทางพรรคประชาชน ยึดประกันสังคม ไม่เห็นด้วยออกนอกระบบ",
+      "summary": "นายก่อแก้วให้ความเห็นต่อร่างพระราชบัญญัติไอซ์ รักชนก ที่เกี่ยวข้องกับการเปิดทางให้พรรคประชาชนเข้าควบคุมกองทุนประกันสังคม และแสดงความไม่เห็นด้วยกับการออกนอกระบบประกันสังคม เนื้อหาเป็นความเห็นทางการเมืองที่เกี่ยวข้องกับระบบประกันสังคม",
+      "url": "https://www.matichon.co.th/politics/news_5978808",
+      "source": "มติชน",
+      "published_at": "2026-11-17T07:19:56Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ความเห็นทางการเมืองเกี่ยวกับระบบประกันสังคม"
+    },
+    {
+      "id": "3fd353a1",
+      "title": "รวบสาววัย 24 ลักครีมแบรนด์ดังในร้านสะดวกซื้อปากเกร็ด เผยหนี้นอกระบบดอกเบี้ยโหด",
+      "summary": "มีรายงานจับกุมหญิงอายุ 24 ปี ฐานลักครีมแบรนด์ดังในร้านสะดวกซื้อในพื้นที่ปากเกร็ด โดยผู้ต้องหาระบุปัญหาหนี้นอกระบบที่มีดอกเบี้ยสูง",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMHg2NnFQbDBubzlNRFg4ekFhX3NjZWh3LW10eVdVWFBuekZ2YUxpSllzWW9BTlhGMWtXVDdMY2JRX1FOMVA3b01pZXNFbTBvMjNXM3NEXzBrVm1uUzh3THV4dG5Hb2gwbWNLakV3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-17T03:21:00Z",
+      "category": "debt",
+      "provinces": [
+        "นนทบุรี"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เหตุการณ์เกี่ยวกับหนี้นอกระบบ ข่าวเดียวกับรายการก่อนหน้า"
+    },
+    {
+      "id": "01bfbd5b",
+      "title": "‘ไอซ์ รักชนก‘ เดือด! ฟาดแก๊งนางแบกเพื่อไทย บิดเบือนร่างกฎหมายประกันสังคม",
+      "summary": "นางสาวรักชนก ออกมาโต้แย้งกลุ่มการเมืองที่กล่าวหาว่าบิดเบือนเนื้อหาร่างกฎหมายประกันสังคม ข่าวไม่ได้ระบุรายละเอียดของข้อกล่าวหาหรือสาระของร่างกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvWVdkcWdYMzVlbko5c2NMdGZOb0V1aWFwZDF6MnoxWk1yRFVhcXc4cG5rTzBZbmhDU1ZySVBETVZqSTFyQkxYU1NObjNvNkZjZXYtb1o2ZTU?oc=5",
+      "source": "Thaipost.net",
+      "published_at": "2026-11-17T03:20:23Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข้อโต้แย้งทางการเมือง มีสาระน้อย"
+    },
+    {
+      "id": "b7c2eb24",
+      "title": "รวบสาวลักครีมร้านสะดวกซื้อ ทำเพราะตกงาน-หาเงินเลี้ยงลูก-หนี้นอกระบบ",
+      "summary": "มีรายงานการจับกุมหญิงรายหนึ่งฐานลักครีมในร้านสะดวกซื้อ โดยให้เหตุผลว่าตกงาน ต้องหาเงินเลี้ยงลูก และมีหนี้นอกระบบ",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKNE9aZk1FSWMtVS1yaVhPUkVvTU1OVWJIOFlPTGF2UEpwOXJ1em44bGloYWU1WUI4d0ZQR3NyY1dCblhYd2UyaW5DOVkydDE4NE04aThiSGZKU0xURzFubmVB?oc=5",
+      "source": "komchadluek",
+      "published_at": "2026-11-17T02:03:00Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นข่าวเหตุการณ์ สะท้อนปัญหาหนี้และรายได้ของประชาชน"
+    },
+    {
+      "id": "a1542995",
+      "title": "สร้างอนาคตเด็กไทย! ฉะเชิงเทราผนึกกำลังเพิ่มทักษะอาชีพเยาวชนจบ ม.3 ดันเข้าสู่ตลาดแรงงาน",
+      "summary": "จังหวัดฉะเชิงเทราร่วมกับหน่วยงานที่เกี่ยวข้องดำเนินการเพิ่มทักษะอาชีพแก่เยาวชนที่จบการศึกษาชั้นมัธยมศึกษาปีที่ 3 เพื่อเตรียมความพร้อมให้เข้าสู่ตลาดแรงงาน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZ2xuN0p0YWFZSUlJUjRLUlh2SzNPOWZJWnhtQk9oTGpHTkVFbTl5Y1FybGFEM1lBYUExejhGX1RnaDNqWTFONk95LVlGSDQ?oc=5",
+      "source": "www.topnews.co.th",
+      "published_at": "2026-11-16T14:38:52Z",
+      "category": "employment",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 45,
+      "why": "โครงการพัฒนาทักษะแรงงานระดับจังหวัด ขาดรายละเอียดตัวเลข"
+    },
+    {
+      "id": "7784836d",
+      "title": "‘ส้ม’ ชน ‘แดง’ สมรภูมิ 'แรงงาน' ชะตา ‘ผู้ประกันตน‘ วัดฝีมือ 2 ขั้ว",
+      "summary": "บทความวิเคราะห์การแข่งขันทางการเมืองระหว่างพรรคส้มและพรรคแดงในประเด็นแรงงาน ซึ่งส่งผลต่อชะตาของผู้ประกันตน ไม่มีข้อมูลมาตรการหรือตัวเลขที่ชัดเจนในเนื้อข่าวที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZld5ZnBSZ09WdG8xTWlhV05QbDJpRDZWeEVtZkNkdU5mYXNWNzhDQjhKR0JmTUpGcXdSYnNOZnZFQVcxR3BWZWRMTVpIbjFqTzZzUDcwbkw1OXJCenZsRXZtUVRwTW1WUm43UnpjWQ?oc=5",
+      "source": "spacebar.th",
+      "published_at": "2026-11-16T12:00:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นการวิเคราะห์การเมืองที่เกี่ยวข้องกับผู้ประกันตนเป็นหลัก"
+    }
+  ]
+}
