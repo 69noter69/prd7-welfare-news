@@ -1,0 +1,835 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:26:07Z",
+  "window": {
+    "from": "2026-11-18T06:25:00Z",
+    "to": "2026-11-19T08:25:00Z"
+  },
+  "stats": {
+    "fetched": 240,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 20167,
+    "ai_output_tokens": 15393,
+    "cost_thb": 0.35,
+    "runs": 1,
+    "kept": 54,
+    "eastern": 0,
+    "national": 54,
+    "new": 53,
+    "followups": 1,
+    "sources": 33
+  },
+  "items": [
+    {
+      "id": "9ab910de",
+      "title": "ขีดเส้นตาย 20 ธ.ค. กทม. ปิดจ็อบ เงินเยียวยาน้ำท่วม 2569 อนุมัติจ่ายไว",
+      "summary": "กรุงเทพมหานครตั้งเป้าปิดงานเยียวยาน้ำท่วมปี 2569 ภายในวันที่ 20 ธันวาคม โดยเร่งอนุมัติการจ่ายเงินให้ผู้ได้รับผลกระทบ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1seFBST09aVk5oRGUzOUtkMmlTRWQteVpvenNpUWpqRG9nZTZ4OFI4cjhuTGU1cHJteHNGa0duVUZRU2VvRURrQ216UU8xdElWZERBLUhvT2ItdTRKMjV4V0k3ZURwUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-19T04:31:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "กำหนดเส้นตายการจ่ายเงินเยียวยาชัดเจน ซ้ำกับข่าวอื่น"
+    },
+    {
+      "id": "42b3a86d",
+      "title": "ขีดเส้น 20 ธ.ค.ปิดภารกิจเยียวยาน้ำท่วม กทม.เร่งตรวจบ้าน-อนุมัติจ่าย",
+      "summary": "กรุงเทพมหานครกำหนดให้ปิดภารกิจเยียวยาน้ำท่วมภายในวันที่ 20 ธันวาคมนี้ โดยเร่งตรวจสอบบ้านเรือนและอนุมัติการจ่ายเงินเยียวยาให้ผู้ประสบภัย",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04RTlTSHgyZW9vUENrbThPZGViQXkzaGsyUjhvaGtmU1JZeDlkS3VZSS1wbDBHTUF4elk4Y0VGQVFFNTMwSkpKQXVZRFk1NXJXeDdhSWp0MGc?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-19T03:48:15Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "กำหนดเส้นตายการจ่ายเงินเยียวยาชัดเจน"
+    },
+    {
+      "id": "4f18003e",
+      "title": "9 จังหวัด รับเงินเยียวยาน้ำท่วม 5,000-9,000 บาท เพิ่มอีก 2,481 ครัวเรือน วันนี้",
+      "summary": "9 จังหวัดได้รับเงินเยียวยาน้ำท่วมอัตรา 5,000-9,000 บาท โดยมีครัวเรือนเพิ่มเติมอีก 2,481 ครัวเรือนที่ได้รับการจ่ายเงินในวันนี้ ข่าวระบุวันที่เผยแพร่คือ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PeURYbC15aF9KeFlSeFNBQ3FkNktEdFBlY0ZMWnhFVWNoZGx0M2Y0aVFfNGFUenVFRDNnRTBDY1BPWjdoR0V6TUZFTUo?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-18T15:24:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนจริง"
+    },
+    {
+      "id": "67a19f9b",
+      "title": "กกพ.ชงสูตรค่าไฟ ‘2-Tier’ งวด ม.ค.-เม.ย.70 อุ้มรายย่อย 3.86 บาท-อุตสาหกรรมแบก 4.73 บาท",
+      "summary": "คณะกรรมการกำกับกิจการพลังงานเสนอโครงสร้างค่าไฟแบบ 2-Tier สำหรับงวดมกราคมถึงเมษายน 2570 โดยจัดสรรก๊าซธรรมชาติจากอ่าวไทยให้ครัวเรือนและภาคเกษตรในอัตรา 3.86 บาทต่อหน่วย ส่วนภาคอุตสาหกรรมอัตรา 4.73 บาทต่อหน่วย",
+      "url": "https://thaipublica.org/2026/11/erc-proposes-two-tier-electricity-tariff-jan-apr-2027-2/",
+      "source": "ThaiPublica",
+      "published_at": "2026-11-18T12:18:19Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ค่าไฟอัตราพิเศษช่วยครัวเรือนรายย่อย"
+    },
+    {
+      "id": "4b775a2b",
+      "title": "ปภ. โอนเงินเยียวยาน้ำท่วม สำเร็จแล้ว 13,382 ล้านบาท วันนี้โอนอีก 2,481 ครัวเรือน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยรายงานว่าได้โอนเงินเยียวยาน้ำท่วมสำเร็จแล้วรวม 13,382 ล้านบาท และในวันเดียวกันโอนเงินเพิ่มอีก 2,481 ครัวเรือน ข้อมูลอ้างอิงจากรายงานวันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SejYxSUV0aDMtLUhlbmc1b0JPMlFDdS12UTVDN185NXNWRVlMSnJyVTh0ejlnamJzZlRuVVM5N2Nycm5KUngxMUFmYThSd3BzcTM0dUd2cHI?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-11-18T09:35:28Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินช่วยเหลือถึงครัวเรือนที่ประสบอุทกภัยจริง"
+    },
+    {
+      "id": "e7acf0a9",
+      "title": "เร่งช่วยชาวบ้าน 65 คน ถูกสวมชื่อเป็นลูกจ้างบริษัท สูญเสียสิทธิบัตรคนจน อ.แม่แจ่ม จ.เชียงใหม่",
+      "summary": "ชาวบ้าน 65 คนในอำเภอแม่แจ่ม จังหวัดเชียงใหม่ ถูกสวมชื่อเป็นลูกจ้างของบริษัท ส่งผลให้สูญเสียสิทธิบัตรคนจน เรื่องนี้อยู่ระหว่างการเร่งช่วยเหลือ โดยรายงานไม่ได้ระบุวงเงินหรือกำหนดเวลาที่แน่ชัด",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xU0tIZXA0UktEVl96UloxZnRTMzZ1THNsNWROSGcxc0J1cURFcGxDbHpmRXZGeV9VQXJBSHZ6cHZBNE5UeW9QcFd5QlJLd1VpRzhId0VTaWo?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-18T06:35:23Z",
+      "category": "welfare_card",
+      "provinces": [
+        "เชียงใหม่"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "กลุ่มผู้มีรายได้น้อยเสียสิทธิโดยตรง มีการดำเนินการช่วยเหลือ",
+      "first_seen": "2026-11-18"
+    },
+    {
+      "id": "f6bfbbaa",
+      "title": "กทม. ขีดเส้น 20 ธ.ค. ปิดภารกิจเยียวยาน้ำท่วม! ยื่นคำร้อง 156,380 ราย | The Bangkok Insight",
+      "summary": "กรุงเทพมหานครกำหนดปิดภารกิจเยียวยาน้ำท่วมภายในวันที่ 20 ธันวาคม มีผู้ยื่นคำร้องขอรับการเยียวยารวม 156,380 ราย",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIdFNzMlNuR1EyYlVoNkNYd2ZZQVFtVUFoRFh4cm1nQlI2bUVvMk9oNzExaEhhSzl4S2RjcTZYcjFneDRpOWRkemRWWEJhbm5KMXJyS2pn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-19T07:51:58Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาและจำนวนผู้ยื่นคำร้องชัดเจน"
+    },
+    {
+      "id": "e917b8cf",
+      "title": "ขีดเส้น 20 ธ.ค. ปิดจ๊อบน้ำท่วม! เร่งตรวจบ้าน–เคลียร์เงินเยียวยา พร้อมเปิดระบบจองคิวตรวจบ้านออนไลน์",
+      "summary": "กรุงเทพมหานครกำหนดให้การเยียวยาน้ำท่วมเสร็จสิ้นภายในวันที่ 20 ธันวาคม โดยเร่งตรวจสอบบ้านและเคลียร์เงินเยียวยา พร้อมเปิดระบบจองคิวตรวจบ้านออนไลน์ เพื่อให้ผู้ประสบอุทกภัยเข้าถึงการเยียวยา",
+      "url": "https://www.matichon.co.th/local/news_5982022",
+      "source": "มติชน",
+      "published_at": "2026-11-19T07:20:01Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาและเงินเยียวยาถึงประชาชนโดยตรง"
+    },
+    {
+      "id": "7b2bd4fb",
+      "title": "อัปเดตขั้นตอนแก้ พ.ร.บ.บัตรทอง คาดยังมีร่างกฎหมายฉบับ สส. และร่างหลักของรัฐบาล",
+      "summary": "มีการอัปเดตขั้นตอนการแก้ไข พ.ร.บ.หลักประกันสุขภาพแห่งชาติ (บัตรทอง) โดยคาดว่าจะมีร่างกฎหมายทั้งที่เสนอโดยสมาชิกสภาผู้แทนราษฎรและร่างหลักของรัฐบาลเข้าสู่กระบวนการพิจารณา ผู้มีสิทธิบัตรทองซึ่งเป็นกลุ่มรายได้น้อยจำนวนมากจะได้รับผลกระทบจากการแก้ไขกฎหมายฉบับนี้",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MMHFGTlNEQ1pzZ005WW5BZUNfWU0xSFFDbEp4X0xBalhIS190ejVKd1FTNHE5TUVTWDQ5SDUyYjE4U2g3UHo4dE83XzdobEhKeTBmQkdUcw?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-18T09:50:34Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสุขภาพระดับชาติที่กระทบผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "2793386f",
+      "title": "เงินเยียวยาน้ำท่วม 2569 ล่าสุด ปภ. โอนเพิ่มวันนี้ 9 จังหวัด 17.6 ล้าน",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยโอนเงินเยียวยาน้ำท่วมเพิ่มเติมในวันนี้ให้แก่ 9 จังหวัด รวมเป็นเงิน 17.6 ล้านบาท ข่าวระบุว่าเป็นการโอนล่าสุดของการเยียวยาน้ำท่วมปี 2569 เผยแพร่วันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GRlhfSTg1OTNqTVhfcVdUeUdleUw1VWE3U1VzTzk3M3BqcnV4VUNnOUw5YWlTSEZ1R0lneWlONUcxbExJTEFKZFdWV0JyaVdDQ05PNmxmTHJCVEZxNTRGY2hkTWVZdw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-18T09:42:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "โอนเงินเยียวยาถึงประชาชนในพื้นที่ประสบภัย แต่ยังไม่ระบุชื่อจังหวัด"
+    },
+    {
+      "id": "33636315",
+      "title": "UPDATE: สภาฯ ถก 5 ร่าง พ.ร.บ.ประกันสังคม รักชนกจี้ ภท.-พท. ทำตามสัญญา โหวตให้ร่างตัวเองเป็นร่างหลัก ลบครหานักการเมืองตระบัดสัตย์ วันนี้ (18 พฤศจิกายน) ในการประชุมสภาผู้แทนราษฎร วาระพิจารณาร่างพระราชบัญญัติ (พ.ร.บ.) ประกันสังคม (ฉบับที่ ….) พ.ศ. … จำนวน 5 ฉบับ ประ",
+      "summary": "สภาผู้แทนราษฎรพิจารณาวาระร่างพระราชบัญญัติประกันสังคม (ฉบับที่ ...) พ.ศ. ... จำนวน 5 ฉบับ ในวันที่ 18 พฤศจิกายน โดยนายรักชนกเรียกร้องให้พรรคภูมิใจไทยและพรรคเพื่อไทยทำตามสัญญาในการให้ร่างของตนเป็นร่างหลัก ประเด็นนี้เกี่ยวข้องกับสิทธิของผู้ประกันตนและกองทุนประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMi-wZBVV95cUxPNDFlbTJrdVV4TTdMU2JzUk1wSXVHcjQxWXpLQ0VzaUZ0Tl9Udzc5R0JHb1AxNDh1azdSLTlJZnU1YnRjMnZOOGdpTDJtNmZBbm1zQWhnREhvbi1Ba3o5YmsySDZ6MWxrSnlKVW9URTVXdXd4bmFieV9LM2FpYVBfYl9tcHhrVldpR05XeHZCeXNmVm15T3VOTHZnd0R5cVYwYU0tRkNFdHc0RXhobE40OFZmX0RKWDQzRzd0cXFHV1VJclNCbHR4SGp5OFI2NUkyTEgySGx4YU9WY191X1RzY0ZYZHkwZFF6MXB5aWYtNjd2U1g2V3NkY29mUV82bGl4RzN6c1R6eE1hRU9tYnFXZlFlMWc3SXBEdEhQUWd2aEdjbWQwZ1hjRUVZTFQyZ3VWTzNJMjBBdEU3ZUY4XzkyMUdYM01VcW14X1paVUJRLWdodG5VS0k3dWM5MllyTmpJaUhIYXFlbS1zT2ZyY1B5V0dYWVFqSHdKWml6TUg3bWlpLXFaSkxTZXRua2NxS3hHenJsSFZzZHQ4Nk1yeXhqNVZkZEcwazJiRV9wUDVBVUFCU0NVbDh3bDFreWNUT0JpNDRIN2dmd20xS3NqSUlnX2FNYWxWX0k1Vi1WOTlkamkwcFpWc1JlQlF4ei1XR2s5Q3FBN21VNnR0X3F4R3FVU0RhZkwzT0h1N0oyYXhnSFNZVmNqU0xlcF9HcmJDeUFTbDl0RzdDd3BaMFpmMGJwRVlEYkI0cWFjMnhSM2xEYXdkMXZaV0dmWVpzT3dkRFNTemU5VDhZYmp6WUtMVE5KazJsbXVSNUx0LVNOMTZJM09aZE9YeWFPT1pFdUFUcG5tWXllM2FWeEdid096SG5hbjdSSVg1UmVuZnNCYTl0eEh6bW5iMU9Hc0JORkFSZlJqN2ljOFJ5ZG9hc2t4M2lEMU5pWVpCdUh2cEphR0RaUW5wbmxSdFBvTU9rSVUwYnNBYkMzdlhBVWw2N0g3cDRMYW13UVIzemFaYVhVMDM4Y1BIbEd5QmtEdDZwUENMYlgtcUlKX1hzUkI0VmY4YmNOSFBoX0twU1RnaFZDWmdPNmVKeWZLVGNyZGlDVVpqa0kxVDZDOXcwaVJWMW1aZlZnSW5mOU8yMllqRFFqUDFvc3JKaDVLaTc4ZzVucFgzSDNNaXFQSmhZcmpoNG8?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-18T09:35:37Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "กฎหมายประกันสังคมมีผลต่อผู้ใช้แรงงานทั่วประเทศ"
+    },
+    {
+      "id": "b88bb9ea",
+      "title": "‘ชาญชัย คำจำปา’ หนุน พ.ร.บ.ประกันสังคม ฉบับ ครม. โดยเห็นชอบกับการขยายอายุผู้ประกันตนมาตรา 33 เป็น 65 ปี . วันที่ 18 พฤศจิกายน 2569 ที่ประชุมสภาผู้แทนราษฏร นายชาญชัย คำจำปา สมาชิกสภาผู้แทนราษฎร (สส.) จังหวัดนครพนม อภิปรายในที่ประชุมสภาผู้แทนราษฎร ระหว่างการพิ",
+      "summary": "สมาชิกสภาผู้แทนราษฎรจังหวัดนครพนมสนับสนุนร่างพระราชบัญญัติประกันสังคมฉบับคณะรัฐมนตรี ซึ่งเสนอขยายอายุผู้ประกันตนมาตรา 33 เป็น 65 ปี การอภิปรายเกิดขึ้นในที่ประชุมสภาผู้แทนราษฎรเมื่อวันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMi8AdBVV95cUxNSTE1QUhtcFZ4YUhlenB1aUMzMHN4N21Ydm1PYzcwalpxRmRETkhVTkVaUzg0MVJhenJGZGs1VWpqd2RpcFN1bi1ha0VKaTVjMDVJenBiUU9PZ3JaWUdCNk1Ud1NoUnRkcVNZNW5KZFhDVFhMMDlxUlZOcWI3MzBIeDJNU2NlV0IxeWVlZTlOV2hIaThwZjNJM3BaZDdMVmJKSEN3end2Q0prZEpYS0FYZWEzaFg5U1hfbXZMSS1oQXlCNVpob3FWWTZMNXRUYTdqZVlYTlRLaWV2bHh1NVQ4RTBnRnRyeXR6Y1dac1B3M1VrYlZBN2hWbDVvZ0lLSW9lWncyNnpYQ2prQVAtdWtLNnY5MHJYbHRfS2ctbU5pUC1rVFNlSlZVdDFjSlg3UlRkYWdyWXcyOExYVlg4R2FXdWd6UlBkSXJzYlYtQXpqX1pWM0ZNY0NSZUJvNWtGd3ZReUNuNUg3UDRnWHI2Ym5mR3NkWmFkTzNoSFhKRklUMXVyMFRHZXVCbmxVeW1tLTRqVkwwN2dzdEg4VUtMRWd4MDBXakNfR0ZMR3JsckZHQURKbDdEVjktUjBiSWVxLUhvdUk1T0d4NnE0THBBTVgyWnRiN1BjZEMzWjB6TkJTTTRmeXBqeGxfbU5BSldGeFA4ZDNWMWlPM25oWGxQWmhjRVhIY0drNDIyTHFtaGtTTlZrcGtQVXRKRU9mOWJkOTFNbldBOWpYaXBiQjgzZ3lLc3ZQbUdSR0xqSEhwdnBvd2dBdmRlaFFaV1pfWFRyclZUOUEyTHAzS2ZXbUR5TlJ0VXdnNmM4Ujg3WkJvc0NILUxmcXdLcHBuWDlIZjBYLWlPOWRHUEx5WTRpek1qMWN1RTdjN25qekIwZ25zMHd2Qk9IQW5sNkNxZi1lb2VuWlUzVC1fUm1VLUc0Nm5xdGhIMWNnSjhoNEFXazlYQWZYT1p4MTBjbWZhdTA1cXpQNnk3bDRXc19jb0ZQQW1MVUlQdDMyQWtSZXY3SEpMUUFzdk53MjFZdkpuZVdYWHBYVVJyalQzY3lzcVJiY2ZsWXl1STBTYnd3VkFKaGxUSU1DVXVfXzJRaUtnTWRpWGVScjdHRFI5V1dRdWVmSXhhU2ktQThUaUpBX2F0Y0F4MGZucEhLTHhjM3l3aDNORlItbmFSM2JxU0p5UW5LUFpfSE9rRnRPdTA5VXZHZkxJNGhENmdPbU5URDBGb0wzYndwOEM5UUNKNnhRV3lqVXF2bGtBX2JfanljTFRvYjlZeDR0VlotRTFRaFB2MmpOMUptRXotSUplYlZNRnRkN1JBZEwtb29jN01fTUlGNjJnMEdNVUI?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-19T06:33:15Z",
+      "category": "employment",
+      "provinces": [
+        "นครพนม"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "ร่างกฎหมายสวัสดิการประกันสังคมระดับชาติ"
+    },
+    {
+      "id": "a1ac1211",
+      "title": "ศธ.-ออมสิน เร่งแก้หนี้ครู ขยายเวลารับสิทธิ์ถึง 31 มี.ค.2570 วางแนวทางปลดภาระผู้ค้ำ",
+      "summary": "กระทรวงศึกษาธิการและธนาคารออมสินหารือครั้งที่ 2 เพื่อเร่งแก้ไขหนี้ของครู โดยขยายเวลารับสิทธิ์โครงการ “ออมสินก้าวไปกับครู สู่อิสรภาพการเงิน” ถึงวันที่ 31 มีนาคม 2570 และวางแนวทางปลดภาระผู้ค้ำประกัน การประชุมจัดขึ้นวันที่ 19 พฤศจิกายน 2569 ที่กระทรวงศึกษาธิการ",
+      "url": "https://www.khaosod.co.th/special-stories/news_10477675",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-19T06:31:45Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 82,
+      "why": "มาตรการแก้หนี้มีกำหนดเวลาและผลต่อบุคลากรครูโดยตรง"
+    },
+    {
+      "id": "22021fc1",
+      "title": "วิกฤตสารหนูเชียงราย! พม. ระดมทีมดูแลกลุ่มเปราะบาง 24 ชม.",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) ระดมทีมเจ้าหน้าที่เพื่อดูแลกลุ่มเปราะบางตลอด 24 ชั่วโมง ท่ามกลางวิกฤตสารหนูในจังหวัดเชียงราย ข่าวไม่ได้ระบุจำนวนผู้ได้รับผลกระทบหรือมาตรการช่วยเหลือรายละเอียดเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHRk5UZDVVa1dEVTVKZXNRdjNRNVI0dW5FeWZPUzV1TkR5dXdCQTBjdi1UM1VRdnBsekxOeHREcU51U1U1MUJOVkp4cUtmNjRmTk9zaDRWZG9LUWkzZmpSS3k3bURzQQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-18T22:36:14Z",
+      "category": "disaster",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการดูแลกลุ่มเปราะบางในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "a4484c10",
+      "title": "UPDATE: สภาฯ รับหลักการ 4 ร่างประกันสังคม แต่ตีตกฉบับรักชนก กังวลประเด็นนำออกจากระบบราชการ วันนี้ (18 พฤศจิกายน) ในการประชุมสภาผู้แทนราษฎร วาระพิจารณาร่างพระราชบัญญัติ (พ.ร.บ.) ประกันสังคม (ฉบับที่ ….) พ.ศ. .... วาระ 1 ชั้นรับหลักการ ซึ่งมีการนำเสนอรวม 5 ฉบับ ได้แก่",
+      "summary": "สภาผู้แทนราษฎรในวาระรับหลักการพิจารณาร่างพระราชบัญญัติประกันสังคมรวม 5 ฉบับ โดยรับหลักการ 4 ฉบับ และไม่รับร่างของพรรคประชาชนซึ่งมีข้อกังวลเรื่องการนำกองทุนออกจากระบบราชการ",
+      "url": "https://news.google.com/rss/articles/CBMipgdBVV95cUxPMklrWHN2RDNoaHY5NHU3Z1NlZ2p1ZW85dWoweS0wNUIteTNKWUIwbEVnY281LXhmeW9fZzFJVVluMjg3dzRucmZvRUF5dzBldjRDS1ZuMFRnNm42MFZ1X2JrQXdRM3pLV1FPSjRhb0dIRTlWU29mLWFLYU42MXNJV1FsUWtHSUxZa3R3TW1ndlByOTctdk80VS1Lbmx3VHRldmxDX2FhZGFoTXYteTdOV2J1akJTNWV2WFc4RXdyTHhhRmZTbG12V3RSeWNmSVJjT1F4YkdtSFpMR0poYjlpZl9relhxbEN1MkQtR2FKME5mMk04SVdCSjRpRkwzU3MxSjFpTEhTVkkyNjJOQkwxSDRRNTlVT3dQcERhVmh6S3hTQnZNcGc1WWVjX2UxaDNaaFJhM3dENzhmTmpMNXRENWJaYUptQ3FkM3pId09nQ0pYelFqdVVrTWgwWTRrTThPZndHdWZPczcwa0k1eUxqQ3d5dnpGSzBCRi1WbU9vbmhWYkVFX2E2eFNqdU51N2cyUDR5SG5LeGlET2hwT2h1eEFnRVNkS0dvaWdUQ1dvQlgzQVZNVWpaVS1Xem5wQ0NseXpJOXVQV2g0UnNQWEE4dThrUmJVbFJaR0wwNHJEbEltRnYtNlhBRFJnd3FCclJmdUJuT2VVRnNWcXZNWFJaOWNJTDRUeVh1elZMVzRvcmRvVnRPNUdaVnkxVm9YS0JzdklJY3hEdy1GRkh3Vm5tVTNkN25JVEZmQThzSEk3U0RUQjczOGZvOXRhdU02Qm9zWnh0akl5Zmt6V2xOUER6ODlrOTZWMjhFOGVXLXhETWwwbnJFM0NuUXM0TFQ4eTRnUldZX2RpMGJUalBvaV9fbUhmN3ZkcTNNbXNaMXhaUUZSaGFibW9hY25XMjh4bzRlZ0tlNmJ1dGx2aHVlOXVlRFF5VlMzS0Y4TmYzOVRrOEt2ME03bmpNNkNyN2NDVXBuVWRQRUV2T1lSLUtFa1haQVEwOTZnYndqZ1dGMG9TM0R0UEx4UE9TdnJ1N0I4am04cUFWUUNsakRtVWFTbTdROG54VVEtZVA0dWdsTzhmdWR5clZzWTFDcVp2R0pMb1ZnU29iVktwTWhwSW00RTBJVk5iRXJ6dlhwcVlzd3JrRmh0Q0dZSTRRMHlka25MVTlfUGMxQVFVQ2k1NUNIWFM2dDhpMmowM2VqR01vdzk5S1h2M0R1d2Jrb0xxT3V3bnRDUHhzZlFR?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-18T13:38:27Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ผลการลงมติกฎหมายประกันสังคมระดับชาติ"
+    },
+    {
+      "id": "c7b8ec12",
+      "title": "สภาฯ ฉลุยรับหลักการ 4 ร่างพ.ร.บ.ประกันสังคม ตีตกฉบับ “ไอซ์” เสียงสั่นสู้ต่อ “จุลพันธ์” ซัดหวั่นการเมืองครอบงำเม็ดเงิน 3 ล้านล้าน",
+      "summary": "สภาผู้แทนราษฎรรับหลักการร่างพระราชบัญญัติประกันสังคม 4 ฉบับ และไม่รับร่างฉบับของพรรคประชาชน ขณะที่นายจุลพันธ์กล่าวว่ากังวลการเมืองจะเข้าครอบงำเงินกองทุนประมาณ 3 ล้านล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQaVlqNGJxRnAyZ0FHaUp1Sjk1c2VNWThGOHpaZnhOV1lTakFkbTdCdEo0UDB4dnRJVTc4SldOemtHSDFNYXo4MnFiVWdxOGc?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-11-18T12:40:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ผลการลงมติรับหลักการกฎหมายประกันสังคม"
+    },
+    {
+      "id": "870ca843",
+      "title": "สภาฯ ถกแก้กฎหมายประกันสังคม \"รักชนก\" ขอ พท.-ภท.รักษาสัจจะ อย่าให้ถูกตราหน้าเป็นนักการเมืองตลบตะแลง",
+      "summary": "สภาผู้แทนราษฎรพิจารณาแก้ไขกฎหมายประกันสังคม โดยนายรักชนกขอให้พรรคภูมิใจไทยและพรรคเพื่อไทยรักษาคำมั่นสัญญา เพื่อไม่ให้ถูกมองว่าเป็นนักการเมืองที่กลับคำ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nUFFhQ05PSnI1VFFyVEJWYkJZcWlnV2ZVYk01QllvZ3BXbW1fVXFocDBnWnVHSTNiN3FGVDhsVkozMkFJTXV6T2xlVDVzNDlxOFVwbWEwMmlMdXd2MFNJ?oc=5",
+      "source": "ช่อง3",
+      "published_at": "2026-11-18T11:29:18Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การแก้กฎหมายประกันสังคมระดับชาติ"
+    },
+    {
+      "id": "c5958bd1",
+      "title": "สภาฯถกแก้ กม.ประกันสังคม 5 ฉบับ รมว.แรงงาน ยันแนวทางใหม่ 3ข. ไร้กระทบกองทุน เหตุเป็นไปตามสิทธิที่มี-ขอเกินไม่ได้",
+      "summary": "สภาผู้แทนราษฎรพิจารณาแก้ไขกฎหมายประกันสังคม 5 ฉบับ รัฐมนตรีว่าการกระทรวงแรงงานยืนยันว่าแนวทางใหม่ 3ข. ไม่กระทบต่อกองทุน เนื่องจากเป็นไปตามสิทธิที่มีอยู่ และไม่สามารถขอเกินกว่าที่กฎหมายกำหนด",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SXpyWFFOYkhrVkVfcWlyeGhEdWJwQUh6RlZpcGNjM0h1MGJleVdfb2xHZnNRU01HRUNHRHRzM29JWnQ3RTdYSWpwbl9jZUNYYklN?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-18T10:08:19Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "การแก้กฎหมายที่มีผลต่อสิทธิของผู้ใช้แรงงาน"
+    },
+    {
+      "id": "6714bdc0",
+      "title": "สหภาพแรงงานฯ ค้านร่าง พ.ร.บ.ประกันสังคม ฉบับรัฐบาล จี้รับรองบอร์ดชุดใหม่",
+      "summary": "สหภาพแรงงานและผู้ประกันตนคัดค้านร่าง พ.ร.บ.ประกันสังคมฉบับรัฐบาล เห็นว่ายังไม่ตอบโจทย์เสียงส่วนใหญ่ และเรียกร้องให้รับรองผลการเลือกตั้งคณะกรรมการบอร์ดชุดใหม่ พร้อมคัดค้านการเปลี่ยนบำนาญประกันสังคมเป็นบำเหน็จ ซึ่งเห็นว่าผิดเจตนารมณ์ของกฎหมาย การให้ความเห็นเกิดขึ้นเมื่อวันที่ 19 พฤศจิกายน 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40313",
+      "source": "Hfocus",
+      "published_at": "2026-11-19T04:22:19Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ร่างกฎหมายประกันสังคมกระทบสิทธิผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "28a2c921",
+      "title": "\"จุลพันธ์\" แจง 3 ขอ ไม่ทำประกันสังคมล้ม ย้ำเงินเป็นของผู้ประกันตน",
+      "summary": "นายจุลพันธ์ชี้แจงจุดยืน 3 ประการเกี่ยวกับการแก้กฎหมายประกันสังคม โดยยืนยันว่ากองทุนจะไม่ล่มสลายและเงินเป็นของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IOFQyY0JPMG9rSVhmTi1hYmg5b3BxODJ6WU9VZS03ZVhkb0gzRkxnMFgwRWRnRTFHWUIyeWlXeDhDQWhpOWpxVW1fYkVmdmtJZndPamNfWG54TlE?oc=5",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "published_at": "2026-11-18T12:10:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ชี้แจงความมั่นคงของกองทุนและสิทธิผู้ประกันตน"
+    },
+    {
+      "id": "89b2b080",
+      "title": "“จุลพันธ์” ย้ำแก้กฎหมายประกันสังคม ขอรับบำเหน็จไม่กระทบเงินกองทุน",
+      "summary": "นายจุลพันธ์ยืนยันว่าการแก้กฎหมายประกันสังคมเรื่องการรับบำเหน็จจะไม่กระทบเงินกองทุน โดยย้ำว่าเงินดังกล่าวเป็นของผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16RjljOWNoeTZpdmdnRWVwVnFhRkF5WnJabWtRREc4anRfbXp4UllLTkNWSTlkQk0zaElwTy15VGhMbjBYaFZFTU9RVWYwVTI2MmVNUg?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-18T11:35:50Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ชี้แจงผลกระทบต่อเงินของผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "6dffcd8a",
+      "title": "สปสช.เตรียมโอนเงิน IP 69-สิทธิ อปท. จับมือ สธ.ตั้งทีม ‘Cash Flow’ ช่วยบริหารสภาพคล่อง รพ.",
+      "summary": "สปสช. เตรียมโอนเงินค่าบริการผู้ป่วยใน (IP) ปีงบประมาณ 69 และสิทธิองค์กรปกครองส่วนท้องถิ่น (อปท.) พร้อมจับมือกระทรวงสาธารณสุขตั้งทีม Cash Flow เพื่อช่วยบริหารสภาพคล่องของโรงพยาบาล รายงานไม่ได้ระบุจำนวนเงินหรือวันที่โอน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaRVRlODJiV2V3RzlGZ1hSdWxQM1NhVmF6SmlwX2EwcUFsbl8tTEFXakRqT1BzNlZ0RWlQT0hfbXdaYU13UGFIdElMUW9zeklUUlIyRUd0TnNtUG8?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-18T08:49:29Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการการเงินที่ส่งผลต่อการบริการผู้มีสิทธิ"
+    },
+    {
+      "id": "80a7ca33",
+      "title": "สภาถกแก้กฎหมายประกันสังคม 5 ฉบับ พรรคส้มย้ำปฏิรูป สปส. ดึงออกนอกระบบ",
+      "summary": "สภาผู้แทนราษฎรพิจารณาแก้ไขกฎหมายประกันสังคมจำนวน 5 ฉบับ โดยพรรคส้มยืนยันให้ปฏิรูปสำนักงานประกันสังคม (สปส.) และดึงออกนอกระบบราชการ การปฏิรูปดังกล่าวจะส่งผลต่อการบริหารกองทุนและสิทธิประโยชน์ของผู้ประกันตนทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVkk3amhfNDhoTVlSRGxFeFhkNExZNlBGRUhfcXZiSXFFN3IwSmtNOVpvb2ZfVDBtcXdhNHZkTlUxY3g0YTVsZVNvVXpLX05YTEpV?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-18T08:00:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "การแก้กฎหมายประกันสังคมระดับชาติ มีผลต่อผู้ประกันตน"
+    },
+    {
+      "id": "d885da80",
+      "title": "สภาฯ เริ่มถกร่าง พ.ร.บ.ประกันสังคม รักชนก ขอ ภท.-พท. ทำตามสัญญา โหวตร่างตัวเองเป็นหลัก",
+      "summary": "สภาผู้แทนราษฎรเริ่มพิจารณาร่างพระราชบัญญัติประกันสังคม โดยนายรักชนกขอให้พรรคภูมิใจไทยและพรรคเพื่อไทยปฏิบัติตามคำมั่นที่ให้ไว้ระหว่างหาเสียง ทั้งนี้มีข้อเสนอให้ใช้ร่างของตนเป็นร่างหลักในการลงมติ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIcFRGY0ZHVlRKUWpXZVlUYXlXVmR2ckZUSE9UcTV5cjhoZGgxUnl1a0lxOXdpcDhVb0hmTjd6TGRLeWxMOUQxbkpUVEZ2MWx3amcxbUdfYUR2ckF1?oc=5",
+      "source": "มติชนออนไลน์",
+      "published_at": "2026-11-18T08:32:01Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "เริ่มกระบวนการพิจารณาร่างกฎหมายประกันสังคม"
+    },
+    {
+      "id": "b7e90b00",
+      "title": "“จุลพันธ์” ยัน ‘3 ข’ ไม่กระทบกองทุนประกันสังคม ถึงแห่ใช้สิทธิขอบำเหน็จก็ไม่ล้ม หนุนบอร์ด สปส.มาจากการเลือกตั้ง 100%",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานยืนยันว่ามาตรการ “3 ข” จะไม่กระทบเสถียรภาพกองทุนประกันสังคม แม้ผู้ประกันตนจะใช้สิทธิขอรับบำเหน็จจำนวนมาก พร้อมสนับสนุนให้คณะกรรมการบอร์ดสำนักงานประกันสังคมมาจากการเลือกตั้งร้อยละ 100 เนื้อหาเผยแพร่วันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaZ0tOdEdpVnpMSDNjOE5TUWNLanpyb2Q5OHVmcTZPLU52RFBqcDlhNW5DaGhTMmhWa0ZOU2xVNWdwZWNPR2Jiak9KbmQ0MVdNQ3NLR3pHWVFQM0dvaDMteQ?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-18T06:30:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "ชี้แจงผลต่อกองทุนและสิทธิการรับเงินของผู้ประกันตน"
+    },
+    {
+      "id": "92d7bb4f",
+      "title": "UPDATE: จุลพันธ์แจงไม่รับร่างประกันสังคมฉบับรักชนก ห่วงไตรภาคีเสียสมดุล-การเมืองแทรกแซงบอร์ด ย้ำบริหารมืออาชีพ วันนี้ (19 พฤศจิกายน) จุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน และหัวหน้าพรรคเพื่อไทย ให้สัมภาษณ์ผ่านรายการ ‘เจาะลึกทั่วไทย’ ถึงกรณีสภาผู้แทนราษฎรมี",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานให้สัมภาษณ์ชี้แจงกรณีสภาผู้แทนราษฎรไม่รับร่างประกันสังคมฉบับของพรรคประชาชน โดยกังวลว่าการเมืองจะแทรกแซงคณะกรรมการบอร์ดและทำให้สัดส่วนไตรภาคีเสียสมดุล พร้อมยืนยันให้บริหารโดยมืออาชีพ เนื้อหาออกอากาศวันที่ 19 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxPWVMzbnRrYVNDaUxNMExQS1pCSHB5UXA0cW1FSEh5VURhTUFOXzRtVjJNaXZsWVNiUGk1ODk4OFp3LXBUOFJuU2hnZGJ5aFVIQ0g4VVFXWmlqcFpiSklvcnZNaWlLV0ZwZFZ6TzE3UUc1X0dHSHdfdlFDNnNTRGdPd2dDam83U1VUUVlvdmIteEtfQnBRcUF6U2t3b2hFOWt5M3FYY085NGJlS1JuZHdRLU53Yk1meHV1SHBHV1VVeldjRDE0eDhhY1d2cGQ4NWpOazhBVXZmRUQyMlo0TG5rN0pGaUlhcDR0YW0zT090X2doNEp1NkFOdWo3M0l2Yl9saGM3S2hFWHF1S1E2a2JiSWxndGxIUnNoUlZuUnd3dHBRb0tPQ3BUYkJia3QxbkdvTVhxUWs2QmszU0FFb3FYVjVlZ25nWWJRLWsyTk9rZmd2bTBuVnNJejBnMy01VHNHekxOX1JtVm85YU5maGdfNjJxcUFOSUlXWWNMRzNIYUlOV2RFLWlqRFhvelpfUlBDT0VFa3ljVnQzQ3NsQmNINGhQelNGanRnUUpjODFhcVg1NGtudUVhdTI3Wm9SQjVPTmRYZ2RwcTBuVHNHeE5DWHJ5RHRaeE9CcVh3Y0hKN25HM1ZMaGZnODRUWVR5dndNUTBQZVF6eDZnOW9Ka1RKQzg5b0NxMEM0VEVWX3Mwb3Axa3FPOThNOThMWnNDeVhENGkzdzhRcW9TNVBZVjBPc0E0SGVtZHVWSEJnaUZKbWFzZmtGLWZVZkwyMFppUWZVV2JBeVRqZHVjTktibXZfc0V6RkdpMmVlR2l1bnNIQmN0TE9PQWVDeUdvSklGM21wbFFnU19qMkI2bWJxMEdzRjE4dWFMRGtGRHdBXzEwUHJvcmRBWTllTGY3Tl9ndjI0bEJBcVgxYjdhYVBvTjc5SUdXaHZoM2dadWRhTWJMTUVoMDBiMmVSb0Y5cmRjVUFmYW0zQ014bzBaUUkwQ0dFY2gtYUozV3FyZG5Xc2JJdmtNWmlrSXFOd0VyR0N3VHhoZ3FnbWI3QVhUdGlRNXVKMGxrUkRFVzdrNHZacUVUTG5mVC1XNTVGSlU1MjVDeVJlQy1LcTY4RW5NbVJ6VkVBLTFFQUg4Vm5YdDNqdGllM1pIWlY4RFJVWVRoMUlwQ3dUb2xaN2Rsa1BDdW1LT0poTG1Oelg5MzlCRFJFX0QtSjk1QnU2OU9QSWlJRHBWdl9Ua3VzbWc0dTg0and1MWU0NlNVSmp0MVRZU2tRTHV4QWMyeV9iMEt3MDlLMFBNS0VU?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-19T04:22:38Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "การเปลี่ยนแปลงโครงสร้างบอร์ดประกันสังคมมีผลต่อผู้ประกันตนทั่วประเทศ"
+    },
+    {
+      "id": "57759779",
+      "title": "อย่าหลงเชื่อ! รัฐบาลแจกเงิน ผู้สูงอายุ 60 ปีขึ้นไปสิ้นปี คนละ 10,000 เป็นข่าวปลอม",
+      "summary": "กระทรวงหรือหน่วยงานรัฐเตือนประชาชนไม่ให้หลงเชื่อข่าวปลอมว่ารัฐบาลจะแจกเงินผู้สูงอายุอายุ 60 ปีขึ้นไปคนละ 10,000 บาทในช่วงสิ้นปี",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hMUZKd09XNGdYZzdESUdfMm0zWW9VOURqNkFpTzB4Qk9NaW9PbldqX1pYeHZSTkdlLWp2YXN5ZW40dENjOGdPOXlackVRVklN?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-18T07:50:00Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "เป็นการเตือนข่าวปลอมที่เกี่ยวข้องกับเงินช่วยเหลือผู้สูงอายุ"
+    },
+    {
+      "id": "83246a6d",
+      "title": "‘จุลพันธ์’ ห่วงการเมืองแทรกแซงบอร์ดประกันสังคม เตือนเลือกตั้งครั้งหน้าแข่งเดือดยิ่งกว่าสนาม สส. วันที่ 18 พฤศจิกายน 2569 ที่ประชุมสภาผู้แทนราษฎร นายจุลพันธ์ อมรวิวัฒน์ รัฐมนตรีว่าการกระทรวงแรงงาน กล่าวถึงร่างพระราชบัญญัติประกันสังคม (ฉบับที่ ..) พ.ศ. .... ว่า ประเด็นมาตรการ \"3 ข",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานกล่าวในที่ประชุมสภาผู้แทนราษฎรเกี่ยวกับร่างพระราชบัญญัติประกันสังคม โดยแสดงความกังวลว่าการเมืองจะเข้าแทรกแซงบอร์ดประกันสังคม และเตือนว่าการเลือกตั้งครั้งหน้าจะมีการแข่งขันที่เข้มข้นกว่าการเลือกตั้ง สส. การกล่าวเกิดขึ้นวันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxNY01yZGRnZW1ISWxxODc1OHQwV2pfVW5heThlX1hFeWNleGRENGVlU1Zqck5hVTY5Y1huS2Z5Tk9zVG1WXzhLYVYzc21lSTM3b2ZBQjZDSUJwNTE1SHZCaGxWcXJha3ZGbDRjbVV3U0ZYcDg2dVV4Ulc5OEp4cnFFWFgyV2tmeGpOUmhLUlJBREFHV28tLUZBUXlBSlpreWNCUDlkZFFkdjlRNlExOWhfVURvR21saGIxVGNFNjh6bkNELS1oZmhIZHJpYmRPakpQQWd4SXAwUGpSZmd4cmktVUZ5cjBIOUxvRjQ5eGwxd1FaNTlwbmhZSl9BRkhZT3pZTjNMWlpjQktVMXFpTmJRSGgzbFdLNzBQRTFDVENuUkJHM1Y5ZFRSVHJlX2lGRW9Ud2w1YnFGb29UQjc3ZlZ0Z2VXQjZhTHNQOTZSX04yYlR4cmpqN1VTcXhFVTBQdEhNeHBjclV4MG12ZjBTNUp0cWlEUUZrQ2tRUl9XclhISGk0R2hFX1NCdmhiSEpGelZXckNReEtwWFdKOEg1djdqTVY5Mi1KX0ZKY1BReTJpQS1kNHBuUUdTRU5hMXpmRXJvQ0pRcDVlSWtRVGtURklmUGdyOTRIckg2OEpxMUJpRHh3NEktaTFNeFZTVFpMMG5LMnMtNW5YVW0tWHAwU2VtamppWnB6SzMtMzM4Q2ZnYm5aSEZrV25pcmkxN2FQaExqZEVIVDlFZVhabW4yY2Z6T3dNUzBZcDlWS2VnZml5RzhSdklJZENKeTMxYUVUdzhzcUZtRFA2Qmc1LWEwckFvdG9oMm5ibzBVRUVTQWFwb1FZbjc2Z0dJeGVubXhCankwSDhOREZ3andvMTJkTzlXVDR6bHhUcTlXRjdUTGRNT1owVi12d2h5ZFJCSk1NT1RmQmF1OWEzLTFsRGhSaFhjWnJ6ajZkaUFlMlo5QjB6ZEo1cFV0UnhWLUdRbktqUXQ1aDBFcy1RaWpVb1BJRU1teWthSlcyTzNwQ2t1YmZHbTMxRzlNVkotTnhvMDJ6a0kzVnk3a1ROa0RjTjUxVi04b1lhcXZzZi1idEo3NmFRbjhudHBzaWpvX3hQb3I1Zm1SY3d5aEdlWkZQbDNJX25Ub3FYT3pMQldibFdzV25UdVpVS0xmRTFETG1QcGJuN2hCUTVVVzlscGpwRm1CZy1VMGNBVllMVlF4NHdmV3JEQUxuQjhpTkVIZUY1bjFKTGQ2cWtzZ0hpM2xpWmo5NFpvc2o2blEteUhJaDZQd3gxNlJqTHhhbXJPbnREU1NNRkpnYXFyTGxVV0JmWWhyNWN2eUpyWHpVdEhSaE1yM1hxd2dwT1U3WTdoelQ4NjRNNC1kVU0yS0t5YzRaeEdxNS1IWFhXZDlpNEw1cGUw?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-19T07:57:07Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "เกี่ยวข้องกับการบริหารกองทุนประกันสังคมที่ผู้ประกันตนได้รับผล"
+    },
+    {
+      "id": "f9631945",
+      "title": "พรรคประชาชนทวงสัญญา จี้สภาฯ รับร่าง พ.ร.บ.ประกันสังคม ใช้ ร่าง ‘รักชนก’ เป็นร่างหลัก ชู 3 หลักการ “โปร่งใส-ยึดโยงผู้ประกันตน-บริหารมืออาชีพ”",
+      "summary": "พรรคประชาชนเรียกร้องให้สภาผู้แทนราษฎรรับร่างพระราชบัญญัติประกันสังคม โดยเสนอให้ใช้ร่าง 'รักชนก' เป็นร่างหลัก พร้อมเสนอหลักการ 3 ประการคือ โปร่งใส ยึดโยงกับผู้ประกันตน และบริหารโดยมืออาชีพ",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuZ0xiT1FHbU00enJPdmE1TVFpaGh1XzF1X2JBOVRDdmpWN05CMGZ1TTYzTDBhaDhXWkZXQkljVWdfenJpVDRNdTFWMmFIbUxw?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-11-18T09:01:07Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "เสนอหลักการสำคัญของการปฏิรูปกองทุนประกันสังคม"
+    },
+    {
+      "id": "a30ce0da",
+      "title": "‘จุลพันธ์’ เผยร่าง พ.ร.บ.ประกันสังคม 4 ฉบับ เข้าสภาฯ พิจารณา ย้ำมาตรการ ‘3 ขอ’ เพิ่มสิทธิและทางเลือกให้ผู้ประกันตน",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานเผยว่าร่าง พ.ร.บ.ประกันสังคม 4 ฉบับได้เข้าสู่การพิจารณาของสภาผู้แทนราษฎรแล้ว พร้อมย้ำมาตรการ “3 ข” ที่มุ่งเพิ่มสิทธิและทางเลือกให้ผู้ประกันตน เนื้อหาเผยแพร่วันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTnNRekpidzk5OWREZFVIcnZmQTYwNEQtTWV5LUowUVVMVmkwVGpjb3pwaUh3cWFJRkx5REZ3ZDlOaml2aGVpVWlCemJ5eE9z?oc=5",
+      "source": "ไทยแทบลอยด์",
+      "published_at": "2026-11-18T08:42:31Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 73,
+      "why": "มีร่างกฎหมายเข้าสภาและเพิ่มสิทธิให้ผู้ประกันตน"
+    },
+    {
+      "id": "7057f56e",
+      "title": "สปสช. ครบ 24 ปี ก้าวสู่ปีที่ 25 มุ่งพัฒนา ‘บัตรทอง’ หลักประกันสุขภาพยั่งยืนของคนไทย",
+      "summary": "สำนักงานหลักประกันสุขภาพแห่งชาติ (สปสช.) ครบรอบ 24 ปี และก้าวเข้าสู่ปีที่ 25 โดยมุ่งพัฒนาบัตรทองให้เป็นหลักประกันสุขภาพที่ยั่งยืนสำหรับคนไทย เนื้อหาเป็นการแถลงทิศทางการดำเนินงาน ไม่ปรากฏตัวเลขหรือมาตรการเฉพาะ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tOVF1UWJ0RGQ1dUpteHBLcFQyQUFlUzM5LUpmZDZ4Um1mMkt4XzNEemRrOGxucFdDdGhkN2QycFktNE1HcHRaY2ZzeDBId2RhOE4wYko1ckFBYVE?oc=5",
+      "source": "www.thecoverage.info",
+      "published_at": "2026-11-19T06:54:28Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "นโยบายสุขภาพของผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "7a68e41a",
+      "title": "“จุลพันธ์” รับหนังสือ สพท. หนุนร่างพ.ร.บ.ประกันสังคม",
+      "summary": "นายจุลพันธ์รับหนังสือจากสำนักงานประกันสังคมเขตพื้นที่ (สพท.) ซึ่งแสดงการสนับสนุนร่างพระราชบัญญัติประกันสังคม เนื้อหาเกี่ยวกับการปฏิรูประบบประกันสังคมซึ่งส่งผลต่อผู้ประกันตนและแรงงานทั่วประเทศ รายละเอียดจำนวนเงินและกำหนดเวลาไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JMGpRTk1ZcF85cHdfcnlRQ0hjbUZwbmc0ZDE3U2c0dzFTbkhRaEZkaEkxQ2FIa1NJTjVoSGw2bGlzS2IwTTBmYlpTT1FHMzJoTVh2cQ?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-18T07:56:46Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ร่างกฎหมายประกันสังคมกระทบผู้ประกันตนทั่วประเทศ"
+    },
+    {
+      "id": "108cd00a",
+      "title": "สธ.–สปสช. บรรลุข้อตกลงเร่งจัดสรรงบกว่า 13,000 ล้านบาท เสริมสภาพคล่องโรงพยาบาลรัฐ ตั้งเป้าโอนเงินภายใน 20 พฤศจิกายนนี้",
+      "summary": "กระทรวงสาธารณสุขและ สปสช. บรรลุข้อตกลงเร่งจัดสรรงบประมาณกว่า 13,000 ล้านบาท เพื่อเสริมสภาพคล่องให้โรงพยาบาลรัฐ โดยตั้งเป้าโอนเงินให้แล้วเสร็จภายในวันที่ 20 พฤศจิกายนนี้ ข้อตกลงเกิดขึ้นวันที่ 18 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SW1PU3piZzRVOXI2aXJNamYtWWk1SXZRbXU0M2hDYUU5djJaTGVlQXJGd1U0TEdtN1BlQk0tOWEzUkF1ZW1vUFE1bWV6VkN5OUthdUtLTkxaQQ?oc=5",
+      "source": "สำนัก สารนิเทศ",
+      "published_at": "2026-11-18T07:56:23Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีกำหนดโอนเงินชัดเจนและส่งผลต่อบริการสุขภาพของประชาชน"
+    },
+    {
+      "id": "10375222",
+      "title": "เลขาฯ สปสช. ย้ำ 24 ปีบัตรทอง ต้องเข้าถึงบริการได้จริง ก้าวสู่ปีที่ 25 มุ่งลดข้อจำกัดการรักษา รับมือสังคมสูงวัย",
+      "summary": "เลขาธิการ สปสช. ย้ำว่า หลังครบ 24 ปีบัตรทอง ประชาชนต้องเข้าถึงบริการได้จริง และในปีที่ 25 จะมุ่งลดข้อจำกัดในการรักษา พร้อมรับมือสังคมสูงวัย รายงานไม่ได้ระบุรายละเอียดมาตรการหรือวงเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NazFBdS1PeUl2Q2J5MFF0QThiYkpTNUo5a3EtVGNPTkI0SlJYOUNqbndNbmthZFJuYk5ybS14S3dVLWpCRzNFTld0U0g1VWhCazFDNjB2dWQ3Mnc?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-19T07:20:15Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการเข้าถึงบริการของผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "322242c8",
+      "title": "พรรคส้มเปิด 2 ร่าง พ.ร.บ.ประกันสังคม หนุนผ่าตัดใหญ่ ดันนำกองทุนออกจากระบบราชการ-คืนอำนาจผู้ประกันตน-เปิดทางมืออาชีพบริหาร : อินโฟเควสท์",
+      "summary": "พรรคประชาชนเปิดเสนอร่างพระราชบัญญัติประกันสังคม 2 ฉบับ โดยมีข้อเสนอให้นำกองทุนออกจากระบบราชการ คืนอำนาจการตัดสินใจให้ผู้ประกันตน และเปิดทางให้มืออาชีพเข้ามาบริหารกองทุน",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56QjM5ckIzeXhISWZPZFRObVFzcVRrR1V2aHNyTklJUHBLMmtHSU9yYjg4SVd6QlZ4US16SUlSQ2gyZ0ZGVElaMzJIMnBlN2Uw?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-11-18T11:10:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เสนอการปฏิรูปกองทุนที่กระทบผู้ประกันตน"
+    },
+    {
+      "id": "81a090e4",
+      "title": "เปิด 4 ร่าง กม.ประกันสังคม เดิมพันอนาคต ‘เงินของคนทำงาน’",
+      "summary": "มีการนำเสนอสาระของร่างกฎหมายประกันสังคมจำนวน 4 ฉบับ ซึ่งเกี่ยวข้องกับเงินสมทบและสิทธิประโยชน์ของผู้ประกันตน ข้อมูลในหัวข้อข่าวระบุเพียงประเด็นกว้างเกี่ยวกับอนาคตของเงินของคนทำงาน",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ZFNaS1ZQV1hZNG5nV21LaUZ0QnFROTE4d2Q2OFU1LXptYW5udHppMUR5dkExZkxsZERwZ3NzWlJzMEp6RmVmLWlOMmFRM2VFSm14Zl8ydEk5T25nYXJTaFM2WmZpVDBW?oc=5",
+      "source": "spacebar.th",
+      "published_at": "2026-11-18T10:01:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เกี่ยวข้องกับกองทุนของแรงงานแต่รายละเอียดจำกัด"
+    },
+    {
+      "id": "1cae544c",
+      "title": "สภาฯ ถกแก้กฎหมายประกันสังคม “รักชนก” ขอ เพื่อไทย-ภูมิใจไทย รักษาสัจจะตอนหาเสียง",
+      "summary": "สภาผู้แทนราษฎรพิจารณาแก้ไขกฎหมายประกันสังคม โดยนายรักชนกขอให้พรรคเพื่อไทยและพรรคภูมิใจไทยรักษาคำมั่นที่ให้ไว้ในช่วงหาเสียง การแก้ไขกฎหมายดังกล่าวมีผลต่อผู้ประกันตนทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hR1ExMWxqU2FSVVZRdmpVTTdWNnVwbTEtX0FMZGc2alAzRkpERTZSU19ZMmt0ZFBjMXc1ZngyNk4wRHVlZWx4M2YxNFF0U0swbndPbmcyN0RtYU8wVUE?oc=5",
+      "source": "ช่อง3",
+      "published_at": "2026-11-18T09:08:34Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การแก้กฎหมายประกันสังคมระดับชาติ"
+    },
+    {
+      "id": "3d3e7db4",
+      "title": "“สส.ธนพร” ชงแก้ พ.ร.บ.ประกันสังคม ปลดล็อก “เงินสงเคราะห์ลาคลอด”",
+      "summary": "สส.ธนพรเสนอแก้ไข พ.ร.บ.ประกันสังคมเพื่อปลดล็อกเงินสงเคราะห์ลาคลอด เพิ่มสิทธิประโยชน์ให้ผู้ประกันตนที่เป็นแรงงานและมีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yclVIVUFOcGpReDFXUWUyOEw0bkNCRV9KNnZ5NURrTGVHSk54aF9mOThwWUdPZlFIWU80N2xVby1aeV9BbWNCR3ZKQk12a3djTXJDU0RwWXNDQQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-18T07:33:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "เป็นข้อเสนอแก้กฎหมายที่กระทบสิทธิผู้ประกันตนโดยตรง"
+    },
+    {
+      "id": "7ffabc33",
+      "title": "“สุชาติ” ชี้เงินประกันสังคม 3 ล้านล้านเป็นของผู้ใช้แรงงาน จี้ปฏิรูปโครงสร้าง แยกองค์กรลงทุนอิสระ หวังเพิ่มผลตอบแทน 3 หมื่นล้านบาทต่อปี",
+      "summary": "นายสุชาติเสนอว่าเงินประกันสังคมราว 3 ล้านล้านบาทเป็นของผู้ใช้แรงงาน และควรปฏิรูปโครงสร้างโดยแยกองค์กรลงทุนออกเป็นอิสระ เพื่อคาดว่าจะเพิ่มผลตอบแทนได้ปีละ 3 หมื่นล้านบาท เป็นข้อเสนอที่ยังไม่ได้เป็นมาตรการอย่างเป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6UmFRVTZTMkpLVnBjQ2NWQmxWTlNIWHhXNHRScHVWWndYQ0d1V2Z0Rmg0bnVFLWFNVFdBZDEyY09ERHEtX0ZJRmZPay1ScmdJai1EUHM2TjZEVElLZ2tyY250OA?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-19T03:26:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข้อเสนอที่มีผลต่อเงินออมของผู้ประกันตน แต่ยังไม่ใช่มาตรการ"
+    },
+    {
+      "id": "29f24823",
+      "title": "Photo Story ถกร่าง พ.ร.บ.ประกันสังคม 5 ฉบับ ‘ปชน.’ ขอให้ ‘รักชนก’ เป็นร่างหลัก",
+      "summary": "รายงานข่าวภาพชุดเกี่ยวกับการพิจารณาร่างพระราชบัญญัติประกันสังคม 5 ฉบับในสภาผู้แทนราษฎร โดยพรรคประชาชนขอให้ใช้ร่างรักชนกเป็นร่างหลัก ข้อมูลที่ได้รับไม่ระบุรายละเอียดมาตรการหรือจำนวนเงิน",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Cd1pPSWVGTXRpX290aHE1VUhob2tSZWE0c1N1Z3djZE5VekpSSTl6SmxJNXZxbUkybnp2SWk5ZTlXdEx3Vm5qSXhKd2FNX1BiOWZ2ZW1fRVBhWUM2aUFyelhzcmVaZ3dxcHBZRlc4bFBqU2N2SWlSNlU4RTBxNW8?oc=5",
+      "source": "spacebar.th",
+      "published_at": "2026-11-18T09:08:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข่าวติดตามการพิจารณาร่างกฎหมายประกันสังคม"
+    },
+    {
+      "id": "fe4b2856",
+      "title": "สธ.–สปสช. เคลียร์เงินค้างปี 69 จ่อโอนให้ รพ. ‘20 พ.ย.นี้’ เคาะจ่าย IP ปี 70 ‘5,100 บาท/RW’ หลังหักเงินเดือน!",
+      "summary": "สำนักงานปลัดกระทรวงสาธารณสุขและ สปสช. เตรียมโอนเงินค้างปีงบประมาณ 2569 ให้โรงพยาบาลภายในวันที่ 20 พฤศจิกายนนี้ และมีการเคาะอัตราจ่ายค่าบริการผู้ป่วยใน ปี 2570 ที่ 5,100 บาทต่อ RW หลังหักเงินเดือน ข่าวนี้เกี่ยวข้องกับระบบบริการสุขภาพของผู้มีสิทธิบัตรทองทางอ้อม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41cVVvVWVocDc3UHMxTHFHM2duYnBHSC1IdjJadnA0WkpLNXJldENBWXlkdVJVQVlLZlpCMXNoTHpOU3JGSUU5TkdpMGRlbEUyM2dFZEJ4X0s4OGM?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-18T16:53:21Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "เกี่ยวข้องระบบบริการสุขภาพ แต่เป็นเรื่องการเงินโรงพยาบาลมากกว่าประชาชน"
+    },
+    {
+      "id": "4e0eaa50",
+      "title": "ชาวญี่ปุ่น ตีแผ่ชีวิตคนกรุงเทพฯ ค่าครองชีพพุ่ง สวนทางค่าแรงขั้นต่ำวันละ 400 บาท",
+      "summary": "ชาวญี่ปุ่นนำเสนอภาพชีวิตของคนกรุงเทพฯ ที่ค่าครองชีพเพิ่มสูงขึ้น ในขณะที่ค่าแรงขั้นต่ำอยู่ที่วันละ 400 บาท เป็นการสะท้อนมุมมองจากสื่อต่างชาติ ไม่มีมาตรการของภาครัฐระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zMTZCZU1tcXM4YjFMemZqaEVOOHR4VWl0SGM4bXUxOVFtb0RwNHpMV0wxWkJWWkJyWnpac1lMWWhOMTRtRHgzUjdHcmZURUtT?oc=5",
+      "source": "Thaiger",
+      "published_at": "2026-11-19T07:24:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "สะท้อนค่าครองชีพของแรงงานรายได้น้อย แต่เป็นมุมมองสื่อ"
+    },
+    {
+      "id": "837332cb",
+      "title": "อภิสิทธิ์ จี้นายกฯ แจงไทยได้อะไรจากดีลสหรัฐ หวั่นไม่คุ้มค่า ศก.เสียหายมหาศาล",
+      "summary": "นายอภิสิทธิ์ เวชชาชีวะ หัวหน้าพรรคประชาธิปัตย์ เรียกร้องให้นายกรัฐมนตรีชี้แจงผลประโยชน์ที่ไทยได้รับจากการเจรจาการค้ากับสหรัฐอเมริกา โดยกังวลว่าเกษตรกรไทยจะได้รับผลกระทบ แลกกับการลดภาษีส่งออกเพียง 2.5% เมื่อวันที่ 19 พฤศจิกายน 2569 ที่รัฐสภา",
+      "url": "https://www.khaosod.co.th/politics/news_10477751",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-19T07:05:44Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "กระทบเกษตรกร แต่เป็นความเห็นฝ่ายค้าน"
+    },
+    {
+      "id": "d1db97e9",
+      "title": "แบงก์ชาติอีสานชี้ ศก. ไตรมาส 3 ฟื้นรับมาตรการรัฐ แต่ ไตรมาส 4 ส่อหดตัว จับตาค่าครองชีพพุ่งฉุดกำลังซื้อ",
+      "summary": "ธนาคารแห่งประเทศไทยภาคอีสานประเมินว่าเศรษฐกิจไตรมาส 3 ฟื้นตัวตามมาตรการของรัฐ แต่ไตรมาส 4 มีแนวโน้มหดตัว และจับตาค่าครองชีพที่สูงขึ้นซึ่งอาจกระทบกำลังซื้อ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45U0dzVjEyMVl0cHNPRzRFTVlFWHBJRUJLeFhBekJSSnhWRzdERjMzaWZLR3l6WDBmZzFMbXR6dFdERG5XNGhxWno1QWF6akM3WExYVk1oOFY?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-18T10:53:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ค่าครองชีพกระทบกำลังซื้อประชาชนรายได้น้อย"
+    },
+    {
+      "id": "55787bc3",
+      "title": "‘จักรภพ’ ชูประกันสังคมคืออนาคตประเทศ หนุนปฏิรูปเชิงระบบ เตือนสติอย่าตื่นตัวเกินเหตุกับตัวเลข 3 ล้านล้าน ชี้โจทย์ใหญ่คือความเชื่อมั่นประชาชนและสังคมสูงวัยที่มาถึงแล้ว . วันที่ 18 พฤศจิกายน 2569 ในที่ประชุมสภาผู้แทนราษฏร นายจักรภพ เพ็ญแข สมาชิกสภาผู้แทนราษฎรแบบบัญชีราย",
+      "summary": "นายจักรภพ เพ็ญแข สมาชิกสภาผู้แทนราษฎร กล่าวในที่ประชุมสภาเมื่อวันที่ 18 พฤศจิกายน 2569 ว่าประกันสังคมเป็นอนาคตของประเทศ และสนับสนุนการปฏิรูปเชิงระบบ พร้อมเตือนไม่ให้ตื่นตัวเกินเหตุกับตัวเลขกองทุน 3 ล้านล้านบาท และชี้ว่าความเชื่อมั่นของประชาชนและสังคมสูงวัยเป็นโจทย์สำคัญ",
+      "url": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNRWlHR0ktT3RmdnU3bWpRRmI2Y0tnckJkLVlycV9NTUZVZ3k1NGhFT1UtQ2tsX2JIaW5MN3ktcDRhejc0YnQtOVM1ejRaSkVZQ2RXalh1NVBaaGZxWnNETWJvdE5Sb21sSy1hck8wSGdkUlhNOGtuM2tjQklXNzBTQUZ5M29CaHFQQ2FXSlNHY1JSVTVPRjFueC1PZXUxSjhwdHhpYjc2eHlmdm4wVG4tOEViSXRFcUMwYVY3NXN2X3M3REJMV1JTQ2lPaFpyOGx0bF80Y1FtaGhZSHQwcDlLV0Nua1Z2cThkS2MtczlNY0w3a040WUdVNllENWp2Y25pOXZEd1BOWXhiSFBXUVpoU3dtcjVMQm13VTJCR3RSTW5iRXVXTHJRNU9QZVZfM1hqdmVlXzNYZlFDUWRDREV2eHA0Nm85d1RUVHQzMWUweUVBeG05aHFoQlY3MVBLZzU1RVVtdFZOb1pLWUlHbzRCSTQwM05ScTJUVFRiV1BwWFRqQ2pPMVloUFVTT0dmS0xnRGNZMnBvdzdsWUlfTHRxWHR5bXc2UV82QkJrNlBEaUVuM3VsbkNLdW1KelluR3hCZmpYTU1PeWVLM0tuZEhSWU9HeWpJazZtclB3MURJU2tXeGt2dS16Wm5HampzV1FDUDh3QzVETFVtRmdmMXllQWZQRkFwWVUyYU9qejY2Q1FvZEFEV19hcjB5Sy1kLXZiMU91S3AyT1RvUzBfU3NEOGhLb09GdnZFLTRDOWQzR1BGM0xxUWNVSm5oUUxmTVhKRmh4NmN1ZmhYNXdqdV9OUjFzcnc3Wk1lUm1qT3hpa2s1NkFueHlSZVhoZzZXTDNNQjFZenhhOGVvc2FzWEVTNEh1Rndab0lHTVA5VUlEU29kMDFBWlIxYWE4S3YtNXdTTF95LVlZNktqQXNlLWxqc29QOUstZ3lzODRUNWl3eGc1Q2RDOW5oSXBpTUw4QXREQWhDajRFeGRvM2RNQnJfNzdmWUUxRXB4S0tTTmNKX2pYQ3NmYUxuNTNEUGtCN3VlbzZtU0U5RndEeWwyMlBVaVZjRFl3ZEkxSnlibzlMM21ZcFVIMXlzdXJubmMyUnFXOFBNMkhXRElmNWRqR2hDcEx3N2pRYkFENW8zaVpFbmk3ZURpNzBNX1lyTFN3V3NKcW84S1dyYnUyNURIbUpMOU53ejFhVXNCQWxFRWFjV29lLWVGRm1vanZBZXZHZS1xdXQtd2xneDVSV3JibThSR3lCTUxjZklnVnRrS2MxUGdUMVgyQnZQWWg3ZkJJZWdkZU9jZ3RfMUplMHg2VktoaVp0Rl9WYWdUS1p4a0tyWWFvaHc2SEVLRzNGNm1QRGxRWTlReHBkcjk0aFN2V21xUg?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-18T09:00:10Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ความเห็นของสมาชิกสภา เกี่ยวข้องกับการปฏิรูปประกันสังคม"
+    },
+    {
+      "id": "6b609f60",
+      "title": "สภาฯถกแก้ กม.ประกันสังคม 5 ฉบับ “จุลพันธ์” ยันแนวทางใหม่ 3ข.ไม่กระทบกองทุน ปชน.ย้ำปฏิรูปดึงออกนอกระบบ เจอพท.ค้าน",
+      "summary": "สภาผู้แทนราษฎรพิจารณาแก้ไขกฎหมายประกันสังคมห้าฉบับ รัฐมนตรีจุลพันธ์ยืนยันแนวทาง 3 ข. ไม่กระทบกองทุน ขณะพรรคประชาชนเสนอให้ปฏิรูปโดยดึงออกนอกระบบ และพรรคเพื่อไทยคัดค้าน",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42VTdDSXBURjg4dk5JcmFEdXg5aTJwMlM5NGdicU1lTjlOc1hqT19Wd3VqaEt6U2lJdmhlTXFUOHlxeE9jSkZhRDF1cHpLcFA5cmZlR043TlZiMHpHWW43Mw?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-18T07:44:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "การถกเถียงเชิงนโยบายกฎหมายประกันสังคม"
+    },
+    {
+      "id": "9bfa756e",
+      "title": "‘จุลพันธ์’ ยัน ศึกษา ‘3 ข’ รอบด้าน ไม่กระทบเสถียรภาพกองทุนประกันสังคม | The Reporters",
+      "summary": "นายจุลพันธ์ยืนยันว่ากำลังศึกษาข้อเสนอ '3 ข' อย่างรอบด้าน โดยจะไม่กระทบเสถียรภาพของกองทุนประกันสังคม รายละเอียดของข้อเสนอและกำหนดเวลาไม่ปรากฏในข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnaU9yQ3kzek9wbkt3WUZIRGxaNDJHTE5BVUxTRF9nQ1ZMQWFqci1BQVViQVNnMTBMeWFhUmRoanBNT1g0alNPdjVVS0dMVkdDUEtNSm1n?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-18T09:15:56Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "การศึกษาแนวทางปฏิรูป ยังไม่มีมาตรการชัดเจน"
+    },
+    {
+      "id": "3f22f36b",
+      "title": "\"จุลพันธ์\" ยันมาตรการ 3ขอ ไม่ทำกองทุนประกันสังคมล้ม",
+      "summary": "รัฐมนตรีจุลพันธ์ยืนยันว่ามาตรการ 3 ข. ของการแก้ไขกฎหมายประกันสังคมจะไม่ทำให้กองทุนประกันสังคมล้ม",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2Q19VcWZwUkllMEVVcy1Gb0tWZ2F5d0lnZzBfaENoaEdXMzZKX2ZPLXlVc3E0RFRQQU1rcGFnTnZKMlRiQnJqZGZXVGVoaVI0cE1PVTNwOA?oc=5",
+      "source": "INN News",
+      "published_at": "2026-11-18T06:48:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับสวัสดิการแรงงานแต่เป็นการยืนยันท่าที"
+    },
+    {
+      "id": "f677892d",
+      "title": "ร่างพ.ร.บ.ประกันสังคมใหม่: จุดเด่นของ 4 สส.สายแรงงานจาก พปชร.และเพื่อไทย",
+      "summary": "เป็นการนำเสนอจุดเด่นของสมาชิกสภาผู้แทนราษฎร 4 คนจากสายแรงงานของพรรคพลังประชารัฐและพรรคเพื่อไทย ที่เกี่ยวข้องกับร่างพระราชบัญญัติประกันสังคมฉบับใหม่ รายงานไม่ได้ระบุเนื้อหาของร่างโดยละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nMTRTNzlTWng4Sm8yaVFMcHBlZEtqZVhDZEJjYVFYZ29LYkZzQjE3X09YaFpxaFV6TDF5SFdqYzNTc29GTEc5QndtOFVtYW1BS2hCQkRyUFA0Q1RkaDRtMGM3X1dSbEFUTFI3azJR?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-18T17:11:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกับกฎหมายประกันสังคม แต่เป็นข่าวการเมืองเชิงบุคคล"
+    },
+    {
+      "id": "b2333879",
+      "title": "เปิดปมร้องค้าน บอร์ดประกันสังคมชุดใหม่ เร่งไต่สวนคุณสมบัติต้องห้าม ‘ธนพงษ์’ เหตุมีหลักฐานแน่น",
+      "summary": "มีการร้องคัดค้านการแต่งตั้งบอร์ดประกันสังคมชุดใหม่ และเร่งไต่สวนคุณสมบัติต้องห้ามของบุคคลหนึ่ง โดยอ้างว่ามีหลักฐานชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43M0VKUEswdXRCSVR4RTdYMnktRmQycHRuMzhnQjVpVXQwR0g0Y3pQUkZMMHhVRXZ2NDEyMnJXR293NmxQM3VvaGZubE5ld2w3WUpCTF9YNzBZdnJEMlhJYmhTakNhdw?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-18T07:10:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวกับการบริหารกองทุนประกันสังคม เป็นประเด็นติดตาม"
+    },
+    {
+      "id": "4a13103f",
+      "title": "คนญี่ปุ่นโพสต์ความจริงชีวิตในกรุงเทพฯ ค่าแรงขั้นต่ำอยู่ไหวไหม ชาวเน็ตถกเดือด",
+      "summary": "มีการเผยแพร่ความเห็นของชาวญี่ปุ่นที่อาศัยในกรุงเทพฯ เกี่ยวกับค่าครองชีพและค่าแรงขั้นต่ำ ซึ่งเป็นการสะท้อนความคิดเห็นจากโซเชียลมีเดีย ไม่ใช่นโยบายของภาครัฐ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mczAyTGdET0hXUjF3UjJ6Sk1RMl9Pa01GMEVKdjhlVk5TM2RpaXROZGNTbGdsZnFuSktlajlFWC1WQVZvLXlwOEtyeWl4c0U?oc=5",
+      "source": "kapook.com",
+      "published_at": "2026-11-19T05:21:02Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวกับค่าครองชีพแต่เป็นความเห็นทั่วไป"
+    },
+    {
+      "id": "99469007",
+      "title": "อย่าบังคับ! ให้คน ประกันสังคม เลือกเลย! จะจ่ายเงินต่อ หรือย้ายเข้า สปสช. | TOJO NEWS",
+      "summary": "เป็นคลิปข่าวจากช่องทางออนไลน์ที่เสนอความเห็นว่าไม่ควรบังคับผู้ประกันตนประกันสังคมให้เลือกว่าจะจ่ายเงินต่อหรือย้ายไปสปสช. เนื้อหาเป็นความเห็นของผู้จัดทำ ไม่ใช่มาตรการทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SalRRRDJKeHAycjQ1RWNaYkx1LTlyTDVYOFduUVRRdnIyREJfTDVfZkJ0bGpDOTM2dFZWbjl2aDNMYV9Ib0YxcU1IQ3pIb3lhNW5nUENB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-18T23:10:55Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ความเห็นและเนื้อหาจากสื่อออนไลน์ ไม่ใช่มาตรการรัฐ"
+    },
+    {
+      "id": "cceb808d",
+      "title": "\"แดง-ส้ม\"ศึกรอบใหม่ ชิงชัย\"ปฏิรูปประกันสังคม\" : 18-11-69 | iNN Top Story #ปฏิรูปประกันสังคม #พ.ร.บ.ประกันสังคม #พรรคเพื่อไทย #พรรคประชาชน #รักชนกศรีนอก #iNNTopStory #innnews **อย่าลืม! กดถูกใจ กดติดตาม กดติดดาว เพจด้วยนะ จะได้ไม่พลาดโพสต์ของสำนักข่าว ไอ.เอ็น.เ",
+      "summary": "รายการข่าวออนไลน์รายงานการถกเถียงทางการเมืองระหว่างพรรคเพื่อไทยและพรรคประชาชนเกี่ยวกับการปฏิรูปประกันสังคม เนื้อหาเป็นการแลกเปลี่ยนความเห็นระหว่างพรรคการเมือง ไม่มีมาตรการหรือจำนวนเงินที่ชัดเจนจากข้อมูลที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMipgZBVV95cUxQdjNWT2tCUGFXbDhJU2tsQ0tfY0F2ZkQ1akVUdkZ4NmNLTlg5aVZ0RDltamNIa1ZOdVJCSjFybEhXWmhBXzJWZnQxbzhFN0VOenByU0UxQXVXMWMzTS01WWdUQWhoVkNQZDNVaHZnMEdFa01pdU9JRXdQWm1COTB3Tk5JdXpsRDRlMEN0aXZwT2V1eV9BMFdUaEZzbTBqUXZlXzFJNGVBWEtyNXZlaWFidjB3eFZoMkk0VHpSSV9tRk5kTFp1d1NYeC1CTDJnNXZkQ19hN0FacUQxazNpWEtCYjVKbFhfYy14RXFFMUR0enlHeVNkUEZycl9mSVBwN3dNMjF1azNKdi00bWFJWUtDWnBRTGI2UnVQcV9oS0NDS2trNFMwOGlzNVQyZFJNRGM0SG9DRmNzczE3aGtRWkFOUFFEamkwZWp2RGNoYUdZbjV2VVEwVmFaejY2azdBLWc3a3RaZDcwSVR2R1dVX0ZsMkZhM3RvWl9DLWpKcEhFMFR4SWVKTVJPVzJCcUl2MUNsbm1kRW1PR3pIenE0U0VhRHRYSUlCRmJ2SXdYSUxEU1VJNW4xd0c5YkF0eG14Yk16dmtNeTlkYWZ3STJVall5eDI0U05CeWJYcGxhcFBWaGhsbktId3NHbUJSUXZWbnltR1pHTzRjZzBNRjROd1pmdk9kakJtTC15d2J4MGlHX0h2OGp4eDlmd2pvUHE2MlhXaVljX3hpN3RtQTYxeWVacE1NdUtHRVhxZTc5NUw2dlNRMFNNYm1fRER6OWIyUEozVWhERjRHaXFOd2ZEVUptTWp6UGFJRUdKamYzVHUzOG9ocFRLblotTXQ1YTRGNi0yd3BpWVF6SkFIRklsVHhvNEtGUHF5Y1QwWFZlTGtUUGRHX2hfYWtDRUNhQlNEaE9kUFo0OGs0VWowVFZmMWhuLWFILUtGUmQtc3dPdFZyMGdBMEsybWs0RHEzRXptRXlqUFFRZXo5M1NfM1JsaUtqajM5b0tsUnZrTWJlaUYyYlh1SS1CUXpNYVVTY3pkZnVabkktV2tIUnV4ZlFmTTBMOF9nUzVFQQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-18T08:00:44Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นการโต้แย้งทางการเมือง ไม่ใช่มาตรการที่ชัดเจน"
+    },
+    {
+      "id": "4177ea05",
+      "title": "“3 ขอ-ออกนอกระบบ” วิวาทะร้อน สู่ พ.ร.บ.ประกันสังคม ที่อยากเห็น (18 พ.ย.69) I ตรงประเด็น",
+      "summary": "มีการวิเคราะห์และถกเถียงเรื่องข้อเสนอ 3 ข. และการออกนอกระบบประกันสังคมในการแก้ไข พ.ร.บ.ประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uXzlaaEdFRjNVbmNaalQzRmY1b0hSWHpHSEJSYzZUVkF1dE1vR1l1V0FhbFJibHVfdmZKaDItMHlMMU5ramMxdXdsYUxKNEJsZmpKVEs0U3RITng2MHF0OGZSVjlrQUph?oc=5",
+      "source": "The Active",
+      "published_at": "2026-11-18T07:48:10Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นบทวิเคราะห์ความเห็น ไม่มีมาตรการใหม่ที่ชัดเจน"
+    }
+  ]
+}
