@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T08:36:46Z",
+  "window": {
+    "from": "2026-11-22T06:36:04Z",
+    "to": "2026-11-23T08:36:04Z"
+  },
+  "stats": {
+    "fetched": 202,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 15894,
+    "ai_output_tokens": 10447,
+    "cost_thb": 0.25,
+    "runs": 1,
+    "kept": 28,
+    "eastern": 4,
+    "national": 24,
+    "new": 28,
+    "followups": 0,
+    "sources": 21
+  },
+  "items": [
+    {
+      "id": "ecfb8faa",
+      "title": "“เอกภพ\" ชี้ปมแก้ กม.บัตรทอง สร้างธรรมาภิบาล-ความโปร่งใส ก่อนจะล่มสลาย",
+      "summary": "โฆษกประจำสำนักนายกรัฐมนตรี นพ.เอกภพ เพียรพิเศษ โพสต์เฟซบุ๊กเมื่อวันที่ 23 พ.ย. 2569 ระบุว่า สปสช. จ่ายเงินให้โรงพยาบาลต่ำกว่าต้นทุน จึงเสนอให้แก้ไข พ.ร.บ.ระบบหลักประกันสุขภาพแห่งชาติ เพื่อสร้างธรรมาภิบาลและความโปร่งใส ก่อนระบบบัตรทองจะประสบปัญหา",
+      "url": "https://www.hfocus.org/content/2026/11/40356",
+      "source": "Hfocus",
+      "published_at": "2026-11-23T02:52:23Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "การแก้กฎหมายระบบบัตรทองระดับประเทศ"
+    },
+    {
+      "id": "a8950812",
+      "title": "ตัดวงจร มะเร็งเต้านม ในครอบครัว ก่อนโรคลุกลาม รพ.พระปกเกล้า รุกตรวจยีน BRCA1/BRCA2 ฟรี!สิทธิบัตรทอง!",
+      "summary": "โรงพยาบาลพระปกเกล้าให้บริการตรวจยีน BRCA1/BRCA2 ฟรีสำหรับผู้มีสิทธิบัตรทอง เพื่อตรวจคัดกรองความเสี่ยงมะเร็งเต้านมในครอบครัวก่อนโรคลุกลาม ข่าวสั้นไม่ระบุจำนวนผู้รับสิทธิหรือระยะเวลาให้บริการ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54UFpndXZiejBrSWQweW1XVGk0cVB5eVJMVVZraEFMM05uMVoxVGR3RXZTa0M4TTJlN1FwRmViUzBfc0d5MDJBM2FfeDhhc3czcmpaXw?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-23T08:02:54Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "บริการสุขภาพฟรีสำหรับผู้มีสิทธิบัตรทอง"
+    },
+    {
+      "id": "a892bce9",
+      "title": "รมว.จุลพันธ์ เดินหน้าต่อยอด “ประกันสังคมห่วงใย เคียงข้างผู้ประกันตน” ลงพื้นที่เกตเวย์ซิตี้ ฉะเชิงเทรา",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงานลงพื้นที่เกตเวย์ซิตี้ จังหวัดฉะเชิงเทรา เพื่อต่อยอดโครงการ “ประกันสังคมห่วงใย เคียงข้างผู้ประกันตน” ซึ่งเป็นโครงการสวัสดิการสำหรับผู้ประกันตน ข่าวไม่ระบุรายละเอียดสิทธิประโยชน์ จำนวนเงิน หรือวันที่เริ่มใช้",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YLWZoM2tKNGVPUnFPZ3VKVkRKa0xRTW9xa1RmdkhsM1YxbzBxeVdLZ1hxcTJ4OHNYejA2enRfLXhBSy1WV3lidmN3Q1FLYW9XR0JJ?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-23T03:35:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 78,
+      "why": "โครงการสวัสดิการผู้ประกันตนที่มีการลงพื้นที่จริง"
+    },
+    {
+      "id": "2796c770",
+      "title": "เครือข่ายสลัม 4 ภาค ค้านแก้ 'กม.บัตรทอง' จี้เปิดตัวเลข 'รพ.ขาดทุน' ให้ชัด",
+      "summary": "เครือข่ายสลัม 4 ภาคแสดงการคัดค้านการแก้ไขกฎหมายบัตรทอง และเรียกร้องให้เปิดเผยตัวเลขโรงพยาบาลที่ขาดทุนอย่างชัดเจน ก่อนที่จะมีการดำเนินการแก้ไขกฎหมายที่อาจส่งผลต่อการเข้าถึงบริการสุขภาพของประชาชนรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMk5xTUM1bWdFcjJJbkZEVVJ3ZlZucmZEQTVmU3hkSXY2d3dhZ1N6d2c4SnM4NHVNTlZCME1TZXlfYjhycUMtVFY3Z20wZEJTajQ2TUlvS0tOYnR0VTdGSw?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-22T10:50:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ข้อพิพาทกฎหมายบัตรทองกระทบประชาชน"
+    },
+    {
+      "id": "1e657a71",
+      "title": "เครือข่ายสลัม 4 ภาค ขอเปิดข้อมูล รพ. ขาดทุน ก่อนใช้เป็นเหตุแก้กฎหมายบัตรทอง",
+      "summary": "เครือข่ายสลัม 4 ภาค ขอให้เปิดเผยข้อมูลการขาดทุนของโรงพยาบาลต่าง ๆ ก่อนที่จะนำมาใช้เป็นเหตุผลในการแก้ไขกฎหมายบัตรทอง เพื่อให้การพิจารณาการปรับปรุงระบบหลักประกันสุขภาพแห่งชาติอยู่บนข้อมูลที่ชัดเจน ซึ่งกระทบต่อสิทธิการรักษาพยาบาลของประชาชนผู้มีรายได้น้อย",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92M1Y5dm1Na25nVHNCcW85UUJudk5qTkhvVVVYWi1xVndJX01EdlhNSzBXNTdoUWtKUGNHU0ZMZVpzd2poTGVJLTQyTWR1Qmk0WmxoREhOcw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-11-22T10:31:10Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เกี่ยวข้องกับสิทธิบัตรทองของประชาชน"
+    },
+    {
+      "id": "3e114678",
+      "title": "รมว.จุลพันธ์ เดินหน้าต่อยอดกิจกรรมประกันสังคมห่วงใย เคียงข้างผู้ประกันตน “โครงการหลังนำร่องดูแลผู้ประกันตนหลังน้ำลด” รุกนิคมอุตสาหกรรมเกตเวย์ซิตี้ จังหวัดฉะเชิงเทรา",
+      "summary": "รัฐมนตรีว่าการกระทรวงแรงงาน นายจุลพันธ์ ต่อยอดกิจกรรม \"ประกันสังคมห่วงใย\" ผ่านโครงการดูแลผู้ประกันตนหลังน้ำลด ที่นิคมอุตสาหกรรมเกตเวย์ซิตี้ จังหวัดฉะเชิงเทรา ข่าวไม่ระบุจำนวนเงินหรือสิทธิประโยชน์ที่ผู้ประกันตนจะได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMimA9BVV95cUxPY1BPSTZTQlFOMVJncWJqNWxzNlQwVkl1LUZpOU1HdWYzazJvY0dmcVQ0eUxzcFJCSTNIOUtkcEprTGpjR1JXNUlFV3BaT2hfNUpFbXZvVGVrSWRBLUpDNTg2MjktZTd2aW1HYUZMZklWUG1sLTZ4cWlYZlRLN1BpU0oyZGwzQkhTZXBlU2tYME9qYTFINGM2S1pJa3VHQ255anNFeFBNMThMQ2hkVkRfbG91aTAtZk1ycFdZb0ZfWDhPTnBMWi11eDVScnNSekJzWktEaWpySE1rNlNKUXNXSVN0NkZ6OURiYVVXN1B4eFE4SF9OeUlwemRXYU0xbnNYQzVkaU1oQ0E1dUJfaXhQYTdUbV8yME5KUGxJbnZNNmNKZHB3UXdvTUEzekF5d3RwWkl2VUpKN2lGdUtZZ2JQNmlhR29SdWc0emd4eTA0eXY4YlE4Z0JZbTZBc1kzclVETFZKY3QySDJUcnhCa2VVbGdfSk9qOXA5OEhpLWdJaWZqVHVSclgwQXdPa3NLWGZrM0FTMzBvWVhWYmU0alZpd3RERWMxcS1Vd3h6WkpKVXd0dUFCdkJqdDdwbVZ2UDZzcVRMbDZKbjVZZnBwbWhGZTlSS3p5MFRmcnBPMFhrTHpzQy1FVEFmYzA5bUw1U2R5OGU4VEpySFJvMTBDa3JLU1JmSTBqbnRyTEN4N3NoQS01WDNMVlRNamtyb0pacXl5WGI1dndhUEltbXp1TGg4bEVtZExrejd1RXFLUUkwQWxmdzRwS0hianlYUnRXTHpraFN3NThscktrYzBpSU9GdS1HbW1ySS1kY2tCMmxrUEJneHFOUDhGdkQwV09WU0M3aGhqWVI2bE1BMnFsZHFJRFNrWXNzYkZ0cWNIRUFzTlIxeVhZQjZBWUJLTnpqdXlRM0JaMGlKMXZVQmQwTnp2N0w2dnUxMXNONlZmMlY4OGd6ZFRtdFI3a3RXc3hZWDdWa0JSQ2ZSV3RuVm5fMHBIV2kzQXNQbW5EdE9JcW5GWmV1Yy1mRUVHam00enJLZFUzZmJzYkZXQVBTRlFSUW9zUmtxV1FRNDdxU0N6eWw0OXVRZ3JiVFdITVFtc2E4ZmY5aHpMdENJVWZvcUJiYTUwRFg5djVudTFPdkhQalMxblFQR2NfTTZtbFhtQXNpT3hoa29lLWdYVVRnSkFCRUFrc2N3QkNVNlNob0ZNd21vdlVUb1VCZ0pfeFZ5Qm84MHdWUDJ5WVY3Mkt3cWZGWHZNMG80LWlRSWJ1eWQ2UFh0bzRWTTk5bFpocXh2bVhxUWNUWldDYWtKZ05HWnBfZDMza3lacm1CcG05Qm1TZkFycldWOWRZWFcwTThBazZkcjl1YUQ5cEt1Nzc1OUtwOG03aFM4VFpDN2VIMWRwbi1DSm1DeWlTRGNwVjhoMGdSaHVlOFNNOHJ4ekZnSjhHT0lfUm1mNTFPeGdydVo2Z3JKazZ4OGM4bWNNaUlDMDZ2NVVldVJ1WS1TLTVEdzIxbHJhdkwxcUlsaUUwNWNzTkVwbW1kSktFQnFhTzN1R2NiYjBHcDRVbUhtYjlGMzZQV294NlVfZ1FQSGhFQ0JIZGhUQnZtc0JFWXVLeHZZTU9udmFpZnJxU0NiOTVHYlhJTW5oZHBZc1dmeTRNTFZESjExeENwZy1yRWZnQ3lraEZ4bWlNS0pyWTBNWEpBYjg1MDE1TThLQlBCYjItMmdBR1BjTUYxOXEtOUNyaW1sRGNSNGNwSjluYWhVeHI5SG45WEJmTVpUYTB2ZUxLeFBjVloybWJHM0Z4RVN2NVdxSHNFdHQzalBWbEhJY25TWFpDS1ExWGFIRUdyc0pFcjZRX0I4ejZERjhkOUtCbTJ6RHVHbTc3VU5YMVVNVHdsOWtLWEJnVDV0UUtiaU5iTkFvMnhEWEJRcHVNRExCZmZrc2hWcGJsbGphZFg5X21KLThnUmc0bWM0d0VoNVU0djhFdEU0alhuU3dRQTBvd2dCYnA4dkRHVEYwdlpRdWQwQlRRN0t0YmFNd0laeU9FWVZPaEJqXzdWYjUyQUo3RDB5eUY3NE16VUdmU0pWX0NOOVdudWxGcTR0V2tlemgtbUpndUtMOE1vc1VqNWl4YUJGUy1aMzd4Vi1Fajk3ZWpEYndFemE4eS1KejhMZkNtTG5RZld5Y2h1bmxmNVJ1aU05UzZjZkJ5eDduaDhWb0p3WUZNOFlxdWZFb3BRWjlxNjlhbHRISG9RcTkwWW1VTnIyUDZpakhLdHhtdHk2VXFfbk5oYmJBbVRkRWdUMDcwOWt1WTNWd2hSV0N3bG1kX0owZFhadkFBbTJXR0tQcnF3d0tfdHg1UXVMVEVLMHRaVWNJdlg5S0E4ZmZpemxZaEM5NUI5T2lDcVJEVXRKc2hJdUsySlNJcXhkcElHRk9fVWNGczhyRFVFXzVITWFsaDdQcExuNm8yTmdOSjdtdFNBMDlUYlhtY09mb1VvRUVsXzc4eldHVnBOV3JNNnJBQTY1eFozRkFWc1pyZkVQaEhXNmNqWXhDRk4tVWxoZkd4ZzBBNE1mNE9BWU9yVjcxUFgzSWt5elBHVHlCamwyZ1Q?oc=5",
+      "source": "กระทรวงแรงงาน",
+      "published_at": "2026-11-23T06:58:55Z",
+      "category": "employment",
+      "provinces": [
+        "ฉะเชิงเทรา"
+      ],
+      "eastern": true,
+      "score": 75,
+      "why": "มาตรการช่วยเหลือผู้ประกันตนในพื้นที่ประสบอุทกภัย"
+    },
+    {
+      "id": "e48aa4ad",
+      "title": "“จุลพันธ์” ลุยเกตเวย์ซิตี้! ส่งประกันสังคมดูแลผู้ประกันตนหลังน้ำลด ครบสุขภาพ–สิทธิประโยชน์ 500 คนรับบริการ",
+      "summary": "สำนักงานประกันสังคมส่งทีมเข้าดูแลผู้ประกันตนในพื้นที่เกตเวย์ซิตี้หลังน้ำลด โดยให้บริการด้านสุขภาพและสิทธิประโยชน์ มีผู้เข้ารับบริการประมาณ 500 คน",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTmhzN1BqZ2dlOEh6MVpqUFdZTTNwUE93MUZqOEV1U05VeWVRZER2NVZPaldsQTZRWjM4VDVTeXlqWl90ZjQ2ejhqVThxMmM?oc=5",
+      "source": "www.topnews.co.th",
+      "published_at": "2026-11-23T08:26:11Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "บริการสวัสดิการจริงแก่ผู้ประกันตนหลังอุทกภัย"
+    },
+    {
+      "id": "b436a8c8",
+      "title": "สภาพัฒน์ เผย คนไทยยังพึ่งสินเชื่อส่วนบุคคลสู้ค่าครองชีพ เตือนระวังแอปฯ เงินกู้เถื่อน",
+      "summary": "สภาพัฒน์เปิดเผยว่าคนไทยยังคงพึ่งพาสินเชื่อส่วนบุคคลเพื่อรับมือกับค่าครองชีพ พร้อมเตือนประชาชนให้ระวังแอปพลิเคชันเงินกู้ผิดกฎหมาย ซึ่งอาจนำไปสู่ปัญหาหนี้สินและการถูกเอาเปรียบ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRFY0Ujlfc09jenhPTkxWSkI4SkVMSzljcW43TEU4eDBJZHh5YWE2S1M4am5HVTlMNjVQZ2ViUWxiWmVHbXBta0VDMXNrZnBDQVVVRQ?oc=5",
+      "source": "วารสารการเงินธนาคาร",
+      "published_at": "2026-11-23T05:35:56Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ประเด็นค่าครองชีพและหนี้ครัวเรือนของประชาชนทั่วไป"
+    },
+    {
+      "id": "e8d48981",
+      "title": "เพจดังสะท้อนมุมรพ.รัฐ ขยายสิทธิบัตรทอง งบฯไม่พอ ค่าตอบแทนบุคลากรล่าช้า",
+      "summary": "เพจ Doctor กล้วยสะท้อนปัญหาโรงพยาบาลรัฐจากการขยายสิทธิบัตรทอง โดยงบประมาณไม่เพียงพอ ส่งผลให้ค่าตอบแทนบุคลากรล่าช้าและบางแห่งชะลอการจ่าย ผู้โพสต์ระบุว่าควรแก้กฎหมายเพื่อปรับปรุงระบบ เมื่อวันที่ 23 พ.ย. 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40360",
+      "source": "Hfocus",
+      "published_at": "2026-11-23T05:08:31Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ผลกระทบต่อระบบบัตรทองและการบริการ แต่เป็นความเห็นจากเพจ"
+    },
+    {
+      "id": "67830af8",
+      "title": "สภาพัฒน์ชี้ Q3/69 อัตราการว่างงานเพิ่ม ด้านหนี้ครัวเรือน Q2 ลด หลังจีดีพีปรับตัวดีขึ้น",
+      "summary": "เลขาธิการสภาพัฒน์ นายดนุชา พิชยนันท์ เปิดเผยว่าอัตราการว่างงานในไตรมาส 3 ปี 2569 เพิ่มขึ้น ส่วนหนี้ครัวเรือนไตรมาส 2 ลดลงหลังเศรษฐกิจขยายตัว พร้อมระบุว่าวิกฤตน้ำท่วมอาจทำให้เกิดหนี้ใหม่ซ้ำเติมหนี้เดิม และแนะนำให้ประชาชนหลีกเลี่ยงการก่อหนี้หากไม่จำเป็น",
+      "url": "https://www.prachachat.net/finance/news-2100682",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-23T06:19:08Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อมูลหนี้ครัวเรือนและคำแนะนำแก่ประชาชนจากหน่วยงานรัฐ"
+    },
+    {
+      "id": "cbc67cc6",
+      "title": "สภาพัฒน์ เผย Q3/69 คนไทยว่างงานเพิ่มขึ้น สัดส่วนหนี้ครัวเรือน Q2/69 ที่ 85.2% ลดต่อเนื่องสองไตรมาส : อินโฟเควสท์",
+      "summary": "สภาพัฒน์รายงานตัวเลขภาวะเศรษฐกิจไตรมาส 3 ปี 2569 ว่าอัตราการว่างงานของคนไทยเพิ่มขึ้น ขณะที่สัดส่วนหนี้ครัวเรือนในไตรมาส 2 ปี 2569 อยู่ที่ร้อยละ 85.2 และลดลงต่อเนื่องสองไตรมาส",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41RnNNWDNLMkNQbF81bVRqSlZBTE9Qazc4aGRSNXJPYU4xVkduMUhlbnBkLWRzNnBhWHZiSGxBZVVtLXJDY1pYdHl2VzlyaDdM?oc=5",
+      "source": "สำนักข่าวอินโฟเควสท์",
+      "published_at": "2026-11-23T05:47:23Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ข้อมูลว่างงานและหนี้ครัวเรือนที่กระทบประชาชนโดยตรง"
+    },
+    {
+      "id": "bb8cbadc",
+      "title": "ชาวนาเข่าทรุด ตากข้าวริมถนน เช้ามาถูกขโมยไปเกือบ 200 กิโล วอนโจรอย่าซ้ำเติมกันเลย",
+      "summary": "เกษตรกรชาวนาในหมู่บ้านสี่เหลี่ยม ตำบลสี่เหลี่ยม อำเภอประโคนชัย จังหวัดบุรีรัมย์ ถูกลักขโมยข้าวเปลือกเกือบ 200 กิโลกรัมที่นำมาตากไว้ริมถนน ชาวนาระบุว่าเหนื่อยมาทั้งปี และเตรียมกางเต็นท์เฝ้าข้าวที่เหลือ",
+      "url": "https://www.khaosod.co.th/around-thailand/news_10481528",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-23T07:15:36Z",
+      "category": "farmers",
+      "provinces": [
+        "บุรีรัมย์"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ผลกระทบต่อรายได้เกษตรกรรายย่อยในพื้นที่"
+    },
+    {
+      "id": "7ddd65b9",
+      "title": "ประมงพื้นบ้านยื่น 4 ข้อใหญ่ จี้แก้น้ำมันแพง-อวนลาก ทบทวนแลนด์บริดจ์",
+      "summary": "กรมประมงหารือกับสมาพันธ์ชาวประมงพื้นบ้านกว่า 200 คน เกี่ยวกับข้อเสนอ 4 ประการ ได้แก่ ผลักดันน้ำมันเขียวราคาถูก ปรับกฎหมายเรือประมง คุมเครื่องมือประมงผิดกฎหมาย และคุ้มครองสัตว์น้ำวัยอ่อน รวมถึงรับข้อเสนอทบทวนแลนด์บริดจ์ ข่าวยังไม่ระบุกรอบเวลาหรือผลสรุป",
+      "url": "https://www.prachachat.net/economic/news-2100653",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-23T05:14:41Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ข้อเสนอแก้ปัญหาค่าน้ำมันและปากท้องของชาวประมง"
+    },
+    {
+      "id": "2265c541",
+      "title": "หมอไม่ทน! หวั่นคนเข้าใจผิดปมแก้ พ.ร.บ.บัตรทอง ชี้ 5 ข้อเกิดแน่หากไม่แก้ไขกฎหมาย",
+      "summary": "แพทย์แสดงความกังวลว่าประชาชนอาจเข้าใจผิดเกี่ยวกับการแก้ไข พ.ร.บ.บัตรทอง และระบุ 5 ประเด็นที่อาจเกิดขึ้นหากไม่แก้ไขกฎหมาย ข่าวสั้นไม่ได้เปิดเผยรายละเอียดของทั้ง 5 ข้อ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41b05ORnlxdmVhT19IT0NINHBIdGVrdXRBRUt5WV85a1pnTkYyQk5DOUg5ekJhY2dqYllUaW40UXhXbXBZTWlQQ2pXYjI0U1NrbFFrVS10VQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-22T10:14:54Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ประเด็นกฎหมายบัตรทอง แต่เนื้อหาจำกัดและเป็นความเห็น"
+    },
+    {
+      "id": "ae618080",
+      "title": "ชาวนาเฮ! ผลตรวจข้าวเชียงรายผ่านมาตรฐาน พาณิชย์” ยันโรงสีรับซื้อเต็มกำลัง",
+      "summary": "กระทรวงพาณิชย์ยืนยันว่าผลตรวจคุณภาพข้าวในเชียงรายผ่านมาตรฐาน และโรงสีจะรับซื้อข้าวจากเกษตรกรเต็มกำลัง ซึ่งเป็นประโยชน์ต่อชาวนาในพื้นที่",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9idnYtQjBUVVVvVDNGb3JURlJrLWhDdlI3YTNNUW8zUXQ0Ri1XNUY5Z2hZZWRoQ29MS1RlZzBESUhWdHRaNUtxbGNlY3pkUzk4WWV4dElaZEdRVG9hdk15TXVTWnRvSXpwQzFpUVVOaG5SWU1K?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-22T09:55:00Z",
+      "category": "farmers",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "มีผลต่อรายได้เกษตรกรในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "af8fe72c",
+      "title": "“ดร.ชลนภา” ตั้งคำถามโรงเรียนแพทย์เก่าแก่! ปมรพ.ขาดทุน สหภาพแพทย์ฯ ร่วมคอมเมนต์",
+      "summary": "นักวิชาการตั้งคำถามต่อโรงเรียนแพทย์เก่าแก่ที่ได้รับเงินอุดหนุนการวิจัยมากที่สุด เกี่ยวกับประเด็นโรงพยาบาลขาดทุน ในงานเสวนาเรื่องการสื่อสารข้อเท็จจริงและการปรับปรุงระบบหลักประกันสุขภาพแห่งชาติ โดยสหภาพแพทย์ผู้ปฏิบัติงานร่วมแสดงความเห็น",
+      "url": "https://www.hfocus.org/content/2026/11/40364",
+      "source": "Hfocus",
+      "published_at": "2026-11-23T07:34:59Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับระบบหลักประกันสุขภาพ แต่เป็นการแสดงความเห็น"
+    },
+    {
+      "id": "40b7a1e8",
+      "title": "เช็ก ‘98 รพ.’ ประกันสังคม ที่ยังรับผู้ประกันตนได้ อัปเดตล่าสุด ‘พ.ย. 69’",
+      "summary": "เว็บไซต์ The Coverage เผยแพร่รายชื่อโรงพยาบาลจำนวน 98 แห่งที่ยังรับผู้ประกันตนประกันสังคมได้ อัปเดตล่าสุดเดือนพฤศจิกายน 2569 โดยผู้ประกันตนสามารถตรวจสอบสิทธิ์การรักษาพยาบาลเพิ่มเติมได้",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sdlNJMDdNN28teWswaVNYZGFUeTZ2ZUhkZERfN2lsaHNoQmIzYS1jQkc4bnVDdWwyVXc1eHpBQ0ZTU1ZKNkVmc1g5YzdyN3ZOVTdjREpHYjByTDA?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-23T06:59:49Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับสิทธิการรักษาของผู้ประกันตน แต่เป็นข่าวอ้างอิงรายชื่อ"
+    },
+    {
+      "id": "be99e610",
+      "title": "ไทยเตรียมถก 3 ฝ่ายจีน-เมียนมา แก้สารหนูปนเปื้อนลุ่มน้ำกก-สาย เร่งปกป้องเกษตรกร",
+      "summary": "ไทยเตรียมจัดประชุมสามฝ่ายระหว่างไทย เมียนมา และจีน เพื่อแก้ปัญหาการปนเปื้อนสารหนูและตะกั่วในแม่น้ำกกและแม่น้ำสาย โดยมุ่งปกป้องน้ำดื่ม อาหาร และรายได้ของเกษตรกร มีการจัดทำแผนที่พื้นที่เสี่ยงด้วยงานวิจัยและเทคโนโลยี ข่าวไม่ระบุวันที่ประชุม",
+      "url": "https://www.prachachat.net/economic/news-2100618",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-23T04:38:07Z",
+      "category": "farmers",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ผลกระทบต่อเกษตรกรและน้ำดื่มในพื้นที่ แต่ยังไม่มีมาตรการชัดเจน"
+    },
+    {
+      "id": "378923ff",
+      "title": "'เท้ง' ยกทีมลุยปราจีนบุรี รับฟังปัญหามลพิษ-อุทกภัย จี้รัฐเร่งหาข้อเท็จจริงเยียวยาประชาชน",
+      "summary": "นายเท้ง ลงพื้นที่จังหวัดปราจีนบุรี รับฟังปัญหามลพิษและอุทกภัย พร้อมเรียกร้องให้รัฐเร่งหาข้อเท็จจริงเพื่อเยียวยาประชาชนในพื้นที่ ข่าวสั้นไม่ปรากฏรายละเอียดจำนวนเงินหรือมาตรการเยียวยา",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Tc1B6T0pYM0V3NHFjVnRmYzAzTUEzXzZ1eUdXclVJWFFOYS1NRThob0dhdFJ4VTlMbDNLU2lGMzd3OTlVUi1hODFPS3dIbk9Fc3pnUlZTcElaNnc?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-11-22T13:46:03Z",
+      "category": "disaster",
+      "provinces": [
+        "ปราจีนบุรี"
+      ],
+      "eastern": true,
+      "score": 60,
+      "why": "ผลกระทบอุทกภัยในพื้นที่ แต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "78bab58d",
+      "title": "บีแอลซีพี จับมือภาคีปล่อยพันธุ์สัตว์น้ำเพิ่มทรัพยากรทางทะเลและชายฝั่ง",
+      "summary": "บีแอลซีพี ร่วมกับภาคีเครือข่ายอุตสาหกรรมนิคมอุตสาหกรรมมาบตาพุด หน่วยงานภาครัฐ และวิสาหกิจชุมชนประมงเรือเล็กทั้ง 7 กลุ่ม จัดกิจกรรมปล่อยพันธุ์สัตว์น้ำจำนวน 3.9 ล้านตัว เพื่อเพิ่มทรัพยากรทางทะเลและชายฝั่ง และสนับสนุนรายได้ของประมงพื้นบ้านอย่างยั่งยืน",
+      "url": "https://www.khaosod.co.th/pr-news/news_10481704",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-23T08:19:26Z",
+      "category": "employment",
+      "provinces": [
+        "ระยอง"
+      ],
+      "eastern": true,
+      "score": 55,
+      "why": "ผลต่อรายได้ประมงเรือเล็กในพื้นที่ แต่เป็นกิจกรรม CSR เป็นหลัก"
+    },
+    {
+      "id": "3775d3d1",
+      "title": "“ยศชนัน” เดินเครื่องบ่อดักตะกอนอัจฉริยะ สกัดสารหนูต้นทางบ้านเหมืองแดง",
+      "summary": "นายยศชนัน ลงพื้นที่อำเภอแม่สาย เดินเครื่องบ่อดักตะกอนอัจฉริยะเพื่อสกัดสารหนูที่ต้นทางบ้านเหมืองแดง ช่วยกรองน้ำให้เกษตรกรกว่า 60,000 ไร่ และกำหนดพิสูจน์ผลก่อนปล่อยน้ำในวันที่ 25 พฤศจิกายน 2569",
+      "url": "https://www.thairath.co.th/news/local/north/2974116",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-11-23T07:59:47Z",
+      "category": "farmers",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "มาตรการคุ้มครองเกษตรกรในพื้นที่ระดับจังหวัด"
+    },
+    {
+      "id": "36c1f9cf",
+      "title": "กสร. โชว์ผลวินิจฉัยคำร้อง คร.7 ปี 69 คุ้มครองสิทธิประโยชน์ลูกจ้างกว่า 2,518 ล้าน | The Bangkok Insight",
+      "summary": "กรมสวัสดิการและคุ้มครองแรงงาน (กสร.) เผยผลการวินิจฉัยคำร้อง คร.7 ในปี 2569 ซึ่งช่วยคุ้มครองสิทธิประโยชน์ของลูกจ้างเป็นมูลค่ากว่า 2,518 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2SWhBT1hvUEZ2ZDBKNzktQjNJc2tRRFJwbXhVMnRGVEZ4MlRjNF9tZXNTOF8wNWF1VVAtb0NPd05vdmpZamRvOFhBXzRYb3IzNERHTFB3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-22T23:50:44Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "คุ้มครองสิทธิแรงงาน มีมูลค่าชัดเจน"
+    },
+    {
+      "id": "55b4c0fb",
+      "title": "ม็อบฝรั่งเศสสัปดาห์ที่ 6 ปักหลักต้านค่าครองชีพ แม้คนลดลง | เข้มข่าวค่ำ | 22 พ.ย. 69",
+      "summary": "รายงานการชุมนุมประท้วงในฝรั่งเศสที่เข้าสัปดาห์ที่ 6 เพื่อต้านค่าครองชีพ แม้จำนวนผู้เข้าร่วมจะลดลง ข่าวนี้เป็นเหตุการณ์ในต่างประเทศ ไม่มีมาตรการหรือเงินช่วยเหลือภายในประเทศไทยที่เกี่ยวข้องโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NSnlLajdSWERMUlJidk1sRHdfcF9ycERBZy16ZXpNU2ZRdGpaTjdTUzF3OENaOVNxSEZ1SVlucUNJT0w0RjJDZkt5VkEzQUVhMTlGWA?oc=5",
+      "source": "pptvhd36",
+      "published_at": "2026-11-22T10:45:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นค่าครองชีพ แต่เป็นข่าวต่างประเทศ"
+    },
+    {
+      "id": "24e8cfc2",
+      "title": "‘เยาวชนยุโรป’ ผนึกกำลัง หยุดเรียนประท้วงทั่วทวีป จี้แก้ค่าครองชีพ ค้านทุ่มงบอาวุธ | The Bangkok Insight",
+      "summary": "เยาวชนในยุโรปรวมตัวหยุดเรียนประท้วงทั่วทวีป เรียกร้องให้แก้ไขปัญหาค่าครองชีพและคัดค้านการทุ่มงบประมาณด้านอาวุธ เป็นข่าวต่างประเทศที่ไม่เกี่ยวข้องกับนโยบายสวัสดิการของไทยโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KVlJndEtzUW95bFRyUHZXalhNcDhTcHRUZEJWVUVSTEhYTW5BOENSLXFkcUtvLU9lNEQ0ZTNFUTg2ZU9TSl9HTDV5OFB3eGlzcEwxVEVB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-22T11:18:17Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "ประเด็นค่าครองชีพ แต่เป็นข่าวต่างประเทศ"
+    },
+    {
+      "id": "7ec033a2",
+      "title": "การหน่วงเวลากับนัยทางการเมือง กรณีกองทุนประกันสังคม",
+      "summary": "บทวิเคราะห์เกี่ยวกับการหน่วงเวลาการดำเนินการกรณีกองทุนประกันสังคม และนัยทางการเมืองที่อาจเกิดขึ้น ข้อมูลในข่าวมีเพียงหัวข้อ จึงยังไม่ทราบรายละเอียดของการหน่วงเวลาและผลกระทบต่อผู้ประกันตน",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NS3d3WTRLcTlnaUwxbjJBT1IzR0cydXNCNGxZMGhvUXdyc1psWW5QcFZpaXd1ZFJlZmVmLWE2YjVuZmU1RzcyVUV5SVVJS0ZTT1E0QlpqcTdKUFMyb3pZ?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-11-22T09:49:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกองทุนประกันสังคม แต่ข้อมูลจำกัด"
+    },
+    {
+      "id": "27cc0f01",
+      "title": "เกษตรกรริมโขง ยังใช้น้ำรดผัก เหตุช่วยลดต้นทุน ชี้ข่าว ‘สารหนู’ ทำยอดขายลดฮวบ",
+      "summary": "เกษตรกรริมแม่น้ำโขงที่บ้านพันลำ ตำบลวิศิษฐ์ อำเภอเมือง จังหวัดบึงกาฬ ยังคงใช้น้ำจากแม่น้ำโขงรดผักปลอดสารพิษเพื่อลดต้นทุน แม้ยอดขายได้รับผลกระทบจากข่าวเรื่องสารหนู",
+      "url": "https://www.khaosod.co.th/special-stories/news_10481459",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-23T06:29:21Z",
+      "category": "farmers",
+      "provinces": [
+        "บึงกาฬ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "กระทบเกษตรกรรายย่อยในพื้นที่ แต่เป็นข่าวเชิงพื้นที่ระดับรอง"
+    },
+    {
+      "id": "13d253ea",
+      "title": "ภูมิภาคอ่าวเปอร์เซียกำลังเพิ่มเงินอุดหนุนค่าครองชีพให้กับประชาชนในพื้นที่",
+      "summary": "รายงานว่าภูมิภาคอ่าวเปอร์เซียกำลังเพิ่มเงินอุดหนุนค่าครองชีพให้แก่ประชาชนในพื้นที่ ข่าวนี้เป็นเรื่องในต่างประเทศ ไม่มีรายละเอียดจำนวนเงินหรือกลุ่มเป้าหมาย และไม่เกี่ยวข้องกับไทยโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUNVeExzYl9HU3ZJS2lfY21FRzQ1bF9IQlIxZ1R1MUJlSUltS25oNURjUU4yUTg3WjIxb3k1NW1veDMtSXFuS0NfbFVQOGxiNERlbkJZbkllMXRNRGhmTHNtVnJrdFNiZ2REZHo4bUtvSkM1R2VaRFdtZVgzWmFtdnV6U19mWG8?oc=5",
+      "source": "Vietnam.vn",
+      "published_at": "2026-11-23T02:26:41Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "มาตรการอุดหนุนค่าครองชีพ แต่เป็นต่างประเทศ"
+    },
+    {
+      "id": "08e7682a",
+      "title": "ยุโรปประท้วงต่อเนื่อง ปัญหาค่าครองชีพ ฝรั่งเศสชุมนุม 6 สัปดาห์แล้ว",
+      "summary": "มีการชุมนุมประท้วงในยุโรปต่อเนื่องจากปัญหาค่าครองชีพ โดยฝรั่งเศสชุมนุมมาแล้ว 6 สัปดาห์ ข่าวนี้เป็นสถานการณ์ต่างประเทศ ไม่เกี่ยวข้องโดยตรงกับประเทศไทย",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01MGpxM1hyRG5NekFORzdDSU5KN2llMDRoUFBTQXExZ011UDVrc2VLdnl5cnZuWExseW0xQ2tYM3ZlWW90d3ZyYm9JYS16c1N2aV9kNmthZERJbDNVUVcwYlVqUQ?oc=5",
+      "source": "CH3Plus.com",
+      "published_at": "2026-11-22T08:18:33Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ประเด็นค่าครองชีพ แต่เป็นข่าวต่างประเทศ"
+    }
+  ]
+}
