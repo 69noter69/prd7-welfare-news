@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "date": "2026-11-23",
-  "fetched": 202,
-  "kept": 28,
-  "eastern": 4,
+  "date": "2026-11-24",
+  "fetched": 201,
+  "kept": 32,
+  "eastern": 2,
   "runs_today": 1,
-  "ai_input_tokens": 15894,
-  "ai_output_tokens": 10447,
-  "cost_thb": 0.25,
-  "generated_at": "2026-11-23T08:36:46Z",
+  "ai_input_tokens": 17597,
+  "ai_output_tokens": 13091,
+  "cost_thb": 0.3,
+  "generated_at": "2026-11-24T10:41:51Z",
   "ai": {
     "ok": true,
     "model": "claude-haiku-5-5",
@@ -16,5 +16,7 @@
     "failed_batches": 0,
     "error": null
   },
-  "errors": []
+  "errors": [
+    "ไทยรัฐ: HTTPStatusError"
+  ]
 }
