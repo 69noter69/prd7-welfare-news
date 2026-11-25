@@ -1,0 +1,598 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T09:34:51Z",
+  "window": {
+    "from": "2026-11-24T07:33:56Z",
+    "to": "2026-11-25T09:33:56Z"
+  },
+  "stats": {
+    "fetched": 208,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 18143,
+    "ai_output_tokens": 13563,
+    "cost_thb": 0.31,
+    "runs": 1,
+    "kept": 38,
+    "eastern": 1,
+    "national": 37,
+    "new": 35,
+    "followups": 3,
+    "sources": 25
+  },
+  "items": [
+    {
+      "id": "32f07dd1",
+      "title": "ด่วน “ศุภจี” นัด นบข. ถก 27 พ.ย. เคาะเงินช่วยเหลือชาวนาไร่ละ 500-1,000 บาท จ่ายสูงสุด 10 ไร่",
+      "summary": "รัฐมนตรีศุภจีนัดประชุมคณะกรรมการนโยบายข้าวแห่งชาติ (นบข.) ในวันที่ 27 พฤศจิกายน เพื่อพิจารณาเงินช่วยเหลือชาวนาในอัตราไร่ละ 500 ถึง 1,000 บาท โดยจ่ายสูงสุดไม่เกิน 10 ไร่",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zWVZjSTF4MEVhQzhoM3FVZWZCNjJZUGxMeHRZVWl1d0FYc1hpR1VXMm92bE12eHN1Y3l0UHpLVUZUWFFUSk16ZVVfY1h0Tm1TdlpaQkNvbXUwd0dtWG5QU2cyTGlYSjA1SU5uNllR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-24T17:00:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "นโยบายเงินช่วยเหลือโดยตรงถึงชาวนา มีวันประชุมและวงเงินชัดเจน"
+    },
+    {
+      "id": "7f1dc7c0",
+      "title": "เปิดโครงการ 30 บาทรักษาทุกที่ “หมอข้างบ้าน” เคหะฯทุ่งสองห้องแห่งแรก!",
+      "summary": "พม. ร่วมกับ สธ. สปสช. การเคหะแห่งชาติ และ กทม. เปิดโครงการ \"30 บาทรักษาทุกที่ หมอข้างบ้าน\" นำร่องที่เคหะชุมชนทุ่งสองห้องเป็นแห่งแรก เมื่อวันที่ 25 พ.ย. 2569 เพื่อให้ผู้มีสิทธิบัตรทองพบแพทย์ออนไลน์ใกล้บ้าน มีแผนขยายรวม 5 แห่งในกรุงเทพฯ และสมุทรปราการภายในปี 2569 ครอบคลุมประชากรราว 58,000 คน",
+      "url": "https://www.hfocus.org/content/2026/11/40395",
+      "source": "Hfocus",
+      "published_at": "2026-11-25T08:24:43Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร",
+        "สมุทรปราการ"
+      ],
+      "eastern": true,
+      "score": 88,
+      "why": "บริการสุขภาพใกล้บ้านสำหรับผู้มีสิทธิบัตรทอง มีกลุ่มเป้าหมายและแผนขยายชัดเจน"
+    },
+    {
+      "id": "708fac9d",
+      "title": "ส่องแนวทาง เงินช่วยเหลือชาวนา 2569/70 รัฐจ่ายไร่ละ 1000 - ไร่ละ 500",
+      "summary": "มีการนำเสนอแนวทางเงินช่วยเหลือชาวนาปี 2569/70 โดยรัฐจ่ายในอัตราไร่ละ 1,000 บาทและไร่ละ 500 บาท ตามที่ได้มีการพิจารณาในแนวทางดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xRG83M21ZZTkzemVWNU1lYkpNeUM3aTg0eXdDUnV2ZnRZWjM0TGJlWGtOdWVwV2M0NE5WdkNTQjJDTjNSSWdJR2FkX2pCNEc1SlZVZldoMmJWN3h3LTdVR2hXd21Odw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-25T06:07:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินช่วยเหลือชาวนาโดยตรงพร้อมอัตราที่ชัดเจน"
+    },
+    {
+      "id": "cfc9a55b",
+      "title": "เช็กเลยวันนี้! ‘ปภ.-ออมสิน’ โอนเยียวยาน้ำท่วม 11 จังหวัดและกทม. 35,505 ครัวเรือน",
+      "summary": "ปภ. และธนาคารออมสินโอนเงินเยียวยาน้ำท่วมให้แก่ 35,505 ครัวเรือน ใน 11 จังหวัดและกรุงเทพมหานคร โดยดำเนินการในวันที่ 24 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FcjN1RlZPaFJXMlk0OUM0T3ZHTjZLRlVZTl9YQUZ3ZzltSkttREg2MXNNR2JMOFFteVEzYUJoT1pRUGhucFV2ZTRVV254MFBiOVpV?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-24T10:47:31Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึง 35,505 ครัวเรือนในหลายจังหวัด"
+    },
+    {
+      "id": "2389a4fe",
+      "title": "ปภ. – ออมสิน โอนเยียวยาน้ำท่วม 24 พ.ย. 69 รวมกว่า 222 ล้านบาท เช็กเลยมีพื้นที่ไหนบ้า",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัยร่วมกับธนาคารออมสินโอนเงินเยียวยาน้ำท่วมเมื่อวันที่ 24 พฤศจิกายน 2569 รวมกว่า 222 ล้านบาท โดยมีรายชื่อพื้นที่ที่ได้รับการโอนเงินตามที่ระบุในข่าวต้นฉบับ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01d1JKR05nV1A0VzdKbUYzU2RRUjVNaU1ZNkt2M1YyM3kzZWw4R24wbS1NNGxrRkFVanU3NGwwWVIxam1vNTFxeUlGNEd2QmFDajNuWXZR?oc=5",
+      "source": "มุมข่าว",
+      "published_at": "2026-11-24T10:20:19Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาจำนวนมากโอนถึงผู้ประสบภัย"
+    },
+    {
+      "id": "2c196d4b",
+      "title": "ลดค่าครองชีพ! ครม. ไฟเขียวต่อโปรฯ บัตรเหมาจ่ายรายวัน สายสีแดง 40 บาท ถึงสิ้นปี 70",
+      "summary": "คณะรัฐมนตรีมีมติเห็นชอบให้ต่ออายุโปรโมชันบัตรเหมาจ่ายรายวันสายสีแดงในราคา 40 บาท ไปจนถึงสิ้นปี 2570 เพื่อบรรเทาค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0QjdiTWo3V0xpMmlUMTg3ZnFIaTk0SUJmZldrLVBOd3RSQmNJZ3Vud1J5QkRsT1ZwTWNBWU1adElWUFNNcTg1UjRQNEY4QmVpSUI3dFhldmJwZnRDN0JWMWZ3eWFfUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-25T09:04:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการลดค่าใช้จ่ายประชาชนโดยตรง มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "5875f0e0",
+      "title": "พิพัฒน์ เบรกขึ้นค่าทางด่วน BEM ยืดเวลาเก็บราคาเดิมยาวถึง มิ.ย. 70",
+      "summary": "นายพิพัฒน์ รัชกิจประการ รองนายกรัฐมนตรีและรัฐมนตรีว่าการกระทรวงคมนาคม เปิดเผยว่า ได้หารือกับการทางพิเศษแห่งประเทศไทยและบริษัททางด่วนและรถไฟฟ้ากรุงเทพ (BEM) เพื่อบรรเทาผลกระทบและลดภาระค่าใช้จ่ายในการเดินทางของประชาชน โดยยืดเวลาเก็บค่าผ่านทางทางพิเศษประจิมรัถยาในอัตราเดิมออกไปจนถึงเดือนมิถุนายน 2570",
+      "url": "https://www.khaosod.co.th/economics/news_10483994",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-25T07:43:58Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาและลดภาระค่าเดินทางของประชาชนโดยตรง"
+    },
+    {
+      "id": "df8efa80",
+      "title": "เงินเข้าแล้ว! เยียวยาน้ำท่วม 2569 รอบ 24 พ.ย. เช็กสิทธิ์ผ่าน ทางรัฐ",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมปี 2569 รอบวันที่ 24 พฤศจิกายน โดยประชาชนสามารถตรวจสอบสิทธิผ่านระบบทางรัฐ รายละเอียดจำนวนเงินและพื้นที่ไม่ระบุในข้อความที่ได้รับ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfYm5Eems2c0doREpRYWtlb3ZfbnltQTgxTi1UM0NQaFI4ZjNMQUxESmRIaXI1QnVPTG1yQW5wOE41UmZKdlJ4WnJ2X0U1ZFJtc01sRWdsZy1iZURaTkl1MWN5b1Fadw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-24T08:43:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงประชาชนที่ได้รับผลกระทบ",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "2a61a177",
+      "title": "พม. ผนึกกำลังเครือข่าย เปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่อง 1 ชุมชน กคช. พร้อมขยายผล 4 แห่ง เล็งช่วยกลุ่มเปราะบาง-ปชช. เข้าถึงบริการสุขภาพใกล้บ้าน ประหยัดเวลา ลดภาระค่าใช้จ่าย",
+      "summary": "กระทรวง พม. ร่วมกับเครือข่ายเปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่องในหนึ่งชุมชนของการเคหะแห่งชาติ พร้อมเตรียมขยายผลอีก 4 แห่ง มุ่งช่วยกลุ่มเปราะบางและประชาชนเข้าถึงบริการสุขภาพใกล้บ้าน ประหยัดเวลาและลดค่าใช้จ่าย",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55RVd6N05KT0ZaUEtJakc1THMxYk5aTWFOUUVyWmx0TElpbHZ4WXp2UGJDQzQzRXFFNTFqTHhPUDE1dG9zNS1hdzE5WnIyVFJqZ3RfSEx5emZRUQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-25T08:48:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "โครงการสุขภาพเพื่อกลุ่มเปราะบางพร้อมขยายผล"
+    },
+    {
+      "id": "33082cd9",
+      "title": "ทวี ย้ำจุดเปลี่ยนประวัติศาสตร์ กม.ล้มละลาย ประกาศใช้แล้ว คืนอำนาจลูกหนี้ฟื้นฟูตัวเอง",
+      "summary": "พันตำรวจเอกทวี สอดส่อง ประธานคณะกรรมาธิการวิสามัญพิจารณาร่างพระราชบัญญัติล้มละลาย ฉบับที่ 11 พ.ศ. 2569 เปิดเผยว่า พ.ร.บ.ฉบับดังกล่าวมีผลบังคับใช้แล้ว โดยมีสาระสำคัญคือการนำสภาวะพักหนี้มาใช้ และคืนอำนาจให้ลูกหนี้สามารถฟื้นฟูตัวเองได้ ทั้งนี้เป็นการประกาศในวันที่ 25 พฤศจิกายน 2569",
+      "url": "https://www.khaosod.co.th/politics/news_10483895",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-25T06:54:14Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "กฎหมายมีผลบังคับใช้และเกี่ยวกับการแก้ปัญหาหนี้ของลูกหนี้ทั่วไป"
+    },
+    {
+      "id": "5d67fec0",
+      "title": "โรงพยาบาลดีบุก จ.ภูเก็ต ยุติการเป็นสถานพยาบาลคู่สัญญาประกันสังคม ตั้งแต่ 1 ม.ค. 2570",
+      "summary": "โรงพยาบาลดีบุก จังหวัดภูเก็ต จะยุติการเป็นสถานพยาบาลคู่สัญญาประกันสังคม มีผลตั้งแต่วันที่ 1 มกราคม 2570 ผู้ประกันตนที่ใช้สิทธิ์การรักษาที่โรงพยาบาลดังกล่าวจะต้องเตรียมเปลี่ยนไปใช้บริการสถานพยาบาลคู่สัญญาแห่งอื่น",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HV1VxRjdNZW50blhBaVNJZ1A3WHZReHV5MWxVSkNBTExjLTRMSE5NNk5jUENzWWVnVzFnWUkwcUI1Nk9JLU1qb0Q4UEZRUHZLTXY2am96cDlEUmU0LUhtZWVla2kwd0dySlNYb3A3OHo?oc=5",
+      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "published_at": "2026-11-25T06:30:12Z",
+      "category": "health",
+      "provinces": [
+        "ภูเก็ต"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีกำหนดเวลาและกระทบสิทธิการรักษาผู้ประกันตนในพื้นที่"
+    },
+    {
+      "id": "a5772f35",
+      "title": "‘นิกร โสมกลาง’ เปิดเวทีสวัสดิการชุมชน ภาคอีสาน ชู 3 ยุทธศาสตร์ ต่อยอด ‘กองทุนวันละบาท’ พร้อม Kick off คาราวาน ‘อาชีวะอาสา ซ่อมบ้าน สร้างสุข’ ดูแลกลุ่มเปราะบาง . วันที่ 23 พฤศจิกายน 2569 นครราชสีมา นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของม",
+      "summary": "รัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ นายนิกร โสมกลาง เปิดเวทีสวัสดิการชุมชนภาคอีสานเมื่อวันที่ 23 พ.ย. 2569 ที่นครราชสีมา โดยชู 3 ยุทธศาสตร์ต่อยอดกองทุนวันละบาท และเปิดตัวคาราวาน \"อาชีวะอาสา ซ่อมบ้าน สร้างสุข\" เพื่อดูแลกลุ่มเปราะบาง",
+      "url": "https://news.google.com/rss/articles/CBMi0AdBVV95cUxNN2Z6eEVjLVVPSEd2MTB4TWtIX2NPX2ZLb1lXZXJxZ0JjSEtHNXUyZjU3N19OZGZKOGVFVlp0ejh0bFJrRWduQkdTalBWclZBTFViNWE5SDAtU2FFSXEtN2NkcjFNTHpURE84S3BFYWtvN3JsbjFBRFVXU0lBWEpFRjQ1aDhhck0wTUdHWTlBajhFRlFOMzFnNU5VMU90S0YwOHhTR1lrbVhyZ3VMZll2Q3JNWmtHbEdweVdRX0lVNnRpTmpCRnZXRW94a1FiV1cyRHBFZXM4WGppVFpWR0VMM000UjhzWFM3NFdSN09MMkJZTTZYWVV5OVFOSEF6MWxWZEFXUmFsUXZ3Y0NKNm0tZVE3QlUyNjJkOEk0YjVXUmF2NEFZRVpmbjBKaXdBU3l2ZnA3ZlhGaVluaWxJRXRCdWVYT0Q0MzlwWUNadTd2a3Y0a1JwZWtleUM3WTZQNjVKNmNqQ1VkZkhnVGp3eGIzOEtTUElvNW93V1o1aHBCNXZZWjNyUThzdjFuT2JMQ3FVRnNJR0Q3RmNNX1p0eTlVY2s0WjdQNnhRNmZoRVJmX1ZkTW9HSFJDdzJLdlluRzUwQVEzXzVZUVItS0FoSDFUSFlMQ3A4M3hER2tXd0g0WTNhcFh1RDRWeUMxTkNwaEI2Z1ZJZmRycjNUQXlLVDR4eDhQa3VkLV9NSTBYdl9zQ2tDZktPQW9YVWFsWXNtaExya0tndGY1b2JUU1lja0JEdzkxQjlKYUZWV1VxSXFrNlpCdnd1X1pEN2J4ZkdmdnR0Q2VINzJETncyTGJadXotZzVvandmOEs2cENkbllXSk1kdjgybHpfLWxoaHo3YTZhQmN0TjAyWE5iZmRfRzBHSE5YMWNNc09ZZDNUYVA3TTlNM3BCWEJKS1pxUVhrbEYyeThydXVlcXB1YnRxTW5RSEFHcW9JT25rc0NuYjk4X05Vbnh3eXcwTHBUUHM0MjUtdVhUOFlLc2QwczNDS3JuemhfWlhMalZILXJid0ZHX0tZa0c3THhwWk5YSTdwbFFqVmFLQTYtQmh3OUw2WUV4OVJ3bGd5SGpKN1Z1QkU2N1FKeGRPdjVxNlNBd0ZnRURyNXByZ3c5ZnFzYzZaVXZaRXNFNC1LNUZ6WmozdDhYRmx5MjA2NEtxX25hVkNLLWZBeGlsRFYzVHF4dW1yMGVhWVhBSTlFVzZ1THEydUVyOWZ2blVrWjFBMS1aQVJfNTlqUmdlV1J6TFlUaDQxSnloOXdXOFpGMzhSS056MDFnZ014emdjb3F0b3lGSnVuREJV?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-24T13:30:04Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "นครราชสีมา"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มาตรการสวัสดิการชุมชนและโครงการดูแลกลุ่มเปราะบางที่มีกำหนดวันและพื้นที่ชัดเจน"
+    },
+    {
+      "id": "ad24eed9",
+      "title": "บางจากฯ ร่วมกับกรมการค้าภายในช่วยสนับสนุนผลผลิตของเกษตรกร สมนาคุณลำไยอบแห้งฟรี",
+      "summary": "บางจากฯ ร่วมกับกรมการค้าภายในดำเนินการช่วยสนับสนุนผลผลิตของเกษตรกร โดยมอบลำไยอบแห้งให้ฟรีเป็นการสมนาคุณ ข้อมูลในข่าวระบุเพียงเท่านี้ ไม่ปรากฏจำนวนผู้รับหรือระยะเวลาดำเนินการ",
+      "url": "https://www.matichon.co.th/publicize/news_5989678",
+      "source": "มติชน",
+      "published_at": "2026-11-25T09:16:29Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการช่วยเหลือเกษตรกรที่มีผลต่อประชาชนโดยตรง แต่รายละเอียดจำกัด"
+    },
+    {
+      "id": "83957c82",
+      "title": "ปี 70 ใช้ CARE Model จ่ายงบ IP บัตรทองตามโควตาเขต การันตี 9,860 บาทต่อ RW เกินมากจ่ายลดลง",
+      "summary": "HITAP และ สวรส. เปิดสูตร CARE Model สำหรับจัดสรรงบผู้ป่วยใน บัตรทอง ปีงบประมาณ 2570 โดยกำหนดโควตา RW รายเขตสุขภาพจากข้อมูลย้อนหลัง 10 ปี และรับประกันอัตรา 9,860 บาทต่อ RW สำหรับผลงานในโควตา ส่วนผลงานเกินโควตาจ่ายชดเชยในอัตรา 100% 80% และ 60% ของอัตราพื้นฐาน",
+      "url": "https://www.hfocus.org/content/2026/11/40394",
+      "source": "Hfocus",
+      "published_at": "2026-11-25T08:06:41Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการงบบัตรทองที่กำหนดอัตราชัดเจนและมีผลต่อระบบบริการ"
+    },
+    {
+      "id": "70284930",
+      "title": "โพสต์อ้างผู้สูงอายุรับเบี้ยยังชีพที่ร้านสะดวกซื้อได้ แท้จริงแล้วเป็นข่าวปลอม : Fact-Check ให้ชัวร์ กับ Thai PBS Verify",
+      "summary": "Thai PBS Verify ตรวจสอบโพสต์ที่อ้างว่าผู้สูงอายุสามารถรับเบี้ยยังชีพได้ที่ร้านสะดวกซื้อ และพบว่าเป็นข่าวปลอม ประชาชนควรตรวจสอบข้อมูลการรับเบี้ยยังชีพจากหน่วยงานราชการที่เกี่ยวข้องก่อนเชื่อหรือแชร์ต่อ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14WTZlYVd3T2ZaUWhIeVppb2NMMmRMOW8wenhPREVCeW9tTS04LWVpdGR1THpYcUVyLVpibFQybU9CM2o3d3BVUVl5TkNLcFlKTmdkWVpGZ2w?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-25T06:37:18Z",
+      "category": "elderly",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องกับเบี้ยยังชีพผู้สูงอายุและเตือนข่าวปลอม"
+    },
+    {
+      "id": "ffb9dec2",
+      "title": "บัตรสวัสดิการแห่งรัฐ กลุ่มตกค้าง รีบยืนยันตัวตนก่อนหมดเขต",
+      "summary": "มีรายงานเรื่องบัตรสวัสดิการแห่งรัฐสำหรับกลุ่มที่ตกค้าง ซึ่งต้องรีบยืนยันตัวตนก่อนหมดเขต ทั้งนี้ข้อความข่าวไม่ระบุวันหมดเขตหรือขั้นตอนการยืนยันตัวตนโดยละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VNVZQMEpBRmFBc2tsZ1VySnROcWRuWjg1YTE2WFlvaUd1Vklub2lyRHNyeFVWeVE5Sm00NmJXZ3NtdnE2dDFkUzZhTmg?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-25T03:43:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มีกำหนดเวลาดำเนินการ แต่เนื้อหาข่าวสั้นและขาดรายละเอียด"
+    },
+    {
+      "id": "1798278d",
+      "title": "หารือสหภาพ NT ดัน \"เน็ต 100 บาท\" เพิ่มทางเลือก ลดค่าครองชีพ",
+      "summary": "สภาองค์กรของผู้บริโภคหารือกับสหภาพแรงงานการสื่อสารแห่งประเทศไทย (NT) เพื่อผลักดันข้อเสนอแพ็กเกจอินเทอร์เน็ตราคา 100 บาท โดยมีเป้าหมายเพิ่มทางเลือกให้ผู้บริโภคและช่วยลดค่าใช้จ่ายด้านการสื่อสาร",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LdVVWdmRMUUZMY3JDQ1djdmtYYzJtZ0E5bDNoSlhDbE80YTQ5TUtwc1NHbnpJSGpiVUk1aFlyZU85NXFjNGtuSlptN3VQX0kweHFFVw?oc=5",
+      "source": "สภาองค์กรของผู้บริโภค",
+      "published_at": "2026-11-24T11:56:29Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เป็นมาตรการเฉพาะด้านลดค่าใช้จ่ายแต่ยังเป็นข้อเสนอ"
+    },
+    {
+      "id": "0b75ba87",
+      "title": "บอร์ด สปสช. ภาคประชาชน ขอศิริราชเปิดข้อมูลต้นทุนรักษาผู้ป่วยบัตรทอง หากงบไม่พอจริง พร้อมร่วมเรียกร้องให้รัฐบาลจัดสรรเพิ่ม",
+      "summary": "บอร์ด สปสช. ภาคประชาชนขอให้ศิริราชเปิดเผยข้อมูลต้นทุนการรักษาผู้ป่วยบัตรทอง หากงบประมาณไม่เพียงพอจริง จะร่วมเรียกร้องให้รัฐบาลจัดสรรงบประมาณเพิ่ม",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1icUtFZEtEUE9GZHdmTUV6bl93UnN3cUlRcEx2eUpJR2dJZ0FHVHMzUmRpUFl5MHcxRHNOYmNkNWdYbnJOc0MyUEpKeVE3aldCeVNrbFZlcw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-11-25T01:36:15Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ประเด็นงบประมาณบัตรทองที่มีผลต่อการเข้าถึงบริการ มีการเรียกร้องที่ชัดเจน"
+    },
+    {
+      "id": "a4970fce",
+      "title": "เช็กสิทธิทำฟันประกันสังคม 900 บาท ใช้ไม่หมดทบปีหน้าได้ไหม?",
+      "summary": "มีการอธิบายสิทธิทำฟันของผู้ประกันตนประกันสังคมวงเงิน 900 บาท และประเด็นว่าหากใช้สิทธิไม่หมดในปีนี้จะสามารถทบไปใช้ในปีหน้าได้หรือไม่ ผู้ประกันตนควรตรวจสอบเงื่อนไขกับสำนักงานประกันสังคมโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UNHlWY2M1b0RNeGx4TnNJc2NvS0Z2blRQdUlwaExlMWJicWhENWpEVjRPVmhoRUs0SWxSWmlmdnUyc1JNUEV6ZG9ub0I?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-24T10:05:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "สิทธิประโยชน์ทันตกรรมของผู้ประกันตน",
+      "first_seen": "2026-11-24"
+    },
+    {
+      "id": "01a2d16a",
+      "title": "สศช.ชี้การเช่าที่อยู่อาศัยเพิ่มขึ้นแตะ 20% ส่อกระทบรายจ่ายหลังเกษียณ แนะรัฐปรับนโยบาย",
+      "summary": "สภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ (สศช.) ชี้ว่าสัดส่วนการเช่าที่อยู่อาศัยเพิ่มขึ้นถึงร้อยละ 20 ซึ่งอาจกระทบรายจ่ายของประชาชนหลังเกษียณ และแนะนำให้รัฐปรับนโยบายที่เกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83dmtkaXN2aEh5UTVnVE5OaV8wcUR1OExVNFZZVXNtRk95aFQzZ09GaU5lMUI4TkxDQlpqM3VYRmVWcmRFbFdERGwzOUw3dTFYMXk4MDJzQkVXanhHTUQ4TjJDb0YxTlR5MHdWMURn?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-25T02:48:00Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "ประเด็นที่อยู่อาศัยและผู้สูงอายุ แต่เป็นการวิเคราะห์และข้อแนะนำ"
+    },
+    {
+      "id": "6ba9701e",
+      "title": "ประกันสังคมจับมือแบงก์กรุงเทพ เปิดช่องทาง ม.40 จ่ายเงินสมทบผ่านมือถือ ฟรีค่าธรรมเนียม",
+      "summary": "สำนักงานประกันสังคมร่วมกับธนาคารกรุงเทพเปิดช่องทางให้ผู้ประกันตนมาตรา 40 ชำระเงินสมทบผ่านแอปพลิเคชันมือถือ โดยไม่มีค่าธรรมเนียม",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kb0w4ZmVkWlRZdS1pbzllN3FkUTllYVVEVGd5eTdGNjRUT3AtQ1ZNam5XX0ZNclc2UVA3X0xjTlJqQl8xeHJfMEgzUklYTXJYQ0ZZb2R2RHlYMkhtdjVWY2RjUVRqR0xMRVE?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-24T09:45:47Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "อำนวยความสะดวกแก่ผู้ประกันตน ม.40 ซึ่งเป็นกลุ่มแรงงานนอกระบบ"
+    },
+    {
+      "id": "7ad65963",
+      "title": "SCB EIC ปรับเพิ่มจีดีพี 69 โต 2.6% ปี’70 เป็น 2.4% ห่วงโตกระจุก แรงงานเปราะบาง ธุรกิจปิดกิจการสูง",
+      "summary": "ศูนย์วิจัยเศรษฐกิจและธุรกิจ SCB EIC ปรับประมาณการการขยายตัวของจีดีพีไทยปี 2569 เป็นร้อยละ 2.6 และปี 2570 เป็นร้อยละ 2.4 โดยระบุว่าการเติบโตยังกระจุกตัว ตลาดแรงงานอ่อนแอลงเกือบทุกมิติ และครัวเรือนรายได้น้อยเผชิญปัญหารายได้ไม่พอ ทั้งนี้มีการปิดกิจการของธุรกิจในระดับสูง",
+      "url": "https://www.prachachat.net/finance/news-2101909",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-25T06:39:51Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 62,
+      "why": "กล่าวถึงผลกระทบต่อครัวเรือนรายได้น้อยและแรงงานเปราะบาง แต่เป็นการวิเคราะห์เศรษฐกิจ"
+    },
+    {
+      "id": "28f02191",
+      "title": "KH Legal Aid ชวนรู้ทัน “หนี้นอกระบบ-ดอกเบี้ยโหด” เปิดอบรมกฎหมายฟรี 19 ธ.ค.นี้",
+      "summary": "KH Legal Aid เปิดอบรมกฎหมายฟรีในหัวข้อ \"หนี้นอกระบบและดอกเบี้ยโหด\" กำหนดจัดในวันที่ 19 ธันวาคม เพื่อให้ความรู้แก่ประชาชนเกี่ยวกับการป้องกันปัญหาหนี้สิน",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YR1JXLXhHZ2NyVVp3Q0NFS3dZWWJTTTBKdlhrblhjWGNyMUZiSFBNN0hUZ2oxejVlTTFsN0l2QXQtOEEzY0pvVA?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-11-25T08:37:33Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับหนี้สินประชาชน แต่เป็นกิจกรรมของหน่วยงานเอกชน"
+    },
+    {
+      "id": "0cc6c21d",
+      "title": "News1. . หนี้คนไทย พุ่งเฉียด 8 แสน! 25/11/69 #หนี้ครัวเรือน #หนี้คนไทย #ค่าครองชีพ #โครงสร้างหนี้",
+      "summary": "มีรายงานว่าหนี้ครัวเรือนของคนไทยเพิ่มขึ้นเกือบ 8 แสนล้านบาท ตามโพสต์เผยแพร่ในวันที่ 25 พฤศจิกายน 2569 เกี่ยวข้องกับประเด็นค่าครองชีพและโครงสร้างหนี้ ข้อความต้นฉบับไม่มีรายละเอียดเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiiwdBVV95cUxOSGNCTEtzdU1JWHVtbnZ2RzNhOWRabDBJdGV6azNXUWJZREFmWTNHR0lMWWxpOGFJS3FmQmJBc0I1RWJUdzVFNl8xS0VqSk5IcThuRWdxTmNETk51Z1VMUVhZR01jN01ieDRIekw4ZkdWbEdLYjBXcmQ1R3Z4UE5QdWpMYU54cVVtSTZxRXVZazJ4TmVtTVZENlpBb1NqQjVIOVoxUkJheEV0M05xamVDSWJxX1FhZTZxZ3Z4SEtjakVFZ0xxRXEyX0RuZ2JjYzB4bHowRGtYX2UxbVh3dFZOX21qNnUzZEtzcmZJU3BGUnBjS1ZEOXhwZWFmaTFSNk5aZDNVM0JHWUVsd1hKczdfbUk3TVBhWUwzSVpwR1dqdl9zTF84TjBTTXZOYjNPMW1aWFV5cXhhaUJ5MTVRdVBPR1dlY21fOGxMY2NUWmpmUzc4Uy1VSWRuM0VrZWJfUlotVnlmbnA2TTZhWDhaSHI0TFRxYzdia09sdExrQ2VCMVJlbUdLOFJfcUVXbTlrcDRWVThGQnB3eW5uYlJzc0hZUExaaEZDMEdpTkZOZmcyaDF6bUZZbW41ZmFXcTR0SWg3OWloOWRzUW53dWl4cE1Lb05na3NQeTMtM2RDWHJWMXVZNm5LeUdaMUN3LVdVenFlbWR0czFpbW9qQlB1TUloY2prX3dDTko2QlRRWlU1VGh0bTQ1cWgwU2ZQYVU5Q2FCbmlPSGR2THI1OUVfNlpWVzZqVmpNZ29MbDdPRUUyQ1h0eFdhZ25XbTlIZmxnXy1MemtieGFzakhHUHQtUU9QMmRScU5BZkhsamZXUzdOT0I5TkVZLVJEN21qdWZFdXctcWlMVTNfRDJ3TENGUFF4R0hCeGZIc0FNazdreEJ2ZWFXekp0aWVIOEk1a2pOZWY3NnJnX3YxZ3hoV1dwYTBOOFZBWDk0OHRyMjlHaldoZ21ra2pmWFUxUWhPTXFOb0QwTGJIMUJkeXI4RERDT3dmcjNoZEl4bHZkZG8wenhHM0QyUzVJOE1wN3hKc1JRQXFaazNDTVdrVmJKMkJ0YlNaWVB4VTF3U2VVbHJOZWF2WjZ4WDJTSGhWNmgwS1ZPRWlCaXdyWUpCWkFEam9sVk1PNnN1OUJ6NE9rMm13bG1IOVo0SHlZN2RaV1c3Z3BDMGN1R2xtNndYTUptaktJTHdTSnE5dGRkb1gtbUlz?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-25T08:36:20Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นหนี้ครัวเรือนและค่าครองชีพ แหล่งข่าวเป็นโพสต์โซเชียล"
+    },
+    {
+      "id": "72bb827c",
+      "title": "ผลวิจัยเปิดรายได้ 3 อาชีพแรงงานนอกระบบ เฉลี่ยเกิน 110 บาทต่อชั่วโมง",
+      "summary": "งานวิจัยของคณะเศรษฐศาสตร์ มหาวิทยาลัยธรรมศาสตร์ นำเสนอในงาน BOT Symposium 2026 พบว่าผู้ค้าในตลาด ผู้ค้าหาบเร่แผงลอย และผู้รับงานไปทำที่บ้าน มีรายได้เฉลี่ยประมาณ 110 บาทต่อชั่วโมง สูงกว่าค่าเฉลี่ยแรงงานทั่วประเทศ ผลการศึกษาสะท้อนโอกาสด้านหลักประกันแรงงานสำหรับแรงงานนอกระบบ",
+      "url": "https://www.khaosod.co.th/economics/news_10484008",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-25T08:23:04Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับแรงงานนอกระบบและหลักประกัน เป็นผลการวิจัย"
+    },
+    {
+      "id": "884ede7d",
+      "title": "ผู้ว่าฯ ธปท. เผยเศรษฐกิจนอกระบบไทยสูงถึง 48% ของ GDP พร้อมแนวทางดึงธุรกิจและแรงงานเข้าสู่ระบบ",
+      "summary": "ผู้ว่าการธนาคารแห่งประเทศไทยเปิดเผยว่าเศรษฐกิจนอกระบบของไทยมีขนาดสูงถึงร้อยละ 48 ของผลิตภัณฑ์มวลรวมในประเทศ พร้อมเสนอแนวทางดึงธุรกิจและแรงงานเข้าสู่ระบบ ซึ่งเกี่ยวข้องกับความคุ้มครองของแรงงานที่ไม่เป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41aENlMzRSMGRaSlZtWWtfVWI2alR1MjctTDc4R2RnQzJUU0ZPaVkxNmhrbzZJZU9HbndvYmZjd1JzaHAwUHN5dGw2d2ZPN0xHZXIybDB6UWd2WTlpTU1GbkczMG1McFFmd2YtZFln?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-25T00:45:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นแรงงานนอกระบบที่เกี่ยวข้องกับสวัสดิการ แต่เป็นข้อเสนอเชิงนโยบาย"
+    },
+    {
+      "id": "bf98f716",
+      "title": "สปสช. ชูบัตรทองดูแล 47 ล้านคนตามความจำเป็น ย้ำฟังเสียงประชาชน-หนุนทุกภาคส่วนร่วมพัฒนาระบบ",
+      "summary": "เลขาธิการ สปสช. ระบุว่าบัตรทองดูแลประชาชนราว 47 ล้านคนตามความจำเป็น และย้ำการรับฟังเสียงประชาชนและการมีส่วนร่วมของทุกภาคส่วนในการพัฒนาระบบ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ScFNPeklTRlBIc1Q2d1F1U0lkdUpOVjVJZGtteENSSVFRUVRVRU0wNEsxSHhDWFRMSGxUMXJQMWNmZnpiYlk2NnZCMTQ4d0g1TzUwZXhtQQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-24T10:40:07Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับระบบหลักประกันสุขภาพ แต่เป็นการย้ำนโยบายทั่วไป"
+    },
+    {
+      "id": "f1c4f382",
+      "title": "กรมอนามัยดัน 4 มาตรการแก้ \"ขาดสารไอโอดีน\" ตั้งเป้าหมู่บ้านผ่านเกณฑ์ 72% ในปี 70",
+      "summary": "กรมอนามัยเร่งขับเคลื่อนมาตรการ 4 ด้านเพื่อแก้ปัญหาการขาดสารไอโอดีน มุ่งดูแลหญิงตั้งครรภ์ เด็ก และผู้สูงอายุ โดยตั้งเป้าให้หมู่บ้านผ่านเกณฑ์ไม่น้อยกว่าร้อยละ 72 ภายในปี 2570 ประชุมเมื่อวันที่ 25 พฤศจิกายน 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40392",
+      "source": "Hfocus",
+      "published_at": "2026-11-25T04:05:35Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "มาตรการด้านสุขภาพกลุ่มเปราะบาง มีเป้าหมายชัดเจนแต่ไม่ใช่สวัสดิการเงิน"
+    },
+    {
+      "id": "b76c75b2",
+      "title": "ก.แรงงาน ติดตาม 7 ข้อเรียกร้องวันแรงงาน 69 เดินหน้าคุ้มครองสิทธิแรงงานทุกกลุ่ม",
+      "summary": "กระทรวงแรงงานติดตามข้อเรียกร้อง 7 ข้อในวันแรงงาน พ.ศ. 2569 และระบุว่าจะเดินหน้าคุ้มครองสิทธิแรงงานทุกกลุ่ม",
+      "url": "https://www.matichon.co.th/local/quality-life/news_5989571",
+      "source": "มติชน",
+      "published_at": "2026-11-25T08:50:51Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นคุ้มครองแรงงาน มีระดับการดำเนินการที่ยังไม่ชัดเจน"
+    },
+    {
+      "id": "7d9e6d2d",
+      "title": "PARLIAMENT: ‘ธิษะณา’ คัมแบ็กสภาฯ นั่ง กมธ. วิสามัญร่าง พ.ร.บ. ประกันสังคม ชี้แนวทางปฏิรูปมีหลายรูปแบบ ไม่จำเป็นต้องออกจากระบบราชการ ยืนยันทำงานกับ ‘รักชนก’ ได้ เหตุเคยร่วมงานกันมานาน 3 ปี วันนี้ (25 พ.ย. 69) ผู้สื่อข่าวรายงานว่า ในการประชุมคณะกรรมาธิการวิสามัญพิจารณาร่",
+      "summary": "นางสาวธิษะณา ชุณหวัตร เข้าร่วมเป็นกรรมาธิการวิสามัญพิจารณาร่างพระราชบัญญัติประกันสังคม และชี้ว่าแนวทางปฏิรูปประกันสังคมมีหลายรูปแบบ โดยไม่จำเป็นต้องให้สำนักงานประกันสังคมออกจากระบบราชการ ข่าวไม่ได้ระบุเนื้อหาข้อกฎหมายโดยละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMi8gZBVV95cUxOUm45SUtiWjZSYU96T0VuOHdCLUNrTThaQS1RVTFLNldPbzdQc3RWc3hfdVJiVDg1MS1KU3NhbGdyS2kwRnZWSVBzR1d1OEFFcGNaVW9RME1HZWx5cFpqSGhWWjY4LWg4dHJlU2VIUzJyWDNuMjUzbGpvUnV1dnpxdVJTRlB1QVZtU0l2OVpFNjQwTkN1Q3YtR05ZSEw2azVlNndrekxKLW15RWJkcktfUV9PSVFVc1UtbXNTZkwzMzYzUzRoNDhxTnUtdVVRMXFac1hxblZIOGhLNUhCbjBqTGloWk9laUhxRkw5bzZGMktTQ3BiamtudDBfUGZFMFhBNlFYN1R4T3dNNzdseUJlNHBsQjhvSG9veFJ5dnpFRWtoem1rMjNSRWNqV1J5alpWMEFBTGlldlZKNXp1M1FQenZGVTJ5WVoxV0VGNERISkhob3NHcVNCODJ6cVN3Mk1DQ3F6WUpYZllqU3RoRERpdEtaYVlqRkRPZko4UV9wV3hGbEE5LUZiY3I5elFNS1EyVVg2dEJuOWo0N2xjOXlnYW55S1pWU1NVclVkWldwYXJOZDRuelJ4clc1R3hhYXhhakpPSVdhM0g2MWFveVh5TGdoNXZRUFZhdjNieU1ralpLNmUzTjBmc1c3QnFGb21DVU5kZUY0eTNGcnAwVWlJTEZjVEFtUm1mRlNPLTVKNXlhRzE1dlluWEJoV1VjNmRrRGg0NW1ueEdDeVlsOUlpUDFIQ3dMY3hUcXBkNjBmcV9NTTJPNG9IaWJMeHlIcDJ0MVhvbUh2UEdKaE5NRENZZmRiUjJqMUpTc0w0dnhYWDdacHJXNS1vdzAyY3V5MTdOOXJLNEZDU1NxeWszZDI1aFBUQ1lTYVA2ajZKS1JvbmF5RzByM25HX2REYVJwZTNQR2lpVnVqam8yS2s4ZURsQU5MY0J6MWlGbGloRXlSTktORXlnTDI5WkwwN2NNZVRvem9pUmpwRGtfNnVtTjRRT0Zzd2FEM1MtWDhBSGxaVU8xSVJZdzN5UC1xUFdFQmlTcFp4UVBpSDQxS2drMGdCX3VQd0tsSzVUX3Qyenc2REZleFB3RlMzbG1JSjVtNUt4S1FDMzRucTJTTFlFTkp3S1dBOU9FR0wtSkNXdTRUUnQxdzhlQUJtVXVHN3YxMkNUenc?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-25T08:33:14Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับการปฏิรูปประกันสังคม แต่เป็นความเห็นและขั้นตอนการพิจารณา"
+    },
+    {
+      "id": "10375222",
+      "title": "เลขาฯ สปสช. ย้ำ 24 ปีบัตรทอง ต้องเข้าถึงบริการได้จริง ก้าวสู่ปีที่ 25 มุ่งลดข้อจำกัดการรักษา รับมือสังคมสูงวัย",
+      "summary": "เลขาธิการ สปสช. ย้ำว่าบัตรทองครบรอบ 24 ปีต้องทำให้ประชาชนเข้าถึงบริการได้จริง และในปีที่ 25 จะมุ่งลดข้อจำกัดการรักษาและรับมือสังคมสูงวัย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NazFBdS1PeUl2Q2J5MFF0QThiYkpTNUo5a3EtVGNPTkI0SlJYOUNqbndNbmthZFJuYk5ybS14S3dVLWpCRzNFTld0U0g1VWhCazFDNjB2dWQ3Mnc?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-25T05:00:59Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ข้อความเป็นแนวทางนโยบายทั่วไป ไม่มีมาตรการหรือตัวเลขเฉพาะ",
+      "first_seen": "2026-11-19"
+    },
+    {
+      "id": "4b6fa232",
+      "title": "ขาดทุน 2 พันล้าน บอร์ด สปสช. ขอศิริราชเปิดข้อมูลต้นทุน",
+      "summary": "บอร์ด สปสช. ขอให้โรงพยาบาลศิริราชเปิดข้อมูลต้นทุนการให้บริการ หลังมีรายงานการขาดทุนประมาณ 2 พันล้านบาท ซึ่งเกี่ยวข้องกับการบริหารงบประมาณหลักประกันสุขภาพแห่งชาติ (บัตรทอง)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13ZHlJR1MwYnlpN2JGLVppMnZwTVRfUzlodk5WbXBFdDNSVjFiaEp1UXp1RVVxMTZoWHBvaWlFYzJkYXlrbnh1NDBiZw?oc=5",
+      "source": "ช่อง 7",
+      "published_at": "2026-11-24T11:40:08Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบัตรทอง แต่เป็นประเด็นติดตามเชิงบริหาร"
+    },
+    {
+      "id": "48a42306",
+      "title": "‘เซเว่น อีเลฟเว่น’ ผนึกพันธมิตรจัด ‘ตลาดนัดช่วยค่าครองชีพ’ ลดสูงสุด 80%",
+      "summary": "เซเว่น อีเลฟเว่นร่วมกับพันธมิตรจัดกิจกรรม 'ตลาดนัดช่วยค่าครองชีพ' โดยมีส่วนลดสูงสุดร้อยละ 80 เพื่อช่วยลดค่าใช้จ่ายของผู้บริโภค",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVEpYVW53NWQ3QVpJZ3g2VVo0UlhpbGVCa1l2R3RkNzdGYURQdlh1cTZydW5wVTVfOXlVMUxVMVZVaC1JTmxNTG9GYXRWRjJBaFFUNC10Y3pIUTllMENFN2QzS01YaDA?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-25T05:08:43Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เป็นกิจกรรมของภาคเอกชน ไม่ใช่มาตรการรัฐโดยตรง"
+    },
+    {
+      "id": "bbc4f8de",
+      "title": "สมาคมพยาบาลโรคไตฯ ผนึก สปสช. เปิดเวที PD Quality Forum 2026 ยกระดับการล้างไต",
+      "summary": "สมาคมพยาบาลโรคไตและ สปสช. จัดเวที PD Quality Forum 2026 เพื่อยกระดับคุณภาพการล้างไตทางหน้าท้อง (PD) ซึ่งเป็นบริการสุขภาพสำหรับผู้ป่วยโรคไต",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uZFNfLTJtRldxdmVWWXU1c0lfM2Fub2RQVlVXdnZObG1FaGFMVzF3aWs1Y1h2TFRQWUtNYlZXZEhZQXJUX1hfYVM2dFFxOGJFWl9qdEZYZTZMMDZqWU5tSzg4RzNkdw?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-25T04:07:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "กิจกรรมด้านบริการสุขภาพ มีผลทางอ้อมต่อผู้ป่วยในระบบ"
+    },
+    {
+      "id": "51157249",
+      "title": "“สุวัจน์” แนะรัฐบาลใช้เสถียรภาพการเมือง กล้าผ่าตัดโครงสร้างเศรษฐกิจ จี้เร่งมาตรการลดค่าครองชีพ พร้อม ฟื้น SME",
+      "summary": "นายสุวัจน์ ได้เสนอแนะให้รัฐบาลใช้เสถียรภาพทางการเมืองในการปรับโครงสร้างเศรษฐกิจ และเร่งดำเนินมาตรการลดค่าครองชีพรวมทั้งส่งเสริมวิสาหกิจขนาดกลางและขนาดย่อม (SME) ข่าวไม่ได้ระบุมาตรการหรือวงเงินที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GT2JldjJOc21ZdVdYQzFhWmQtMHBfNUQ3MWpCN0ZhTEJuR0dlekRtbGdIOThpWmt6VVV5alFkSHdHM1c1QzlaSk1ZN3dNTDJiTHFlRTN5dWkyaVE5?oc=5",
+      "source": "ผู้จัดการออนไลน์",
+      "published_at": "2026-11-25T06:59:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เป็นข้อเสนอแนะทั่วไปของบุคคล ไม่มีมาตรการเฉพาะ"
+    },
+    {
+      "id": "b53019af",
+      "title": "หนี้สิน ค่าครองชีพ และความไม่แน่นอน เมื่อความกังวลของคนไทยไม่ได้จบแค่เรื่องเงิน",
+      "summary": "บทความวิเคราะห์ความกังวลของคนไทยที่เกี่ยวข้องกับหนี้สิน ค่าครองชีพ และความไม่แน่นอนทางเศรษฐกิจ โดยระบุว่าปัญหาดังกล่าวไม่ได้จำกัดอยู่เพียงเรื่องการเงิน",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLWdvZjFuckZTNUNTVzd4OUQ1YklUZXhsbnV3cm53VVh3T1hJSWN0YlR6YTZER3NjenEtSThmQWEzY0lNLUw3ak1HQmtwdnl2OVhzVXN5bGtvZDJ5amNsNzZZTVZYY3AxUTZkbnRZMA?oc=5",
+      "source": "The Momentum",
+      "published_at": "2026-11-25T02:54:01Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ประเด็นหนี้และค่าครองชีพแต่เป็นบทความวิเคราะห์ทั่วไป"
+    },
+    {
+      "id": "9e7d4d5d",
+      "title": "นายกฯแจงปมเห็นต่างประธานบอร์ด-ผู้ว่า ธปท.ชี้เป็นเรื่องภายใน-ไม่ก้าวก่าย-สั่งคลังค้ำเงินกู้ ขสมก.กว่า 9 พันล้าน",
+      "summary": "นายกรัฐมนตรีชี้แจงกรณีกรรมการและผู้ว่าการธนาคารแห่งประเทศไทยมีความเห็นต่างในประเด็นภายในองค์กร และสั่งให้กระทรวงการคลังค้ำประกันเงินกู้ของ ขสมก. กว่า 9 พันล้านบาท ข่าวมีประเด็นหลายด้านและเกี่ยวกับประชาชนทางอ้อม",
+      "url": "https://thaipublica.org/2026/11/anutin-cabinet-24-11-2569/",
+      "source": "ThaiPublica",
+      "published_at": "2026-11-24T14:17:07Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องทางอ้อมผ่านการค้ำเงินกู้ ขสมก."
+    },
+    {
+      "id": "9f81e483",
+      "title": "คลองเปรมฯ คึก! ชาวกรุงมุงขบวนเรือ รุ่นใหญ่วัย 63 ลอยกระทงอธิษฐาน ขอรัฐบาลเอาจริง 'แก้ค่าครองชีพ'",
+      "summary": "ประชาชนในกรุงเทพฯ รวมตัวชมขบวนเรือในคลองเปรมประชากรที่ลอยกระทงและอธิษฐานขอให้รัฐบาลดำเนินการแก้ปัญหาค่าครองชีพอย่างจริงจัง กิจกรรมดังกล่าวสะท้อนความกังวลของประชาชนต่อภาวะค่าใช้จ่ายในชีวิตประจำวัน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51dHI2b1RNOWdUZklKTE1pMGl1YmF1RkJ1MDBYUUpUdHBueGlrclM5R1lLLXdRWGJjWldJTHJRZGxlNFAxNU56MzQ4REZKWnpFNE00VkdCZl8?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-24T11:47:51Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "กล่าวถึงค่าครองชีพแต่เป็นข่าวกิจกรรมทั่วไป"
+    }
+  ]
+}
