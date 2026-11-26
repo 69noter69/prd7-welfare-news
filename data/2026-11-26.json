@@ -1,0 +1,747 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:12:19Z",
+  "window": {
+    "from": "2026-11-25T07:11:17Z",
+    "to": "2026-11-26T09:11:17Z"
+  },
+  "stats": {
+    "fetched": 218,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 19722,
+    "ai_output_tokens": 15218,
+    "cost_thb": 0.35,
+    "runs": 1,
+    "kept": 48,
+    "eastern": 0,
+    "national": 48,
+    "new": 45,
+    "followups": 3,
+    "sources": 28
+  },
+  "items": [
+    {
+      "id": "8a2c3e70",
+      "title": "ปภ.–ออมสิน โอนเงินเยียวยาน้ำท่วมเพิ่ม 21.43 ล้านบาท ช่วย 2,803 ครัวเรือน ใน 4 จังหวัด",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) ร่วมกับธนาคารออมสิน โอนเงินเยียวยาน้ำท่วมเพิ่มเติมจำนวน 21.43 ล้านบาท ให้แก่ 2,803 ครัวเรือน ใน 4 จังหวัด ข้อความไม่ระบุชื่อจังหวัดที่ได้รับเงิน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBETFo3WmhKbWpCVndldVJueFZaSkY3alZ4dzY4RDBQUm9zZ2tfRnR3VlFEQ3BSSFdla2FQN0ZyRlZXUzd2OVFXX1ZqNTRwYnpacnhiZjZlbG0?oc=5",
+      "source": "สยามรัฐ",
+      "published_at": "2026-11-25T14:05:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินเยียวยาถึงมือประชาชนจริงพร้อมจำนวนเงินและจำนวนครัวเรือนชัดเจน"
+    },
+    {
+      "id": "38ba5edb",
+      "title": "รฟท. ผนึกกำลัง 6 หน่วยงาน ขับเคลื่อนมาตรการค่าโดยสารร่วม 17–45 บาท ลดภาระค่าครองชีพประชาชน เริ่ม 1 มกราคม 2570",
+      "summary": "การรถไฟแห่งประเทศไทย (รฟท.) ร่วมกับ 6 หน่วยงานขับเคลื่อนมาตรการค่าโดยสารร่วมในอัตรา 17–45 บาท เพื่อลดภาระค่าครองชีพของประชาชน มีผลตั้งแต่วันที่ 1 มกราคม 2570",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSTVCQ3VFZVo5a2RHbHBQYjBqVmhzaG5TTUk4UWZ6OE1LLV9sUjhCb3RRWDBXM1JRbTVqTzc4eW9RdWtkcGgyNTJZeExfSFNvX3lz?oc=5",
+      "source": "สวพ.FM91",
+      "published_at": "2026-11-25T13:24:38Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "มาตรการค่าโดยสารระดับประเทศที่มีอัตราและวันเริ่มต้นชัดเจน ส่งผลต่อประชาชนโดยตรง"
+    },
+    {
+      "id": "9d0f4447",
+      "title": "กรมบัญชีกลางประกาศแล้ว ! วงเงินล่าสุด บัตรสวัสดิการแห่งรัฐ เดือน ธ.ค. 2569",
+      "summary": "กรมบัญชีกลางประกาศวงเงินล่าสุดของบัตรสวัสดิการแห่งรัฐสำหรับเดือนธันวาคม 2569 แล้ว ผู้มีสิทธิสามารถตรวจสอบวงเงินที่ได้รับในเดือนดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02WnpmRzVFcGp6M0NodzkwR3NMRUpNbXJONW5UZ2RPeS1rNFIySmpUMllka1hmSUQtLW14UFpqQ3kxMnlFZ1dBclVWZWt3TW1CSTBEVGd3?oc=5",
+      "source": "สยามนิวส์",
+      "published_at": "2026-11-26T06:51:16Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "ประกาศวงเงินสวัสดิการที่ถึงมือประชาชนโดยตรง"
+    },
+    {
+      "id": "c88d4509",
+      "title": "เงินเยียวยาน้ำท่วม 2569 ปภ. โอนเพิ่มวันนี้ 10 จังหวัด เช็กสิทธิ์เลย",
+      "summary": "สำนักงานป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาอุทกภัยปี 2569 เพิ่มเติมในวันนี้ให้กับ 10 จังหวัด ประชาชนสามารถตรวจสอบสิทธิ์ได้ ทั้งนี้ข่าวไม่ระบุจำนวนเงินที่โอนในรายละเอียดที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oN1AtZnd2RzUwaFVod3VHRDJxbTRVcGw3M2UzNFZsUy1ua08yRl9VZXM2ejVvWDZFWHJNQjFoaDNGUnRDU2lRNTA1dWlnLTJmcGYtNDZRLWdFVjl2SHN3aEhDNWVJdw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-26T08:11:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "โอนเงินเยียวยาถึงประชาชนโดยตรง มีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "ad52596a",
+      "title": "เงินเยียวยาน้ำท่วมล่าสุด 26 พ.ย.69 ปภ.ออมสิน โอนเพิ่ม 10 จว. 16 ล้าน",
+      "summary": "ปภ. และธนาคารออมสิน โอนเงินเยียวยาน้ำท่วมเพิ่มเติม 16 ล้านบาท ให้ผู้ประสบภัยใน 10 จังหวัด ข้อมูลอ้างอิงวันที่ 26 พฤศจิกายน 2569 ข้อความไม่ระบุชื่อจังหวัด",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BWkhtakE5NXpYM1Q4OW1UcnE0UmNjYmhCSzdOOS15eno5ekZuNExpUUN0cW5MNUpPelRidml4WGRWTnFOWmx3VF9naFRuSC1hWi1Pc3pXWlVmTTg1?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-26T04:06:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือประชาชนจริง มีจำนวนเงินและวันที่ชัดเจน"
+    },
+    {
+      "id": "9601f5ed",
+      "title": "อัปเดตสิทธิบัตรสวัสดิการแห่งรัฐ ธ.ค. 69 ช้อปน้ำไฟ ต้องยืนยันตัวตน e-KYC พร้อมรับเงินเบี้ยความพิการ 26 พ.ย.",
+      "summary": "อัปเดตสิทธิบัตรสวัสดิการแห่งรัฐประจำเดือนธันวาคม 2569 ระบุว่าผู้ใช้สิทธิต้องยืนยันตัวตนผ่านระบบ e-KYC เพื่อใช้สิทธิช้อปน้ำไฟ และผู้มีสิทธิเบี้ยความพิการจะได้รับเงินในวันที่ 26 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnT2Y2OWUtZW4xQWpoV2c2LS1nUy1JUUxPTW9qWFpnTXZnb1NBTHQxVW9CczZpMHc4di1VTWRsQl9xZVdaMnplb2MzZUNvZDdnWjFUYkZ1Wi1hVGF3LVAzcWoxdjQtUHNfemRCSkZ3?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-26T03:20:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มีกำหนดเวลาและเงินที่ถึงมือประชาชนโดยตรง"
+    },
+    {
+      "id": "50ff6bed",
+      "title": "กรมบัญชีกลางอัปเดตสวัสดิการแห่งรัฐ ธันวาคม 2569 จ่ายอะไรบ้าง",
+      "summary": "กรมบัญชีกลางเผยแพร่ข้อมูลอัปเดตสวัสดิการแห่งรัฐประจำเดือนธันวาคม 2569 ว่าด้วยรายการสวัสดิการที่จะจ่ายให้ประชาชน เนื้อหาที่ให้มาไม่ระบุจำนวนเงินรายการอย่างละเอียด",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFTzlWVXllY3dlWHNLSEVEcjk3Tnp5bVNJd0dKZXBGVjlnQjljbXUxYW1TSWhpajZ5X0poWWdvRXhzWVFNc1N1VVMxb2V4bXdHem94R3RhSWU?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-26T02:41:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "ข้อมูลสวัสดิการที่จ่ายถึงประชาชนในเดือนธันวาคม"
+    },
+    {
+      "id": "dc8a7be6",
+      "title": "คมนาคมลดค่าครองชีพ รถไฟฟ้าไม่เกิน 45 บาท-ทางด่วนตรึงราคา 6 เดือน",
+      "summary": "กระทรวงคมนาคมประกาศมาตรการลดค่าครองชีพ โดยกำหนดค่าโดยสารรถไฟฟ้าไม่เกิน 45 บาท และตรึงอัตราค่าผ่านทางด่วนเป็นระยะเวลา 6 เดือน เพื่อบรรเทาภาระค่าใช้จ่ายประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uZ29NU19XbWxPcU5hNXhGQjdlMDhSSFZ3X2E1OEVqc3o3QmdfdW9EbmFCNG1yenc5cHFQV2tGdjhpeGZlZ2dIRU9WTXBmRTcxZHVYMUo0SzhOQlN2S2NFRXVkR3F1VHMzUW1VbzlGejVnbnc?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-11-25T23:05:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการค่าครองชีพที่มีผลต่อประชาชนโดยตรง"
+    },
+    {
+      "id": "58284c2c",
+      "title": "\"รองนายกฯ พิพัฒน์ \" ผนึก 6 หน่วยงาน MOU ลดภาระค่าครองชีพของประชาชน ปรับค่าโดยสารรถไฟฟ้าไม่เกิน 45 บาทต่อเที่ยว ครอบคลุมโครงข่ายรถไฟฟ้า 8 สาย เริ่ม 1 ม.ค. 2570 - พรรคภูมิใจไทย : พูดแล้วทำ",
+      "summary": "รองนายกรัฐมนตรีพิพัฒน์ ร่วมกับ 6 หน่วยงานลงนาม MOU เพื่อลดภาระค่าครองชีพ โดยปรับค่าโดยสารรถไฟฟ้าไม่เกิน 45 บาทต่อเที่ยว ครอบคลุมโครงข่ายรถไฟฟ้า 8 สาย มีผลบังคับใช้ตั้งแต่วันที่ 1 มกราคม 2570 แหล่งข่าวเป็นเว็บไซต์พรรคการเมือง จึงควรอ้างอิงแหล่งข่าวราชการประกอบ",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84WEFDUDF4YllpLVBFZlhoZEJ1eG1RX0o1cHgwZjBfSm1ieXJFaWJfb3JYb0s5NDJiOGlWSmdHblNYaWo5VkdFSFZiMA?oc=5",
+      "source": "ภูมิใจ ไทย",
+      "published_at": "2026-11-25T11:05:04Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการค่าโดยสารที่ส่งผลต่อประชาชนหลายสาย มีวันเริ่มต้นชัดเจน แต่แหล่งข่าวเป็นพรรคการเมือง"
+    },
+    {
+      "id": "aaf6ad47",
+      "title": "คิกออฟ 30 บาทรักษาทุกที่ “หมอข้างบ้าน” นำร่องเคหะทุ่งสองห้อง ดูแลกลุ่มเปราะบาง",
+      "summary": "มีการเริ่มโครงการ 30 บาทรักษาทุกที่ ผ่านบริการ “หมอข้างบ้าน” โดยนำร่องที่เคหะทุ่งสองห้อง เพื่อดูแลกลุ่มเปราะบาง ข้อความที่ได้รับไม่ระบุวันเริ่มต้นหรือรายละเอียดบริการเพิ่มเติม",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZVmQ3Vk9LVVVhMkcxZUsyQUdWR2ExZl9lWXZqV25hd2sxODVrTlZqVndmOV9McU5wUGhWYWJORkI3QXBlNkhxNkFxVk8ycUpGMi1nMTFpUEJvdkhvbTFrejVCREEtcjQ?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-11-25T09:55:39Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "นโยบายสาธารณสุขที่ส่งถึงกลุ่มเปราะบางโดยตรง มีการดำเนินการจริงในพื้นที่นำร่อง"
+    },
+    {
+      "id": "4f4a9bad",
+      "title": "เงินช่วยเหลือชาวนา 2569/70 เปิด 3 แนวทาง ลุ้นไร่ละ 500–1,000 บาท รอ นบข. 27 พ.ย.",
+      "summary": "มีรายงานแนวทางเงินช่วยเหลือชาวนาปี 2569/70 จำนวน 3 แนวทาง คาดว่าจะได้รับไร่ละ 500 ถึง 1,000 บาท โดยรอการพิจารณาของคณะกรรมการนโยบายข้าวแห่งชาติ (นบข.) ในวันที่ 27 พฤศจิกายน",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QWGk2ZktYRmdPTmdKNmV3NjhpYjB1ZHhrcHdGeHBJYXg3SF9wMDhuUWltM1BzNl9RYXlHTjhaRWluYlBiSTZlYTFzNlJZUExObEt1Y3Z3?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-26T05:44:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินช่วยเหลือเกษตรกรมีกำหนดพิจารณาชัดเจน แต่ยังเป็นแนวทางที่ยังไม่สรุป"
+    },
+    {
+      "id": "384f1fd9",
+      "title": "สปสช.เผยจับมือ สธ. เตรียมของขวัญปีใหม่ รอหมอไม่นาน-ห้องฉุกเฉินคุณภาพ",
+      "summary": "เลขาธิการ สปสช. ให้สัมภาษณ์ภายหลังเปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” เมื่อวันที่ 25 พฤศจิกายน 2569 และเปิดเผยว่า สปสช. ร่วมกับกระทรวงสาธารณสุขเตรียมของขวัญปีใหม่ 2570 ได้แก่ การลดเวลารอพบแพทย์ การพัฒนาห้องฉุกเฉินให้มีคุณภาพ และการตรวจสุขภาพประชาชน",
+      "url": "https://www.hfocus.org/content/2026/11/40404",
+      "source": "Hfocus",
+      "published_at": "2026-11-26T03:55:18Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการบริการสุขภาพพร้อมกำหนดช่วงเวลาที่ชัดเจน"
+    },
+    {
+      "id": "06651623",
+      "title": "บัตรสวัสดิการแห่งรัฐ เดือนธันวาคม 2569 ได้วงเงินกี่บาท?",
+      "summary": "มีการตั้งคำถามเกี่ยวกับวงเงินบัตรสวัสดิการแห่งรัฐที่ผู้มีสิทธิจะได้รับในเดือนธันวาคม 2569 โดยเนื้อหาที่ให้มาไม่ระบุจำนวนเงินที่แน่ชัด",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BRkhISzhldkhUbXV5ZlFBV2JaMnpySzhpNHF4UlhjalhBUzlja0cyb0VjWjZYeXgzaUdvMkd6bU54SEgwQ01VNDA4cVc?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-26T03:53:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เกี่ยวกับวงเงินบัตรสวัสดิการ แต่ข้อมูลไม่ระบุตัวเลข"
+    },
+    {
+      "id": "1061dee1",
+      "title": "ปลัดเกษตรฯ เร่งเชื่อมข้อมูลผ่าน MOAC Data Center ติดตามจ่ายเงินชาวนาไร่ละ 1,000 บาท",
+      "summary": "ปลัดกระทรวงเกษตรและสหกรณ์ เร่งเชื่อมข้อมูลผ่าน MOAC Data Center เพื่อติดตามการจ่ายเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cUMzNUxCeloxMTNUaGlYWEoxTHNwajBTWkdBNnJmUFFCX1phYmhqZXBYTzlQR0lWbFBwUzljdjVLaXBFNnNMUHFpd0l4bGppdlEzZkdQck03bU1CQnhXdFN3VFZRV21XbUZ0TUdB?oc=5",
+      "source": "Head Topics",
+      "published_at": "2026-11-25T11:17:00Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "เงินช่วยเหลือชาวนาที่กำลังดำเนินการจ่ายจริง มีผลต่อรายได้เกษตรกร"
+    },
+    {
+      "id": "2c196d4b",
+      "title": "ลดค่าครองชีพ! ครม. ไฟเขียวต่อโปรฯ บัตรเหมาจ่ายรายวัน สายสีแดง 40 บาท ถึงสิ้นปี 70",
+      "summary": "คณะรัฐมนตรีอนุมัติให้ขยายโปรโมชันบัตรเหมาจ่ายรายวันสำหรับรถไฟฟ้าสายสีแดง ในราคา 40 บาท ไปจนถึงสิ้นปี 2570 เพื่อลดค่าครองชีพของประชาชน",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0QjdiTWo3V0xpMmlUMTg3ZnFIaTk0SUJmZldrLVBOd3RSQmNJZ3Vud1J5QkRsT1ZwTWNBWU1adElWUFNNcTg1UjRQNEY4QmVpSUI3dFhldmJwZnRDN0JWMWZ3eWFfUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-25T09:04:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "ลดค่าใช้จ่ายประจำวันของประชาชน มีกำหนดเวลาชัดเจน",
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "f860b2e8",
+      "title": "พม. ผนึกกำลังเครือข่าย เปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่อง 1 ชุมชน กคช. พร้อมขยายผล 4 แห่ง เล็งช่วยกลุ่มเปราะบาง เข้าถึงบริการสุขภาพใกล้บ้าน ประหยัดเวลา ลดภาระค่าใช้จ่าย . เมื่อ​วันที่ 25 พฤศจิกายน 2569 นายนิกร โสมกลาง รัฐมนตรีว่าการกระทรวงการพัฒนาสังค",
+      "summary": "พม. ร่วมกับเครือข่ายเปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่องที่ 1 ชุมชนของ กคช. และมีแผนขยายผลอีก 4 แห่ง เพื่อช่วยกลุ่มเปราะบางเข้าถึงบริการสุขภาพใกล้บ้าน ประหยัดเวลาและลดค่าใช้จ่าย โครงการประกาศเมื่อวันที่ 25 พฤศจิกายน 2569 โดยรัฐมนตรีว่าการกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์",
+      "url": "https://news.google.com/rss/articles/CBMisAdBVV95cUxOaWJHQkZscGFFS1lRaE1ZTTNxQzlyTzk0cFk4dWZVY2lRSEtPODlDOExQV3BITHJEeGxEdzY4SHNLVEpUSkx0dTRzTW5LVGtHTVpkZWw2N3EzQWM5b1o0azhvcDk5R1c0bFdRbmhxaXJoWWIzQ1ZjSVBuZW9NeGpSbGFNVkdfSFgtMC1QbktkUFFYemI4V0E0a2FCSkdjOEhwX2xOM2dKV1dQOTliMkRCOEh5WFc5ek1XMnl0R2otakdDSlBoeTlGXzBWOXJGb1R5dlpCX2xaamNPeXpnX1l6dWNvUWtjTzFycmg4OXRORmlERnc0R0h6V0k2TGRjaXpWdmdlYXJZWkxRbzZ2UjhBX09VcDFVVzFLakFOcVZ3X2NSdFBvYmxleUNsTFlGWUFoSnhwdGgxUHFnd0gwWk5KeDBMT1o2cXF0T1hyLV9mVXVqYUdBNkd3X0JGRlo5cnJyTTVWM3o0QnFBamdNclhGRFIyT1NkX2o0Y2xxZHUzcXFXQXZOV3VMWTJMWkxaQjd2Q24zNGpuT0pJaGlPWW1xZ25VVXc0ZUlNa3JuczF0RFg4VlJPSnRya3pENFBnUlBPejVESnhwNXduUGtPZmVlQTcycGpZUEZibmN2VWlxTlFrcmdha2ZTRm0xSDNhY3Npd1RwcGZBNTFDaXltcDNCT3RScVIzRm16MGxILXIwTXEzS0o5cXRveDhnNTEwTGpGUG5NM3RmeTlmV3pqa2ZHdTZucGxnZTlWdmFMem9SY3A4QnpvcVNJc3hnQ29XUDY2UWo0d0xNc2FObUxYOG0xTzgzWEM1RUE4c1VITjZIOElLSmh3Z0dLbXNQZWRvRTF6RDVUVDZjQVNjbDNfOWVuRm52WGoxSVNfbHBZTXVQaXV5Mk44N0NYMXgxNEV1c2Z5WkNqcF9nd2FnWExTUlU1VjZhNm0zZl9iMVBic012RGVjWWxaX0tLZXBZQnByRFoyQkNYRU0zM0l0czJYXy1FcDhUQndxRjhLZVpsb2dCQl9sbHBxYWx2blB0QjE3NDV2RWR4cGttby1CdFFVYlY0RTBHdjVyeThHN0JSaFB2dFZIeFZUV3JuTDFScjZ3d1dLRkNaTEhfazVtUWczT3h1ODdmNkpQM09ybzZQODB1bE9VLTh1cGtLeXNJaFdhOHFmSnZoVzN6eG1wV3owaHBPZE9PZlBSaUZrM21EbzNGQTBrZkUxOVJrYkF3dWlhRjRINHdwUzFzY19RTEdOczFySw?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-26T03:00:17Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "โครงการนำร่องเฉพาะกลุ่มเปราะบางพร้อมแผนขยายผล"
+    },
+    {
+      "id": "b61e5e28",
+      "title": "“หมอรัชริน” ชี้ รพ.สธ. เหมือนเรือรั่วใกล้จม 82% ขาดทุน เงินกันชนเหลือ 11 วัน จี้ทบทวนงบสุขภาพ",
+      "summary": "นพ.รัชริน ชี้ว่าโรงพยาบาลสังกัดกระทรวงสาธารณสุขอยู่ในภาวะการเงินวิกฤต โดยพบ 82% ขาดทุน และเงินกันชนเหลือเพียง 11 วัน พร้อมเรียกร้องให้ทบทวนงบประมาณด้านสุขภาพ หลัง HITAP-สวรส. เปิดสูตร CARE Model จัดสรรงบผู้ป่วยในบัตรทองปีงบประมาณ 2570 เพื่อแก้ปัญหาความไม่สมดุลทางการเงินของโรงพยาบาล",
+      "url": "https://www.hfocus.org/content/2026/11/40401",
+      "source": "Hfocus",
+      "published_at": "2026-11-26T02:23:14Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "ผลกระทบต่อระบบบัตรทองทั่วประเทศ"
+    },
+    {
+      "id": "adf08add",
+      "title": "พม. - สปสช. เปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่อง 1 ชุมชน กคช. พร้อมขยายผล 4 แห่ง เล็งช่วยกลุ่มเปราะบาง-ปชช. เข้าถึงบริการสุขภาพใกล้บ้าน",
+      "summary": "พม. และ สปสช. เปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน” นำร่องที่ 1 ชุมชนของ กคช. พร้อมขยายผล 4 แห่ง มุ่งช่วยกลุ่มเปราะบางและประชาชนเข้าถึงบริการสุขภาพใกล้บ้าน ข่าวเผยแพร่เมื่อวันที่ 25 พฤศจิกายน 2569",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VWnVNdE5HSXhhR0xjMzd6YW1IMko5SzUwbUlVc0o2WjdUS2RWazlHaUdjRlYyeVFlVl9QbktEZ0MtZHF4YkY1NkZKbzM4Rlpa?oc=5",
+      "source": "thaitabloid.com",
+      "published_at": "2026-11-25T10:03:29Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "โครงการนำร่องด้านสุขภาพที่มีผลต่อกลุ่มเปราะบาง"
+    },
+    {
+      "id": "f8cd7218",
+      "title": "พม. เปิดตัว “เชื่อมโยง ค้นหา ปักหมุดคนพิการ อยู่ดี” ใช้ฐานข้อมูลอัจฉริยะยกระดับสวัสดิการ",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) เปิดตัวโครงการ “เชื่อมโยง ค้นหา ปักหมุดคนพิการ อยู่ดี” โดยใช้ฐานข้อมูลอัจฉริยะเพื่อยกระดับสวัสดิการของคนพิการ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GUHBTQTFTM2llZnN0SlE1NERUTEQtRmgzbFNGdU5tQlhGNVNrZ3lvcHh5VnBJMnBiOUFBajZfNlpOZmFvMUdJd3RvdEgtMzg0RGNnajJR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-26T00:41:12Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการเฉพาะกลุ่มคนพิการที่เปิดตัวแล้ว"
+    },
+    {
+      "id": "7b7def14",
+      "title": "เซเว่น อีเลฟเว่น ยกทัพสินค้า ลดสูงสุด 80% เปิด ตลาดนัดเซเว่นฯ ช่วยค่าครองชีพ 27-29 พ.ย.นี้",
+      "summary": "เซเว่น อีเลฟเว่น จัดตลาดนัดเซเว่นฯ ช่วยค่าครองชีพ ระหว่างวันที่ 27-29 พฤศจิกายนนี้ โดยลดราคาสินค้าสูงสุด 80 เปอร์เซ็นต์",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRzNsSHFua2hZaGxZQWVmcVZQRmR3UV9rRElIQTRwVlZURFZIOXVnRjdXMlNLc0h3Q25PbF95N0NXX1BfTkV3NmVFbFJUOUhrcDMtR25JdFVvSnc?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-25T11:12:03Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดราคาช่วยค่าครองชีพ มีกำหนดวันชัดเจน แต่เป็นความร่วมมือเอกชนไม่ใช่มาตรการรัฐ"
+    },
+    {
+      "id": "f6d41268",
+      "title": "พม. ผนึกเครือข่าย เปิดโครงการ “30 บาทรักษาทุกที่ หมอข้างบ้าน”ช่วยกลุ่มเปราะบาง",
+      "summary": "กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) ร่วมกับเครือข่ายเปิดโครงการ '30 บาทรักษาทุกที่ หมอข้างบ้าน' เพื่อช่วยเหลือกลุ่มเปราะบาง ข่าวไม่ระบุรายละเอียดกลุ่มเป้าหมายและงบประมาณ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVWVhVemExQTUtTHIyWmdFaklLYjl1V3RnN21TNXZmc3BhWXBSVG5WUnRUR2MySFZkVlpsblNYaE14U3drbEpNcFFXMzBTeU51Z05ucExR?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-25T09:46:00Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "โครงการช่วยเหลือกลุ่มเปราะบางด้านสุขภาพโดยหน่วยงานรัฐ"
+    },
+    {
+      "id": "a260805e",
+      "title": "คมนาคม MOU ลดภาระค่าครองชีพของประชาชน",
+      "summary": "กระทรวงคมนาคมลงนามบันทึกความเข้าใจ (MOU) เพื่อลดภาระค่าครองชีพของประชาชน เนื้อหารายละเอียดของมาตรการไม่ปรากฏในข้อความที่ได้รับ ควรตรวจสอบรายละเอียดจากแหล่งข่าวต้นทางก่อนเผยแพร่",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmWjNReFVJTG5TRklfajMyelM0Q3BDUlQ2YzJyNlh3NlhXMlMzQjBHTTdob0RvbHNPRFMyRTViQW9ROEFGaFdoQlN2WFZ6NEZraWdBek5oUnJaUQ?oc=5",
+      "source": "banmuang.co.th",
+      "published_at": "2026-11-25T09:31:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 75,
+      "why": "มาตรการลดค่าครองชีพระดับกระทรวง แต่ข้อมูลในข่าวจำกัด"
+    },
+    {
+      "id": "85aefce5",
+      "title": "เงินเยียวยาน้ำท่วม 2569 วันนี้ ปภ. โอนเพิ่ม 2,297 ครัวเรือน รวม 10 จังหวัด",
+      "summary": "ปภ. โอนเงินเยียวยาอุทกภัยปี 2569 เพิ่มอีก 2,297 ครัวเรือน ใน 10 จังหวัด โดยโอนในวันที่ 26 พ.ย. 2569 เนื้อหาข่าวสั้น ไม่ระบุรายละเอียดวงเงินรวม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93QXN3akZQN2dCM1VGbndWc2h4bENLeU5lWWplMVNBa2VIMDFGSkMxSHcyR3U5dUZINlpwZzBQZmtDeUZoSG16dThoMjJoMGdnTjNyVllzamxlVm8?oc=5",
+      "source": "thairath.co.th",
+      "published_at": "2026-11-26T07:10:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "เงินเยียวยาถึงมือครัวเรือนพร้อมจำนวนครัวเรือน"
+    },
+    {
+      "id": "49198a0e",
+      "title": "10 จังหวัด รับเงินเยียวยาน้ำท่วม 2569 โอนเข้าบัญชี 26 พ.ย. 69 ครอบคลุม 2,297 ครัวเรือน",
+      "summary": "ผู้ประสบอุทกภัยปี 2569 ใน 10 จังหวัดได้รับเงินเยียวยาโอนเข้าบัญชีในวันที่ 26 พ.ย. 2569 ครอบคลุม 2,297 ครัวเรือน ระบุชื่อจังหวัดครบถ้วนในข่าวฉบับเต็ม",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kUEJkUndpYmxsZTRLNGNfWUplR3lrZmt6Ymd1Y25XV1ZJb3ZiUEdUWjZTQjUwOU9KbjV4WG0xV2EwYW9JVHJSODRBTmQ?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-26T06:23:00Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 74,
+      "why": "เงินเยียวยาถึงมือประชาชนพร้อมวันที่และจำนวนครัวเรือน"
+    },
+    {
+      "id": "4e600d79",
+      "title": "‘รพ.’ ถาม ‘นักวิจัย’ ตอบ เบื้องหลัง CARE Model จัดระเบียบใหม่ ‘บัตรทอง’ ดร.นพ.ยศ. มาไขข้อกังวล",
+      "summary": "ดร.นพ.ยศ. นักวิจัยให้ข้อมูลไขข้อกังวลของโรงพยาบาลต่อ CARE Model ซึ่งเป็นการจัดระเบียบใหม่ของระบบบัตรทอง โดยตอบคำถามจากฝ่ายโรงพยาบาลเกี่ยวกับเบื้องหลังโมเดลดังกล่าว",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EYmNJX2daZ0J0aG5aMjRrTkdmUXBrV1N3dWRfUUVORXY2UU1WcFJ4NXZ3QTBlTEN2VFRUN1J6U0NyVFRPcXcwc29RNVZNQWllYXVwSGxlQk1HNVE?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-26T09:07:47Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวข้องกับบัตรทองซึ่งเป็นสวัสดิการสุขภาพของประชาชนรายได้น้อย"
+    },
+    {
+      "id": "840590ef",
+      "title": "ภาคกลาง-ภาคตะวันออก เช็กเลย! วันนี้ 'ปภ.' โอนเงินเยียวยาน้ำท่วม เพิ่ม 2,297 ครัวเรือน รวมกว่า 16 ล้านบาท",
+      "summary": "สำนักงานป้องกันและบรรเทาสาธารณภัย (ปภ.) โอนเงินเยียวยาน้ำท่วมเพิ่มอีก 2,297 ครัวเรือน รวมวงเงินกว่า 16 ล้านบาท ในพื้นที่ภาคกลางและภาคตะวันออก",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lSWVrZXV4ZlNweERLalR5WnRUY2xvY3pEc19ZaEd1R09sMF8ydWZDZHg4S2dkbWg1UEZOTUptV29icTNDTGxUcEhvVmVWb2VNN0pv?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-26T05:44:00Z",
+      "category": "disaster",
+      "provinces": [
+        "เลย"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เงินเยียวยาโอนถึงครัวเรือนจริงพร้อมจำนวนเงิน"
+    },
+    {
+      "id": "d3cc22fc",
+      "title": "ภาคกลาง-ภาคตะวันออก เช็กเลย โอนเงินเยียวยาน้ำท่วมวันนี้",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมให้ประชาชนในพื้นที่ภาคกลางและภาคตะวันออกในวันนี้ ระบุรายละเอียดจำนวนครัวเรือนและวงเงินในข่าวฉบับเต็ม",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vME1YNzlVWk5tcVpDcW5yeFNtaWNlNEZvVkZlOU83ZzZNcWtnaXNKeHYzV1I1Zmp5SHhrUUNUbXhVcDFVODN4emo3enBrMzVMR3h2Ml82dy0tZ0t3QklOOW5Kc1NVZw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-26T03:43:40Z",
+      "category": "disaster",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรง แต่เนื้อหาสั้นมาก"
+    },
+    {
+      "id": "0ef0fa1a",
+      "title": "ทีมประกันสังคมก้าวหน้าขีดเส้น 1 ธ.ค. ตั้งบอร์ดอย่างน้อย 13 คน หากล่าช้าจ่อฟ้องศาลปกครอง ธนพงษ์มั่นใจไม่ขาดคุณสมบัติ",
+      "summary": "กลุ่มประกันสังคมก้าวหน้ากำหนดเส้นตายวันที่ 1 ธันวาคม ให้ตั้งคณะกรรมการประกันสังคมอย่างน้อย 13 คน หากล่าช้าจะยื่นฟ้องต่อศาลปกครอง ขณะที่นายธนพงษ์ยืนยันว่าไม่ขาดคุณสมบัติ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUGprMkl3N2ROOUVfYnNlU2l0QXlYazBXbWtNU0RiRE1mNzlkZVVJeF9Zc2ZlZlZ6dFJ5VDRyZ1NoR1FyM2h3Rlh2cS1JTFUzRXZtNWl4MVlzNHdkM3RHV2NOdWJ4UzZXRVgwRU80UG9KTDVHSlFOTFJfem84OEl4cDl3TkVMZw?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-26T03:19:32Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ความคืบหน้าการตั้งบอร์ดประกันสังคมและมีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "f359a90e",
+      "title": "‘ษัษฐรัมย์’ จี้ กกต.เร่งพิจารณาคำร้องคัดค้านเลือกตั้งบอร์ดประกันสังคม ล่าช้ากว่า 50 วัน ชี้กระทบผู้ประกันตน เสนอรับรอง 13 คนก่อน",
+      "summary": "นายษัษฐรัมย์เรียกร้องให้ กกต. เร่งพิจารณาคำร้องคัดค้านการเลือกตั้งคณะกรรมการประกันสังคม ซึ่งล่าช้ากว่า 50 วัน โดยเห็นว่ากระทบต่อผู้ประกันตน และเสนอให้รับรองกรรมการ 13 คนก่อน",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xd2haLVA3d294bG9aVlF3bE16bVlKSTFhS0ZzazY0VEg1bW5Sc0t2aWhnYzAwYkpHdTEtMGw3V1BvRkxhMEdIM250cHpNaElCVm00bkVkLVF5TzVsUk1vTkhsM0daMFo1ZVE?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-26T00:30:01Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ประเด็นการบริหารกองทุนประกันสังคมกระทบผู้ประกันตน"
+    },
+    {
+      "id": "01f2cd97",
+      "title": "ชำแหละ\"ร่าง พ.ร.บ.ประกันสังคม\"ฉบับรัฐบาล ไม่ตอบโจทย์ผู้ประกันตนส่วนใหญ่",
+      "summary": "สื่อวิเคราะห์ร่าง พ.ร.บ.ประกันสังคมฉบับรัฐบาล โดยระบุว่ายังไม่ตอบโจทย์ผู้ประกันตนส่วนใหญ่ เนื้อหาข่าวสั้นไม่ปรากฏรายละเอียดข้อเสนอในร่างกฎหมาย",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xWFdZM3lpSldzdTZUTzd1SWszdEJpbzRfVUZEMDJNdXdjeGJGa0dnUVlNQ2hmU01VS1ctUGZKcnZXQU5leThZeDVWbENhUWFCd1dWeEhzWmMtV2c?oc=5",
+      "source": "เนชั่นทีวี สถานีข่าว 24 ชั่วโมง",
+      "published_at": "2026-11-26T04:22:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ร่างกฎหมายสวัสดิการประกันสังคมกระทบผู้ประกันตน แต่รายละเอียดจำกัด"
+    },
+    {
+      "id": "0efa5685",
+      "title": "นิกร เปิดคลินิกหมอข้างบ้าน นำร่องเคหะทุ่งสองห้อง หวังเพิ่มการเข้าถึงให้ผู้ป่วยบัตรทอง",
+      "summary": "นายนิกรเปิดคลินิกหมอข้างบ้านเป็นโครงการนำร่องที่เคหะชุมชนทุ่งสองห้อง เพื่อเพิ่มการเข้าถึงบริการสำหรับผู้ป่วยบัตรทอง ข่าวไม่ระบุวันเปิดอย่างเป็นทางการ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UU1owbDhTLVVkNmVONEF3eEVWc0p3TDFfOTVCSU5jR2NjeklnOFB3TEtlbkRzOTlEN040Wmo5SElicTk2WEh6WWhnbWgxLUtQVXFjczBzVHllQ21zODRNaG5fT0hhU08wZ1E?oc=5",
+      "source": "Matichon Online",
+      "published_at": "2026-11-25T14:10:51Z",
+      "category": "health",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "โครงการนำร่องเพิ่มการเข้าถึงบริการสุขภาพของผู้ป่วยบัตรทองในพื้นที่เฉพาะ"
+    },
+    {
+      "id": "13f62106",
+      "title": "เซเว่น อีเลฟเว่น ผนึกพันธมิตร จัดตลาดนัดลดค่าครองชีพสูงสุด 80% ฟื้นเศรษฐกิจชุมชน",
+      "summary": "เซเว่น อีเลฟเว่น ร่วมกับพันธมิตรจัดตลาดนัดลดค่าครองชีพ โดยมีสินค้าลดราคาสูงสุด 80 เปอร์เซ็นต์ เพื่อช่วยฟื้นฟูเศรษฐกิจชุมชน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wQ2RGUGZZY29LR016T2d5YjFqSVVPeXhRakRsbWNRVDFLR1RyTExvWUlxT3RXRy1FYjg5eVRpbEI4MVlUTmN0b01Sc2w?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-25T12:01:00Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "มาตรการลดค่าครองชีพของภาคเอกชนที่มีผลต่อประชาชนทั่วไป"
+    },
+    {
+      "id": "94216e4c",
+      "title": "กมธ.แรงงาน วุฒิสภา เปิดเวทีเชียงราย ศึกษา “ธนาคารผู้ประกันตน” จ่อเสนอ ครม. พร้อมยกระดับสิทธิรักษาพยาบาลวัยเกษียณ",
+      "summary": "คณะกรรมาธิการแรงงาน วุฒิสภา จัดเวทีที่จังหวัดเชียงรายเพื่อศึกษาแนวคิด “ธนาคารผู้ประกันตน” และจะเสนอต่อคณะรัฐมนตรี พร้อมพิจารณายกระดับสิทธิการรักษาพยาบาลสำหรับผู้เกษียณอายุ ยังไม่มีการตัดสินใจเชิงนโยบาย",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OeU03VXloYl9scTZ0emdjUmhTaGRJTjVvNFQzdUtzX0FQbVdoWGRlWFFadGktRWZGYU5CNFRudWdXbmphRXJScXpaSnM0MVE?oc=5",
+      "source": "www.topnews.co.th",
+      "published_at": "2026-11-26T05:12:51Z",
+      "category": "elderly",
+      "provinces": [
+        "เชียงราย"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เป็นการศึกษาเบื้องต้นที่เกี่ยวข้องกับสิทธิผู้สูงอายุและผู้ประกันตน ยังไม่มีผลบังคับใช้"
+    },
+    {
+      "id": "c37a5beb",
+      "title": "วันนี้ กกต.ประกันสังคม วินิจฉัยปมข้อคัดค้าน \"ธนพงษ์\" นั่งบอร์ดฯ",
+      "summary": "คณะกรรมการการเลือกตั้งประกันสังคมมีกำหนดวินิจฉัยข้อคัดค้านกรณีนายธนพงษ์เข้าดำรงตำแหน่งในคณะกรรมการประกันสังคม ในวันนี้ ข่าวสั้นยังไม่ระบุรายละเอียดคำวินิจฉัย",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWTXl6Y1BSRE0xdXZjQjBYVTMyQlljeThURVlXOXZHcXI0R3BNSmI3STlZcFR1ckNWR1h2dFdPRG1mM2k5Ry1vdTNMdE5oRk9WTUEyN1BrY2w?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-26T03:45:56Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ประเด็นต่อเนื่องเกี่ยวกับบอร์ดประกันสังคม เนื้อหาจำกัด"
+    },
+    {
+      "id": "28f02191",
+      "title": "KH Legal Aid ชวนรู้ทัน “หนี้นอกระบบ-ดอกเบี้ยโหด” เปิดอบรมกฎหมายฟรี 19 ธ.ค.นี้",
+      "summary": "KH Legal Aid เปิดการอบรมด้านกฎหมายโดยไม่เสียค่าใช้จ่าย ในหัวข้อการรู้เท่าทันหนี้นอกระบบและดอกเบี้ยสูง กำหนดจัดในวันที่ 19 ธันวาคม",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YR1JXLXhHZ2NyVVp3Q0NFS3dZWWJTTTBKdlhrblhjWGNyMUZiSFBNN0hUZ2oxejVlTTFsN0l2QXQtOEEzY0pvVA?oc=5",
+      "source": "ข่าวหุ้นธุรกิจออนไลน์",
+      "published_at": "2026-11-25T08:37:33Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "เกี่ยวข้องกับหนี้นอกระบบของประชาชนทั่วไป เป็นกิจกรรมให้ความรู้",
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "fc61e4af",
+      "title": "ด่วน! มติกกต.สปส. ตัดสิทธิ ธนพงษ์ ทีมประกันสังคมก้าวหน้า พ้นบอร์ด ประกันสังคม",
+      "summary": "มติ กกต.สปส. ตัดสิทธิ ธนพงษ์ ทีมประกันสังคมก้าวหน้า ทำให้พ้นจากการเป็นกรรมการบอร์ดประกันสังคม ข่าวนี้เป็นการรายงานมติเดียวกับข่าวอื่นในวันเดียวกัน",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwVjdyNzI1ZDl1SXlqMUZpOTBldkVzSUNCZzZWdjVCZTd0T3lUSnA0WnJYREVndzJIS1QyaG1wdHM4VUJHZHdFa2QzbzFvdGszbnFjS3FUQTBMX3RDY2J4WFgzVQ?oc=5",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-26T08:52:00Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับบอร์ดประกันสังคม แต่เป็นประเด็นการบริหารภายใน"
+    },
+    {
+      "id": "8ca08d99",
+      "title": "ด่วน! กกต.สปส. ตัดสิทธิ ธนพงษ์ ทีมประกันสังคมก้าวหน้า ชนะเลือกตั้งบอร์ดอันดับ 1",
+      "summary": "กกต.สปส. มีมติตัดสิทธิ ธนพงษ์ ผู้สมัครจากทีมประกันสังคมก้าวหน้า ซึ่งได้อันดับหนึ่งในการเลือกตั้งบอร์ดประกันสังคม ทั้งที่ได้คะแนนสูงสุด",
+      "url": "https://www.matichon.co.th/politics/news_5991140",
+      "source": "มติชน",
+      "published_at": "2026-11-26T08:25:22Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับการบริหารกองทุนประกันสังคม แต่เป็นประเด็นการเมืองภายในบอร์ด"
+    },
+    {
+      "id": "92977998",
+      "title": "รื้อใหญ่จัดสรรงบ 'ผู้ป่วยใน' บัตรทอง เริ่มปี 70 ใช้รูปแบบ 'แคร์โมเดล'",
+      "summary": "ระบบบัตรทองจะปรับวิธีจัดสรรงบผู้ป่วยในเริ่มปี 2570 โดยใช้รูปแบบ CARE Model ซึ่งเป็นการเปลี่ยนแปลงกลไกการจัดสรรงบประมาณสำหรับบริการผู้ป่วยใน",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iQmJGb1NaUnF2cXRJMWg1cWNzOWNvVkd1UzlKMi1VUzZNZ01fOFJJMXdXbU9yOEtyb21fc2ZOd1UtaFZZeEhHVXE4VGxEZnhEWENzWHVhN2VhVG4wNkNLZmhtaGw0VXRmZ1Uw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-26T00:26:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ปรับกลไกงบประมาณระบบบัตรทอง มีผลต่อบริการผู้ป่วยใน ข่าวซ้ำกับรายการก่อนหน้า"
+    },
+    {
+      "id": "0cc6c21d",
+      "title": "News1. . หนี้คนไทย พุ่งเฉียด 8 แสน! 25/11/69 #หนี้ครัวเรือน #หนี้คนไทย #ค่าครองชีพ #โครงสร้างหนี้",
+      "summary": "รายงานข่าวระบุว่าหนี้ครัวเรือนของคนไทยเพิ่มสูงเกือบ 8 แสนล้านบาท ข้อมูลอ้างอิงวันที่ 25 พฤศจิกายน 2569 ประเด็นหนี้ครัวเรือนและค่าครองชีพเกี่ยวข้องกับกลุ่มรายได้น้อย แหล่งข่าวเป็นโพสต์ Facebook จึงควรตรวจสอบข้อมูลต้นทาง",
+      "url": "https://news.google.com/rss/articles/CBMiiwdBVV95cUxOSGNCTEtzdU1JWHVtbnZ2RzNhOWRabDBJdGV6azNXUWJZREFmWTNHR0lMWWxpOGFJS3FmQmJBc0I1RWJUdzVFNl8xS0VqSk5IcThuRWdxTmNETk51Z1VMUVhZR01jN01ieDRIekw4ZkdWbEdLYjBXcmQ1R3Z4UE5QdWpMYU54cVVtSTZxRXVZazJ4TmVtTVZENlpBb1NqQjVIOVoxUkJheEV0M05xamVDSWJxX1FhZTZxZ3Z4SEtjakVFZ0xxRXEyX0RuZ2JjYzB4bHowRGtYX2UxbVh3dFZOX21qNnUzZEtzcmZJU3BGUnBjS1ZEOXhwZWFmaTFSNk5aZDNVM0JHWUVsd1hKczdfbUk3TVBhWUwzSVpwR1dqdl9zTF84TjBTTXZOYjNPMW1aWFV5cXhhaUJ5MTVRdVBPR1dlY21fOGxMY2NUWmpmUzc4Uy1VSWRuM0VrZWJfUlotVnlmbnA2TTZhWDhaSHI0TFRxYzdia09sdExrQ2VCMVJlbUdLOFJfcUVXbTlrcDRWVThGQnB3eW5uYlJzc0hZUExaaEZDMEdpTkZOZmcyaDF6bUZZbW41ZmFXcTR0SWg3OWloOWRzUW53dWl4cE1Lb05na3NQeTMtM2RDWHJWMXVZNm5LeUdaMUN3LVdVenFlbWR0czFpbW9qQlB1TUloY2prX3dDTko2QlRRWlU1VGh0bTQ1cWgwU2ZQYVU5Q2FCbmlPSGR2THI1OUVfNlpWVzZqVmpNZ29MbDdPRUUyQ1h0eFdhZ25XbTlIZmxnXy1MemtieGFzakhHUHQtUU9QMmRScU5BZkhsamZXUzdOT0I5TkVZLVJEN21qdWZFdXctcWlMVTNfRDJ3TENGUFF4R0hCeGZIc0FNazdreEJ2ZWFXekp0aWVIOEk1a2pOZWY3NnJnX3YxZ3hoV1dwYTBOOFZBWDk0OHRyMjlHaldoZ21ra2pmWFUxUWhPTXFOb0QwTGJIMUJkeXI4RERDT3dmcjNoZEl4bHZkZG8wenhHM0QyUzVJOE1wN3hKc1JRQXFaazNDTVdrVmJKMkJ0YlNaWVB4VTF3U2VVbHJOZWF2WjZ4WDJTSGhWNmgwS1ZPRWlCaXdyWUpCWkFEam9sVk1PNnN1OUJ6NE9rMm13bG1IOVo0SHlZN2RaV1c3Z3BDMGN1R2xtNndYTUptaktJTHdTSnE5dGRkb1gtbUlz?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-25T08:36:20Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ประเด็นหนี้ครัวเรือนที่เกี่ยวข้องกับประชาชน แต่แหล่งข่าวไม่เป็นทางการ",
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "3d6ccaf9",
+      "title": "ปี 70 ใช้ CARE Model จ่ายงบ IP บัตรทองตามโควตาเขต การันตี 9,860 บาทต่อ RW เกินมากจ่ายลดลง",
+      "summary": "การจ่ายงบผู้ป่วยในของระบบบัตรทองในปี 2570 จะใช้รูปแบบ CARE Model จ่ายตามโควตาของแต่ละเขต โดยการันตีอัตรา 9,860 บาทต่อ RW และหากเกินโควตาจะจ่ายในอัตราที่ลดลง",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TDhSa1dCT2ZSSTcxMFFObVBoSXJ0OG15b0NBOTdiRmQwN0I3V3B0cDF6NGM0dklkZU5QRW5iQjNwenc5aDkxOU1VZjNzMUFUR1EwU1NYVQ?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-25T08:06:41Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับระบบบัตรทอง แต่เป็นการปรับกลไกการจ่ายงบ"
+    },
+    {
+      "id": "7091ec09",
+      "title": "ธนพงษ์ กลั้นน้ำตาไม่อยู่ ผิดหวังถูกตัดสิทธิ ขอโทษ 9 แสนเสียง ยัน ไม่ทิ้งประกันสังคมก้าวหน้า",
+      "summary": "ธนพงษ์ แสดงความผิดหวังหลังถูกตัดสิทธิ์จากบอร์ดประกันสังคม พร้อมขอโทษผู้สนับสนุนที่ให้คะแนนเสียงกว่า 9 แสนเสียง และยืนยันว่าจะไม่ทิ้งทีมประกันสังคมก้าวหน้า",
+      "url": "https://www.matichon.co.th/local/quality-life/news_5991254",
+      "source": "มติชน",
+      "published_at": "2026-11-26T09:08:31Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ปฏิกิริยาต่อมติการเมืองในบอร์ดประกันสังคม"
+    },
+    {
+      "id": "683be8d5",
+      "title": "ปลัดแรงงาน โผเข้าไปคุย ‘ธนพงษ์’ หลังไมค์ หลังประกาศตัดสิทธินั่งบอร์ดประกันสังคม",
+      "summary": "ปลัดกระทรวงแรงงานเข้าพูดคุยกับนายธนพงษ์ หลังมีประกาศตัดสิทธิการเป็นกรรมการบอร์ดประกันสังคม เนื้อหารายละเอียดของการหารือไม่ปรากฏในข้อความที่ได้รับ ประเด็นนี้เกี่ยวข้องกับการบริหารกองทุนประกันสังคมซึ่งเป็นระบบสวัสดิการของผู้ประกันตน",
+      "url": "https://www.matichon.co.th/politics/news_5991191",
+      "source": "มติชน",
+      "published_at": "2026-11-26T08:59:54Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับการบริหารประกันสังคม แต่เป็นประเด็นภายในและยังไม่มีผลต่อประชาชนโดยตรง"
+    },
+    {
+      "id": "27792e31",
+      "title": "สมาคม ขรก.ส่วนตำบลฯ เสนอสปสช. ต่อยอดระบบเบิกจ่ายตรงถึง รพ.สต. ลดภาระผู้เกษียณอายุ",
+      "summary": "สมาคมข้าราชการส่วนตำบลและเทศบาลเสนอให้ สปสช. ต่อยอดระบบเบิกจ่ายตรงให้ผู้ใช้สิทธิรักษาพยาบาลขององค์กรปกครองส่วนท้องถิ่นสามารถเบิกได้ที่ รพ.สต. ทุกแห่ง เพื่อช่วยผู้เกษียณรักษาใกล้บ้านและลดภาระการสำรองจ่าย ข้อเสนอนี้ยังไม่ใช่นโยบายที่ประกาศใช้",
+      "url": "https://www.hfocus.org/content/2026/11/40410",
+      "source": "Hfocus",
+      "published_at": "2026-11-26T08:20:42Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เป็นข้อเสนอ ยังไม่ใช่มาตรการที่ประกาศแล้ว"
+    },
+    {
+      "id": "3ad7904f",
+      "title": "แก้ พ.ร.บ.บัตรทอง ไม่ใช่ทางออกวิกฤต รพ.ขาดทุน",
+      "summary": "มีการเสนอความเห็นว่าการแก้ไข พ.ร.บ.หลักประกันสุขภาพแห่งชาติ (บัตรทอง) ไม่ใช่ทางออกของวิกฤตการขาดทุนของโรงพยาบาล เนื้อหาในข่าวสั้น ไม่มีรายละเอียดตัวเลขหรือกำหนดการ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jTDRXam5pWmhNNEVyRWx2X19SbGdSb1Q0M3Boekk0eEVDMjhRczZ5SmlmeXBJUW01LWtsT2QwRFd1THY4aFZrZ0lmZEdHS1ZvcVZfbmFGNFhLaFJPdXVJ?oc=5",
+      "source": "Policy Watch",
+      "published_at": "2026-11-26T05:04:00Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบัตรทอง แต่เป็นความเห็นและเนื้อหาสั้น"
+    },
+    {
+      "id": "ba8c64ac",
+      "title": "บุกจี้ปลัดแรงงาน เสนอชื่อ 13 ว่าที่บอร์ดประกันสังคม ขีดเส้น 1 ธ.ค. ฮึ่มฟ้องศาล | Khaosod",
+      "summary": "มีการเข้ายื่นข้อเรียกร้องต่อปลัดกระทรวงแรงงาน ให้พิจารณาเสนอชื่อ 13 บุคคลเป็นว่าที่กรรมการบอร์ดประกันสังคม โดยกำหนดระยะเวลาถึงวันที่ 1 ธันวาคม และมีการขู่ดำเนินคดีทางศาลหากไม่เป็นไปตามข้อเรียกร้อง ประเด็นนี้เกี่ยวข้องกับการบริหารประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UWGt0Tnh0RFJMaXRnaUJfNEJYQWVwTlBPWFlPTi1Zc3hZUzZMbTUtNEMzZWZTTzR2YlRTTFg0dDNrVTY5dHFfRFE1WkdFSEtURmJFaWdn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-26T05:14:41Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกับการบริหารประกันสังคมแต่เป็นประเด็นการเมืองภายในและยังไม่มีผลต่อประชาชนโดยตรง"
+    },
+    {
+      "id": "ef49e87b",
+      "title": "จากหน้า ‘รพ.ราษีไศล’ ถึงปีที่ 25 ของระบบ ‘บัตรทอง’",
+      "summary": "บทความทบทวนเส้นทางของระบบหลักประกันสุขภาพแห่งชาติ (บัตรทอง) ครบรอบ 25 ปี โดยเริ่มจากเหตุการณ์ที่โรงพยาบาลราษีไศล ข่าวเป็นเนื้อหาเชิงวิเคราะห์ ไม่มีกำหนดการหรือตัวเลขใหม่",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fekc5UnJ2d3UtODhXMGl4V2ZKUEo4bHpueW9wOWJJU3cxT3ZpalR5Q1BNX1lIeFd3djFqV3ctVE05NXJnTkx2OE5Nd05wOHFTRHR3RHMyNnF2OHM?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-26T05:56:16Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "บทความย้อนประวัติบัตรทอง เชิงวิเคราะห์"
+    },
+    {
+      "id": "06d12a8a",
+      "title": "'ษัษฐรัมย์' แฉพิรุธเอกสารค้านรับรอง 'ธนพงษ์' นั่งบอร์ดประกันสังคม ลายมือ-คำผิดเหมือนกันเป๊ะ จ่อฟ้องปกครอง-อาญาหากถูกตัดสิทธิ",
+      "summary": "นายษัษฐรัมย์แสดงข้อสังเกตเกี่ยวกับเอกสารคัดค้านการรับรองนายธนพงษ์เป็นกรรมการในคณะกรรมการประกันสังคม ระบุพิรุธด้านลายมือและคำผิดที่ซ้ำกัน และแสดงท่าทีจะดำเนินคดีปกครองและอาญาหากมีการตัดสิทธิ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDT3NkWnhfVHd4clVvYXVpWUtMS1JFY2gxYjZNUUtlNFl0b1ZkbGY0TER4V3pkemdlR1JsQ2kzWXN0SEtoTVB2M2cxNkVmdXVTM3l3?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-26T04:20:12Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับการบริหารประกันสังคม ไม่ใช่สวัสดิการโดยตรง"
+    },
+    {
+      "id": "086a7893",
+      "title": "ข้อน่าคิด รพ.ศิริราชขาดทุนบัตรทอง2พันล้าน สปสช.ต้องหาคำตอบเพราะอะไร?",
+      "summary": "มีการตั้งประเด็นว่าโรงพยาบาลศิริราชขาดทุนจากการรักษาผู้ป่วยบัตรทองประมาณ 2 พันล้านบาท และ สปสช. ต้องหาคำตอบถึงสาเหตุ เนื้อหาที่ให้มาเป็นการตั้งคำถามและไม่มีข้อมูลการดำเนินการที่ชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Lb1puZWxyY2RaZk1fc19QSDh6TE5XWjJuVnp0ZjFYb0FrXzBSOWVQZlB5VXVsbl9DTjdzbWJqN1dEc0NmU20tRDU1bEtnS2xaNkt4S2FsYk8?oc=5",
+      "source": "ไทยโพสต์",
+      "published_at": "2026-11-26T03:10:19Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ประเด็นเชิงวิเคราะห์ ไม่ใช่มาตรการ"
+    }
+  ]
+}
