@@ -1,0 +1,609 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:41:59Z",
+  "window": {
+    "from": "2026-11-27T06:41:07Z",
+    "to": "2026-11-28T08:41:07Z"
+  },
+  "stats": {
+    "fetched": 229,
+    "excluded_by_blocklist": 0,
+    "ai_input_tokens": 18387,
+    "ai_output_tokens": 13693,
+    "cost_thb": 0.32,
+    "runs": 1,
+    "kept": 39,
+    "eastern": 0,
+    "national": 39,
+    "new": 39,
+    "followups": 0,
+    "sources": 27
+  },
+  "items": [
+    {
+      "id": "a4dd23ea",
+      "title": "บัตรสวัสดิการแห่งรัฐ ธ.ค. 69 รับ 1,050 บ.+เบี้ยพิการ เช็กวันโอน",
+      "summary": "บัตรสวัสดิการแห่งรัฐประจำเดือนธันวาคม 2569 ระบุวงเงิน 1,050 บาท พร้อมเบี้ยความพิการ และมีการแจ้งวันโอนเงิน ผู้มีสิทธิสามารถตรวจสอบวันโอนได้จากข่าวต้นฉบับ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LMkdobmRpLTdjRS1MNzAzWURDalFKbFUtZXJKakt4RkRhX05zVDFwRlhJRGVsVHN1UGVMeDAxbVR4cmNfV3BETmdiRHZYUlVseXBHM19EeF9kOU1ZTmlPMWc1SkRJUQ?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-27T14:24:24Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือจริงถึงมือประชาชนกลุ่มเปราะบาง"
+    },
+    {
+      "id": "34f1679f",
+      "title": "14 จังหวัด รับเงินเยียวยาน้ำท่วม 2569 เข้าบัญชี 27 พ.ย. 69 ครอบคลุม 30,445 ครัวเรือน",
+      "summary": "เงินเยียวยาผู้ประสบอุทกภัยปี 2569 จะเข้าบัญชีผู้รับในวันที่ 27 พฤศจิกายน 2569 ใน 14 จังหวัด ครอบคลุม 30,445 ครัวเรือน",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwcmVVajZURnhvVE4tcjFpa3EtVzRacVowRC1kNFg5bkxvd0d5TjFsMWtGNXVubXRyODIwbFMwS1ZKb21WZ0c2ZS0wQmY?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-27T09:35:00Z",
+      "category": "cash_transfer",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 90,
+      "why": "เงินช่วยเหลือโดยตรงถึงประชาชนที่มีกำหนดวันโอนชัดเจน"
+    },
+    {
+      "id": "7ebb035e",
+      "title": "เงินเยียวยาน้ำท่วมล่าสุด 27 พ.ย. 69 โอนวันนี้ กทม.และ 13 จว.รับเงินกว่า 181 ล้าน",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมในวันที่ 27 พฤศจิกายน 2569 ให้แก่ผู้ประสบภัยในกรุงเทพมหานครและ 13 จังหวัด รวมเป็นเงินกว่า 181 ล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZ3V4UjJJTmo2ckRETi1OUmZ4X0JpSFhOSFcxbjZBVW9aTDF3SzJNcWItcHkzMVBtY0tvYnJyTzZsaXd5S1dRdnVMSUk1YkhXWlJKUGV0ZDVVMDhY?oc=5",
+      "source": "Thansettakij",
+      "published_at": "2026-11-27T07:15:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 88,
+      "why": "เงินเยียวยาถึงมือประชาชนโดยตรง มีจำนวนเงินชัดเจน"
+    },
+    {
+      "id": "3865c8e9",
+      "title": "เช็กด่วน! เงินเยียวยาน้ำท่วม 2569 โอนเพิ่มวันนี้ 30,445 ครัวเรือน พื้นที่ กทม. - 13 จว.",
+      "summary": "มีการโอนเงินเยียวยาน้ำท่วมปี 2569 เพิ่มเติมในวันที่ 27 พฤศจิกายน จำนวน 30,445 ครัวเรือน ในพื้นที่กรุงเทพมหานครและ 13 จังหวัด",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BRXBFNENGQVphSVNXa096RG1Tb3NkQm1RSHM1RkhmSXVWaG5BYjNKb04taFRrdl9MSkxUVWloTzk4dnFWbEVTUVdCaUNyWldrQkJNTk5jbWJ6d29jOXpOaU93ME50dw?oc=5",
+      "source": "bangkokbiznews",
+      "published_at": "2026-11-27T08:30:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 86,
+      "why": "เงินเยียวยาถึงครัวเรือนผู้ประสบภัยโดยตรง มีจำนวนครัวเรือนชัดเจน"
+    },
+    {
+      "id": "31bdf32b",
+      "title": "รัฐบาลต่อโปรรถไฟฟ้าสายสีแดง-ม่วง เหมาจ่ายสูงสุด 40 บาท/วัน ยาวถึงสิ้นปี 70",
+      "summary": "รัฐบาลขยายมาตรการ \"บัตรโดยสารเหมาจ่ายรายวัน\" สำหรับรถไฟฟ้าสายสีแดงและสายสีม่วง โดยเดินทางได้ในราคาสูงสุดไม่เกิน 40 บาทต่อวัน มีผลถึงวันที่ 31 ธันวาคม 2570 เพื่อลดภาระค่าใช้จ่ายของประชาชน",
+      "url": "https://www.thairath.co.th/news/politic/2975143",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-11-28T08:05:51Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "มาตรการลดค่าครองชีพที่มีผลโดยตรงต่อประชาชนและมีกำหนดเวลาชัดเจน"
+    },
+    {
+      "id": "e7ddc7c8",
+      "title": "กลุ่มคนรักหลักประกันสุขภาพ ยืนยันไม่ได้เข้าใจผิด ชี้ร่างแก้ กม.บัตรทอง เปลี่ยนหลักเกณฑ์เปิดช่อง “ร่วมจ่าย”",
+      "summary": "กลุ่มคนรักหลักประกันสุขภาพยืนยันว่าไม่ได้เข้าใจผิด โดยชี้ว่าร่างแก้ไขกฎหมายบัตรทองเปลี่ยนหลักเกณฑ์ซึ่งเปิดช่องให้มีการร่วมจ่ายค่ารักษาพยาบาล",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtWWpYblV0X1hKVG90NXNVcjVNQkRuT0l0S1ZQdkYxZmw4VzB2akt0V21TNlp1YkxSbnZjdmJFMmI4V0w4TmtQZmtRbjRSMjR5WWZ4Zkg2bw?oc=5",
+      "source": "ประชาไท Prachatai.com",
+      "published_at": "2026-11-28T06:31:27Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "กระทบสิทธิการรักษาของผู้ใช้บัตรทองโดยตรง"
+    },
+    {
+      "id": "b64526d5",
+      "title": "กทม. โอนเงินเยียวยาน้ำท่วมแล้ว 780,697 ครัวเรือน เช็กสิทธิที่นี่",
+      "summary": "กรุงเทพมหานครโอนเงินเยียวยาน้ำท่วมแล้วจำนวน 780,697 ครัวเรือน และเปิดให้ตรวจสอบสิทธิ์ผ่านช่องทางที่กำหนด ข่าวต้นฉบับระบุรายละเอียดวิธีการตรวจสอบสิทธิ์",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82cDRVcEdaSVctYTJTdmVQN0pUbFRrV3NYeDJSQWNXYVU2R2RSVEZnSFpWdzRLUWxBM25wN2ZpS3NyWW5xOHZZQmIzRU82dVkwTW5xeQ?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-28T04:58:55Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือครัวเรือนจำนวนมาก"
+    },
+    {
+      "id": "a9f82951",
+      "title": "‘ปภ.-ออมสิน’ โอนเงินเยียวยาน้ำท่วมเพิ่ม 30,445 ครัวเรือน กว่า 181 ล้าน ครอบคลุม กทม.-13 จังหวัด",
+      "summary": "กรมป้องกันและบรรเทาสาธารณภัย (ปภ.) และธนาคารออมสิน โอนเงินเยียวยาน้ำท่วมเพิ่มอีก 30,445 ครัวเรือน รวมวงเงินกว่า 181 ล้านบาท ครอบคลุมกรุงเทพมหานครและ 13 จังหวัด",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85QUNpQ19DVlpkbkxOZE40SWhwZGIwZ2pUR0dIVkt6V3RlTTlGV2JpSWdLNzhFbTRlVGNpTkZ0azRKalZWelU2cmhqRmtaTFZHcUpF?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-27T07:26:00Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 85,
+      "why": "เงินเยียวยาถึงมือครัวเรือนที่ประสบภัยจริง มีจำนวนชัดเจน"
+    },
+    {
+      "id": "776015de",
+      "title": "เปิดมติบอร์ดควบคุมคุณภาพฯ เคาะ 7 มาตรการสกัดยาคลาดเคลื่อน ชงปรับ 30 บาทรักษาทุกที่ 4 ด้าน",
+      "summary": "บอร์ดควบคุมคุณภาพฯ เห็นชอบกรอบ 7 มาตรการป้องกันความคลาดเคลื่อนทางยาในการประชุมวันที่ 26 พ.ย. 2569 และเสนอ 4 แนวทางพัฒนาโครงการ 30 บาทรักษาทุกที่ โดย สปสช. แจ้งข่าวในวันที่ 28 พ.ย. 2569",
+      "url": "https://www.hfocus.org/content/2026/11/40443",
+      "source": "Hfocus",
+      "published_at": "2026-11-28T06:48:56Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 80,
+      "why": "มาตรการระดับประเทศที่เกี่ยวกับบัตรทองและความปลอดภัยการใช้ยา"
+    },
+    {
+      "id": "41c59a64",
+      "title": "เด็จพี่ บี้นายกฯ เคาะเงิน 1 พันต่อไร่ ช่วยชาวนา เห็นใจเดือดร้อนหนัก ต้นทุนแพง ทั้งปุ๋ย-น้ำมัน",
+      "summary": "\"เด็จพี่\" เรียกร้องให้นายกรัฐมนตรีพิจารณาจ่ายเงินช่วยเหลือชาวนาไร่ละ 1,000 บาท เนื่องจากชาวนาได้รับความเดือดร้อนหนักจากต้นทุนการผลิตที่สูงขึ้น ทั้งค่าปุ๋ยและค่าน้ำมัน",
+      "url": "https://www.matichon.co.th/politics/news_5993888",
+      "source": "มติชน",
+      "published_at": "2026-11-28T06:41:07Z",
+      "category": "farmers",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "มีข้อเสนอเงินช่วยเหลือเกษตรกรโดยตรง แต่ยังเป็นเพียงการเรียกร้อง"
+    },
+    {
+      "id": "f2cd7a80",
+      "title": "กดเงินบัตรสวัสดิการแห่งรัฐ ธันวาคม 2569 ได้กี่บาท เช็กวงเงินไหนถอนเงินสดได้บ้าง",
+      "summary": "ข่าวเช็กวงเงินบัตรสวัสดิการแห่งรัฐประจำเดือนธันวาคม 2569 และระบุวงเงินที่สามารถถอนเงินสดได้ ข้อมูลจำนวนเงินเฉพาะเจาะจงไม่ปรากฏในหัวข้อและคำอธิบายที่ให้มา",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uY19OZGk0dnJ5bXA5RjcxWjc3UEZ3TzVzaEtmT0VKUkZvWVhRX3dxTURNRGc4U2N4aUZDNGdnaWpUd2k2NW1yaEpVNFI?oc=5",
+      "source": "Sanook",
+      "published_at": "2026-11-27T08:21:00Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 78,
+      "why": "เกี่ยวกับการใช้จ่ายจริงของผู้มีสิทธิ ระบุช่วงเวลาชัดเจน"
+    },
+    {
+      "id": "0695d2f0",
+      "title": "กกต.สปส.แก้รายชื่อบอร์ดประกันสังคม เลื่อน \"จตุรงค์\" แทน \"ธนพงษ์\"",
+      "summary": "กกต.สปส. แก้ไขรายชื่อกรรมการบอร์ดประกันสังคม โดยให้นายจตุรงค์เข้าดำรงตำแหน่งแทนนายธนพงษ์ การเปลี่ยนแปลงองค์ประกอบบอร์ดมีผลต่อการบริหารกองทุนประกันสังคมที่ผู้ประกันตนทั่วประเทศเกี่ยวข้อง",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCajNpdU8xUXRaYkE4NTg0ZTVJdkNBa3Rma05UVVlNZDhOUGlnNDhEaG85ZWZqMnl2cGVSNmdPWHFRNFVpWjVBUTU3VXVONGM5WHcwOG5lUHY?oc=5",
+      "source": "Thai PBS",
+      "published_at": "2026-11-27T07:57:50Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 76,
+      "why": "การเปลี่ยนแปลงองค์ประกอบบอร์ดกองทุน"
+    },
+    {
+      "id": "42740ed5",
+      "title": "‘ธนพงษ์’ บุกประกันสังคม ทวงเอกสารฟันหลุดเก้าอี้บอร์ด ลั่นเตรียมลุยฟ้องศาลปกครอง",
+      "summary": "นายธนพงษ์เข้าพบสำนักงานประกันสังคมเพื่อทวงเอกสารเกี่ยวกับการพ้นตำแหน่งกรรมการบอร์ดประกันสังคม และประกาศเตรียมยื่นฟ้องต่อศาลปกครอง ประเด็นนี้เกี่ยวข้องกับการบริหารกองทุนประกันสังคมซึ่งส่งผลต่อผู้ประกันตนทั่วประเทศ",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYakdBeTFwZTdtaGFIWmhCR05rZ0s3bXdza2k1MjllOEZVVVhmUUcxTWRxOFgxU2pHNlJ6MGVqMy1QMF9rZTUxbXRnVWgycGVIV0hxdkNsdmNkT3FlRF9mVlpkcHBvb25LSHN3NWd6Vkp2UQ?oc=5",
+      "source": "The Bangkok Insight",
+      "published_at": "2026-11-27T07:39:23Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "เกี่ยวกับการกำกับกองทุนประกันสังคม"
+    },
+    {
+      "id": "0acdb0d5",
+      "title": "LABOR: 'ธนพงษ์' บุก สปส.ทวงเอกสารคำวินิจฉัย-รายงานประชุม กกต.ประกันสังคม ปมถูกตัดสิทธิบอร์ด ยันบริสุทธิ์ใจเคยผ่านตรวจมาแล้ว 3 ครั้ง จ่อฟ้องศาลปกครอง-เอาผิดคนปล่อยข้อมูลส่วนตัว วันนี้ (27 พ.ย.69) นายธนพงษ์ เชื้อเมืองพาน ผู้สมัครคณะกรรมการประกันสังคม ฝ่ายลูกจ้าง เดินทาง",
+      "summary": "นายธนพงษ์ เชื้อเมืองพาน ผู้สมัครคณะกรรมการประกันสังคมฝ่ายลูกจ้าง เดินทางไปยัง สปส. เพื่อทวงเอกสารคำวินิจฉัยและรายงานการประชุม กกต.ประกันสังคม กรณีถูกตัดสิทธิการเป็นกรรมการ โดยยืนยันความบริสุทธิ์ใจและว่าเคยผ่านการตรวจสอบมาแล้ว 3 ครั้ง พร้อมระบุจะฟ้องศาลปกครองและดำเนินคดีกับผู้เปิดเผยข้อมูลส่วนตัว",
+      "url": "https://news.google.com/rss/articles/CBMivAdBVV95cUxQQ1dUWlpQNkVBNmFhRUZKMUNfUTBCWUtqM2xvNXZxUS1FM1dnekItM1Y0ZWxYQnlGRFVzaHRRbFZxaDN6SUt2VXY0Nm41SEJ6UE5hZ0lTcURzbXNUVnFYU0xXbVk1U1o3ZzhSSzVQWXJPd2NCSEFBZHhzLVk3UVFMUVpRai14YUloREVkRy16YWhVdmkzLVRtaDkxNmFwN05HRnpDM1RWNXE2N25SZTYzOWVkZHd3LWNoeUxJc1hIUms4UzJmRXBtUXdGWUNNRjVsRVR4czZHSEpHT25pVGljT21WcW5fVEdYOTQyTU55VE9KOGdfUGdya1UxQzFJNUtuTWxCYzBRYWVvR2hvY3c2NW9QbzNKb2hWSmZXU3VqLVREdTVyMmxZb21hUHVQTzdmQUlTbUpwejdQdlRvMUQ1SXJKRWdKY2RXMDdhYjJWcFRrNnlWbmJYaDNIWXJjT2x2ZENRcWVIQmJEZmdBYUE4cndCOEZhUDA4a3dqZVRiXzRJcDQ3TUUzTTBsbU14cnJ6SUlFMEo5ZS1FTlNWN0JBWk5CY0NJZjVoSXRnYkE5ZzVLWkFaNEFGcUxaQTlXdHpCMU9BbktzTmNZb0RZcEkwNkNuNDlGbUhQb1NrdFhfbUZDWXB5VVAycElhNXFzdG9nME9FcVJtUUNBNkU0N0pZVTdNeTdDQ0xXUHpyRFFsZWFhcGF4RWticzNjNGJkM2lkWDI5NnNKRGRwRG05WVpZVC1NakJPS0QwcGxpbDN0bnp0VGZKMkVFYmpUNjZYTm5tdXM0b3YzU3VFLXk5SGxDRnlwS3ZROV9Pdzg1SXdIeHVlVkItcVRRb2l3Qllld2NLZHI4bWdjd3hnRGZyeVZ5azlPZzRGT3FfRjNnM3FmX05rQVRXOExLUk0wdV81UGhnZFhNZFpHS3RDdDVjZHk3VkhXZE1JMGV5OGZxTFpaSGlIU2lzMFlaTjlwQVk0QWpNZnZKbnBvZTgzeUFobDIyOU9tdHV0dWxOLVhHSEliaWF1Q1RIMkExa3J1M2pjZmlYNlF4NFBlWTM0MHNMdHI4RzJTWWlSZjRtLXE0MTEwQW9kOUNnYVZ3TW1QVTVEcFk5eUQ5Ujk1VGhtZG55VlBGeEtxN1prSUttemUzZVpqRFYtR0swS0tXNVNoU1VpeThOcmV3dlc4cWpMUUZGaXJOUVJHakFHS180Q0EwVGZBcjgyc1UwenMyaFlDb2ZVNU9CYzktcm1vdVhQQVppRUNtZlE5enZHLXRtMjhNMQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-27T06:58:31Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "ประเด็นการเลือกตั้งบอร์ดประกันสังคมที่กระทบผู้ประกันตน"
+    },
+    {
+      "id": "fc5eba00",
+      "title": "ก.แรงงาน จับมือ พม. สร้างโอกาสทางอาชีพ หนุนจ้างงาน ดูแลสิทธิสวัสดิการกลุ่มเปราะบางอย่างยั่งยืน",
+      "summary": "กระทรวงแรงงานร่วมกับกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (พม.) ดำเนินโครงการสร้างโอกาสทางอาชีพและส่งเสริมการจ้างงาน พร้อมดูแลสิทธิสวัสดิการของกลุ่มเปราะบางอย่างต่อเนื่อง ทั้งนี้ยังไม่ระบุรายละเอียดงบประมาณหรือกลุ่มเป้าหมายเพิ่มเติมในข่าว",
+      "url": "https://news.google.com/rss/articles/CBMi3AhBVV95cUxNSElYdW1zUVZwR0VfeGxiYXFoR1lOd2IwSF8ydGZ5NDVReWhGU09fdE9jRkZReVVjVEZ0aWIzM2dQbUM3aHI0ZGk3UEpkOVowZ2QtMEhZVVJXaGVWZ2ZUOV8wcUpWZEJYX3c0bHZKSENKWE42LU9qTTBCOE9zeXNkOFYwNGlaQmQzd1U4djRRZUxwalEwM1FNdy14X3ZTekk4cjN3aEJ4NmJJT1ZOcGlMN196OUxqYWd2U01lV3hGRFdHU2NnMVN6dmJCR2w0eGlKWjN0VEJRRDlqUDczMGNKOXkzUkVDSE4yRVFWSXNWaHdyLU9WV1dKLTExbktCOENxQzhLRHhpUUpGbzByRl80X18tSmw0OUdpTUpTaGhELVp0NDhpdkVHT2dkTE1yTFVyQzRGV21uSjRLOWgwYkdha3FRdHdMVjBkNHNmdkpCbklQZ3gwNThLay1HdUh6bDRocW12YWFqMjgzMmpraDd0bG92eUFhTXFDaVRpMC1nWTVOT05rM3pBRHNEeFVOR2lOVzRwVk9UM1JUczNlU28xN05lU0ZqMmdsOE1Ycmk3LW9hQnI1SnkzNHBia3FseGcydXZWVFFxc0loNWJ4ckhHaUJQWGh3VGtLQ3Myd1ZVUDR0a0pCSXM4THFmOUNfU1E1V3JNUlZKQ2RoOTZ0bkdSTEhMRXRhUVdNMlFuZHVMdG1lTDVFajNWZU5haFNaZy1nRHpPSmh3S2NIeWE0V3ZHQk92WE9qa3FQY3pCdU82M2dXRzJpbGFCb0pCZWRiMmJWeWp6bkpUcktMak96TkRydTBXUmh2QTVEcFhVcXFpREY4QV9KYUNSRUE3QS1IRUxtWGVaRXpEYlQtU2dlcjRwQnRXd053VENQSlB0bjRXcTMzOFJ6TGNaazhEaWNYMVNneUJvb19ZZDRqZTB5cDlsM3dkZGZkb2dzQmVEVWlKZ2FsNnN3aFRIRk5seXJValdNVFdGZzVRYXA1V09ac0U2QlpaeENqdHhXaE9udloxblRzSG9OcHk5OURKZDVJQThBLWR2R3pURnhhSGJLaTNjQXBHYUE0dG13QTZRejZ2TGlBNWwxb05MR0hfaTBkVW43a3doalVFaDJEODJBNG1TY3JFM1d0NExNWnREa2tpb0RwUDg3OU1mVG9DUE9yLVV2SjlpLUpFdHFOU3QwRUFBdXRKbDlkNHJ2Yy13UjJSYk04SkJ1UEllYWxTREU2azJsUXJzbzktZ1JjOWgtWkF5Tm94RXZ4RU0xUTM0aEU3T1NCc2tBd1RLTE5nUDRVUE5SU0NEZ0tHdzJOb0hjdUd3TDNqYjlYWDU4MlBJUFVpQXo0UzJZcEoweVNmSWRoRGhyblNtcHBQajU4eDBTWXA2Q1MxLTFIZ3ktb2tBLTNSNllDQXh2SnZRRFp4aXlsMUxyTGdicXFkTG8yLUYtS0tEV3kxUWw4X1VoVFR6RWFfel9DaDZqYVU0ZWRzalk?oc=5",
+      "source": "กระทรวงแรงงาน",
+      "published_at": "2026-11-27T06:42:22Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 72,
+      "why": "มาตรการความร่วมมือระดับกระทรวงเพื่อกลุ่มเปราะบาง"
+    },
+    {
+      "id": "42292e6d",
+      "title": "ยิ่งช้า (อาจ) ยิ่งเสียโอกาส เมื่อยังตั้ง ‘บอร์ดประกันสังคม’ ไม่ได้ ใครต้องรับผิดชอบต่อผู้ประกันตน ?",
+      "summary": "บทความวิเคราะห์ผลกระทบจากความล่าช้าในการแต่งตั้งบอร์ดประกันสังคม ซึ่งอาจทำให้การบริหารกองทุนและการให้บริการแก่ผู้ประกันตนล่าช้า พร้อมตั้งคำถามถึงผู้รับผิดชอบ เนื้อหาเป็นความเห็นเชิงวิเคราะห์ของสื่อ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Y2pCQUxnLXVXV09kY0FPNHhkc2Q5ZXd1OENkMHFnWG9kUHJ0TF8xallFc0RndTVpWXM3aS02SXFNb3BQSVROLUU5QW15bUZrY1hPeV9peTR1RzA?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-27T09:58:52Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "ความเห็นเชิงวิเคราะห์เรื่องผลกระทบต่อผู้ประกันตน"
+    },
+    {
+      "id": "bc0d6b4c",
+      "title": "รองโฆษกรัฐบาล แจงปม 'ธนพงษ์' พ้นบอร์ดประกันสังคม พบหลักฐานใหม่",
+      "summary": "รองโฆษกรัฐบาลชี้แจงกรณีนายธนพงษ์พ้นจากบอร์ดประกันสังคม โดยระบุว่าพบหลักฐานใหม่ ประเด็นนี้เกี่ยวข้องกับการกำกับดูแลกองทุนประกันสังคมซึ่งผู้ประกันตนทั่วประเทศได้รับผลกระทบโดยตรง",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrMFlfcllnSE5yWW5FTmR4OTU4Yjl4ZExYaEx4QUZzNGdZN0dsMHVMaVdTZ0RkMHZYUWVNOXF1YWFPd2MzbE1Zc0FvTHR5Tk1fREJNVDdCbGw?oc=5",
+      "source": "thaipost.net",
+      "published_at": "2026-11-27T07:40:54Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 70,
+      "why": "การกำกับดูแลกองทุนประกันสังคม"
+    },
+    {
+      "id": "4380b522",
+      "title": "กคช. เปิดเกมรุกตลาดที่อยู่อาศัย! จัดโปรโมชัน 16 โครงการ ลดสูงสุด 30% ดอกเบี้ยเริ่ม 1.5% เพิ่มโอกาสคนไทยมีบ้านเป็นของตนเอง",
+      "summary": "การเคหะแห่งชาติ (กคช.) จัดโปรโมชันโครงการที่อยู่อาศัย 16 โครงการ ลดราคาสูงสุดร้อยละ 30 และเสนอดอกเบี้ยเริ่มต้นร้อยละ 1.5 เพื่อส่งเสริมให้ประชาชนมีที่อยู่อาศัยเป็นของตนเอง จุดประสงค์ส่วนหนึ่งเอื้อต่อผู้มีรายได้น้อยถึงปานกลาง",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRmpyV0tiSkI4TWRTeDhwWXhRUl8wRllKazBaTVhUa0xZWlIzMGkzV0RfbEE2NUhpaEdsWlNTVGFKLS1MamVUOGhJUTcyUElremlpN0dET0FIbFlwSlo2RnBpdGFuQQ?oc=5",
+      "source": "thaipost.net",
+      "published_at": "2026-11-27T09:18:01Z",
+      "category": "housing",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 68,
+      "why": "มาตรการช่วยเหลือด้านที่อยู่อาศัยของรัฐ"
+    },
+    {
+      "id": "96c496e8",
+      "title": "‘หนี้นอกระบบ’สู่อาชญากรรมทางเศรษฐกิจ นรกทวงเร็ว-อย่าดูแค่ค่างวด",
+      "summary": "บทความเตือนถึงปัญหาหนี้นอกระบบที่พัฒนาไปสู่อาชญากรรมทางเศรษฐกิจ โดยเฉพาะการทวงหนี้อย่างรุนแรง และแนะนำให้ประชาชนพิจารณาต้นทุนที่แท้จริงของการกู้ยืม",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRbmhTNFR2V3J2ZkU2V1pPV3FsZHpoNjA2bmRjdXFobnp6QmNpQnd3RzlBbm1FOUt4T1R0X2tCTVZTdGtkdjVfbmxuUTdnOXhuMXlzallWY1I?oc=5",
+      "source": "เดลินิวส์",
+      "published_at": "2026-11-28T03:12:23Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ปัญหาหนี้นอกระบบกระทบผู้มีรายได้น้อย แต่เป็นบทความให้ความรู้"
+    },
+    {
+      "id": "9d1c1ec7",
+      "title": "ธนาคารกรุงเทพ เพิ่มช่องทางชำระเงินสมทบประกันสังคมมาตรา 40 ผ่านโมบายแบงก์กิ้งธนาคารกรุงเทพ เติมบริการครบทุกมาตรา จ่ายสะดวก ปลอดภัย",
+      "summary": "ธนาคารกรุงเทพเพิ่มช่องทางชำระเงินสมทบประกันสังคมมาตรา 40 ผ่านแอปพลิเคชันโมบายแบงก์กิ้ง เพื่อให้ผู้ประกันตนมาตรา 40 ชำระเงินได้สะดวกและปลอดภัยยิ่งขึ้น ข่าวนี้เป็นการประชาสัมพันธ์บริการของธนาคารเอกชน",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZC01aW5OeXgwbGM2R2UwazJyWXQ0VnpqTl9obHNib0R1LV9CRzA0OHg5RDZQRThTcnd1LXlEcmY4Wm1USmh2NEtLVmhESnZLcEJ4bEtlbEQwdXhEYmxJRGw3eG1WTDEwSW1IQk5zOGxZeTlPSm1FcUwtaU1Lc0lobGVKVFQ1Wlk?oc=5",
+      "source": "efinanceThai",
+      "published_at": "2026-11-27T09:17:09Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 65,
+      "why": "ช่องทางชำระเงินสมทบมาตรา 40 สำหรับแรงงานอิสระ"
+    },
+    {
+      "id": "bff63963",
+      "title": "รัฐดูแลค่าโดยสารช่วงปีใหม่ ขอความร่วมมือสายการบิน ลดราคาตั๋ว 20% จากเพดานที่กำหนด",
+      "summary": "สำนักงานการบินพลเรือนแห่งประเทศไทย (CAAT) หารือมาตรการดูแลราคาค่าโดยสารช่วงปีใหม่ และขอความร่วมมือสายการบินลดราคาตั๋วลง 20% จากเพดานราคาที่กำหนด เพื่อลดภาระค่าครองชีพของประชาชน ยังเป็นการขอความร่วมมือ ไม่ใช่มาตรการบังคับ",
+      "url": "https://www.prachachat.net/economic/news-2103852",
+      "source": "ประชาชาติธุรกิจ",
+      "published_at": "2026-11-28T03:07:10Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวกับค่าครองชีพ แต่เป็นความร่วมมือเชิงขอร้อง"
+    },
+    {
+      "id": "aab9e9f7",
+      "title": "\"สุสานคนเป็น\" สู่ \"โรงพยาบาลแก้หนี้\" BAM ปรับตัวอย่างไร เมื่อหนี้ครัวเรือนไทยสูง",
+      "summary": "บทความนำเสนอการปรับตัวของบริษัท BAM จากการเป็นผู้บริหารสินทรัพย์ด้อยคุณภาพไปสู่การให้บริการแก้ไขหนี้ ท่ามกลางภาวะหนี้ครัวเรือนไทยที่อยู่ในระดับสูง เนื้อหาเป็นการวิเคราะห์ของสื่อธุรกิจ ไม่มีมาตรการภาครัฐที่ระบุชัดเจน",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPaExMN09OOVdUdUhDQ0Y3VThhS0FOTDhiYzA3RnN0b3Q0N0hlaDVXUXd4a3FONlZFU0w0alp6aUlScGpic0pHM1U2X191Y2JnQU1IdjZFQkZGbzg3TlJHV2M4MEhOOE9IS3BwUi1JcjdvX0thOUQ2T0FIVWMwRVg1MWZvQU5PNmlES1UxYjY4YU9QOWt3VUZtUXJWbGFwVTc1NkNsXzEtVWw4OGI4R213TnhkTFlfZy1BU01abnpHYTh2bGRuamJpb3lDckdXYk5OS3Nmb3JWOTQ2X1lIMU5naUpqYTlFR1hmRUhjU3pDNWR4SkFtTDhMUkhlVXlBaVpMVFlzT2dCc1c4bVFHNDlEeEJITFVhSlMxNWQxdGdnMVhEYV9TVGNCakpjTER2S1JNVDNiRU1lajRLOUdQUG5lYjA5ZGppdndkdy13?oc=5",
+      "source": "Smart SME",
+      "published_at": "2026-11-27T08:54:08Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "หนี้ครัวเรือนสูง แต่เป็นการวิเคราะห์เอกชน"
+    },
+    {
+      "id": "a2cbdbb0",
+      "title": "ธนพงษ์ยื่นขอคำวินิจฉัย กกต.ประกันสังคม ปมตัดสิทธิขาดคุณสมบัติ ยันส่งข้อมูลครบตั้งแต่ปี 67",
+      "summary": "นายธนพงษ์ยื่นขอคำวินิจฉัยจาก กกต.ประกันสังคม กรณีถูกตัดสิทธิจากการขาดคุณสมบัติ โดยยืนยันว่าได้ส่งข้อมูลครบถ้วนตั้งแต่ปี 2567",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xUmZkdmZqdlllR2dGSmNOLWFMTUczSkZ6MEowVjRGbFFBejFxWEVhOVFpRmYydldyeGQxOGt2a0lMLU5aZ3ZlN3Q2bERTZUZFMVlUZVNyQk1xcm1OcExOV0JTSjktZW94SjhNN2U1TEh3bU1Z?oc=5",
+      "source": "thestandard.co",
+      "published_at": "2026-11-27T07:48:50Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "ติดตามกรณีร้องเรียนการเลือกตั้งบอร์ดประกันสังคม"
+    },
+    {
+      "id": "ea05af44",
+      "title": "เช็กสิทธิ 1 ธ.ค.นี้ บัตรสวัสดิการแห่งรัฐ ธันวาคม 69 | มุมข่าว",
+      "summary": "เผยแพร่ข่าวเช็กสิทธิบัตรสวัสดิการแห่งรัฐประจำเดือนธันวาคม 2569 โดยระบุวันที่ 1 ธันวาคมนี้ เนื้อหาในข้อมูลที่ให้มาเป็นเพียงหัวข้อ ไม่มีรายละเอียดจำนวนเงินหรือเงื่อนไข",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hU1NSeUsxNWtHaEYwakdMV1NfRUR3WExZWG1hUk9LTEVkSXg2bkxOSEZ1U1JyYWpjOFY3T1RuT2NXLWNHM2NRdUh1Qnpha1BvdUZNT1p3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-27T06:42:05Z",
+      "category": "welfare_card",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 60,
+      "why": "เกี่ยวข้องกับสิทธิบัตรสวัสดิการ แต่ข้อมูลในข่าวมีน้อย"
+    },
+    {
+      "id": "7941a479",
+      "title": "ย้ำตัดสิทธิ ‘ธนพงษ์’ พ้นบอร์ดประกันสังคมใหม่ ไม่เกี่ยวการเมือง-เจ้าตัวยันบริสุทธิ์",
+      "summary": "รายงานระบุว่ามีการยืนยันการตัดสิทธิของนายธนพงษ์ไม่ให้เป็นกรรมการบอร์ดประกันสังคมชุดใหม่ โดยเจ้าตัวยืนยันความบริสุทธิ์ และมีการชี้แจงว่าเรื่องนี้ไม่เกี่ยวข้องกับการเมือง",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTd29BQ0ZhZGQzOUswdEw3bEZOT2pPRGRRMWdseFF1UjRqaTZaRG85QWxncUVHb3pLNjdLYTROYkpDMkJtQTVBTU81cDFlbHUzb2lvZUVPT09qbFlOaUVjblZ1Yw?oc=5",
+      "source": "The Active",
+      "published_at": "2026-11-27T08:19:27Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 58,
+      "why": "ประเด็นติดตามกรณีเดียวกันกับบอร์ดประกันสังคม"
+    },
+    {
+      "id": "f9d478a0",
+      "title": "ศึกษิษฏ์ แนะ ธนพงษ์ เปิดข้อมูลต่อสังคม ชี้ทำไมคราวก่อนได้นั่งบอร์ดประกันสังคม",
+      "summary": "นายศึกษิษฏ์ ศรีจอมขวัญ โพสต์เฟซบุ๊กแนะนายธนพงษ์ เชื้อเมืองพาน ให้เปิดเผยข้อมูลต่อสังคม หลังสำนักงานประกันสังคมส่งเอกสารให้แล้ว และชี้แจงเหตุผลการได้รับตำแหน่งบอร์ดประกันสังคมในครั้งก่อน เมื่อวันที่ 28 พ.ย. 2569",
+      "url": "https://www.khaosod.co.th/politics/news_10487104",
+      "source": "ข่าวสด",
+      "published_at": "2026-11-28T07:43:48Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับบอร์ดประกันสังคม แต่เป็นประเด็นการเมืองและการโต้ตอบ"
+    },
+    {
+      "id": "b95f75d5",
+      "title": "\"ทนายเดชา\" ชี้ผิดคือผิด อย่าแถ ใช้พวกมากลากไป!! แจง ผู้สมัครบอร์ดประกันสังคม โดนคดีลักทรัพย์ มีคำพิพากษาชัดเจน ไม่สมควรเป็นตัวแทนสาธารณะ ดูแลเงินเป็นล้านล้านบาท!!",
+      "summary": "ทนายเดชาแสดงความเห็นว่าผู้สมัครเป็นกรรมการบอร์ดประกันสังคมที่เคยถูกตัดสินคดีลักทรัพย์ไม่เหมาะสมที่จะเป็นตัวแทนสาธารณะ โดยระบุว่าบอร์ดดูแลเงินกองทุนจำนวนหลายล้านล้านบาท",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UN1FXZWVSS3dwb3dYLTBGOWpHWDdxRjVVNHUtbmk3d1NpcEVmb0ZvZWZDODYtZDJzRldkNEFVbXNKWjZZdkdKaE9VOWkyTjA?oc=5",
+      "source": "topnews.co.th",
+      "published_at": "2026-11-28T06:41:39Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับกองทุนประกันสังคม แต่เป็นความเห็นและการโต้ตอบทางการเมือง"
+    },
+    {
+      "id": "c935fc6b",
+      "title": "“พงศกร” ชี้เหตุระเบิดคลังน้ำมันย่านพระโขนง บางนา รัฐ-กทม. ยังเงียบเรื่องการเยียวยา",
+      "summary": "โฆษกพรรคประชาธิปัตย์ ตั้งข้อสังเกตว่ารัฐและกรุงเทพมหานครยังไม่มีการเยียวยาให้ชาวบ้านในพื้นที่ที่เกิดเหตุระเบิดคลังน้ำมันย่านพระโขนงและบางนา และเรียกร้องให้มีบทลงโทษ ข่าวนี้เป็นความเห็นของฝ่ายค้าน",
+      "url": "https://www.thairath.co.th/news/politic/2975134",
+      "source": "ไทยรัฐ",
+      "published_at": "2026-11-28T05:57:20Z",
+      "category": "disaster",
+      "provinces": [
+        "กรุงเทพมหานคร"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับการเยียวยาผู้ประสบเหตุ แต่เป็นความเห็นทางการเมือง"
+    },
+    {
+      "id": "d2eda72b",
+      "title": "สภาพอากาศสุดขั้ว ดันราคาอาหารพุ่งทั่วโลก กระทบทั้งค่าครองชีพ และสุขภาพ",
+      "summary": "รายงานข่าวระบุว่าสภาพอากาศที่รุนแรงผิดปกติทำให้ราคาอาหารเพิ่มสูงขึ้นในหลายประเทศทั่วโลก ส่งผลกระทบต่อค่าครองชีพและสุขภาพ ข่าวนี้มีเนื้อหาทั่วไประดับโลกและไม่มีตัวเลขหรือมาตรการภาครัฐไทยที่ระบุ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1scjVFem4xVHBfYlZJSHlKeXU2RGVyZThxUzN4RFdnS2hnRzAxWkU2UEV3eG1ja3ZVbllsbXNUY3B3d0VlZjM3QmlLQXc1WFZEQkdz?oc=5",
+      "source": "TNN Thailand",
+      "published_at": "2026-11-28T04:45:26Z",
+      "category": "cost_of_living",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ค่าครองชีพ แต่เป็นภาพรวมระดับโลก"
+    },
+    {
+      "id": "2b0fa034",
+      "title": "มูลนิธิเพื่อเด็กพิการ-สปสช. แนะนำ ‘สื่อสำหรับคนพิการ’ ช่วยเพิ่มการเข้าถึง ‘สิทธิบัตรทอง’",
+      "summary": "มูลนิธิเพื่อเด็กพิการและ สปสช. แนะนำการใช้สื่อที่เข้าถึงได้สำหรับคนพิการ เพื่อเพิ่มการเข้าถึงสิทธิบัตรทอง ข่าวนี้เป็นข้อเสนอแนะด้านการสื่อสาร ไม่มีมาตรการใหม่หรือจำนวนเงินระบุไว้",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWXNzcWR2c0xRenB2b3paYXpVSDhyOElPdkROcGFuUU81SDVkelJDdlctZkJ5blJEaUVUX0ZVYWJITDRrbzNtYkozQUNWWXlYU1dOLUx5dTlFVXc?oc=5",
+      "source": "The Coverage",
+      "published_at": "2026-11-28T03:12:00Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวกับการเข้าถึงสิทธิของคนพิการ เป็นข้อเสนอแนะ"
+    },
+    {
+      "id": "6b0fca80",
+      "title": "สปส. ยันส่งเอกสารครบให้ “ธนพงษ์” แล้ว ทั้งอีเมล-ไลน์ แจง 5 รายการ หลังถูกตัดสิทธิ์บอร์ดประกันสังคม",
+      "summary": "สำนักงานประกันสังคม (สปส.) ยืนยันว่าได้ส่งเอกสารครบถ้วนให้นายธนพงษ์แล้วทางอีเมลและไลน์ พร้อมชี้แจง 5 รายการ หลังถูกตัดสิทธิ์จากบอร์ดประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MLW01Zm5ocGUwc19iQlA4UmhlcmwtN2ZkSk9xYVk2OURrUkQxNTdiMnI2MHhhWnBENnVKWHhvS01TWXMyU25LZHkwQVEwOURvTndBMUl3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-11-28T02:03:49Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับระบบประกันสังคม แต่เป็นประเด็นภายในองค์กรเป็นหลัก"
+    },
+    {
+      "id": "fce141b6",
+      "title": "\"คลินิกชุมชนอบอุ่น\" ร้อง กมธ.การสาธารณสุข สอบงบ สปสช. ปี 68 ตั้งปมโยกงบข้ามปี 1.28 หมื่นล้าน",
+      "summary": "คลินิกชุมชนอบอุ่นร้องเรียนต่อคณะกรรมาธิการการสาธารณสุข ขอให้ตรวจสอบงบประมาณของ สปสช. ปี 2568 โดยตั้งประเด็นการโยกงบประมาณข้ามปีวงเงิน 1.28 หมื่นล้านบาท ข้อมูลเพิ่มเติมจากเนื้อหาข่าวยังไม่ระบุ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1leHZ5ZE9zbDJFQ1VNekhCY2hUdGM1UGxtWkwxYUxaSFlRRWJKQXI3QVlCdFhpS0dPWVhjVXVzeEFHU056SlkyWk16UWRydGRwdzZwc3NQYw?oc=5",
+      "source": "Hfocus.org",
+      "published_at": "2026-11-27T08:56:33Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "เกี่ยวข้องกับงบสุขภาพ แต่เป็นประเด็นร้องเรียนเชิงการเมือง"
+    },
+    {
+      "id": "0800728b",
+      "title": "สำนักข่าวไอเอ็นเอ็น : innnews. . สปส.ตัดสิทธิผู้ชนะ 9 แสนเสียง! ผู้ประกันตนถาม คะแนนประชาชนอยู่ตรงไหน? : 27-11-69 | คลิปเด็ด #สปส. #เลือกตั้งบอร์ดประกันสังคม #ตัดสิทธิบอร์ด #ผู้ประกันตน #innnews **อย่าลืม! กดถูกใจ กดติดตาม กดติดดาว เพจด้วยนะ จะได้ไม่พลาดโพสต์ของสำนัก",
+      "summary": "สำนักข่าวไอเอ็นเอ็นรายงานกรณี สปส. ตัดสิทธิผู้ชนะการเลือกตั้งบอร์ดประกันสังคมซึ่งได้คะแนนเสียงประมาณ 9 แสนเสียง โดยผู้ประกันตนตั้งคำถามถึงที่มาของคะแนนเสียงประชาชน เนื้อหาเป็นคลิปข่าวสั้นบนเฟซบุ๊ก",
+      "url": "https://news.google.com/rss/articles/CBMikgdBVV95cUxOcmpXWXVueGR6ME01X2lZUnowblVnLVNJM1dCc21GejJRdHltREs3bWpFejFqeGZyNzVyYURUSjdsYU93OXdjWE5xU1VHRTcyT1J0SldlOXV5c3lHWjhpOWc1cEdVcXVYdHVNWmJvWVJXZUNETWFvREswRDdkcThUbktXOG5sSjk0VU9VWHlxckp5ZzZkNmd0cmlVVmVPa1V1V2FzVHVENFhKQS1JMmgwdVA0QTNFeFFnVmVLUmVORV9HVnV2aFJJRldHOEVOT0UtblJpdEFLVkZkMVIwaHd1UHkwTHBpdm9kaFQ5dHVlTjhUUWZ4QXNIM1lYc3N6MUJTaFIxQWRXamxLbnc1X0E0TFZFTTRicjExZndPRHVhaVJUTE5vNUwtVXd3RHVwOVc3MUd2SFpMSzRGQnljd2pTN0w0ZjU2R1lWd0thcDdUZ0ZXMFZJdUVhYWw1ajR2NHQ3b0VlbmFpSEtFbzlES096bklpT3J3WTBBNDBZRmRIOGczb3RMOW00V2tZUlA0dVJrR0dGN2RDejBHdWl6QW91VUl6QkdKaUZyOC1naDE0aU1kZVNQcjctbHBXUTJXZWFnZ1N2d0xBaDlCenZEUGVnZnp4Z3dLTmNUTHdpLXRCbGs3Mk5MMUQ4NkxNUS1GbzR4NmxVWjVCcHZCS1dJQkRlcVRIb1FVUjhfQ3lZOFdkZ1FQWmZ5TzhXNGE0ZGc5MHJmTjYzUEpvU2J0V0k3SFZ0WEtISU41NkZfVE5iLXVxb2JlM1FYMnJYY0x1NE5aS2ptRGtTSHJmQW1xQmpxSWplWDhlbGJrX2l0ZXMxQ0I0QmJZRjBNNnlPeXBqcUJ5VF9MUHF0eTFuRlZzZFYyeTJBcF9CaFRtUU9pVWhURi1BUW5KZ2hyNjAtemNVQ05oS0FOd1A3b2RrZmFZNlZDalQwTHVwVFJQM2pPRm9kNUt6VXRldGJBbXQ1T29kS0FHcm1rLVluekMxZzZ0cnNzRVdRVnhLM3dNVmVpdzZtLTQ0ZldveWtvcHJUTzh0V1JkMGxGMHJVUTViZC05c2FxbjZMUHBBOFFpd0xvMWlnVDM1WDlCTTljeHJZdVg1OTAyUE41d19reElEOW5WdmRTVjgzX25xdDM4OXlhVWo4OG9ueldTQUNfYlBPUnMxUFhFTXNpdjhLNzMtcU02NlVDRWM5cDBhWE1ZVkJiUE85TGZMZG9JUQ?oc=5",
+      "source": "Facebook",
+      "published_at": "2026-11-27T07:00:46Z",
+      "category": "employment",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 55,
+      "why": "ประเด็นติดตามผลกระทบต่อผู้ประกันตน แต่เป็นการนำเสนอเชิงคลิป"
+    },
+    {
+      "id": "01d72de7",
+      "title": "ยศชนัน เดินหน้าต่อยอด Art for All ผสานศิลปะ-เทคโนโลยี สร้างโอกาสและอาชีพคนพิการ",
+      "summary": "ยศชนัน เดินหน้าต่อยอดโครงการ Art for All ที่ผสานศิลปะและเทคโนโลยีเพื่อสร้างโอกาสและอาชีพให้แก่คนพิการ",
+      "url": "https://www.matichon.co.th/local/education/news_5994019",
+      "source": "มติชน",
+      "published_at": "2026-11-28T08:05:14Z",
+      "category": "disability",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 52,
+      "why": "เกี่ยวข้องกับการสร้างอาชีพคนพิการ แต่เป็นข่าวความคืบหน้าโครงการขนาดเล็ก"
+    },
+    {
+      "id": "bac65f84",
+      "title": "'ประกันสังคมก้าวหน้า' กางไทม์ไลน์ ปม 'ธนพงษ์ ' ถูกตัดสิทธิ ยันไม่เคยมีการปิดบัง พร้อมให้คำชี้แจงตลอด",
+      "summary": "กลุ่มประกันสังคมก้าวหน้าเผยแพร่ไทม์ไลน์กรณีนายธนพงษ์ถูกตัดสิทธิ์ โดยยืนยันว่าไม่เคยมีการปิดบังข้อมูลและพร้อมให้คำชี้แจงตลอดเวลา",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zMzFlSEwyNmpPaTVzUzZHY0k0TjN6UTNuSE14V3BqXzQ2MlJ0WF9IajRHMmdrRVRqQVpneDBib2c4RW5TbTd2WEVrcjRySDZ3RGFvam1BQQ?oc=5",
+      "source": "แนวหน้า",
+      "published_at": "2026-11-28T02:23:28Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวข้องกับประกันสังคม แต่เป็นประเด็นการเมืองภายในบอร์ด"
+    },
+    {
+      "id": "0c28c155",
+      "title": "‘สมาคมปลูกถ่ายอวัยวะฯ-สภากาชาดไทย-สปสช.’ ลงนาม MOU นำร่องพัฒนา ‘ระบบข้อมูลบำบัดทดแทนไต’",
+      "summary": "สมาคมปลูกถ่ายอวัยวะแห่งประเทศไทย ศูนย์รับบริจาคอวัยวะ สภากาชาดไทย และ สปสช. ลงนามบันทึกความร่วมมือนำร่องพัฒนาระบบข้อมูลบำบัดทดแทนไต เชื่อมข้อมูลผู้บริจาค ผู้รอรับไต และค่าใช้จ่ายในระบบบัตรทอง มีแผนขยายบริการเพื่อให้ผู้ป่วยเข้าถึงการรักษาได้เร็วขึ้น",
+      "url": "https://www.hfocus.org/content/2026/11/40435",
+      "source": "Hfocus",
+      "published_at": "2026-11-27T10:50:35Z",
+      "category": "health",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 50,
+      "why": "เกี่ยวกับระบบบัตรทอง แต่เป็นการพัฒนาระบบระดับวิชาชีพ"
+    },
+    {
+      "id": "bb2d59ca",
+      "title": "ศึกษิษฏ์ แนะ ‘ธนพงษ์’ เปิดเอกสารประกันสังคมแจง ย้ำคุยบนข้อเท็จจริงไม่ใช่ความรู้สึก",
+      "summary": "นายศึกษิษฏ์โพสต์แนะนำให้นายธนพงษ์เปิดเอกสารประกันสังคมเพื่อชี้แจงข้อเท็จจริง พร้อมย้ำให้ยึดข้อเท็จจริงมากกว่าความรู้สึก เป็นการแสดงความเห็นต่อประเด็นการพ้นตำแหน่งบอร์ดประกันสังคม",
+      "url": "https://www.matichon.co.th/politics/news_5993823",
+      "source": "มติชน",
+      "published_at": "2026-11-28T05:45:57Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ความเห็นต่อประเด็นบอร์ดประกันสังคม"
+    },
+    {
+      "id": "cd836349",
+      "title": "ผู้ทรงคุณวุฒิบอร์ดประกันสังคม มีอำนาจแค่ไหน มีสิทธิโหวตหรือไม่",
+      "summary": "บทความอธิบายอำนาจหน้าที่และสิทธิการลงคะแนนของผู้ทรงคุณวุฒิในบอร์ดประกันสังคม ให้ข้อมูลเชิงอธิบายด้านโครงสร้างการบริหารกองทุนประกันสังคม",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncjNhUzk5cG5HOXUzWDBMdmhDUEdyWVF0QTdpWk5DWUJrcmc0ZHdQQUE2WUlKQ0pqYWl6eHBjaDk5VEJOSWJqSjVPbFlvYkdGdHJYSmdMTHNFV1XSAWBBVV95cUxQY3Z6N0h4Z1BqUWc1dG84dGRCUlNEeGc5WmlOZzUxWS1sUHZwSTc4S0VaMEE0TXRIWHJsQTlOWUxNZFp5TElqSkNSSndVcXpNa3g3NDdBcERRTHhQRVBnWG8?oc=5",
+      "source": "BBC",
+      "published_at": "2026-11-27T13:24:31Z",
+      "category": "other",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "ข้อมูลเชิงอธิบายโครงสร้างกองทุน ไม่มีมาตรการโดยตรง"
+    },
+    {
+      "id": "67f0a993",
+      "title": "ธ.ก.ส. เปิดให้บริการสินเชื่อเพื่อเกษตรกรและประชาชน ผ่านเพจ ธนพร ฟรีค่าบริการ",
+      "summary": "มีรายงานว่าธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.) เปิดให้บริการสินเชื่อแก่เกษตรกรและประชาชนผ่านเพจ ธนพร โดยไม่มีค่าบริการ ทั้งนี้ข้อมูลมาจากศูนย์ต่อต้านข่าวปลอม ซึ่งควรตรวจสอบความถูกต้องกับ ธ.ก.ส. โดยตรงก่อนเผยแพร่",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XdkRxVWJwbGJQWlp6Z0ZqVDB0UVFLaHdESC1YR3padDk5MmdNN2lpT0NzYzlBcU1hMzR5M3d2T2NXY0J6OVU2cE1OR3BobTlZXzlDZWNMMU1DSWZMaFV6MWRvQTZGX0o2NnR1RQ?oc=5",
+      "source": "ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+      "published_at": "2026-11-27T07:00:57Z",
+      "category": "debt",
+      "provinces": [
+        "ทั่วประเทศ"
+      ],
+      "eastern": false,
+      "score": 45,
+      "why": "เกี่ยวข้องกับสินเชื่อเกษตรกร แต่เนื้อหาสั้นและมีประเด็นความน่าเชื่อถือ"
+    }
+  ]
+}
